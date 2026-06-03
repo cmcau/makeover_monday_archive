@@ -1,0 +1,122 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018-w-5-what-the-most-profitable-companies-make-per-second",
+  "title": "2018/W5: What the Most Profitable Companies Make per Second",
+  "description": "What the Most Profitable Companies Make per Second",
+  "summary": "# **Original Visualization**\n![](https://trimydatacom.files.wordpress.com/2018/01/img_2443.jpg)\n\n# **About this Dataset**\nDATA SOURCE: [TitleMax](https://www.titlemax.com/discovery-center/money-finance/most-profitable-companies/)\n\nAUTHOR: [TitleMax](https://twitter.com/titlemax)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "117b700b-38ea-4c9c-b44e-9ed5455a3628",
+  "tags": [
+    "profit",
+    "corporate",
+    "makeover monday"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "What the Most Profitable Companies Make per Second.xlsx",
+      "sizeInBytes": 9752,
+      "created": "2018-01-27T11:33:27.589Z",
+      "updated": "2018-01-27T11:33:27.589Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-01-27T10:47:50.594Z",
+  "updated": "2018-01-30T15:42:41.670Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w25-amazons-tiny-profits-explained",
+      "title": "2020/W25: Amazon’s tiny profits, explained",
+      "description": "Amazon’s tiny profits, explained",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-20-at-20.41.48.png](https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-20-at-20.41.48.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Amazon’s tiny profits, explained](https://www.vox.com/recode/2019/8/21/20826405/amazons-profits-revenue-free-cash-flow-explained-charts)\nDATA SOURCE: [macrotrends.net](https://www.macrotrends.net/stocks/charts/AMZN/amazon/gross-profit)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "amazon",
+        "time series",
+        "revenue",
+        "profit"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w33-anthony-bourdains-travels",
+      "title": "2018/W33: Anthony Bourdain’s Travels",
+      "description": "Anthony Bourdain’s Travels",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://pbs.twimg.com/media/DfXwFO1V4AAn1CM.jpg)\n\n# **About this Dataset**\n* IMAGE SOURCE: [Christine Zhang (Twitter)](https://twitter.com/christinezhang/status/1005974583206449152)\n* DATA SOURCE: [Christine Zhang (Github)](https://t.co/vS7TIWUcQa)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "anthony bourdain",
+        "travel",
+        "makeover monday",
+        "television",
+        "reality tv",
+        "tv",
+        "christine zhang"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-1-u-s-per-capita-consumption-of-poultry-livestock",
+      "title": "2018/W1: U.S. Per Capita Consumption of Poultry & Livestock",
+      "description": "U.S. Per Capita Consumption of Poultry and Livestock",
+      "summary": "# **Original Visualization**\n![US per capita consumption of poultry and livestock](https://www.theatlas.com/i/atlas_SkwA7QzL.png)\n\nSOURCE: [The Atlas](https://www.theatlas.com/charts/SkwA7QzL)\n\n# **About this Dataset**\nSOURCE: [National Chicken Council](http://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chicken",
+        "pork",
+        "beef",
+        "poultry",
+        "consumption",
+        "per capita",
+        "united states",
+        "usa",
+        "us",
+        "national chicken council"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w27-rat-sightings-in-new-york-city",
+      "title": "2018/W27: Rat Sightings in New York City",
+      "description": "Rat Sightings in New York City",
+      "summary": "# **Original Visualization**\n![](http://i.imgur.com/5jk5L8f.png)\n\nCREATED BY: [Jowanza Joseph](https://twitter.com/Jowanza)\n\nSOURCE ARTICLE: [Link](https://www.jowanza.com/blog/rat-sightings-in-new-york-city-revisited)\n\n\n# **About this Dataset**\n\nDATA SOURCE: [NYC Open Data](https://nycopendata.socrata.com/Social-Services/Rat-Sightings/3q43-55fe/data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "rats"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-uks-favorite-chocolate-bar",
+      "title": "2018/W13: What is the UK's favorite chocolate bar?",
+      "description": "What is the UK's favorite chocolate bar?",
+      "summary": "The Easter Bunny is coming this week, so let's have a great debate! What is the UK's favorite chocolate? \n\n# **Original Visualization**\n![Image](https://media.data.world/VKLPxYYFRyUeeoCc6Jgj_Screen%20Shot%202018-03-25%20at%2010.32.12%20am.png)\n\n# **About this Dataset**\nSOURCE: [CDA](https://www.cda.eu/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chocolate",
+        "united kingdom",
+        "uk"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
