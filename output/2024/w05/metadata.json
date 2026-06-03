@@ -1,0 +1,113 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w5-the-cheapest-countries-to-study-in-europe-in-2023",
+  "title": "2024/W5: The Cheapest Countries to Study in Europe in 2023",
+  "description": "Yearly costs to study in select European countries (£)",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/uploaded%2F00000-4a0584625f624b8d8589391bd9c813a1.png)\n\n​\n\n​\n\nDatasource : [Finder 2023](https://www.finder.com/uk/cheapest-countries-to-study-europe)\nArticle : [The Cheapest Countries to Study in Europe in 2023](https://www.finder.com/uk/cheapest-countries-to-study-europe)",
+  "version": "5c4ba944-7",
+  "tags": [
+    "makeover monday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "cheapest_countries_to_study_Europe_2023.xlsx",
+      "sizeInBytes": 5931,
+      "created": "2024-01-28T11:21:46.971781164Z",
+      "updated": "2024-01-30T10:03:43.254504632Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-01-28T11:20:28.763339215Z",
+  "updated": "2024-01-30T10:03:43.254690104Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w8",
+      "title": "2023/W8: The Cheapest Ways to Get Your Protein",
+      "description": "The Cheapest Ways to Get Your Protein",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3db73ff8f29a47292ba311c8b22a01128824a50ed28c88e06d079697861be225_image.png)\n\n​\n\n## **Resources**\nArticle/Data Source: [LifeHacker](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)\n\nVisualization: [The Bodybuilding Dietitians](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)",
+      "tags": [
+        "makeover monday",
+        "food",
+        "protein",
+        "cost"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w5",
+      "title": "2023/W5: NYC Pizza Slices",
+      "description": "The cost of pizza slices in New York City",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5ff1b511714c125421488192110e1ec4ee7bac8e5ecacd07af8c1af5a9f4d796_CleanShot_2023_01_14_at_10.33.51_2x.png)\n\n​\n\n## **Resources**\nSource: [NYC pizza slices](https://elkue.com/nyc-slice/) (via Data Is Plural)\nData Source: [Liam Quigley](https://elkue.com/) | [Data](https://docs.google.com/spreadsheets/d/1EY3oi9ttxybG0A0Obtwey6BFu7QLqdHe02JApijgztg/edit)\n\n​",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "nyc",
+        "new york city",
+        "food",
+        "pizza",
+        "ratings",
+        "location",
+        "slice",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "life-expectancy-by-country-in-2025",
+      "title": "2025/W26 Life Expectancy by Country in 2025",
+      "description": "How Long People Live, by Country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-1fbb4b99e69049daa27b90994a38fe56.png)\n\n​\n\nDatasource : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\nArticle : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\n​",
+      "tags": [
+        "makeovermonday",
+        "life expectancy"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w6-world-population-2023",
+      "title": "2024/W6: World Population 2023",
+      "description": "World population data ( 2023 )",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n​\n\n​\n\n![](https://mediauploads-US.data.world/uploaded%2F00000-c15f7ea36d8d4785a0a375b4c1b9adfc.png)\n\nThis list includes both **countries** and **dependent territories**. Data based on the latest _United Nations Population Division_ estimates.\nClick on the name of the country or dependency for current estimates (live population clock), historical data, and projected figures.\n\nArticle: https://www.worldometers.info/world-population/population-by-country/\n\nSource: _July 2023-July 2024 estimates from the_ [2022 U.N. Revision](https://population.un.org/wpp/)\n\n​",
+      "tags": [
+        "population"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "the-worlds-highest-paid-athletes-in-2023",
+      "title": "2024/W4: Forbes Highest Paid Athletes in 2023",
+      "description": "Ranking the Top 50 Athletes by Earnings in 2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/60b5775be62e709711c7132e903859fc2c2548a4ebf49a95972151206845498e_image.png)\n\n​\n\nDatasource :  [forbes.com](https://www.forbes.com/lists/athletes/?sh=69bf004f5b7e)\nArticle : [The World's Highest-Paid Athletes 2023 (forbes.com)](https://www.forbes.com/lists/athletes/?sh=69bf004f5b7e)",
+      "tags": [
+        "forbes",
+        "sports",
+        "top 50",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
