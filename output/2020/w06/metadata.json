@@ -1,0 +1,124 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w6",
+  "title": "2020/W6: How much of your life the US has been at war",
+  "description": "How much of your life the US has been at war",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4A5YOKSYL5C4TNCAO6CPQDQL4U.png&w=1440)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Nearly a quarter of Americans have never experienced the U.S. in a time of peace](https://www.washingtonpost.com/politics/2020/01/08/nearly-quarter-americans-have-never-experienced-us-time-peace/)\nDATA SOURCE: [Washington Post](https://www.washingtonpost.com/politics/2020/01/08/nearly-quarter-americans-have-never-experienced-us-time-peace/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+  "version": "bbdd755c-fd3c-403a-8b47-9e3a6f68a213",
+  "tags": [
+    "usa",
+    "washington post",
+    "pie charts"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US life at war.xlsx",
+      "sizeInBytes": 10595,
+      "created": "2020-02-10T16:38:13.546Z",
+      "updated": "2020-02-10T16:38:13.546Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-02-08T22:23:48.627Z",
+  "updated": "2020-02-10T16:38:13.547Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w29",
+      "title": "2019/W29: Share of Americans Not Having Sex",
+      "description": "The share of Americans not having sex has reached a record high",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/OntaCUBdQkuspoAphzgv\\_MM.png](https://media.data.world/OntaCUBdQkuspoAphzgv_MM.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Washington Post](https://www.washingtonpost.com/business/2019/03/29/share-americans-not-having-sex-has-reached-record-high/)\nDATA SOURCE: [General Social Survey](https://gssdataexplorer.norc.org/variables/5057/vshow)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "sex",
+        "washington post",
+        "time series",
+        "year",
+        "line chart",
+        "frequency"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w23",
+      "title": "2019/W23: Sleepless in America?",
+      "description": "The American Time Use Survey tracks how much Americans sleep by gender and age.",
+      "summary": "# **Original Visualization**\n![https://www.bls.gov/tus/charts/chart16.jpg](https://www.bls.gov/tus/charts/chart16.jpg)\n\n# **About this Dataset**\nIMAGE SOURCE: [American Time Use Survey](https://www.bls.gov/tus/charts/sleep.htm)\nDATA SOURCE: [American Time Use Survey](https://www.bls.gov/tus/database.htm)\n\n#### **ADDITIONAL RESOURCES**\n\n1. [The Connection between Sleep and Autoimmune Disease](https://www.nutritionaltherapyconference.com/wp-content/uploads/2016/04/NTA2016-Conference-Talk.pdf) - Sarah Ballantyne, PhD\n2. [National Sleep Foundation](https://www.sleepfoundation.org/)\n3. [Drowsy Driving](https://www.nhtsa.gov/risky-driving/drowsy-driving) - National Highway Traffic Safety Adminstration\n4. [Acute Sleep Deprivation and Risk of Motor Vehicle Crash Involvement](https://aaafoundation.org/acute-sleep-deprivation-risk-motor-vehicle-crash-involvement/) - AAA Foundation for Traffic Safety\n5. [Richard Smith: _Why We Sleep_ (Matthew Walker) book review](https://blogs.bmj.com/bmj/2018/06/20/richard-smith-why-we-sleep-one-of-those-rare-books-that-changes-your-worldview-and-should-change-society-and-medicine/) - the bmj opinion\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "sleep",
+        "america",
+        "united states",
+        "american time use survey",
+        "atus",
+        "gender",
+        "age",
+        "sex",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w40-the-us-cities-with-the-highest-economic-output",
+      "title": "2020/W40: The U.S. Counties With the Highest Economic Output",
+      "description": "The U.S. Counties With the Highest Economic Output",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.visualcapitalist.com/wp-content/uploads/2020/09/us-metro-areas-by-gdp.jpg](https://www.visualcapitalist.com/wp-content/uploads/2020/09/us-metro-areas-by-gdp.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [3D Map: The U.S. Cities With the Highest Economic Output](https://www.visualcapitalist.com/3d-map-the-u-s-cities-with-the-highest-economic-output/)\nDATA SOURCE: [BEA.gov](https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas)\n\n# **#MakeoverMonday Live TC20 Session Links**\nMORNING SESSION (5th October 2020 at 08:00 GMT): [https://www.youtube.com/watch?v=dR5mpiHs-sU](https://www.youtube.com/watch?v=dR5mpiHs-sU)\n\nAFTERNOON SESSION (5th October 2020 at 17:00 GMT): [https://www.youtube.com/watch?v=LPUksl37H70](https://www.youtube.com/watch?v=LPUksl37H70)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "economy"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w31-uk-visits-abroad",
+      "title": "2020/W31: UK visits abroad",
+      "description": "UK visits abroad",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/08/screenshot-2020-08-01-at-16.06.31.png](https://learningtableaublog.files.wordpress.com/2020/08/screenshot-2020-08-01-at-16.06.31.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [UK visits abroad: All visits Thousands - SA](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/timeseries/gmax/ott)\nDATA SOURCE: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/timeseries/gmax/ott)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* We ALL know the reason why visits have dropped in the current climate, but don't focus on that - what patterns can you find beyond the overall upward trend?",
+      "tags": [
+        "time series",
+        "uk"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
