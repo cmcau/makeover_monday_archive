@@ -1,0 +1,93 @@
+{
+  "owner": "makeovermonday",
+  "id": "week-44-2025-wwii-veteran-statistics",
+  "title": "week 44/ 2025 WWII Veteran Statistics",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-ec267b8a9f62466bbfef195764b30b13.png)\n\ndatasource: [https://www.nationalww2museum.org/war/wwii-veteran-statistics](https://www.nationalww2museum.org/war/wwii-veteran-statistics)",
+  "version": "39b0a58b-5",
+  "tags": [
+    "veteran"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Living_WWII_Veterans_by_State_2025.csv",
+      "sizeInBytes": 780,
+      "created": "2025-11-10T22:18:32.551497639Z",
+      "updated": "2025-11-10T22:18:32.551497639Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-11-10T22:18:19.116491860Z",
+  "updated": "2025-11-10T22:20:49.820118751Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-1-technological-change",
+      "title": "2025/ week 1 Technological change",
+      "description": "Storage",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata: ourworld in data\n\nhttps://ourworldindata.org/technological-change\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-8ee90da5ba6149fbbcb466693866609f.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-3-current-and-preferred-work-arrangements",
+      "title": "2025/ week 3  Current and Preferred Work Arrangements",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nData source: https://www.datavisualizationsociety.org/\n\n![](https://mediauploads-US.data.world/00000-idiomind-4955803e0f27485686bc93f89896b458.png)\n\n",
+      "tags": [
+        "work",
+        "work arragement",
+        "remote"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-w48-christmasgiftsdesirabilityusuk2024",
+      "title": "2024/ w48 Christmas_Gifts_Desirability_US_UK_2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nChristmas: https://www.statista.com/statistics/1084794/christmas-gifts-desired-by-uk-consumers/\n\n![](https://mediauploads-US.data.world/00000-idiomind-a0017270bb5c4af5918620582c5891e0.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-050bbb79ae1e409fba750394c46356f3.png)\n\n",
+      "tags": [
+        "christmas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "week-27-what-to-watch-in-2024-energy",
+      "title": "Week 27 / The history of global natural gas production",
+      "description": "The history of global natural gas production",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle: [https://visualizingenergy.org/the-history-of-global-natural-gas-produ](https://visualizingenergy.org/the-history-of-global-natural-gas-production/)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Post your alternative on the discussions page.\n​\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-28e63c3b134d4aedaceddafd5d69ab22.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-077110330bc04007ae7c7db50ab1fce5.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-13-work-productivity",
+      "title": "2025/ week 13  Work Productivity",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata : https://www.activtrak.com/resources/benchmarks/productivity-benchmarks-cross-industry/\n\nSource: Activtrak\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-50bc4b8645be45b3a68ee133cfc16ba0.png)\n\n",
+      "tags": [
+        "productivity",
+        "work",
+        "industry"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
