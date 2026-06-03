@@ -1,0 +1,122 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w15-arctic-sea-ice-extent",
+  "title": "2018/W15: Arctic Sea Ice Extent",
+  "description": "Arctic Sea Ice Extent",
+  "summary": "# **Original Visualization**\n![Arctic Sea Ice Extent.png](https://media.data.world/kGQkaedESxureoL4oUcE_Arctic%20Sea%20Ice%20Extent.png)\n\n# **About this Dataset**\nSOURCE: [National Snow & Ice Data Center](https://nsidc.org/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "e78df15a-3005-4e4a-a5eb-351932911faf",
+  "tags": [
+    "makeover monday",
+    "arctic",
+    "sea ice",
+    "global warming",
+    "ocean",
+    "water",
+    "temperature"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Arctic Sea Ice Extent.xlsx",
+      "sizeInBytes": 232920,
+      "created": "2018-04-08T09:54:17.034Z",
+      "updated": "2018-04-08T09:54:17.034Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-04-08T09:54:16.741Z",
+  "updated": "2018-04-08T09:58:08.596Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w30",
+      "title": "2023/W30: Daily sea ice extent",
+      "description": "Daily sea ice extent",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/09dfa7c1a6fa6b044605409a3799481fbc2b78af60f2dee144a13d30f9c636db_CleanShot_2023_07_24_at_3.18.31_2x.png)\n\n​\n\n# Resources\nArticle: [Daily Sea Ice Extent](https://www.theguardian.com/environment/datablog/2023/jul/20/the-climate-crisis-in-four-charts-extreme-weather-heatwaves?CMP=Share_iOSApp_Other)\nData Source: [National Snow & Ice Data Center](https://nsidc.org/data/seaice_index/data-and-image-archive)\n\n​",
+      "tags": [
+        "makeover monday",
+        "climate change",
+        "sea ice",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w9-world-economic-freedom",
+      "title": "2018/W9: World Economic Freedom",
+      "description": "World Economic Freedom: 1970-2015",
+      "summary": "![MM9 2018.png](https://media.data.world/A8V9pbrTSZqxLUYwLg9n_MM9%202018.png)\n\n# **About this Dataset**\nSOURCE: [Fraser Institute](https://www.fraserinstitute.org/economic-freedom/dataset)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economics",
+        "fraser institute",
+        "makeover monday",
+        "filled map"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-uks-favorite-chocolate-bar",
+      "title": "2018/W13: What is the UK's favorite chocolate bar?",
+      "description": "What is the UK's favorite chocolate bar?",
+      "summary": "The Easter Bunny is coming this week, so let's have a great debate! What is the UK's favorite chocolate? \n\n# **Original Visualization**\n![Image](https://media.data.world/VKLPxYYFRyUeeoCc6Jgj_Screen%20Shot%202018-03-25%20at%2010.32.12%20am.png)\n\n# **About this Dataset**\nSOURCE: [CDA](https://www.cda.eu/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chocolate",
+        "united kingdom",
+        "uk"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
