@@ -1,0 +1,108 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w46",
+  "title": "2019/W46: Youth & adult literacy rates",
+  "description": "Youth & adult literacy rates",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Dashboard.png](https://media.data.world/BvJMqfmbTvq2C911Jovs_Dashboard.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [UNESCO](http://tcg.uis.unesco.org/4-6-2-youth-adult-literacy-rate/)\nDATA SOURCE: [UNESCO SDG4](http://data.uis.unesco.org/index.aspx?queryid=3482)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+  "version": "f1440c11-9142-4c9c-8cb9-9249c96de976",
+  "tags": [
+    "literacy rates"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Literacy rates (no pw2).xlsx",
+      "sizeInBytes": 179913,
+      "created": "2019-11-10T21:51:50.301Z",
+      "updated": "2019-11-10T21:51:50.301Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-11-10T21:51:38.349Z",
+  "updated": "2019-11-12T21:30:59.892Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w32-what-countries-spend-on-research-development",
+      "title": "2018/W32: What Countries Spend on Research & Development",
+      "description": "What Countries Spend on Research & Development",
+      "summary": "# **Original Visualization**\n![Original Image](https://cdn.howmuch.net/articles/R%26D-AROUND-THE-WORLD-22c6.jpg)\n\n# **About this Dataset**\nARTICLE: [How Much?](https://howmuch.net/articles/research-development-spending-by-country)\n\nadditional information on this [UNESCO page](http://uis.unesco.org/apps/visualisations/research-and-development-spending/)\n\nSOURCE: [UNESCO Institute for Statistics](http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS)\n\nNote: To recreate the original numbers, you need to use year 2014.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "unesco",
+        "research and development",
+        "uis",
+        "global spend"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w39-literacy-rate",
+      "title": "2024/w39 Literacy rate",
+      "description": "\"Global literacy today  Of the world population older than 15 years, the majority are literate. \" Ourworldindata",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-8d7db5e23f4c4aedab96608cecf855f7.png)\n\nArticle : [https://ourworldindata.org/literacy](https://ourworldindata.org/literacy)\n\n**Data source:** World Bank (2023); Various sources (2018) – Learn more about this data",
+      "tags": [
+        "literacy rates"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "out-of-school-youths-and-adolescents",
+      "title": "Out of School Youths and Adolescents",
+      "description": "Out-of-school children, adolescents and youth: Global status and trends",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-7954ee01388342edae40558898f32b7b.png)\n\n​\n\nDatasource and Article: [new-methodology-shows-258-million-children-adolescents-and-youth-are-out-school.pdf](https://uis.unesco.org/sites/default/files/documents/new-methodology-shows-258-million-children-adolescents-and-youth-are-out-school.pdf)",
+      "tags": [
+        "education",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w12",
+      "title": "2020/W12: Number of Fields of Study at California University",
+      "description": "California University History: Number of Distinct Fields of Study by University",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Field Distribution.png](https://media.data.world/tI1lUfuRN2hybvZxHLwf_Field%20Distribution.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [California University History: Number of Distinct Fields of Study by University](http://uccliometric.org/course-interactive-dashboard/)\nDATA SOURCE: [US ClioMetrics History Project](https://berkeley.app.box.com/v/CoursesBerkeley)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "university",
+        "higher education"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w47",
+      "title": "2019/W47: Smartphone Ownership Among Youth Is on the Rise",
+      "description": "Smartphone Ownership Among Youth Is on the Rise",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://morningbrew-oslo.s3.us-west-2.amazonaws.com/1572378011.jpg](https://morningbrew-oslo.s3.us-west-2.amazonaws.com/1572378011.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Morning Brew](https://www.morningbrew.com/daily/stories/2019/10/29/smartphone-ownership-among-youth-rise)\nDATA SOURCE: [Common Sense (page  27)](https://www.commonsensemedia.org/sites/default/files/uploads/research/2019-census-8-to-18-full-report-updated.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "youth",
+        "teen",
+        "tween",
+        "smartphone",
+        "mobile devices",
+        "survey",
+        "census",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
