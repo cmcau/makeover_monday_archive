@@ -1,0 +1,145 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w40",
+  "title": "2019/W40: London Population Predictions",
+  "description": "London Population Predictions",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![London Population](https://media.data.world/Iz4UmqNeRlmouvVKnBXx_Screen%20Shot%202019-09-28%20at%207.23.28%20pm.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Population of London (click on 'Communities')](https://data.london.gov.uk)\nDATA SOURCE: [London Datastore](https://data.london.gov.uk/download/projections/fcda413b-2b3a-44cd-a692-242bc45ffe24/central_trend_2017_base.xlsx)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?",
+  "version": "5d84f5ff-e8d9-4447-a538-e0c5a8684577",
+  "tags": [
+    "london",
+    "population",
+    "london population",
+    "uk data",
+    "open data",
+    "makeovermonday"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "2021_15yr.xlsx",
+      "sizeInBytes": 2973595,
+      "created": "2023-04-11T12:35:38.242613930Z",
+      "updated": "2023-04-11T12:35:38.242613930Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "central_trend_2017_base.xlsx",
+      "sizeInBytes": 5124738,
+      "created": "2019-09-28T18:26:53.957Z",
+      "updated": "2019-09-28T18:26:53.957Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-09-28T18:26:28.009Z",
+  "updated": "2023-04-11T12:35:38.242857966Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 9,
+    "columnCount": 295
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w52",
+      "title": "2019/W52: Estimated Christmas spending by concept",
+      "description": "Estimated Christmas spending by concept",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2019-12-22 at 11.05.37 am.png](https://media.data.world/AhSycIvRYu5GEwaxmsMD_Screen%20Shot%202019-12-22%20at%2011.05.37%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/uk/en/pages/consumer-business/articles/deloitte-christmas-survey-2019.html)\nDATA SOURCE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/consumer-business/deloitte-uk-christmas-survey-2019.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "christmas",
+        "consumer spending",
+        "uk data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "london-cycle-hire-usage",
+      "title": "2018/W26: London Cycle Hire Usage",
+      "description": "London Cycle Hire Usage",
+      "summary": "![Screen Shot 2018-06-21 at 12.19.45 pm.png](https://media.data.world/OSkqtJC1TPapfFJMtaGp_Screen%20Shot%202018-06-21%20at%2012.19.45%20pm.png)\n\n# **About this Dataset**\n* DATA SOURCE: [Transport for London](http://cycling.data.tfl.gov.uk/)\n* DESIGNER: [Sophie Sparks](https://twitter.com/sophie_sparkes)\n* INTERACTIVE VERSION: [Tableau Public](https://public.tableau.com/en-us/s/gallery/boris-bikes-daily-usage)\n\n# **NOTES**\n1. To connect to Exasol data source (50M+ records from 2012-2018) use the Tableau Data Source [here](https://fileshare.theinformationlab.co.uk/index.php/s/8xVZze3BZnjl1oh).\n2. Details for connecting to Exasol can be found in [this blog post](http://www.makeovermonday.co.uk/big-data/).\n3. If you have trouble downloading the CSV from data.world, you can download it [here](https://fileshare.theinformationlab.co.uk/index.php/s/lJwnY5V2I8Frali) instead. \n4. The CSV only contains data for 2017.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "london",
+        "boris bikes",
+        "santander",
+        "cycle hire",
+        "bike hire",
+        "rental",
+        "transportation",
+        "transport for london",
+        "tfl"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w37",
+      "title": "2019/W37: James Patterson Book Checkouts in Seattle",
+      "description": "Seattle Public Library monthly checkouts of books written by James Patterson",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/25OkZFQ4a5dNOUmKwqLg\\_Screenshot%202019-09-07%20at%207.00.26%20pm.png](https://media.data.world/25OkZFQ4a5dNOUmKwqLg_Screenshot%202019-09-07%20at%207.00.26%20pm.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Making Visible the Invisible: DataVis at the Seattle Public Library](http://helper.ipam.ucla.edu/publications/caws1/caws1_13603.pdf)\nDATA SOURCE: [Seattle Open Data](https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6/data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "seattle",
+        "washington",
+        "usa",
+        "united states",
+        "books",
+        "library",
+        "publisher",
+        "subject",
+        "title",
+        "usage"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w42",
+      "title": "2019/W42: Ironman World Championship Medalists",
+      "description": "Ironman World Championship Medalists",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2019-10-13 at 10.22.01 am.png](https://media.data.world/kvbWgD89Rcu35neMnURf_Screen%20Shot%202019-10-13%20at%2010.22.01%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Wikipedia](https://en.wikipedia.org/wiki/Ironman_World_Championship)\nDATA SOURCE: [Wikipedia](https://en.wikipedia.org/wiki/Ironman_World_Championship)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?",
+      "tags": [
+        "ironman",
+        "triathlon",
+        "multisport",
+        "kona hawaii",
+        "sports data",
+        "table"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w51",
+      "title": "2018/W51: London Bus Safety Performance",
+      "description": "Transport for London produces quarterly reports that provide analysis of incidents on the London bus network",
+      "summary": "# **Original Visualization**\n![Screenshot 2018-12-15 at 9.24.20 pm.png](https://media.data.world/opVvgdS7uA0NapMACtQq_Screenshot%202018-12-15%20at%209.24.20%20pm.png)\n\n# **About this Dataset**\nDATA SOURCE: [Transport for London](https://tfl.gov.uk/corporate/publications-and-reports/bus-safety-data)\n\nDASHBOARD: [London Buses Safety Dashboard – Q2](https://tfl.gov.uk/cdn/static/cms/documents/q2-18-london-bus-safety-dashboard.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "bus",
+        "transportation",
+        "transport for london",
+        "safety",
+        "perfomance",
+        "kpi",
+        "incidents",
+        "accidents",
+        "injuries",
+        "collisions"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
