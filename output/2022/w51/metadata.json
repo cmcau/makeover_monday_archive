@@ -1,0 +1,49 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w51",
+  "title": "2022/W51: Religious Affiliation in the UK - 2011 vs. 2021",
+  "description": "Religious Affiliation in the UK - 2011 vs. 2021",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/d4a96fee7404fbdba09c7f5b229ef20a31b52a653ec50830b49f29ecd6c571f9_CleanShot_2022_12_16_at_10.59.22_2x.png)\n\n​\n\n# Resources\n[UK religions](https://www.theguardian.com/uk-news/2022/nov/29/census-2021-in-charts-christianity-now-minority-religion-in-england-and-wales?CMP=Share_iOSApp_Other)\nData Source: [UK Census](https://census.gov.uk/) (England only)",
+  "version": "47394ea8-0659-4404-bf82-af1fd6bb30f4",
+  "tags": [
+    "makeover monday",
+    "religion",
+    "united kingdom",
+    "uk",
+    "census"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Local_Authority_Districts_(December_2021)_GB_BFE.zip",
+      "sizeInBytes": 29711876,
+      "created": "2022-12-16T11:12:05.854557405Z",
+      "updated": "2022-12-16T11:12:05.854557405Z",
+      "description": "Shapefile",
+      "labels": [],
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "UK Religious Demographics.xlsx",
+      "sizeInBytes": 147723,
+      "created": "2022-12-19T15:36:55.936981683Z",
+      "updated": "2022-12-19T15:36:55.936981683Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-12-16T10:57:40.499821076Z",
+  "updated": "2022-12-19T15:36:55.994248070Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 10
+  },
+  "similarResources": [],
+  "isProject": false
+}
