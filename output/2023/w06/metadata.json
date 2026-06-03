@@ -1,0 +1,51 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w6",
+  "title": "2023/W6: Small Business Applications and Loan Amounts",
+  "description": "Small Business Applications and Loan Amounts by Race/Ethnicity",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/fec139a3cdddd3a1344d97dc9e8568dc07995a0766f5d2ef43cf948f750b6d94_CleanShot_2023_01_14_at_10.43.30_2x.png)\n\n​\n\n## **Resources**\n[Small Business Applications and Loan Amounts by Race/Ethnicity](https://blackwealthdata.org/explore/business)\nData Source: [U.S. Small Business Administration](https://data.sba.gov/dataset/7-a-504-foia)",
+  "version": "82e2a4c2-bbf4-4629-b243-5b681bba1507",
+  "tags": [
+    "makeover monday",
+    "wealth",
+    "indicator",
+    "business",
+    "ownership",
+    "race",
+    "ethnicity",
+    "usa",
+    "small business"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "foia-504-fy2010-present-asof-220930.csv",
+      "sizeInBytes": 39181012,
+      "created": "2023-01-14T21:52:05.766745751Z",
+      "updated": "2023-01-14T21:52:05.766745751Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "foia-7afy2010-fy2019-asof-220930.csv",
+      "sizeInBytes": 188299375,
+      "created": "2023-01-14T21:52:05.766771708Z",
+      "updated": "2023-01-14T21:52:05.766771708Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-01-14T21:40:44.938415175Z",
+  "updated": "2023-02-05T17:32:43.686066573Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 2,
+    "columnCount": 77
+  },
+  "similarResources": [],
+  "isProject": false
+}
