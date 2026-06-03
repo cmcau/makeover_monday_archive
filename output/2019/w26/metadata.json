@@ -1,0 +1,123 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w26",
+  "title": "2019/W26: Alcohol Consumption by Country",
+  "description": "Alcohol Consumption by Country",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![chart (1).png](https://media.data.world/JMDbwapcRRihNV0ikOIN_chart%20(1).png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\nDATA SOURCE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n\n",
+  "version": "4e102736-71aa-405a-b4c2-b47383f7f5eb",
+  "tags": [
+    "alcohol",
+    "bar chart",
+    "world atlas"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Alcohol.xlsx",
+      "sizeInBytes": 10556,
+      "created": "2019-06-21T17:19:31.817Z",
+      "updated": "2019-06-21T17:19:31.817Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-06-21T17:11:57.848Z",
+  "updated": "2019-06-23T10:20:43.572Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w27",
+      "title": "2023/W27: Alcohol Consumption in OECD Countries",
+      "description": "Alcohol Consumption in OECD Countries",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/8b2a95e7dc594af691e5f0a569940e6e6d5c700f6e6ff3d537a031f3830cec52_CleanShot_2023_07_03_at_9.16.38.png)\n\n​\n\n## **Resources**\n[OECD Alcohol consumption](https://data.oecd.org/healthrisk/alcohol-consumption.htm)\nData Source: [OECD](https://data.oecd.org/healthrisk/alcohol-consumption.htm)",
+      "tags": [
+        "makeover monday",
+        "alcohol",
+        "oecd",
+        "country",
+        "per capita",
+        "trends",
+        "year"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w50",
+      "title": "2020/W50: A Statistical Analysis of the Work of Bob Ross",
+      "description": "A Statistical Analysis of the Work of Bob Ross",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![hickey-ross-tags-1.png](https://media.data.world/jIyGBpidQRqwhznx8Ns0_hickey-ross-tags-1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [A Statistical Analysis of the Work of Bob Ross](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)\nDATA SOURCE: [GitHub](https://github.com/fivethirtyeight/data/blob/master/bob-ross/elements-by-episode.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "bob ross",
+        "statistics",
+        "art",
+        "painting",
+        "bar chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017w21-alcohol-consumption-in-britain",
+      "title": "2017/W21: Alcohol Consumption in Britain",
+      "description": "Are Britons falling out of love with booze?",
+      "summary": "# **Original Visualization**\n![](https://ichef.bbci.co.uk/news/624/cpsprodpb/13FFF/production/_95891918_graph_drink.png)\nSOURCE: [BBC](https://www.bbc.co.uk/news/health-39785742)\n\n# **About this Dataset**\nDATA SOURCE: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/adultdrinkinghabits)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "alcohol",
+        "britain",
+        "uk",
+        "united kingdom",
+        "britons",
+        "booze"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w45",
+      "title": "2019/W45: Las Vegas Convention Attendance & Visitor Traffic",
+      "description": "Las Vegas Convention Attendance & Visitor Traffic: Jan 1970- Oct 2019",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/w7ejD8lbRm2MuQcNq3i6\\_VegasTrafficQ12019.png](https://media.data.world/w7ejD8lbRm2MuQcNq3i6_VegasTrafficQ12019.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Calculated Risk Blog](https://www.calculatedriskblog.com/2019/05/las-vegas-convention-attendance-and.html)\nDATA SOURCE: [Las Vegas Convention and Visitors Authority](https://www.lvcva.com/stats-and-facts/visitor-statistics/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "las vegas",
+        "tourism",
+        "attendance",
+        "visitors",
+        "convention",
+        "tableau conference",
+        "tc"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w26",
+      "title": "2020/W26: Viz5 - Economic Empowerment",
+      "description": "Viz 5 - Economic Empowerment",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Economic Empowerement.png](https://media.data.world/zxmlczvyR0iyXoewjv2V_Economic%20Empowerement.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Women, Business and the Law](https://openknowledge.worldbank.org/bitstream/handle/10986/32639/9781464815324.pdf)\nDATA SOURCE: [World Bank](https://wbl.worldbank.org/en/wbl-data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "viz5",
+        "womens empowerment",
+        "economic empowerment",
+        "economic opportunity"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
