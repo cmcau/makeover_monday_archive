@@ -1,0 +1,93 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024-w42-water-world",
+  "title": "2024/ w42: water world",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n**Sources:**\n\n[US Geological Survey](https://water.usgs.gov/edu/earthhowmuch.html), [Food & Agriculture Org of the United Nations (FAO)](https://www.fao.org/aquastat/en/overview/methodology/water-use)\n\n**Credits:**\n\ndesign & research: David McCandless  research: Miriam Quick\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-b00dda6108de4fa48e0add3070b28ae9.png)\n\n",
+  "version": "7e26521a-10",
+  "tags": [
+    "water"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Water world for makeovermonday.xlsx",
+      "sizeInBytes": 7625,
+      "created": "2024-10-13T16:50:02.929586722Z",
+      "updated": "2024-10-13T16:50:02.929586722Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-10-13T16:45:39.529028689Z",
+  "updated": "2024-10-13T16:50:02.929763615Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 4,
+    "columnCount": 12
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025week-28-common-misconception",
+      "title": "2025/week 28 common misconception",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-6f88397ff1334381a1b89a59a76002af.png)\n\n**Sources: **[Wikipedia](http://en.wikipedia.org/wiki/List_of_common_misconceptions,), NY Times, Straight Dope & Others.\n\n**Credits: **Concept & Design: [David Mccandless](http://www.davidmccandless.com/)  Design: [Paulo Estriga](http://headaround.com/)  Additional Design: [Fabio Bergamaschi](http://www.fabiobergamaschi.com/), Tatjana Dubovina  Research: [Miriam Quick](https://twitter.com/miriamquick), [Ella Hollowood](https://twitter.com/ejhollowood), Pearl Doughty-White, [Dr Stephanie Starling](http://www.stephaniestarling.com/)  Code: [Omid Kashan](https://omid.uk/)  Rendered with: [VizSweet](http://www.vizsweet.com/) – dataviz software.",
+      "tags": [
+        "misconception",
+        "fun"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w44-halloween",
+      "title": "2024/w44: Halloween",
+      "description": "halloween",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata from NRF\n\nhttps://nrf.com/research-insights/holiday-data-and-trends/halloween/halloween-data-center\n\nhttps://nrf.com/research-insights/holiday-data-and-trends/halloween\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-8c9a3ba4d9cb476db6bbdbb8e9a6f852.png)\n\n",
+      "tags": [],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-w19-asian-restaurants-in-the-us",
+      "title": "2025 W19: Asian Restaurants in the US",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: Pew Research Center analysis of SafeGraph data for all\nopen restaurants in the U.S. (N=787,153) as of March 23, 2023.\n\nArticle: https://www.pewresearch.org/short-reads/2023/05/23/71-of-asian-restaurants-in-the-u-s-serve-chinese-japanese-or-thai-food/\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-29e64c410aa348baadd9f43c8361a01b.png)\n\n",
+      "tags": [
+        "restaurant"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "paris-2024-medal-cout",
+      "title": "2024/W35 Paris 2024 Medal Count",
+      "description": "Paris 2024 Olympic medal count by country, sport & sporting event",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-367ed83c71394f1fb94123556a946b57.png)\n\n​\n\nDatasource: [Olympics](https://olympics.com/en/paris-2024/medals)\n\nArticle: [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w42-cultural-issues-and-the-2024-election",
+      "title": "2025/W42 Cultural Issues and the 2024 Election",
+      "description": "% of Registered Voters that say....",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-6273861f6f22475fb1d9b1bc6a13fbcb.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/pp_2024-6-5_cultural-values_00-01/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
