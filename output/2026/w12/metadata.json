@@ -1,0 +1,96 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w12-uk-unemployment-estimates",
+  "title": "2026/W12 London Unemployment Estimates",
+  "description": "Labour Force Survey (LFS) estimates for unemployment in London - Not Seasonally Adjusted",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-9c2e35c21e354fe5904c4b81f4697faf.png)\n\nData Source: [ONS](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/regionalunemploymentbyagex02)\n\nArticle: [BBC](https://www.bbc.co.uk/news/articles/cm2rmjnlm94o) & [London Datastore](https://data.london.gov.uk/blog/unemployment-in-key-charts-young-londoners-hit-hardest-by-labour-market-slowdown/)",
+  "version": "0daf0a34-10",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "London Unemployment Estimates.xlsx",
+      "sizeInBytes": 90364,
+      "created": "2026-03-23T14:32:47.791482960Z",
+      "updated": "2026-03-23T14:32:47.791482960Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-03-23T13:55:02.504867534Z",
+  "updated": "2026-03-23T14:40:30.365488351Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 15
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-15-uk-unemployment-rate",
+      "title": "2024/W15 UK Unemployment rate",
+      "description": "UK unemployment has fallen to the lowest levels since the mid-1970s",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nArticle : [Guardian](https://www.theguardian.com/uk-news/2024/mar/02/conservatives-economic-record-budget-deficit-gdp-tax-tory-budget?utm%5C_term=65e2ce75a55372f1c9bb099f713159bd&utm%5C_campaign=GuardianTodayUK&utm%5C_source=esp&utm%5C_medium=Email&CMP=GTUK%5C_email)\n\nData: [ONS](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-ac6cccc3e84840ff8f6ed59dc5231cae.png)\n\n",
+      "tags": [
+        "unemployment uk"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w22-arsenal-2526-champions",
+      "title": "2026/W22 Arsenal 25/26 Champions",
+      "description": "Player level stats for matches in the Premier League 25/26 season",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-ad6f3c82d8e341d38f7db5c15642f91e.png)\n\nData Source: [FBref](https://fbref.com/en/squads/18bb7c10/Arsenal-Stats)\n\nArticle: [Arsenal](https://www.arsenal.com/news/arsenal-analysed-how-we-won-premier-league)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w30-london-underground-average-monthly-temperatures",
+      "title": "2025/W30 London Underground Average Monthly Temperatures",
+      "description": "London Underground Average Monthly Temperatures (°C) 2013-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-11485fd39bcc40c7911336374c95e8eb.png)\n\nDatasource: [TFL](https://data.london.gov.uk/dataset/london-underground-average-monthly-temperatures/)\nArticle: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739705/london-underground-hottest-line.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w39-family-spending-in-the-uk",
+      "title": "2025/W39 Family Spending in the UK",
+      "description": "Average weekly household expenditure as a percentage of total weekly expenditure, by quintile group, UK, financial year",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n![](https://mediauploads-US.data.world/00000-beardon-8199cc9176c44007b14f4d3ab73c7612.png)\n\n\nArticle: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2023tomarch2024#data-sources-and-quality)\n\nData: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2023tomarch2024#data-sources-and-quality)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w49-london-crimes-by-income-deprivation-decile",
+      "title": "2025/W49 London crimes by income deprivation decile",
+      "description": "Crimes recorded by neighbourhood income deprivation decile in London (2024)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-fd6d04e68e4c45d68379f7ef8c803c43.png)\n\n​\n\nDatasources: [DataPoliceUK](https://data.police.uk/docs/method/crime-street/), [Department for Levelling Up, Housing and Communities](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025)\n\nArticle: [Trust for London](https://trustforlondon.org.uk/data/topics/community/?tab=crime-and-income-deprivation)",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
