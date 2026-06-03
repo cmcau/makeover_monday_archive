@@ -1,0 +1,55 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w36",
+  "title": "2020/W36: Calories and Sugar in Cereals",
+  "description": "Calories and sugar in 80 different cereals",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original viz](https://media.data.world/O1gQ8D4lTKGznWT9QwFi_Calories%20and%20Sugar%20IN%20Cealeoles.png)\nPLEASE NOTE: Max and Sam Preston have created this viz and deliberately gone against all best practices that they have learned. Please take a moment to check out the original, consider what improvements it needs, read the article below and then create your own Makeover.\n\n# **About this Dataset**\nSOURCE ARTICLE: [Breakfast Cereals: Healthy or Unhealthy?](https://www.healthline.com/nutrition/are-breakfast-cereals-healthy)\nDATA SOURCE: [Kaggle](https://www.kaggle.com/crawford/80-cereals?select=cereal.csv)\n\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+  "version": "60a2da71-336d-44c8-b89d-0fbdc72b3a29",
+  "tags": [
+    "cereal",
+    "nutrition",
+    "added sugar",
+    "breakfast cereal",
+    "calories",
+    "kaggle"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "cereal.xlsx",
+      "sizeInBytes": 12198,
+      "created": "2020-09-06T10:20:36.082Z",
+      "updated": "2020-09-06T10:20:36.082Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-09-06T10:09:33.356Z",
+  "updated": "2020-09-06T10:26:37.621Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 16
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w51-arsenals-worst-ever-premier-league-start",
+      "title": "2020/W51: Arsenal's worst ever Premier League start",
+      "description": "Arsenal's worst ever Premier League start",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://preview.redd.it/aq40jxgcpy261.png?width=960&crop=smart&auto=webp&s=aea7f303b80d4f4144040409e883fb1206557bbb](https://preview.redd.it/aq40jxgcpy261.png?width=960&crop=smart&auto=webp&s=aea7f303b80d4f4144040409e883fb1206557bbb)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Original viz was created on Tenner App, but I can't find it so here's a Reddit link](https://www.reddit.com/r/soccer/comments/k5vya1/this_is_arsenals_worst_ever_start_to_a_premier/)\nDATA SOURCES: [11v11.com](https://www.11v11.com/)\n\n# **Objectives**\n\\* Data from 11v11.com is up to the 18th December each year from 1992/93 to 2020/21 so does not exactly mirror the original as it includes more games\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "football",
+        "sport",
+        "arsenal",
+        "bad"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
