@@ -1,0 +1,126 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w28",
+  "title": "2023/W28: The Henley Passport Index",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/4567b7c4ff39d94cb51638c9f4a837d335b692813c99b6eb357fe39096ea3497_CleanShot_2023_07_10_at_9.12.45_2x.png)\n\n​\n\n# Resources\n[The Henley Passport Index](https://www.henleyglobal.com/passport-index)\nData Source: [Henley & Partners](https://www.henleyglobal.com/passport-index)",
+  "version": "7d7f79af-6",
+  "tags": [
+    "passport",
+    "rank",
+    "country",
+    "index",
+    "score"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Global Passport Rankings.xlsx",
+      "sizeInBytes": 23861,
+      "created": "2023-07-10T08:15:02.361353023Z",
+      "updated": "2023-07-10T08:15:02.361353023Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-07-10T08:13:57.170862716Z",
+  "updated": "2023-07-10T08:40:08.987399789Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w29",
+      "title": "2023/W29: Climate Action Tracker",
+      "description": "Historical climate data for multiple factors",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/7f5b1162cf2d9aeb2e2a0aeed9d81919e7e711c06fd413d112a65b4956ccdf4c_CleanShot_2023_07_16_at_12.48.37_2x.png)\n\n​\n\n# Resources\n[Climate Action Tracker](https://climateactiontracker.org/)\nData Source: Climate Action Tracker",
+      "tags": [
+        "climate",
+        "country",
+        "world",
+        "cop28",
+        "global warming"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w3",
+      "title": "2023/W3: Interstate and Cross-Border 2022 Migration Patterns",
+      "description": "US & Canada Interstate and Cross-Border 2022 Migration Patterns",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/791435034a9a6bc43ae30eb211d3b96223434aa3b6feebf138f2380aba290cf6_CleanShot_2023_01_13_at_10.17.16_2x.png)\n\n​\n\n## **Resources**\nArticle: [Interstate and Cross-Border 2022 Migration Patterns](https://www.atlasvanlines.com/resources/migration-patterns)\nData Source: Atlas Van Lines",
+      "tags": [
+        "makeover monday",
+        "commerce",
+        "migration",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w2",
+      "title": "2023/W2: Gay Travel Index",
+      "description": "Spartacus Gay Travel Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/e1d785aaba7b27e4b8f0bd13124856adbc30675724ac4363df72c47162b39f25_CleanShot_2023_01_09_at_10.48.19.png)\n\n​\n\n## **Resources**\nArticle: [Gay Travel Index](https://spartacus.gayguide.travel/blog/spartacus-gay-travel-index/)\nData Source: Spartacus",
+      "tags": [
+        "gay",
+        "travel",
+        "ranking",
+        "country",
+        "discrimination",
+        "marriage",
+        "adoption",
+        "lgbt",
+        "religion",
+        "hiv",
+        "homosexuality",
+        "pride month"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w17",
+      "title": "2023/W17: Biggest Tomato & Potato Producers",
+      "description": "Production of tomatoes and potatoes by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/41586fdcbc9dfb4fd9b6f967fab26fb395d1daad423a6a9e908103fc8e1a8b3e_CleanShot_2023_04_18_at_3.43.17_2x.png)\n\n​\n\n# Resources\nOriginal viz - [Sjoerd Tilmans via LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/)\n\nData Source: [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)",
+      "tags": [
+        "makeover monday",
+        "potato",
+        "tomato",
+        "production",
+        "crops",
+        "yield",
+        "harvest",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-14-the-best-migration-destinations-in-2025",
+      "title": "2025/ week 14 The Best Migration Destinations in 2025",
+      "description": "2025’s Best Countries to Live and Work Based on the Henley Opportunity Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-97ecd8dc81ec432eb4ee36a0f474b681.png)\n\n​\n\nDatasource: [The Henley Opportunity Index 2025 | Henley & Partners](https://www.henleyglobal.com/publications/henley-opportunity-index)\n\nArticle: [Ranked: 2025's Best Countries to Live and Work](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette)\n\nShow less",
+      "tags": [
+        "work",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
