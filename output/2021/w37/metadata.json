@@ -1,0 +1,43 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w37",
+  "title": "2021/W37: The 20 Largest Solar Power Plants",
+  "description": "The 20 Largest Solar Power Plants",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://solarpower.guide/solar-energy-insights/infographics/largest-solar-plants.png)\n\n# Resources\nSource Article: [SolarPower.guide](https://solarpower.guide/solar-energy-insights/largest-solar-plants)\nData Source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations)\nSuggested By: Sean Miller | [@HipsterVizNinja](https://twitter.com/HipsterVizNinja)",
+  "version": "65381673-33a8-4e19-a4e9-13061c773c5a",
+  "tags": [
+    "makeover monday",
+    "solar",
+    "power",
+    "power plant",
+    "energy",
+    "renewable energy",
+    "country",
+    "size",
+    "megawatts"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "20 Largest Solar Power Plants.xlsx",
+      "sizeInBytes": 10779,
+      "created": "2021-09-13T12:43:16.044Z",
+      "updated": "2021-09-13T12:43:16.044Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-09-12T13:48:46.307Z",
+  "updated": "2021-09-13T12:43:16.059Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [],
+  "isProject": false
+}
