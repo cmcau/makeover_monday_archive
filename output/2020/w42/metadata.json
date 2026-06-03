@@ -1,0 +1,116 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w42",
+  "title": "2020/W42: Health spending",
+  "description": "Health spending",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2020-10-18 at 2.48.13 pm.png](https://media.data.world/bflpGloGRpSN4rv23cRM_Screen%20Shot%202020-10-18%20at%202.48.13%20pm.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Health spending](https://data.oecd.org/healthres/health-spending.htm)\nDATA SOURCE: [OECD Data](https://stats.oecd.org/sdmx-json/data/DP_LIVE/.HEALTHEXP.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+  "version": "7662d438-ee16-4f3d-ae3a-e3f101778ef2",
+  "tags": [
+    "healthcare",
+    "healthcare expenditure"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "DP_LIVE_18102020154144776.csv",
+      "sizeInBytes": 993611,
+      "created": "2020-10-18T13:51:27.248Z",
+      "updated": "2020-10-18T13:51:27.248Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-10-18T13:50:30.939Z",
+  "updated": "2020-10-18T13:54:37.750Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w42",
+      "title": "2019/W42: Ironman World Championship Medalists",
+      "description": "Ironman World Championship Medalists",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2019-10-13 at 10.22.01 am.png](https://media.data.world/kvbWgD89Rcu35neMnURf_Screen%20Shot%202019-10-13%20at%2010.22.01%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Wikipedia](https://en.wikipedia.org/wiki/Ironman_World_Championship)\nDATA SOURCE: [Wikipedia](https://en.wikipedia.org/wiki/Ironman_World_Championship)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?",
+      "tags": [
+        "ironman",
+        "triathlon",
+        "multisport",
+        "kona hawaii",
+        "sports data",
+        "table"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w30-parental-leave-in-the-oecd",
+      "title": "2018/W30: Parental leave in the OECD",
+      "description": "Parental leave in the OECD",
+      "summary": "# **Original Visualization**\n![Original Visualization](https://media.data.world/2RWnNr4JR3OGY3X2Ppsy_Screen%20Shot%202018-07-21%20at%208.32.10%20pm.png)\n\n# **About this Dataset**\nSOURCE: [OECD](https://www.oecd.org/els/soc/PF2_1_Parental_leave_systems.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "oecd",
+        "parental leave",
+        "maternity leave"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "tc-europe-2018-how-long-are-patients-in-an-nhs-ae",
+      "title": "TC Europe 2018: How long are patients in an NHS A&E?",
+      "description": "Percentage of Patients Spending 4 Hours or Less in A&E by Provider",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-07-03 at 8.15.52 am.png](https://media.data.world/c7BSjH3XQE7fjk6iFg7Q_Screen%20Shot%202018-07-03%20at%208.15.52%20am.png)\n\n# **About this Dataset**\nSOURCE: [NHS](https://files.digital.nhs.uk/pdf/m/4/acci-emer-atte-eng-2016-17-rep.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "england",
+        "united kingdom",
+        "nhs",
+        "health",
+        "healthcare",
+        "accident",
+        "emergency",
+        "wait time"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w20-hours-spent-in-congestion-in-european-cities",
+      "title": "2018/W20: Hours spent in Congestion in European Cities",
+      "description": "Hours spent in Congestion in European Cities",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-05-12 at 10.18.56 pm.png](https://media.data.world/IWvgW8w9SbSoXkWKxYcv_Screen%20Shot%202018-05-12%20at%2010.18.56%20pm.png)\n\n# **About this Dataset**\nSOURCE: [EuroNews](http://www.euronews.com/2018/02/07/which-european-commuters-spend-the-most-time-in-traffic-jams-)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
