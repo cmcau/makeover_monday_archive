@@ -1,0 +1,75 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w30",
+  "title": "2023/W30: Daily sea ice extent",
+  "description": "Daily sea ice extent",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/09dfa7c1a6fa6b044605409a3799481fbc2b78af60f2dee144a13d30f9c636db_CleanShot_2023_07_24_at_3.18.31_2x.png)\n\n​\n\n# Resources\nArticle: [Daily Sea Ice Extent](https://www.theguardian.com/environment/datablog/2023/jul/20/the-climate-crisis-in-four-charts-extreme-weather-heatwaves?CMP=Share_iOSApp_Other)\nData Source: [National Snow & Ice Data Center](https://nsidc.org/data/seaice_index/data-and-image-archive)\n\n​",
+  "version": "c067d02a-4",
+  "tags": [
+    "makeover monday",
+    "climate change",
+    "sea ice",
+    "temperature"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "N_seaice_extent_daily_v3.0.csv",
+      "sizeInBytes": 1357735,
+      "created": "2023-07-24T14:17:41.688114383Z",
+      "updated": "2023-07-24T14:17:41.688114383Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "S_seaice_extent_daily_v3.0.csv",
+      "sizeInBytes": 1357558,
+      "created": "2023-07-24T14:17:41.688134385Z",
+      "updated": "2023-07-24T14:17:41.688134385Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-07-24T14:15:59.459099659Z",
+  "updated": "2023-07-24T14:35:19.592118590Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 2,
+    "columnCount": 14
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w15-arctic-sea-ice-extent",
+      "title": "2018/W15: Arctic Sea Ice Extent",
+      "description": "Arctic Sea Ice Extent",
+      "summary": "# **Original Visualization**\n![Arctic Sea Ice Extent.png](https://media.data.world/kGQkaedESxureoL4oUcE_Arctic%20Sea%20Ice%20Extent.png)\n\n# **About this Dataset**\nSOURCE: [National Snow & Ice Data Center](https://nsidc.org/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "arctic",
+        "sea ice",
+        "global warming",
+        "ocean",
+        "water",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w20",
+      "title": "2023/W20: Global Media Freedom",
+      "description": "How free is the press around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/27b33d7681320cf2a3647f8f6406acd75a1868c09df2dc8deab39399b67ad720_CleanShot_2023_05_15_at_8.48.09_2x.png)\n\n​\n\n# Resources\nOriginal Article: [The Guardian](https://www.theguardian.com/media/2023/may/03/media-freedom-in-dire-state-in-record-number-of-countries-report-finds?CMP=Share_iOSApp_Other)\nDatasource: [Reporters Without Borders](https://rsf.org/en/index?year=2023)",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
