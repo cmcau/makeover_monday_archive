@@ -1,0 +1,95 @@
+ 
+======== Run Wed 03/06/2026  9:38:27.28  (year 2026) ======== 
+[INFO] Fetching master table from https://makeovermonday.co.uk/
+[INFO] 22 week(s): 22 on data.world, 0 external.
+[INFO] Fetching makeovermonday/2026w2-tallest-rollercoasters ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: MM 2026 wk 2.xlsx
+[INFO]   Done -> output\2026\w01
+[INFO] Fetching makeovermonday/2026wk2-the-biggest-housing-bubble-risks-globally ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: Housing bubbles.xlsx
+[INFO]   Done -> output\2026\w02
+[INFO] Fetching makeovermonday/2026w3-women-conductors-on-broadway ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: Conductor Timeline Data_Contest.xlsx
+[INFO]   Done -> output\2026\w03
+[INFO] Fetching makeovermonday/2025w4-most-posted-us-jobs-by-state ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: LIGHTCAST_TOP JOB POSTED FOR BY STATE OCT 24-25.csv
+[INFO]   Done -> output\2026\w04
+[INFO] Fetching makeovermonday/2025w5-gold-prices ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: MM2026 WK5 Gold Price.csv
+[INFO]   Done -> output\2026\w05
+[INFO] Fetching makeovermonday/2026w6-global-big-mac-index ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: big-mac-full-index.csv
+[INFO]   Done -> output\2026\w06
+[INFO] Fetching makeovermonday/2026w7-living-planet-index ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: LPI 2024.xlsx
+[INFO]   Done -> output\2026\w07
+[INFO] Fetching makeovermonday/2026wk-8-the-periodic-table-of-ai-startups ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: Periodic Table of AI.xlsx
+[INFO]   Done -> output\2026\w08
+[INFO] Fetching makeovermonday/2026w9-trumps-approval-ratings ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: MM 2026 W09 Trump Approval Ratings.xlsx
+[INFO]   Done -> output\2026\w09
+[INFO] Fetching makeovermonday/2026w10-mario-game-sales ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: MM 2026 wk10.xlsx
+[INFO]   Done -> output\2026\w10
+[INFO] Fetching makeovermonday/8-fastest-cars-in-the-world-as-of-2026 ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: The fastest cars.xlsx
+[INFO]   Done -> output\2026\w11
+[INFO] Fetching makeovermonday/2026w12-uk-unemployment-estimates ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: London Unemployment Estimates.xlsx
+[INFO]   Done -> output\2026\w12
+[INFO] Fetching makeovermonday/2026w13-ai-workslop ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: MM 2026W13.xlsx
+[INFO]   Done -> output\2026\w13
+[INFO] Fetching makeovermonday/2026w14 ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: oil-production-by-country.csv
+[INFO]   Done -> output\2026\w14
+[INFO] Fetching makeovermonday/2026w15-tech-hiring ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: MM 2026wk15.xlsx
+[INFO]   Done -> output\2026\w15
+[INFO] Fetching makeovermonday/ai-risk-rankings ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: AI Jobs Risk.xlsx
+[INFO]   Done -> output\2026\w16
+[INFO] Fetching makeovermonday/2026w17-2024-eiu-democracy-index ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: 2024 Democracy Index.xlsx
+[INFO]   Done -> output\2026\w17
+[INFO] Fetching makeovermonday/2026w18-best-tacos-in-san-diego ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: top_tacos_in_san_diego_tc26.xlsx
+[INFO]   Done -> output\2026\w18
+[INFO] Fetching makeovermonday/2026w19-us-population-migration ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: US County PopMigration.csv
+[INFO]   Done -> output\2026\w19
+[INFO] Fetching makeovermonday/2026w20-uk-fuel-prices ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: UK Fuel Prices (2013-2026).xlsx
+[INFO]   Done -> output\2026\w20
+[INFO] Fetching makeovermonday/gpu-computational-performance-per-dollar ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: GPU performance per dollar.csv
+[INFO]   Done -> output\2026\w21
+[INFO] Fetching makeovermonday/2026w22-arsenal-2526-champions ...
+[INFO]   1 image(s) in summary
+[INFO]   Downloading file: premier_league_player_match_stats.csv
+[WARN] Rate limited; waiting 3s
+[INFO]   Done -> output\2026\w22
+[INFO] Finished. 22 archived, 0 flagged for manual download, 0 failed.
+[INFO] Index written into README.md

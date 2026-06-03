@@ -1,0 +1,7 @@
+# Makeover Monday datasets to archive — one data.world URL per line.
+# Blank lines and lines starting with '#' are ignored.
+# You can mix-and-match this file with the --year/--weeks generator.
+
+https://data.world/makeovermonday/2023w1
+https://data.world/makeovermonday/2023w2
+https://data.world/makeovermonday/2023w3
