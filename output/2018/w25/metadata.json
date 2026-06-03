@@ -1,0 +1,134 @@
+{
+  "owner": "makeovermonday",
+  "id": "us-influenza-surveillance-report",
+  "title": "2018/W25: U.S. Influenza Surveillance Report",
+  "description": "U.S. Influenza Surveillance Report",
+  "summary": "# **Original Visualization**\n![](https://www.cdc.gov/flu/weekly/weeklyarchives2017-2018/images/ILI21_small.gif)\n\n# **About this Dataset**\nSOURCE: [CDC](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n# **Notes**\n1. Data as of 5 June 2018\n2. Data at the national level - Regional and State level data is available [here](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)",
+  "version": "c2a42445-e06e-498a-9d38-28b7968533f1",
+  "tags": [
+    "flu",
+    "influenza",
+    "surveillance",
+    "united states",
+    "usa",
+    "cdc",
+    "illness",
+    "outbreak"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US Influenza Surveillance Report.xlsx",
+      "sizeInBytes": 92001,
+      "created": "2018-06-17T13:40:25.434Z",
+      "updated": "2018-06-17T13:40:25.434Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-06-06T08:57:33.608Z",
+  "updated": "2018-06-17T13:45:16.195Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 14
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-1-u-s-per-capita-consumption-of-poultry-livestock",
+      "title": "2018/W1: U.S. Per Capita Consumption of Poultry & Livestock",
+      "description": "U.S. Per Capita Consumption of Poultry and Livestock",
+      "summary": "# **Original Visualization**\n![US per capita consumption of poultry and livestock](https://www.theatlas.com/i/atlas_SkwA7QzL.png)\n\nSOURCE: [The Atlas](https://www.theatlas.com/charts/SkwA7QzL)\n\n# **About this Dataset**\nSOURCE: [National Chicken Council](http://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chicken",
+        "pork",
+        "beef",
+        "poultry",
+        "consumption",
+        "per capita",
+        "united states",
+        "usa",
+        "us",
+        "national chicken council"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-3-u-s-household-income-distribution-by-state",
+      "title": "2018/W3: U.S. Household Income Distribution by State",
+      "description": "U.S. Household Income Distribution by State",
+      "summary": "# **Original Visualization**\n![Visual Capitalist](http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/11/household-income.png)\n\n# **About this Dataset**\n**SOURCE:** [Visual Capitalist](http://www.visualcapitalist.com/household-income-distribution-u-s-state/)\n\n**DATA SOURCE:** [U.S. Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "united states",
+        "income distribution",
+        "state",
+        "household",
+        "visual capitalist"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w40-five-year-cancer-survival-rates-in-america",
+      "title": "2018/W41: Five Year Cancer Survival Rates in America",
+      "description": "Five Year Cancer Survival Rates in America",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://d33wubrfki0l68.cloudfront.net/fe62b7afdbade311b976b5407272bcc613ccb585/9403b/wp-content/uploads/2018/03/five-year-cancer-survival-rates-usa-v2-01-768x563.png)\n\n# **About this Dataset**\nSOURCE: [Our World in Data](https://ourworldindata.org/cancer#are-death-rates-from-cancer-rising)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "cancer",
+        "america",
+        "usa",
+        "united states",
+        "survival",
+        "rate",
+        "data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w52",
+      "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+      "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+      "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "christmas",
+        "spending",
+        "consumption",
+        "us spending",
+        "us household spending",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w45",
+      "title": "2018/W45: US Population Projections by Age Group, 2016-2060",
+      "description": "US Population Projections by Age Group, 2016-2060",
+      "summary": "# **Original Visualization**\n![Image](https://www.census.gov/content/census/en/library/visualizations/2018/comm/historic-first/jcr:content/map.detailitem.800.high.jpg/1520945944549.jpg)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [United States Census Bureau](https://www.census.gov/library/visualizations/2018/comm/historic-first.html)\n* SOURCE: [United States Census Bureau](https://www.census.gov/data/datasets/2017/demo/popproj/2017-popproj.html)\n* ADDITIONAL INFORMATION: [Data Fields](https://www2.census.gov/programs-surveys/popproj/technical-documentation/file-layouts/2017/np2017_d1.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "race",
+        "population",
+        "projection",
+        "united states",
+        "usa",
+        "age"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
