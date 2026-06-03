@@ -1,0 +1,123 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w2",
+  "title": "2023/W2: Gay Travel Index",
+  "description": "Spartacus Gay Travel Index",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/e1d785aaba7b27e4b8f0bd13124856adbc30675724ac4363df72c47162b39f25_CleanShot_2023_01_09_at_10.48.19.png)\n\n​\n\n## **Resources**\nArticle: [Gay Travel Index](https://spartacus.gayguide.travel/blog/spartacus-gay-travel-index/)\nData Source: Spartacus",
+  "version": "6030f853-5faf-4283-bfbd-96c537def964",
+  "tags": [
+    "gay",
+    "travel",
+    "ranking",
+    "country",
+    "discrimination",
+    "marriage",
+    "adoption",
+    "lgbt",
+    "religion",
+    "hiv",
+    "homosexuality",
+    "pride month"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "GTI_2012-2021.xlsx",
+      "sizeInBytes": 133563,
+      "created": "2023-01-09T15:08:31.435030096Z",
+      "updated": "2023-01-09T15:08:31.435030096Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-01-09T10:45:19.269195827Z",
+  "updated": "2023-01-09T15:08:31.435233349Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 21
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w28",
+      "title": "2023/W28: The Henley Passport Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/4567b7c4ff39d94cb51638c9f4a837d335b692813c99b6eb357fe39096ea3497_CleanShot_2023_07_10_at_9.12.45_2x.png)\n\n​\n\n# Resources\n[The Henley Passport Index](https://www.henleyglobal.com/passport-index)\nData Source: [Henley & Partners](https://www.henleyglobal.com/passport-index)",
+      "tags": [
+        "passport",
+        "rank",
+        "country",
+        "index",
+        "score"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w3",
+      "title": "2023/W3: Interstate and Cross-Border 2022 Migration Patterns",
+      "description": "US & Canada Interstate and Cross-Border 2022 Migration Patterns",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/791435034a9a6bc43ae30eb211d3b96223434aa3b6feebf138f2380aba290cf6_CleanShot_2023_01_13_at_10.17.16_2x.png)\n\n​\n\n## **Resources**\nArticle: [Interstate and Cross-Border 2022 Migration Patterns](https://www.atlasvanlines.com/resources/migration-patterns)\nData Source: Atlas Van Lines",
+      "tags": [
+        "makeover monday",
+        "commerce",
+        "migration",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w29",
+      "title": "2023/W29: Climate Action Tracker",
+      "description": "Historical climate data for multiple factors",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/7f5b1162cf2d9aeb2e2a0aeed9d81919e7e711c06fd413d112a65b4956ccdf4c_CleanShot_2023_07_16_at_12.48.37_2x.png)\n\n​\n\n# Resources\n[Climate Action Tracker](https://climateactiontracker.org/)\nData Source: Climate Action Tracker",
+      "tags": [
+        "climate",
+        "country",
+        "world",
+        "cop28",
+        "global warming"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w20",
+      "title": "2023/W20: Global Media Freedom",
+      "description": "How free is the press around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/27b33d7681320cf2a3647f8f6406acd75a1868c09df2dc8deab39399b67ad720_CleanShot_2023_05_15_at_8.48.09_2x.png)\n\n​\n\n# Resources\nOriginal Article: [The Guardian](https://www.theguardian.com/media/2023/may/03/media-freedom-in-dire-state-in-record-number-of-countries-report-finds?CMP=Share_iOSApp_Other)\nDatasource: [Reporters Without Borders](https://rsf.org/en/index?year=2023)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w47",
+      "title": "2022/W47: Railroad Infrastructure Quality Rankings",
+      "description": "Quality of railroad infrastructure, 1(low) - 7(high)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/7a85357d1b561bce1616915e31a951c76ee5fb70406eb66685d003709c063fac_CleanShot_2022_11_08_at_3.04.03_2x.png)\n\nNOTE: This is not the entire visualization. All countries are shown on the chart on the website.\n\n​\n\n## **Resources**\nTheGlobalEconomy - [Railroad infrastructure quality - Country rankings](https://www.theglobaleconomy.com/rankings/railroad_quality/)\nData Source: World Economic Forum",
+      "tags": [
+        "makeover monday",
+        "infrastructure",
+        "railroad",
+        "train",
+        "tracks",
+        "quality",
+        "survey",
+        "ranking",
+        "country"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
