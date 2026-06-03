@@ -1,0 +1,116 @@
+{
+  "owner": "makeovermonday",
+  "id": "one-in-four-americans-say-its-wrong-to-eat-an-octopus",
+  "title": "One in Four Americans Say It's Wrong To Eat an Octopus",
+  "description": "Share of U.S. Adults that say it is wrong to eat certain animals",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-05d7bfb3a49046aca57dccf883f2cf1c.jpeg)\n\n​\n\nARTICLE: [https://www.statista.com/chart/30299/us-survey-on-ethics-of-eating-animals/](https://www.statista.com/chart/30299/us-survey-on-ethics-of-eating-animals/)\n\n#\n#\n​",
+  "version": "c434745d-8",
+  "tags": [],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Animals_and_share _of_US_adults.xlsx",
+      "sizeInBytes": 9251,
+      "created": "2024-02-12T01:18:16.211130010Z",
+      "updated": "2024-02-12T01:18:16.211130010Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-02-12T00:50:43.436462020Z",
+  "updated": "2024-02-12T01:18:16.211314192Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w23-lgbt-identification-in-us",
+      "title": "2024/W23 LGBT Identification in U.S",
+      "description": "LGBT % Share of Adult U.S Population by Generation",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-04c0a7b755bb4c6392167219ce7b9877.jpeg)\n\n​\n\nDatasource : [Gallup](https://news.gallup.com/poll/470708/lgbt-identification-steady.aspx)\n\nArticle : [Statista](https://www.statista.com/chart/18228/share-of-americans-identifying-as-lgbt/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "schools-out-and-the-tvs-on",
+      "title": "2025/WK46 School’s out and the TV’s on",
+      "description": "What kids in the U.S. watched in June 2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-644c7897f28c433d96b3c987c61f4fb3.png)\n\n​\n\nDatasource and Article : [School’s out and the TV’s on: What kids in the U.S. watched in June | Nielsen](https://www.nielsen.com/insights/2025/what-us-kids-watched-tv-streaming-summer-june/)\n\n​",
+      "tags": [
+        "watch",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w23-animal-free-products-consumption-in-great-britain",
+      "title": "2020/W23: Animal-free products consumption in Great Britain",
+      "description": "Animal-free products consumption in Great Britain",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-06-at-09.41.30.png](https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-06-at-09.41.30.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Animal-free products consumption frequency in Great Britain 2019, by eating habits](https://www.statista.com/statistics/1065843/animal-free-products-consumption-frequency-in-great-britain-by-eating-habits/)\nDATA SOURCE: [Statista](https://www.statista.com/statistics/1065843/animal-free-products-consumption-frequency-in-great-britain-by-eating-habits/)\nNOTE THAT MINOR ALTERATIONS HAVE BEEN MADE TO SOURCE DATA TO ENSURE THAT ALL CATEGORIES ADD UP TO 100%\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "food",
+        "great britain"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-14-the-best-migration-destinations-in-2025",
+      "title": "2025/ week 14 The Best Migration Destinations in 2025",
+      "description": "2025’s Best Countries to Live and Work Based on the Henley Opportunity Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-97ecd8dc81ec432eb4ee36a0f474b681.png)\n\n​\n\nDatasource: [The Henley Opportunity Index 2025 | Henley & Partners](https://www.henleyglobal.com/publications/henley-opportunity-index)\n\nArticle: [Ranked: 2025's Best Countries to Live and Work](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette)\n\nShow less",
+      "tags": [
+        "work",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w7",
+      "title": "2021/W7: ​What's the point of Valentine's Day?",
+      "description": "Men are highly likely to consider sex and eating out as the main point of Valentine's Day",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/](https://cdn.statcdn.com/Infographic/images/normal/3229.jpeg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Statista](https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/)\nDATA SOURCE: [Statista](https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "valentines day",
+        "holiday",
+        "hallmark",
+        "cards",
+        "love",
+        "sex",
+        "gender",
+        "men",
+        "women",
+        "united kingdom",
+        "uk",
+        "survey",
+        "gifts",
+        "dinner",
+        "impress",
+        "treat"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
