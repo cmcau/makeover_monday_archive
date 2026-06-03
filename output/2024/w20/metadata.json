@@ -1,0 +1,97 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w20-us-made-gun-exports-2005-2022",
+  "title": "2024/W20 US-Made Gun Exports 2005-2022",
+  "description": "Cumulative volume of US semiautomatic firearm exports, 2005–2022",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-c7bb995e7d1d40abbd50b7381601d6d7.png)\n\n​\n\nDatasource : [United States Census Bureau](https://www.census.gov/foreign-trade/data/index.html)\n\nArticle : [Bloomberg](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)",
+  "version": "6696335f-5",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US Domestic Manufactured Semiautomatic Gun Exports 2005-2022.csv",
+      "sizeInBytes": 21451,
+      "created": "2024-05-12T14:05:22.109681693Z",
+      "updated": "2024-05-12T14:05:22.109681693Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-05-12T14:03:00.139707737Z",
+  "updated": "2024-05-12T14:08:57.506328023Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w11-vacant-household-rates-in-the-united-states",
+      "title": "2024/W11 Vacant Household Rates in the United States",
+      "description": "Number of occupied and vacant households by US Metropolitan Statistical Area",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-24ff66476b45492abcaf587823ef5a33.jpg)\n\n​\n\nDatasource : [United States Census Bureau](https://data.census.gov/table/ACSDT1Y2022.B25002?t=Housing:Housing%20Units:Vacancy&g=010XX00US$31000M1&tp=true)\n\nArticle : [LendingTree](https://www.lendingtree.com/home/mortgage/vacant-homes-metros-study/)",
+      "tags": [
+        "makeovermonday",
+        "housing"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w16-airhelp-global-airport-rankings",
+      "title": "2024/W17 AirHelp Global Airport Rankings",
+      "description": "2023 AirHelp scores for 194 of the worlds busiest airports.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4aeac604d4974dc38557f604f53aa62d.png)\n\n​\n\nDatasource : [AirHelp](https://www.airhelp.com/en-gb/blog/airhelp-score-2023-how-did-we-rank-the-airports/)\n\nArticle : [Global Airport Ranking](https://www.airhelp.com/en-gb/airhelp-score/airport-ranking/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w47-global-slavery-index",
+      "title": "2024/W49 Global Slavery Index",
+      "description": "Global Slavery Index 2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-9a76055d6111450eb3341f8c530cbcd3.png)\n\n​\n\nDatasource: [Walk Free](https://www.walkfree.org/global-slavery-index/downloads/)\n\nArticle: [Walk Free](https://www.walkfree.org/global-slavery-index/#:~:text=An%20estimated%2050%20million%20people,10%20million%20people%20since%202016.)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w45-terrorism-and-political-violence-in-the-usa",
+      "title": "2025/W45 Terrorism and Political Violence in the USA",
+      "description": "Terrorist Attacks and Plots in the United States by Perpetrator Orientation, 1994–2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-62974e0766a147a9b13584023f573923.png)\n\nDatasource: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us#h2-appendix-what-is-excluded-)\n\nArticle: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w30-london-underground-average-monthly-temperatures",
+      "title": "2025/W30 London Underground Average Monthly Temperatures",
+      "description": "London Underground Average Monthly Temperatures (°C) 2013-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-11485fd39bcc40c7911336374c95e8eb.png)\n\nDatasource: [TFL](https://data.london.gov.uk/dataset/london-underground-average-monthly-temperatures/)\nArticle: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739705/london-underground-hottest-line.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
