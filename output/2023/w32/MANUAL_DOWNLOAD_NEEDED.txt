@@ -1,0 +1,2 @@
+Data for 2023 W32 is hosted externally and must be downloaded by hand.
+Data link: https://mavenanalytics.io/challenges/maven-family-leave-challenge/2
