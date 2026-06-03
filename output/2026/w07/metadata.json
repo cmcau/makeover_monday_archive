@@ -1,0 +1,97 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w7-living-planet-index",
+  "title": "2026/W7 Living Planet Index",
+  "description": "A measure of the state of the world's biological diversity based on population trends of vertebrate species.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-0e31e736307a42048c449fb2017bfc42.png)\n\nData Source: [ZSL & WWF](https://www.livingplanetindex.org/latest_results)\n\nArticle: [WWF](https://livingplanet.panda.org/en-GB/)",
+  "version": "15e98cc7-5",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "LPI 2024.xlsx",
+      "sizeInBytes": 31350,
+      "created": "2026-02-15T09:50:49.885035652Z",
+      "updated": "2026-02-15T09:50:49.885035652Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-02-15T09:47:45.077791590Z",
+  "updated": "2026-02-15T09:58:04.806965601Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w17-2024-eiu-democracy-index",
+      "title": "2026/W17 2024 EIU Democracy Index",
+      "description": "2024 Democracy Index and sub-indicators from the Economist Intelligence Unit.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-b9cdba3cc054479bba117d6f51cc2519.png)\n\nData Source: [OurWorldInData](https://ourworldindata.org/grapher/democracy-index-eiu)\n\nArticle: [The Economist](https://www.eiu.com/n/campaigns/democracy-index-2024/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w33-access-to-electricity-of-population",
+      "title": "2025/W33 Access to Electricity (% of Population)",
+      "description": "% of population who have access to electricity.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-cfc0a4ebe4c645eeaa81d710095f42ad.png)\n\nDatasource: [World Bank Group](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=map)\n\nArticle: [World Bank Group](https://blogs.worldbank.org/en/voices/How-to-close-Africa-energy-access-gap)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w22-arsenal-2526-champions",
+      "title": "2026/W22 Arsenal 25/26 Champions",
+      "description": "Player level stats for matches in the Premier League 25/26 season",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-ad6f3c82d8e341d38f7db5c15642f91e.png)\n\nData Source: [FBref](https://fbref.com/en/squads/18bb7c10/Arsenal-Stats)\n\nArticle: [Arsenal](https://www.arsenal.com/news/arsenal-analysed-how-we-won-premier-league)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w12-uk-unemployment-estimates",
+      "title": "2026/W12 London Unemployment Estimates",
+      "description": "Labour Force Survey (LFS) estimates for unemployment in London - Not Seasonally Adjusted",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-9c2e35c21e354fe5904c4b81f4697faf.png)\n\nData Source: [ONS](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/regionalunemploymentbyagex02)\n\nArticle: [BBC](https://www.bbc.co.uk/news/articles/cm2rmjnlm94o) & [London Datastore](https://data.london.gov.uk/blog/unemployment-in-key-charts-young-londoners-hit-hardest-by-labour-market-slowdown/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w3-women-conductors-on-broadway",
+      "title": "2026/W3 Women+ Conductors on Broadway",
+      "description": "Representation of female and nonbinary conductors, music directors, and music supervisors in Broadway.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-f46d99ed03ce482aafef6022e3d20329.png)\n\nData Source: [Sariva Goetz](https://docs.google.com/spreadsheets/d/1yTUUKoOhpSiizZNHDZYoPMZL0Jdk7PSw/edit?gid=87507842#gid=87507842)\n\nArticle: [Maestra](https://maestramusic.org/resources/timelines/timeline-of-broadway-conductors-and-mds/)\nWomen+ Conduct on Broadway Data Visualization Contest: [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeDsKbCsCmyzg30W7rUC3wmXOYVSEZiR1jTKGanNLjE8U9o_Q/viewform)\nWomen+ Conduct on Broadway Data Visualization Contest: [Livestream](https://www.youtube.com/live/ZDTnKAenlno)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
