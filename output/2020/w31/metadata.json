@@ -1,0 +1,107 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w31-uk-visits-abroad",
+  "title": "2020/W31: UK visits abroad",
+  "description": "UK visits abroad",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/08/screenshot-2020-08-01-at-16.06.31.png](https://learningtableaublog.files.wordpress.com/2020/08/screenshot-2020-08-01-at-16.06.31.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [UK visits abroad: All visits Thousands - SA](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/timeseries/gmax/ott)\nDATA SOURCE: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/timeseries/gmax/ott)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* We ALL know the reason why visits have dropped in the current climate, but don't focus on that - what patterns can you find beyond the overall upward trend?",
+  "version": "c717cc2d-e934-4081-b0ff-f2bd361fc62d",
+  "tags": [
+    "time series",
+    "uk"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "series-010820.xls",
+      "sizeInBytes": 42496,
+      "created": "2020-08-01T15:09:06.273Z",
+      "updated": "2020-08-01T15:09:06.273Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-08-01T15:08:42.891Z",
+  "updated": "2020-08-02T13:56:25.371Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w25-amazons-tiny-profits-explained",
+      "title": "2020/W25: Amazon’s tiny profits, explained",
+      "description": "Amazon’s tiny profits, explained",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-20-at-20.41.48.png](https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-20-at-20.41.48.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Amazon’s tiny profits, explained](https://www.vox.com/recode/2019/8/21/20826405/amazons-profits-revenue-free-cash-flow-explained-charts)\nDATA SOURCE: [macrotrends.net](https://www.macrotrends.net/stocks/charts/AMZN/amazon/gross-profit)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "amazon",
+        "time series",
+        "revenue",
+        "profit"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w27-comparing-common-mental-disorder-by-sex",
+      "title": "2020/W27: Comparing common mental disorder by sex",
+      "description": "Comparing common mental disorder by sex",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/07/screenshot-2020-07-04-at-16.52.48.png](https://learningtableaublog.files.wordpress.com/2020/07/screenshot-2020-07-04-at-16.52.48.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [BBC](https://www.bbc.co.uk/news/health-41125009)\nDATA SOURCE: [NHS Digital](https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatric-morbidity-survey-survey-of-mental-health-and-wellbeing-england-2014)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "mental health"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w41-data-assets-and-data-culture",
+      "title": "2020/W41: Data assets and data culture",
+      "description": "Data assets and data culture",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-10-at-17.47.16.png](https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-10-at-17.47.16.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [DataIQ - Market Insight - Data assets and data culture](https://www.dataiq.co.uk/market-insight/data-assets-and-data-culture)\nDATA SOURCE: [Data manually lifted from PDF linked in source article](https://www.dataiq.co.uk/market-insight/data-assets-and-data-culture)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Due to rounding errors the total % of respondents exceeds 100% - do not stress about this!",
+      "tags": [
+        "makeover monday",
+        "data",
+        "research"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w37-school-workforce-in-england",
+      "title": "2020/W37: School workforce in England",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/09/screenshot-2020-09-11-at-20.50.00.png](https://learningtableaublog.files.wordpress.com/2020/09/screenshot-2020-09-11-at-20.50.00.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [School workforce in England, Reporting Year 2019](https://explore-education-statistics.service.gov.uk/find-statistics/school-workforce-in-england#releaseHeadlines-charts)\nDATA SOURCE: [School Workforce Census](https://explore-education-statistics.service.gov.uk/find-statistics/school-workforce-in-england#releaseHeadlines-charts)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "schools",
+        "salaries",
+        "england"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w23-animal-free-products-consumption-in-great-britain",
+      "title": "2020/W23: Animal-free products consumption in Great Britain",
+      "description": "Animal-free products consumption in Great Britain",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-06-at-09.41.30.png](https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-06-at-09.41.30.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Animal-free products consumption frequency in Great Britain 2019, by eating habits](https://www.statista.com/statistics/1065843/animal-free-products-consumption-frequency-in-great-britain-by-eating-habits/)\nDATA SOURCE: [Statista](https://www.statista.com/statistics/1065843/animal-free-products-consumption-frequency-in-great-britain-by-eating-habits/)\nNOTE THAT MINOR ALTERATIONS HAVE BEEN MADE TO SOURCE DATA TO ENSURE THAT ALL CATEGORIES ADD UP TO 100%\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "food",
+        "great britain"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
