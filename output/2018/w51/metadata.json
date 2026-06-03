@@ -1,0 +1,67 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w51",
+  "title": "2018/W51: London Bus Safety Performance",
+  "description": "Transport for London produces quarterly reports that provide analysis of incidents on the London bus network",
+  "summary": "# **Original Visualization**\n![Screenshot 2018-12-15 at 9.24.20 pm.png](https://media.data.world/opVvgdS7uA0NapMACtQq_Screenshot%202018-12-15%20at%209.24.20%20pm.png)\n\n# **About this Dataset**\nDATA SOURCE: [Transport for London](https://tfl.gov.uk/corporate/publications-and-reports/bus-safety-data)\n\nDASHBOARD: [London Buses Safety Dashboard – Q2](https://tfl.gov.uk/cdn/static/cms/documents/q2-18-london-bus-safety-dashboard.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "8b1d3d16-f41a-40a0-ad85-9fa2c09e1e5b",
+  "tags": [
+    "makeover monday",
+    "bus",
+    "transportation",
+    "transport for london",
+    "safety",
+    "perfomance",
+    "kpi",
+    "incidents",
+    "accidents",
+    "injuries",
+    "collisions"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "TFL Bus Safety.xlsx",
+      "sizeInBytes": 1246863,
+      "created": "2019-01-18T09:47:48.868Z",
+      "updated": "2019-01-18T09:47:48.868Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-12-15T21:22:04.705Z",
+  "updated": "2019-01-18T09:47:48.869Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 12
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "london-cycle-hire-usage",
+      "title": "2018/W26: London Cycle Hire Usage",
+      "description": "London Cycle Hire Usage",
+      "summary": "![Screen Shot 2018-06-21 at 12.19.45 pm.png](https://media.data.world/OSkqtJC1TPapfFJMtaGp_Screen%20Shot%202018-06-21%20at%2012.19.45%20pm.png)\n\n# **About this Dataset**\n* DATA SOURCE: [Transport for London](http://cycling.data.tfl.gov.uk/)\n* DESIGNER: [Sophie Sparks](https://twitter.com/sophie_sparkes)\n* INTERACTIVE VERSION: [Tableau Public](https://public.tableau.com/en-us/s/gallery/boris-bikes-daily-usage)\n\n# **NOTES**\n1. To connect to Exasol data source (50M+ records from 2012-2018) use the Tableau Data Source [here](https://fileshare.theinformationlab.co.uk/index.php/s/8xVZze3BZnjl1oh).\n2. Details for connecting to Exasol can be found in [this blog post](http://www.makeovermonday.co.uk/big-data/).\n3. If you have trouble downloading the CSV from data.world, you can download it [here](https://fileshare.theinformationlab.co.uk/index.php/s/lJwnY5V2I8Frali) instead. \n4. The CSV only contains data for 2017.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "london",
+        "boris bikes",
+        "santander",
+        "cycle hire",
+        "bike hire",
+        "rental",
+        "transportation",
+        "transport for london",
+        "tfl"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
