@@ -1,0 +1,133 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w24",
+  "title": "2023/W24: Global cereal production",
+  "description": "Change in cereal production, yield, land use and population",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/73a3814f37803509b7272ef773c0d7daf123bc2c06c3e5d628b5931ec6731569_image.png)\n\n​\n\n# Resources\nData Source: [Our World in Data](https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population)",
+  "version": "b3dee0bd-4",
+  "tags": [
+    "makeover monday",
+    "population",
+    "land use",
+    "cereal",
+    "yield",
+    "country"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "index-of-cereal-production-yield-and-land-use.xlsx",
+      "sizeInBytes": 797492,
+      "created": "2023-06-11T20:45:35.825640457Z",
+      "updated": "2023-06-11T20:45:35.825640457Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-06-11T20:43:43.919926297Z",
+  "updated": "2023-06-11T20:46:01.858742862Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w17",
+      "title": "2023/W17: Biggest Tomato & Potato Producers",
+      "description": "Production of tomatoes and potatoes by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/41586fdcbc9dfb4fd9b6f967fab26fb395d1daad423a6a9e908103fc8e1a8b3e_CleanShot_2023_04_18_at_3.43.17_2x.png)\n\n​\n\n# Resources\nOriginal viz - [Sjoerd Tilmans via LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/)\n\nData Source: [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)",
+      "tags": [
+        "makeover monday",
+        "potato",
+        "tomato",
+        "production",
+        "crops",
+        "yield",
+        "harvest",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w21",
+      "title": "2021/W21: How are wildlife populations changing?",
+      "description": "How are wildlife populations changing?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://ourworldindata.org/uploads/2021/03/Share-of-populations-increasing-and-declining-Living-Planet-Index.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Our World in Data](https://ourworldindata.org/living-planet-index-understanding)\nDATA SOURCE: [Our World in Data](https://ourworldindata.org/living-planet-index-understanding)\nCITATION: WWF (2020) Living Planet Report 2020 - Bending the curve of biodiversity loss. Almond, R.E.A., Grooten M. and Petersen, T. (Eds). WWF, Gland, Switzerland\n\n​",
+      "tags": [
+        "makeover monday",
+        "data",
+        "analysis",
+        "wwf",
+        "wildlife",
+        "population",
+        "change",
+        "world"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w33",
+      "title": "2023/W33: Energy Use per Person",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/a8ad0e746a57e8155eb26c82d6ba9a86effc1eebcd1c6950d2122adee14030ce_per_capita_energy_use.png)\n\n​\n\n## **Resources**\n[Energy Use per Person](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&country=IND~TWN~SWE~OWID_WRL~USA~CAN~RUS~GBR)\nData Source: [Our World in Data](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&country=IND~TWN~SWE~OWID_WRL~USA~CAN~RUS~GBR)",
+      "tags": [
+        "makeover monday",
+        "energy",
+        "country",
+        "region",
+        "world bank"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w50",
+      "title": "2018/W50: Land use by food type",
+      "description": "Land use by food type",
+      "summary": "# **Original Visualization**\n![land-use-per-gram-of-protein-by-food-type.png](https://media.data.world/Xl841BpwR5iZ3LYd2KUs_land-use-per-gram-of-protein-by-food-type.png)\n\n# **About this Dataset**\nSOURCE: [Our World in Data](https://ourworldindata.org/yields-and-land-use-in-agriculture#land-use-by-food-type)\n\nFULL ARTICLE: [IOP Science](http://iopscience.iop.org/article/10.1088/1748-9326/aa6cd5)\n\nDATA SOURCE: [Our World in Data](https://ourworldindata.org/700a146d-726a-489c-9fd0-94b6b481f523)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "bar chart",
+        "land usage",
+        "farming",
+        "protein inefficiencies",
+        "meat",
+        "plant based diet"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w16",
+      "title": "2023/W16: Retirement Ages Around the World",
+      "description": "At what age to people retire around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/f8d8119d5a5a6b7732d8ee917cecb9589616f4d44e23704b4ccfce3ca9d0a73f_image.png)\n\n​\n\n# Resources\nOriginal Article - [Statista](https://www.statista.com/chart/29570/european-average-effective-labor-market-exit-ages/)\nData Source - [OECD](https://stats.oecd.org/Index.aspx?QueryId=111940)\n\n​",
+      "tags": [
+        "makeover monday",
+        "age",
+        "oecd",
+        "retire",
+        "retirement",
+        "labour",
+        "labor",
+        "labor statistics",
+        "country",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
