@@ -1,0 +1,38 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w16-zambia-southern-province-confirmed-malaria-cases",
+  "title": "2018/W16: Zambia Southern Province Confirmed Malaria Cases",
+  "description": "Zambia Southern Province Confirmed Malaria Cases",
+  "summary": "# **Original Visualization**\n![week 16 original.png](https://media.data.world/XvOumXCQkmgfZZXfvjaA_week%2016%20original.png)\n\n[Interactive Version](https://public.tableau.com/profile/jonathan.drummey#!/vizhome/VisualizeNoMalariaMakeoverMonday201804/AreaChart)\n\n# **About this Dataset**\nSOURCE: Simulated data from http://visualizenomalaria.org. \nContact jdrummey@path.org with data questions \n# **Description**\nThe data is a simulated data set based on actual malaria case counts detected by Zambian Ministry of Health staff who are part of the VisualizeNoMalaria project http://visualizenomalaria.org in Southern Province, Zambia. The data has records for each month for each district in the province broken down by Reporting Category (whether cases were detected by Health Facility staff or Community Health Workers) and Urban/Rural (where the facility or community health workers are located) with a single Count measure.\n\nThe chart is a sample view of this data based on a real-world chart used in the Visualize No Malaria project.\n\nThe repeating pattern in the data set is coming from the rainy season each year that drives malaria transmission. The decline in the size of the case counts over is due to the persistent efforts of the Zambian Ministry of Health staff and their partners, for more information see http://visualizenomalaria.org and http://makingmalariahistory.org. The counts themselves are not the actual counts, they are simulated.\n\nIn the data set is a Disclaimer field with the text “Simulated data from http://visualizenomalaria.org. Contact jdrummey@path.org for data question.”, **please include that text somewhere on your visualization.**\n\nOne final note about creating maps on this data if you are using Tableau: Tableau will map the Zambian districts, you’ll need to right-click on the District field and choose Default Properties->Geographic Role->County.\n\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "0b928c99-f4cc-413a-95be-dd203d260169",
+  "tags": [
+    "malaria",
+    "public health",
+    "non profit",
+    "path",
+    "visualize no malaria"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Simulated VisualizeNoMalaria Counts.xlsx",
+      "sizeInBytes": 118254,
+      "created": "2018-04-12T10:15:41.797Z",
+      "updated": "2018-04-12T10:15:41.797Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-04-12T10:15:41.479Z",
+  "updated": "2018-04-16T18:20:35.582Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [],
+  "isProject": false
+}
