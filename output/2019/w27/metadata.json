@@ -1,0 +1,138 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w27",
+  "title": "2019/W27: Deaths in Game of Thrones",
+  "description": "Who killed who, with what, where and when in Game of Thrones?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/UJbyHPiQrKGgmt8w9sGG\\_Main.png](https://media.data.world/UJbyHPiQrKGgmt8w9sGG_Main.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [David Murphy](https://datasaurus-rex.com/gallery/gotviz-mkiii)\nDATA SOURCE: [data.world](https://data.world/datasaurusrex/game-of-thones-deaths)\nDATA DICTIONARY: [data.world](https://data.world/datasaurusrex/game-of-thones-deaths/workspace/data-dictionary)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "6df9526b-0dbf-4397-9761-9a1a014ea6e5",
+  "tags": [
+    "makeover monday",
+    "david murphy",
+    "game of thrones",
+    "death",
+    "kill"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Main.png",
+      "sizeInBytes": 563861,
+      "created": "2019-06-26T09:58:57.963Z",
+      "updated": "2019-06-26T09:58:57.963Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "game-of-thones-deaths.xlsx",
+      "sizeInBytes": 76839,
+      "created": "2019-06-30T13:16:31.900Z",
+      "updated": "2019-06-30T13:16:31.900Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-06-26T09:47:47.508Z",
+  "updated": "2019-06-30T13:16:31.901Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 9
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w43",
+      "title": "2019/W43: The Age At Which Most People Are Dying By Suicide",
+      "description": "CONTENT WARNING: Suicide - Number of people dying by suicide by single year of age in England and Wales",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screenshot 2019-10-20 at 6.38.36 pm.png](https://media.data.world/2DxYbGbYRWi8U4YanHL4_Screenshot%202019-10-20%20at%206.38.36%20pm.png)\n\n# **About this Dataset**\nSOURCE: [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "age",
+        "death",
+        "suicide",
+        "united kingdom",
+        "uk",
+        "wales",
+        "england",
+        "drugs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w32",
+      "title": "2019/W32: Britain is rapidly phasing out coal",
+      "description": "Britain is rapidly phasing out coal",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/MZv1UvTuRf2sakpA9jJM\\_Screenshot%202019-08-03%20at%207.53.06%20am.png](https://media.data.world/MZv1UvTuRf2sakpA9jJM_Screenshot%202019-08-03%20at%207.53.06%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/environment/ng-interactive/2019/may/25/the-power-switch-tracking-britains-record-coal-free-run)\nDATA SOURCE: [Gridwatch](https://www.gridwatch.templar.co.uk/download.php)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "uk",
+        "united kingdom",
+        "coal",
+        "renewable energy",
+        "supply",
+        "demand",
+        "time series",
+        "guardian",
+        "environment"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w33",
+      "title": "2019/W33: A bird’s-eye view of clinical trials",
+      "description": "A bird’s-eye view of clinical trials",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/OVjEAs3JTKmMA2gK9s7F\\_Screenshot%202019-08-10%20at%2010.47.09%20am.png](https://media.data.world/OVjEAs3JTKmMA2gK9s7F_Screenshot%202019-08-10%20at%2010.47.09%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [A bird’s-eye view of clinical trials](https://www.statnews.com/2019/07/18/clinical-trials-birds-eye-view-drug-development/)\nDATA SOURCE/ORIGINAL VIZ: [Aero Data Lab](https://www.aerodatalab.org/birds-eye-view-of-research-landscape)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "pharmaceuticals",
+        "drugs",
+        "clinical trials",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w29",
+      "title": "2019/W29: Share of Americans Not Having Sex",
+      "description": "The share of Americans not having sex has reached a record high",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/OntaCUBdQkuspoAphzgv\\_MM.png](https://media.data.world/OntaCUBdQkuspoAphzgv_MM.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Washington Post](https://www.washingtonpost.com/business/2019/03/29/share-americans-not-having-sex-has-reached-record-high/)\nDATA SOURCE: [General Social Survey](https://gssdataexplorer.norc.org/variables/5057/vshow)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "sex",
+        "washington post",
+        "time series",
+        "year",
+        "line chart",
+        "frequency"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
