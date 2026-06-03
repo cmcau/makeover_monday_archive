@@ -1,0 +1,136 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w14",
+  "title": "2020/W14: Unpaid Work - Allocation of time and time-use",
+  "description": "Unpaid Work - Allocation of time and time-use",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Viz5 Unpaid Work.png](https://media.data.world/fJ4rgJB3QIeDhtPCw8rL_Viz5%20Unpaid%20Work.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Unpaid work: Allocation of time and time-use](https://unstats.un.org/unsd/gender/timeuse/index.html)\nDATA SOURCE: [UN Stats](https://unstats.un.org/unsd/gender/timeuse/index.html)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+  "version": "efbb5eea-0fd2-4a4f-8107-60989f3bdc84",
+  "tags": [
+    "viz5",
+    "time use",
+    "unpaid work",
+    "gender equality",
+    "gender inequality"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "VIZ5_2020_April - Unpaid Work.csv",
+      "sizeInBytes": 70907,
+      "created": "2020-04-04T18:02:27.029Z",
+      "updated": "2020-04-04T18:02:27.029Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Viz5 Unpaid Work Background Info.pdf",
+      "sizeInBytes": 2822415,
+      "created": "2020-04-04T18:02:27.029Z",
+      "updated": "2020-04-04T18:02:27.029Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Viz5 Unpaid Work Data Dictionary.pdf",
+      "sizeInBytes": 70778,
+      "created": "2020-04-04T18:02:27.029Z",
+      "updated": "2020-04-04T18:02:27.029Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-04-04T18:01:02.028Z",
+  "updated": "2020-04-05T12:31:33.535Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 3,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w48",
+      "title": "2020/W48: The success of Operation Fistula's Pilot Program",
+      "description": "The success of Operation Fistula's Pilot Program.",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![KICKSTART .png](https://media.data.world/glaGhFtTMqPlMwlkRhgg_KICKSTART%20.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Viz5 Info document](https://data.world/makeovermonday/2020w48/file/Info%20Pack%20-%20Visualize%20Gender%20Equality%20Data%20Set%20%2310.pdf)\nDATA SOURCE: [Operation Fistula](https://data.world/makeovermonday/2020w48/file/20201027%20pilot%20data.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\nPLEASE TAG [at]opfistula on Twitter and add the #Viz5 hashtag\n\n",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "operation fistula",
+        "obstetric fistula"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w34",
+      "title": "2020/W34: Sexual and Reproductive Health and Rights (SRHR)",
+      "description": "Sexual and Reproductive Health and Rights (SRHR)",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Main Dashboard.png](https://media.data.world/boFwVig9ToOkffjnzVMC_Main%20Dashboard.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: **Dashboard and documentation provided by OpFistula** - please see attachments (CSV, PDF) below\nDATA SOURCE: [Guttmacher Institute’s report: Adding It Up: Investing in\nContraception and Maternal and Newborn Health, 2017](https://www.guttmacher.org/sites/default/files/report_pdf/adding-it-up-2017-estimation-methodology.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n**Please include #Viz5 and tag @OpFistula in your tweets**",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "reproductive health",
+        "sexual health",
+        "womens rights",
+        "womens health"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w18",
+      "title": "2020/W18: Viz 5 - Obstetric Fistula in Madagascar",
+      "description": "Viz 5 - Obstetric Fistula in Madagascar",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![MAIN%20DASHBOARD.png](https://media.data.world/aApQWMTvQZGOYtXGALSz_MAIN%2520DASHBOARD.png)\n\n# **About this Dataset**\nPLEASE REFER TO THE PDF ATTACHMENTS BELOW (DESCRIPTION AND DATA DICTIONARY)\nPlease tag #Viz5 and @opfistula on Twitter\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "obstetric fistula"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w30",
+      "title": "2020/W30: Women in Power",
+      "description": "Women in Power - gender inequality in the context of political appointments and parliamentary representation",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![FEMALE POLITICAL REPRESENTATION WORLDWIDE.png](https://media.data.world/rt73DP8dRAC5ojNEp96L_FEMALE%20POLITICAL%20REPRESENTATION%20WORLDWIDE.png)\nVisualization provided by OperationFistula.org\n\n# **About this Dataset**\nSOURCE ARTICLE: [Proportion of seats held by women in national parliaments](https://data.worldbank.org/indicator/SG.GEN.PARL.ZS)\nDATA SOURCE: [World Bank](http://api.worldbank.org/v2/en/indicator/SG.GEN.PARL.ZS?downloadformat=excel)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "viz5",
+        "gender inequality",
+        "gender equality",
+        "women in power",
+        "world bank"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w44",
+      "title": "2020/W44: #Viz5 - The digital gender gap",
+      "description": "THE DIGITAL GENDER GAP",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://media.data.world/dYmiAUUSDasC0oQh9H7Q\\_The%20digital%20gender%20divide.png](https://media.data.world/dYmiAUUSDasC0oQh9H7Q_The%20digital%20gender%20divide.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: provided by OpFistula (see documentation below)\nDATA SOURCE: [The Economist Intelligence Unit Inclusive Internet Index 2020](https://theinclusiveinternet.eiu.com/explore/countries/performance?category=overall)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "viz5",
+        "digital gender gap",
+        "gender gap",
+        "visualize gender equality",
+        "gender equality"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
