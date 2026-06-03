@@ -1,0 +1,117 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018-w-3-u-s-household-income-distribution-by-state",
+  "title": "2018/W3: U.S. Household Income Distribution by State",
+  "description": "U.S. Household Income Distribution by State",
+  "summary": "# **Original Visualization**\n![Visual Capitalist](http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/11/household-income.png)\n\n# **About this Dataset**\n**SOURCE:** [Visual Capitalist](http://www.visualcapitalist.com/household-income-distribution-u-s-state/)\n\n**DATA SOURCE:** [U.S. Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "9b57061c-93de-47e1-9631-21728f5e46a2",
+  "tags": [
+    "united states",
+    "income distribution",
+    "state",
+    "household",
+    "visual capitalist"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Household Income Distribution by State.xlsx",
+      "sizeInBytes": 272590,
+      "created": "2018-01-14T15:51:23.136Z",
+      "updated": "2018-01-14T15:51:23.136Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-01-14T15:42:22.901Z",
+  "updated": "2018-01-14T15:51:26.322Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w21-visualizing-40-years-of-music-industry-sales",
+      "title": "2020/W21: Visualizing 40 Years of Music Industry Sales",
+      "description": "Visualizing 40 Years of Music Industry Sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/music-industry-sales/)\nDATA SOURCE: [RIAA](https://www.riaa.com/u-s-sales-database/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "music"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w50",
+      "title": "2019/W50: Ranked: Biggest Fast Food Chains in America",
+      "description": "Ranked: Biggest Fast Food Chains in America",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/revenue-fast-food-chains-1200px-1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [TitleMax](https://www.titlemax.com/discovery-center/money-finance/the-revenue-of-fast-food-chains-in-america/)\nDATA SOURCE: [Visual Capitalist](https://www.visualcapitalist.com/biggest-fast-food-chains-in-america/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "fast food",
+        "america",
+        "usa"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w40-the-us-cities-with-the-highest-economic-output",
+      "title": "2020/W40: The U.S. Counties With the Highest Economic Output",
+      "description": "The U.S. Counties With the Highest Economic Output",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.visualcapitalist.com/wp-content/uploads/2020/09/us-metro-areas-by-gdp.jpg](https://www.visualcapitalist.com/wp-content/uploads/2020/09/us-metro-areas-by-gdp.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [3D Map: The U.S. Cities With the Highest Economic Output](https://www.visualcapitalist.com/3d-map-the-u-s-cities-with-the-highest-economic-output/)\nDATA SOURCE: [BEA.gov](https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas)\n\n# **#MakeoverMonday Live TC20 Session Links**\nMORNING SESSION (5th October 2020 at 08:00 GMT): [https://www.youtube.com/watch?v=dR5mpiHs-sU](https://www.youtube.com/watch?v=dR5mpiHs-sU)\n\nAFTERNOON SESSION (5th October 2020 at 17:00 GMT): [https://www.youtube.com/watch?v=LPUksl37H70](https://www.youtube.com/watch?v=LPUksl37H70)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "economy"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "us-influenza-surveillance-report",
+      "title": "2018/W25: U.S. Influenza Surveillance Report",
+      "description": "U.S. Influenza Surveillance Report",
+      "summary": "# **Original Visualization**\n![](https://www.cdc.gov/flu/weekly/weeklyarchives2017-2018/images/ILI21_small.gif)\n\n# **About this Dataset**\nSOURCE: [CDC](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n# **Notes**\n1. Data as of 5 June 2018\n2. Data at the national level - Regional and State level data is available [here](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)",
+      "tags": [
+        "flu",
+        "influenza",
+        "surveillance",
+        "united states",
+        "usa",
+        "cdc",
+        "illness",
+        "outbreak"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w45",
+      "title": "2018/W45: US Population Projections by Age Group, 2016-2060",
+      "description": "US Population Projections by Age Group, 2016-2060",
+      "summary": "# **Original Visualization**\n![Image](https://www.census.gov/content/census/en/library/visualizations/2018/comm/historic-first/jcr:content/map.detailitem.800.high.jpg/1520945944549.jpg)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [United States Census Bureau](https://www.census.gov/library/visualizations/2018/comm/historic-first.html)\n* SOURCE: [United States Census Bureau](https://www.census.gov/data/datasets/2017/demo/popproj/2017-popproj.html)\n* ADDITIONAL INFORMATION: [Data Fields](https://www2.census.gov/programs-surveys/popproj/technical-documentation/file-layouts/2017/np2017_d1.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "race",
+        "population",
+        "projection",
+        "united states",
+        "usa",
+        "age"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
