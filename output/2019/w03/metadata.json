@@ -1,0 +1,104 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w3",
+  "title": "2019/W3: How many people earned the Federal minimum wage?",
+  "description": "According to the Bureau of Labor Statistics, how many people earned the Federal minimum wage or less in each State?",
+  "summary": "# **Original Visualization**\n![5bb3904393032c18c75259b4-1136-852.png](https://media.data.world/Q36ZvvbuS5CiLSOpKI76_5bb3904393032c18c75259b4-1136-852.png)\n\n# **About this Dataset**\nARTICLE: [Business Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nSOURCE: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2017/home.htm)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? ",
+  "version": "29ef86d7-794c-44a9-a225-3e33065761b6",
+  "tags": [
+    "makeover monday",
+    "united states",
+    "usa",
+    "wages",
+    "minimum wage",
+    "bls",
+    "labor statistics",
+    "bureau",
+    "state"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Minimum Wage.csv",
+      "sizeInBytes": 27959,
+      "created": "2019-01-13T09:22:43.819Z",
+      "updated": "2019-01-13T09:22:43.819Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-01-13T09:22:17.875Z",
+  "updated": "2019-01-13T17:28:17.998Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w18",
+      "title": "2023/W18: Federal minimum wage by State",
+      "description": "How many people earned the Federal minimum wage or less in each State?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/e49272041e4cbf38eeba06ef9d7066174b8a5496997773b9984e819bd677060f_image.png)\n\n​\n\n# Resources\nChart Source/Article: [Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nData source: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2021/home.htm)",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "united states",
+        "earning",
+        "wages",
+        "minimum wage",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w31",
+      "title": "2019/W31: STD Infection Rates in America",
+      "description": "How have rates changed by disease, year, state, gender, and age?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/YcRQEE4TSrS75v74BQDX\\_Screenshot%202019-07-26%20at%2011.24.04%20am.png](https://media.data.world/YcRQEE4TSrS75v74BQDX_Screenshot%202019-07-26%20at%2011.24.04%20am.png)\n\n​\n\n### **About this Dataset**\nORIGINAL VIZ: [Tableau Public](https://public.tableau.com/profile/andy.kriebel#!/vizhome/STDs1996-2008/STDInfectionRates)\nCREATED BY: [Andy Kriebel | @VizWizBI](https://twitter.com/VizWizBI)\nDATA SOURCE: [CDC](https://wonder.cdc.gov/controller/datarequest/D128)\n\n​\n\n### **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "population",
+        "time series",
+        "year",
+        "usa",
+        "united states",
+        "std",
+        "sex",
+        "disease",
+        "gender",
+        "age",
+        "state"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
