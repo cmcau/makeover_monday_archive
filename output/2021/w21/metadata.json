@@ -1,0 +1,42 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w21",
+  "title": "2021/W21: How are wildlife populations changing?",
+  "description": "How are wildlife populations changing?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://ourworldindata.org/uploads/2021/03/Share-of-populations-increasing-and-declining-Living-Planet-Index.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Our World in Data](https://ourworldindata.org/living-planet-index-understanding)\nDATA SOURCE: [Our World in Data](https://ourworldindata.org/living-planet-index-understanding)\nCITATION: WWF (2020) Living Planet Report 2020 - Bending the curve of biodiversity loss. Almond, R.E.A., Grooten M. and Petersen, T. (Eds). WWF, Gland, Switzerland\n\n​",
+  "version": "bcc82cea-9d49-4ca4-9f24-d99fddaf4170",
+  "tags": [
+    "makeover monday",
+    "data",
+    "analysis",
+    "wwf",
+    "wildlife",
+    "population",
+    "change",
+    "world"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Wildlife Population Change.xlsx",
+      "sizeInBytes": 9019,
+      "created": "2021-05-23T13:26:09.265Z",
+      "updated": "2021-05-23T13:26:09.265Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-05-23T13:18:29.183Z",
+  "updated": "2021-05-23T13:26:35.193Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [],
+  "isProject": false
+}
