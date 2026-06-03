@@ -1,0 +1,103 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w4-most-posted-us-jobs-by-state",
+  "title": "2025/W4 Most Posted US Jobs by State",
+  "description": "The top 3 job titles for each state from Lightcast's job postings data.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-c55710bacdb949699d43b87439d3ae5c.png)\n\nDatasource & Article: [Lightcast](https://lightcast.io/resources/blog/most-posted-for-jobs-in-each-us-state)",
+  "version": "59036de1-4",
+  "tags": [
+    "makeovermonday",
+    "jobs",
+    "workforce"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "LIGHTCAST_TOP JOB POSTED FOR BY STATE OCT 24-25.csv",
+      "sizeInBytes": 3731,
+      "created": "2026-01-26T01:47:58.255043050Z",
+      "updated": "2026-01-26T01:47:58.255043050Z",
+      "createdBy": "blakefeiza",
+      "updatedBy": "blakefeiza"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-01-26T01:47:41.699385023Z",
+  "updated": "2026-01-26T01:52:49.184558904Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w50-cost-of-kevins-home-alone-grocery-haul-in-2025",
+      "title": "2025/W50 Cost of Kevin’s ‘Home Alone’ Grocery Haul in 2025",
+      "description": "Analyzing the cost of Kevin's grocery bill (Home Alone) if he were shopping in 2025.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-a94057527480475880bbc0308fbb71f8.png)\n\n​\n\nDatasource & Article: [GoBankingRates](https://www.gobankingrates.com/saving-money/food/how-much-kevins-home-alone-grocery-haul-would-cost-today/)",
+      "tags": [
+        "makeovermonday",
+        "retail",
+        "shopping"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w18-trump-approval-ratings",
+      "title": "2025/W18 Trump Approval Ratings",
+      "description": "% Who ____ of the way Trump is handling his job as president",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n​\n\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4134dce1a68742e495b184bc6d52b78c.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/trump-100-days-methodology/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/evaluations-of-trump-job-approval-and-confidence-on-issues/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025wk48-which-ai-models-hallucinate-the-most",
+      "title": "2025/WK48 Which AI Models Hallucinate the Most?",
+      "description": "A Look into which AI models have higher rates of accuracy / hallucination",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-954613b04960410c83019ac4c49d5556.png)\n\n​\n\nDatasource and Article : [Which AI Models Hallucinate the Most? - Voronoi](https://www.voronoiapp.com/technology/Which-AI-Models-Hallucinate-the-Most-7211)",
+      "tags": [
+        "makeovermonday",
+        "ai"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w18-best-tacos-in-san-diego",
+      "title": "2026/W18 Best Tacos in San Diego",
+      "description": "Top 50 Places to get Tacos in San Diego, per Gemini. Can you build a better dashboard than AI?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-8a7ad481d9014313bf88f31bd880c96f.png)\n\nDatasource & Article: [Gemini](https://gemini.google.com/share/672e1babcb27)",
+      "tags": [
+        "tacos",
+        "san diego"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "the-worlds-most-innovative-companies-2024",
+      "title": "The World's Most Innovative Companies - 2018",
+      "description": "Forbes list and ranking of the most innovative companies.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-b5619d25e70c4594be9acec16ecc574a.png)\n\n​\n\nDatasource + Article : [https://www.forbes.com/innovative-companies/list/](https://www.forbes.com/innovative-companies/list/)\n\n\\*Note : this dataset was originally posted as a 2024 dataset but was later corrected as we found out it was from 2018.",
+      "tags": [
+        "innovation",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
