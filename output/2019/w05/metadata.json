@@ -1,0 +1,127 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w5",
+  "title": "2019/W5: Digital Economy and Society Index (DESI)",
+  "description": "DESI is a composite index that summarises relevant indicators on Europe’s digital performance.",
+  "summary": "\n# **Original Visualization**\n![original](https://ec.europa.eu/digital-single-market/sites/digital-agenda/files/desi2018_correction.png)\n\n# **About this Dataset**\nSOURCE: [European Commission](https://ec.europa.eu/digital-single-market/en/desi)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "e36cb63c-7984-4eee-9a36-8b3c601637e5",
+  "tags": [
+    "europe",
+    "desi",
+    "society",
+    "index",
+    "economy",
+    "digital",
+    "makeover monday"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "DESI.xlsx",
+      "sizeInBytes": 32988,
+      "created": "2019-01-27T10:06:36.366Z",
+      "updated": "2019-01-27T10:06:36.366Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-01-27T10:05:57.091Z",
+  "updated": "2019-01-27T10:11:49.847Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w28",
+      "title": "2019/W28: International protection in the EU+: 2018 overview",
+      "description": "International protection in the EU+: 2018 overview",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original.png](https://media.data.world/aR543tHS3Wz9eZ6oLtaH_Original.png)\n\nPlease note: The data only covers the first two bar charts below the map. The rest of the dashboard has been included for context but data has not been provided.\n\n# **About this Dataset**\nSOURCE ARTICLE: [European Asylum Support Office](https://www.easo.europa.eu/asylum-trends-annual-report-2018)\nDATA SOURCE: EUROSTAT, from 2009 to 2018 [Summary applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asyappctza&lang=en)\n[Decisions on applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asydcfsta&lang=en)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "asylum",
+        "refugee",
+        "refugee crisis",
+        "europe",
+        "eu",
+        "migration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w31-big-mac-index",
+      "title": "2018/W31: Big Mac Index",
+      "description": "The Economist Big Mac Index",
+      "summary": "# **Original Visualization**\n![](https://www.economist.com/sites/default/files/imagecache/1280-width/images/print-edition/20180120_FNC577_0.png)\n\n# **About this Dataset**\nSOURCE: [The Economist](https://www.economist.com/finance-and-economics/2018/01/20/our-big-mac-index-shows-fundamentals-now-matter-more-in-currency-markets)\n\nMore information about how the index is calculated, where exchange rates came from, etc. available on [github](https://github.com/TheEconomist/big-mac-data).\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economist",
+        "makeover monday",
+        "economy",
+        "mcdonalds",
+        "big mac index",
+        "currency"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w5",
+      "title": "2021/W5: Renewables Overtake Fossil Fuels in Europe",
+      "description": "Renewables Overtake Fossil Fuels in Europe",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/QavAWlYjQf6TqHDlr0V1\\_image.png](https://media.data.world/QavAWlYjQf6TqHDlr0V1_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Ember](https://ember-climate.org/project/eu-power-sector-2020/)\nDATA SOURCE: [Ember](https://ember-climate.org/project/eu-power-sector-2020/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "europe",
+        "eu",
+        "energy",
+        "renewable energy",
+        "fossil fuels",
+        "ember"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w38",
+      "title": "2020/w38: Pick up a book and read!",
+      "description": "Pick up a book and read!",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://media.data.world/yvxBGUv9Q9GJCt6g6pAZ\\_Price%20develpment%20of%20books%20in%20the%20EU.png](https://media.data.world/yvxBGUv9Q9GJCt6g6pAZ_Price%20develpment%20of%20books%20in%20the%20EU.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Pick up a book and read!](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/EDN-20200422-1)\nDATA SOURCE: [Eurostat](https://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055106_QID_2BA8FB1D_UID_-3F171EB0&layout=TIME,C,X,0;COICOP,B,Y,0;UNIT,B,Z,0;GEO,B,Z,1;INDICATORS,C,Z,2;&zSelection=DS-055106INDICATORS,OBS_FLAG;DS-055106GEO,EU27_2020;DS-055106UNIT,I15;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=GEO_1_2_1_1&rankName4=TIME_1_0_0_0&rankName5=COICOP_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "data visualization",
+        "book prices",
+        "eurostat",
+        "line chart",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w15",
+      "title": "2019/W15: Ranking States by Fiscal Condition",
+      "description": "How well can States meet short-term and long-term bills by examining their financial statements?",
+      "summary": "# **Original Visualization**\n![https://www.mercatus.org/sites/default/files/norcross-fiscal-rankings-map-mercatus-v1\\_copy\\_0.png](https://www.mercatus.org/sites/default/files/norcross-fiscal-rankings-map-mercatus-v1_copy_0.png)\n\n# **About this Dataset**\nSOURCE: [Mercatus Center](https://www.mercatus.org/statefiscalrankings)\n\nADDITIONAL INFORMATION: [2018 Report](https://www.mercatus.org/system/files/norcross-fiscal-rankings-2018-mercatus-research-v1.pdf)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "united states",
+        "fiscal",
+        "economy",
+        "debt",
+        "ranking"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
