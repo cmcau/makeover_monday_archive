@@ -1,0 +1,124 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w1",
+  "title": "2023/W1: Global Radiative Forcing",
+  "description": "The NOAA Annual Greenhouse Gas Index (AGGI)",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/900cf7cbd261bac3fd9f0b71f53041d7e0f4d5938f768edbf6cbeffea1fac947_image.png)\n\n​\n\n## **Resources**\nArticle: [NOAA Global Monitoring Laboratory](https://gml.noaa.gov/aggi/aggi.html)\nData Source: [NOAA Global Monitoring Laboratory](https://gml.noaa.gov/aggi/aggi.html)",
+  "version": "cfc59e6d-e938-40be-beb5-91ffe679750d",
+  "tags": [
+    "makeover monday",
+    "environment",
+    "climate change",
+    "noaa",
+    "greenhouse gas",
+    "index"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Global Radiative Forcing - 1979-2021.xlsx",
+      "sizeInBytes": 12190,
+      "created": "2023-01-03T15:29:26.113375388Z",
+      "updated": "2023-01-03T15:29:26.113375388Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-01-02T17:31:24.451813398Z",
+  "updated": "2023-01-03T15:29:26.113565354Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 11
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w30",
+      "title": "2023/W30: Daily sea ice extent",
+      "description": "Daily sea ice extent",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/09dfa7c1a6fa6b044605409a3799481fbc2b78af60f2dee144a13d30f9c636db_CleanShot_2023_07_24_at_3.18.31_2x.png)\n\n​\n\n# Resources\nArticle: [Daily Sea Ice Extent](https://www.theguardian.com/environment/datablog/2023/jul/20/the-climate-crisis-in-four-charts-extreme-weather-heatwaves?CMP=Share_iOSApp_Other)\nData Source: [National Snow & Ice Data Center](https://nsidc.org/data/seaice_index/data-and-image-archive)\n\n​",
+      "tags": [
+        "makeover monday",
+        "climate change",
+        "sea ice",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w41",
+      "title": "2023/W41: Retail Investment",
+      "description": "What are Retail Investors Interested in Buying in 2023?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/dc42f79a69f6d39ecf0c9717675072ec5a0c05560d853c914a5e9ee78c3c441c_image.png)\n\n## **Resources**\nArticle: [What are Retail Investors Interested in Buying in 2023?](https://www.visualcapitalist.com/charted-what-are-retail-investors-interested-in-buying-in-2023/)\nData Source: Visual Capitalist",
+      "tags": [
+        "makeover monday",
+        "visual capitalist",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w24",
+      "title": "2023/W24: Global cereal production",
+      "description": "Change in cereal production, yield, land use and population",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/73a3814f37803509b7272ef773c0d7daf123bc2c06c3e5d628b5931ec6731569_image.png)\n\n​\n\n# Resources\nData Source: [Our World in Data](https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population)",
+      "tags": [
+        "makeover monday",
+        "population",
+        "land use",
+        "cereal",
+        "yield",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w16",
+      "title": "2023/W16: Retirement Ages Around the World",
+      "description": "At what age to people retire around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/f8d8119d5a5a6b7732d8ee917cecb9589616f4d44e23704b4ccfce3ca9d0a73f_image.png)\n\n​\n\n# Resources\nOriginal Article - [Statista](https://www.statista.com/chart/29570/european-average-effective-labor-market-exit-ages/)\nData Source - [OECD](https://stats.oecd.org/Index.aspx?QueryId=111940)\n\n​",
+      "tags": [
+        "makeover monday",
+        "age",
+        "oecd",
+        "retire",
+        "retirement",
+        "labour",
+        "labor",
+        "labor statistics",
+        "country",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w8",
+      "title": "2023/W8: The Cheapest Ways to Get Your Protein",
+      "description": "The Cheapest Ways to Get Your Protein",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3db73ff8f29a47292ba311c8b22a01128824a50ed28c88e06d079697861be225_image.png)\n\n​\n\n## **Resources**\nArticle/Data Source: [LifeHacker](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)\n\nVisualization: [The Bodybuilding Dietitians](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)",
+      "tags": [
+        "makeover monday",
+        "food",
+        "protein",
+        "cost"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
