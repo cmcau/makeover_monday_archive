@@ -1,0 +1,120 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w3-is-it-time-to-treat-sugar-like-smoking",
+  "title": "2020/W3: Is it time to treat sugar like smoking?",
+  "description": "Is it time to treat sugar like smoking?",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![​](https://ichef.bbci.co.uk/news/624/cpsprodpb/D3A6/production/_107228145_teen_sugar_640-nc.png) \n\n# **About this Dataset**\nSOURCE ARTICLE: [BBC](https://www.bbc.co.uk/news/health-48499195) \nDATA SOURCE: [British Nutrition Foundation](https://www.nutrition.org.uk/nutritioninthenews/new-reports/ndnsyears7and8.html) \n\n# **Objectives**\n\n\\* What works and what doesn't work with this chart? \n\\* How can you make it better?",
+  "version": "4c3b8a1f-3502-4fdd-a75b-e5b8ee89d4b4",
+  "tags": [
+    "makeover monday",
+    "smoking",
+    "health"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "2020W3.xlsx",
+      "sizeInBytes": 9493,
+      "created": "2020-01-17T18:58:53.864Z",
+      "updated": "2020-01-17T18:58:53.864Z",
+      "description": "Is it time to treat sugar like smoking?",
+      "labels": [],
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-01-17T18:52:40.782Z",
+  "updated": "2020-01-19T13:54:42.691Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w14",
+      "title": "2019/W14: What kind of waste appears on UK beaches?",
+      "description": "What kind of waste appears on UK beaches?",
+      "summary": "\n**Original Visualization**\n![supporting image or chart](https://ichef.bbci.co.uk/news/624/cpsprodpb/5889/production/_99156622_plastic_planet_6_640-nc.png)\n\n**About this Dataset**\nSOURCE ARTICLE: [Seven charts that explain the plastic pollution problem]( https://www.bbc.com/news/science-environment-42264788)\nDATA SOURCE: [Great British Beach Clean Report 2017]( https://www.mcsuk.org/media/GBBC_2017_Report.pdf)\n\n**Objectives**\n•\tWhat works and what doesn't work with this chart? \n•\tHow can you make it better?\n\n",
+      "tags": [
+        "waste",
+        "plastics",
+        "pollution",
+        "uk",
+        "great britain"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017w21-alcohol-consumption-in-britain",
+      "title": "2017/W21: Alcohol Consumption in Britain",
+      "description": "Are Britons falling out of love with booze?",
+      "summary": "# **Original Visualization**\n![](https://ichef.bbci.co.uk/news/624/cpsprodpb/13FFF/production/_95891918_graph_drink.png)\nSOURCE: [BBC](https://www.bbc.co.uk/news/health-39785742)\n\n# **About this Dataset**\nDATA SOURCE: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/adultdrinkinghabits)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "alcohol",
+        "britain",
+        "uk",
+        "united kingdom",
+        "britons",
+        "booze"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w36",
+      "title": "2020/W36: Calories and Sugar in Cereals",
+      "description": "Calories and sugar in 80 different cereals",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original viz](https://media.data.world/O1gQ8D4lTKGznWT9QwFi_Calories%20and%20Sugar%20IN%20Cealeoles.png)\nPLEASE NOTE: Max and Sam Preston have created this viz and deliberately gone against all best practices that they have learned. Please take a moment to check out the original, consider what improvements it needs, read the article below and then create your own Makeover.\n\n# **About this Dataset**\nSOURCE ARTICLE: [Breakfast Cereals: Healthy or Unhealthy?](https://www.healthline.com/nutrition/are-breakfast-cereals-healthy)\nDATA SOURCE: [Kaggle](https://www.kaggle.com/crawford/80-cereals?select=cereal.csv)\n\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "cereal",
+        "nutrition",
+        "added sugar",
+        "breakfast cereal",
+        "calories",
+        "kaggle"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w41-data-assets-and-data-culture",
+      "title": "2020/W41: Data assets and data culture",
+      "description": "Data assets and data culture",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-10-at-17.47.16.png](https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-10-at-17.47.16.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [DataIQ - Market Insight - Data assets and data culture](https://www.dataiq.co.uk/market-insight/data-assets-and-data-culture)\nDATA SOURCE: [Data manually lifted from PDF linked in source article](https://www.dataiq.co.uk/market-insight/data-assets-and-data-culture)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Due to rounding errors the total % of respondents exceeds 100% - do not stress about this!",
+      "tags": [
+        "makeover monday",
+        "data",
+        "research"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w34",
+      "title": "2019/W34:Americans touch their smartphones 2,617 times a day",
+      "description": "Americans touch their smartphones 2,617 times a day",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://www.pewinternet.org/wp-content/uploads/sites/9/2018/08/PI_2018.08.22_teens-screentime_0-01.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [CNBC](https://www.cnbc.com/2019/04/09/cal-newport-a-digital-declutter-can-help-you-reduce-smartphone-time.html)\nDATA SOURCE: [Pew Research Center](hhttps://www.pewinternet.org/2018/08/22/how-teens-and-parents-navigate-screen-time-and-device-distractions/pi_2018-08-22_teens-screentime_0-01/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "cellphone use",
+        "digital",
+        "culture",
+        "minimalism",
+        "survey data"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
