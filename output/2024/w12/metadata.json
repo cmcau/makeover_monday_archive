@@ -1,0 +1,53 @@
+{
+  "owner": "makeovermonday",
+  "id": "st-patrick-day-spending-by-person",
+  "title": "St. Patrick Day : Spending by Person",
+  "description": "NRF has been conducting its annual St. Patrick’s Day survey for more than a decade to see how consumers will spend for a",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n**_Source: NRF's 2024 Annual St. Patrick's Day Spending Survey conducted by Prosper Insights & Analytics_**\n\n![](https://mediauploads-US.data.world/00000-idiomind-2c959aed8c904faab6d1c8482b523b13.png)\n\n\n[https://nrf.com/research-insights/holiday-data-and-trends/st-patricks-day/st-patricks-day-data-center](https://nrf.com/research-insights/holiday-data-and-trends/st-patricks-day/st-patricks-day-data-center)\n\n",
+  "version": "b30a6763-6",
+  "tags": [
+    "st patrick",
+    "celebration"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "St Patrick Day _ Spending by person - St Patrick Spending by person.csv",
+      "sizeInBytes": 241,
+      "created": "2024-03-17T20:33:20.084898382Z",
+      "updated": "2024-03-17T20:33:20.084898382Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-03-17T20:32:24.785319141Z",
+  "updated": "2024-03-18T00:11:45.428640147Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w36-countries-with-the-most-holidays-2024",
+      "title": "2024/W36 : Countries with the Most Holidays 2024",
+      "description": "Countries with the Most Holidays 2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata from https://worldpopulationreview.com/country-rankings/countries-with-the-most-holidays \n\n\"Most every culture and country in the world celebrates holidays. Holidays take many forms. Some are near-global public holidays such as [New Year's Eve](https://worldpopulationreview.com/country-rankings/which-country-celebrates-new-year-first), and some are celebrated by only a few countries, such as [Cinco de Mayo](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-cinco-de-mayo) and [St. Patrick's Day](https://worldpopulationreview.com/country-rankings/how-many-countries-celebrate-st-patricks-day). Some are strictly religious, such as [Ramadan](https://worldpopulationreview.com/country-rankings/which-countries-celebrate-ramadan), some are strictly secular, such as [Thanksgiving](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-thanksgiving), and some have both spiritual and secular elements, such as the fall and winter holidays ([Halloween](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-halloween), [Dia de los Muertos](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-day-of-the-dead), [Christmas](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-christmas), Hanukkah, [Krampus](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-krampus), and related holidays). But which country celebrates the most holidays of all?\"\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-58e80f6111a449b3bce0d81cfdae684a.png)\n\n",
+      "tags": [
+        "countries",
+        "bank",
+        "holidays"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
