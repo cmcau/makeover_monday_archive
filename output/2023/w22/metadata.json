@@ -1,0 +1,154 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w22",
+  "title": "2023/W22: Dog Bites in New York",
+  "description": "Dog Bites in New York",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/906b3ab501e7e7710932e72462337f751481bc2a5f9746aa2e997b20cd41904a_image.png)\n\n​\n\n# Resources\nOriginal Article: [Dog Bites in NYC](https://studentwork.prattsi.org/infovis/visualization/dog-breeds-data-visualization/)\nData Sources:\n• Dog Bites ([NYC Open Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg) )\n• Dog Licensing ([NYC Open Data](https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp))",
+  "version": "3860a59e-7",
+  "tags": [
+    "dog",
+    "pet",
+    "animal",
+    "bite",
+    "new york",
+    "new york city",
+    "open data",
+    "makeover monday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "DataDictionary_Dog_Licenses.xlsx",
+      "sizeInBytes": 18535,
+      "created": "2023-05-25T15:36:31.038461883Z",
+      "updated": "2023-05-25T15:36:31.038461883Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Dog_Bites_Data.csv",
+      "sizeInBytes": 1339858,
+      "created": "2023-05-25T15:27:13.209158410Z",
+      "updated": "2023-05-25T15:27:13.209158410Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Dog_Bites_Data_Dictionary.xlsx",
+      "sizeInBytes": 69509,
+      "created": "2023-05-25T15:27:13.209186280Z",
+      "updated": "2023-05-25T15:27:13.209186280Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "NYC_Dog_Licensing_Dataset.csv",
+      "sizeInBytes": 31849904,
+      "created": "2023-05-25T15:36:31.038492418Z",
+      "updated": "2023-05-25T15:36:31.038492418Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-05-25T15:24:51.121024817Z",
+  "updated": "2023-05-29T08:49:33.121117387Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 4,
+    "tableCount": 8,
+    "columnCount": 37
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w5",
+      "title": "2023/W5: NYC Pizza Slices",
+      "description": "The cost of pizza slices in New York City",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5ff1b511714c125421488192110e1ec4ee7bac8e5ecacd07af8c1af5a9f4d796_CleanShot_2023_01_14_at_10.33.51_2x.png)\n\n​\n\n## **Resources**\nSource: [NYC pizza slices](https://elkue.com/nyc-slice/) (via Data Is Plural)\nData Source: [Liam Quigley](https://elkue.com/) | [Data](https://docs.google.com/spreadsheets/d/1EY3oi9ttxybG0A0Obtwey6BFu7QLqdHe02JApijgztg/edit)\n\n​",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "nyc",
+        "new york city",
+        "food",
+        "pizza",
+        "ratings",
+        "location",
+        "slice",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w27-rat-sightings-in-new-york-city",
+      "title": "2018/W27: Rat Sightings in New York City",
+      "description": "Rat Sightings in New York City",
+      "summary": "# **Original Visualization**\n![](http://i.imgur.com/5jk5L8f.png)\n\nCREATED BY: [Jowanza Joseph](https://twitter.com/Jowanza)\n\nSOURCE ARTICLE: [Link](https://www.jowanza.com/blog/rat-sightings-in-new-york-city-revisited)\n\n\n# **About this Dataset**\n\nDATA SOURCE: [NYC Open Data](https://nycopendata.socrata.com/Social-Services/Rat-Sightings/3q43-55fe/data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "rats"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w16",
+      "title": "2023/W16: Retirement Ages Around the World",
+      "description": "At what age to people retire around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/f8d8119d5a5a6b7732d8ee917cecb9589616f4d44e23704b4ccfce3ca9d0a73f_image.png)\n\n​\n\n# Resources\nOriginal Article - [Statista](https://www.statista.com/chart/29570/european-average-effective-labor-market-exit-ages/)\nData Source - [OECD](https://stats.oecd.org/Index.aspx?QueryId=111940)\n\n​",
+      "tags": [
+        "makeover monday",
+        "age",
+        "oecd",
+        "retire",
+        "retirement",
+        "labour",
+        "labor",
+        "labor statistics",
+        "country",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w39",
+      "title": "2023/W39: Street Level Temperatures in NYC",
+      "description": "Street level temperature on a subset of city blocks in neighborhoods with highest heat mortality risk",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/db46e506da8c5b980e51d78ffda4c3f68bf0d778155c02fc8972ad14b9480f9b_CleanShot_2023_09_22_at_7.42.16_2x.png)\n\n## Resources\nThe Guardian: [Street Level Temperatures in NYC](https://www.theguardian.com/us-news/2022/sep/07/new-york-heat-deaths-map-inequality)\nData Source: [NYC Open Data](https://data.cityofnewyork.us/dataset/Hyperlocal-Temperature-Monitoring/qdq3-9eqn)",
+      "tags": [
+        "new york city",
+        "open data",
+        "temperature",
+        "heat",
+        "street"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w41",
+      "title": "2023/W41: Retail Investment",
+      "description": "What are Retail Investors Interested in Buying in 2023?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/dc42f79a69f6d39ecf0c9717675072ec5a0c05560d853c914a5e9ee78c3c441c_image.png)\n\n## **Resources**\nArticle: [What are Retail Investors Interested in Buying in 2023?](https://www.visualcapitalist.com/charted-what-are-retail-investors-interested-in-buying-in-2023/)\nData Source: Visual Capitalist",
+      "tags": [
+        "makeover monday",
+        "visual capitalist",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
