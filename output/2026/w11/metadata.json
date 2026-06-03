@@ -1,0 +1,104 @@
+{
+  "owner": "makeovermonday",
+  "id": "8-fastest-cars-in-the-world-as-of-2026",
+  "title": "2026/Wk11 8 Fastest Cars In The World | As Of 2026",
+  "description": "Which are the fastest cars in 2026?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original**\n![](https://mediauploads-US.data.world/00000-datainformant-a4aaf9cfa77f46f18de6c908523e6cd8.png)\n\n​\n\nArticle: [8 Fastest Cars In The World | As Of 2026 - RankRed](https://www.rankred.com/fastest-cars-in-the-world/)\nData: RankRed/Chimdi (Compiled from article, enriched with google)",
+  "version": "b7e0a20d-7",
+  "tags": [
+    "cars",
+    "speed",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "The fastest cars.xlsx",
+      "sizeInBytes": 12009,
+      "created": "2026-03-16T02:56:46.458725472Z",
+      "updated": "2026-03-16T02:56:46.458725472Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-03-16T02:51:14.904572961Z",
+  "updated": "2026-03-16T02:59:09.132745647Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 14
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "the-most-reliable-car-brands",
+      "title": "The Most Reliable Car Brands",
+      "description": "A list of the most reliable car brands in the US",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n**Original Visualization**\n\n\n![](https://mediauploads-US.data.world/00000-datainformant-e90cd5a11d3545879f53b6634bfeee88.jpg)\n\n​\n\nSOURCE  & ARTICLE : [Ranked: The Most Reliable Car Brands in the U.S. (visualcapitalist.com)](https://www.visualcapitalist.com/ranked-the-most-reliable-car-brands-in-the-u-s/)",
+      "tags": [
+        "cars",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk-8-the-periodic-table-of-ai-startups",
+      "title": "2026/WK 8 The Periodic Table of AI Startups",
+      "description": "14 categories of AI companies founded/funded Feb 2025-Feb 2026",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-e9aab82b6a0043d68a707a82bd37fc84.png)\n\n​\n\nDatasource & Article :  [The Periodic Table of AI Startups – 14 categories of AI companies founded/funded Feb 2025-Feb 2026 - Voronoi](https://www.voronoiapp.com/investing/The-Periodic-Table-of-AI-Startups--14-categories-of-AI-companies-foundedfunded-Feb-2025-Feb-2026-7663)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-11-electric-car-sales",
+      "title": "2025/ week 11 Electric car sales",
+      "description": "Trends in electric cars",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-63e6dae2c7cd4395bf0953cc24ebb2cd.png)\n\n​\n\nDatasource: [Global EV Data Explorer – Data Tools - IEA](https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer)\n\nArticle: [Trends in electric cars – Global EV Outlook 2024 – Analysis - IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars)\n\nShow less",
+      "tags": [
+        "makeover monday",
+        "cars",
+        "ev"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025wk48-which-ai-models-hallucinate-the-most",
+      "title": "2025/WK48 Which AI Models Hallucinate the Most?",
+      "description": "A Look into which AI models have higher rates of accuracy / hallucination",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-954613b04960410c83019ac4c49d5556.png)\n\n​\n\nDatasource and Article : [Which AI Models Hallucinate the Most? - Voronoi](https://www.voronoiapp.com/technology/Which-AI-Models-Hallucinate-the-Most-7211)",
+      "tags": [
+        "makeovermonday",
+        "ai"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk2-the-biggest-housing-bubble-risks-globally",
+      "title": "2026/WK2 The Biggest Housing Bubble Risks Globally",
+      "description": "Exploring the level of housing bubble risk for major cities globally",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-f645b061f5cb4a5587ca73fb4459e8d3.png)\n\n​\n\nDatasource & Article :  [Housing Bubble Risks: Mapping the 2025 Landscape](https://www.visualcapitalist.com/sp/ter01-the-biggest-housing-bubble-risks-globally/)",
+      "tags": [
+        "housing",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
