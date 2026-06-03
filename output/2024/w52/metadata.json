@@ -1,0 +1,96 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w52-how-does-our-spending-change-in-december",
+  "title": "2024/W52 How Does Our Spending Change in December?",
+  "description": "December Average Percent Increase By Commodity Category",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-fc030a4dbf4b4cedb692493b5aa0ac5f.png)\n\nDatasource: [ONS and Bank Calculations](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas)\n\nArticle: [Bank of England](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas)",
+  "version": "0643e6ca-4",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "How Does Our Spending Change in December.csv",
+      "sizeInBytes": 473,
+      "created": "2024-12-22T12:13:09.017276009Z",
+      "updated": "2024-12-22T12:13:09.017276009Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-12-22T12:03:17.549324589Z",
+  "updated": "2024-12-22T12:13:35.228986082Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w30-london-underground-average-monthly-temperatures",
+      "title": "2025/W30 London Underground Average Monthly Temperatures",
+      "description": "London Underground Average Monthly Temperatures (°C) 2013-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-11485fd39bcc40c7911336374c95e8eb.png)\n\nDatasource: [TFL](https://data.london.gov.uk/dataset/london-underground-average-monthly-temperatures/)\nArticle: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739705/london-underground-hottest-line.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w16-airhelp-global-airport-rankings",
+      "title": "2024/W17 AirHelp Global Airport Rankings",
+      "description": "2023 AirHelp scores for 194 of the worlds busiest airports.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4aeac604d4974dc38557f604f53aa62d.png)\n\n​\n\nDatasource : [AirHelp](https://www.airhelp.com/en-gb/blog/airhelp-score-2023-how-did-we-rank-the-airports/)\n\nArticle : [Global Airport Ranking](https://www.airhelp.com/en-gb/airhelp-score/airport-ranking/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "paris-2024-medal-cout",
+      "title": "2024/W35 Paris 2024 Medal Count",
+      "description": "Paris 2024 Olympic medal count by country, sport & sporting event",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-367ed83c71394f1fb94123556a946b57.png)\n\n​\n\nDatasource: [Olympics](https://olympics.com/en/paris-2024/medals)\n\nArticle: [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w9-world-population-estimates-projections",
+      "title": "2025/W9 World Population Estimates & Projections",
+      "description": "Population estimates and projections until 2050 by region & country.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-b6f04f1a8d2c493b854f4b911a987e8f.png)\n\nDatasource: [World Bank Group](https://datacatalog.worldbank.org/search/dataset/0037655/Population-Estimates-and-Projections)\n\nArticle: [World Bank Group](https://data.worldbank.org/indicator/SP.POP.GROW?name_desc=false)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w33-access-to-electricity-of-population",
+      "title": "2025/W33 Access to Electricity (% of Population)",
+      "description": "% of population who have access to electricity.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-cfc0a4ebe4c645eeaa81d710095f42ad.png)\n\nDatasource: [World Bank Group](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=map)\n\nArticle: [World Bank Group](https://blogs.worldbank.org/en/voices/How-to-close-Africa-energy-access-gap)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
