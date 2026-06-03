@@ -1,0 +1,100 @@
+{
+  "owner": "makeovermonday",
+  "id": "child-and-infant-mortality",
+  "title": "Child and Infant Mortality",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n**Original Visualization**\n\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-c969572fe7d24417a116b53f39a411b2.png)\n\n​\n\n​\n\nSOURCE  & ARTICLE : [Child and Infant Mortality - Our World in Data](https://ourworldindata.org/child-mortality?insight=millions-of-children-die-every-year#key-insights)\n\n​",
+  "version": "87bf9a7f-6",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "child-mortality.csv",
+      "sizeInBytes": 499212,
+      "created": "2024-09-09T04:27:45.491628050Z",
+      "updated": "2024-09-09T04:27:45.491628050Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-09-09T04:24:16.936487742Z",
+  "updated": "2024-09-09T04:58:07.983705894Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "a-century-of-global-deaths-from-disasters",
+      "title": "Death from Natural Disasters",
+      "description": "How many people die from disasters, and how are these impacts changing over time?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\\*To view the exact chart on the article page, change the \"Disaster Type\" selection in the dropdown\n\n![](https://mediauploads-US.data.world/00000-datainformant-ba4be6f078ac4c7989f2c9b107fd02ad.png)\n\n\n![](https://mediauploads-US.data.world/00000-datainformant-cd544bc4ebfb404d809fa874d0c85fb1.png)\n\n​\n\nLink to article :[Natural Disasters - Our World in Data](https://ourworldindata.org/natural-disasters)\n\nSource: [Natural Disasters - Our World in Data](https://ourworldindata.org/natural-disasters)\n\nNotes on data: Decadal figures are measured as the annual average over the subsequent ten-year period. This means figures for ‘1900’ represent the average from1900 to 1909; ‘1910’ is the average from 1910 to 1919 etc. Data includes disasters recorded up to April 2024.",
+      "tags": [
+        "makeover monday",
+        "disaster"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "coverage-of-the-hpv-vaccine",
+      "title": "2025/ Week 2 Coverage of the HPV Vaccine",
+      "description": "Proportion of the target who received the final dose of (HPV) vaccine (%)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-682c4268932041de92733b7a51fcce07.png)\n\n​\n\nDatasource / Article : [HPV vaccination: How the world can eliminate cervical cancer - Our World in Data](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)",
+      "tags": [
+        "makeover monday",
+        "hpv vaccine"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "global-energy-consumption",
+      "title": "Global Energy Consumption",
+      "description": "How much energy does the world consume?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-3692b68c387b47b9a17e79ab31fbde45.png)\n\n​\n\nArticle and Datasource : [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)",
+      "tags": [
+        "energy",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "meat-production-by-livestock-type",
+      "title": "2025 / Week 35 Meat Production by Livestock Type",
+      "description": "Global meat production by livestock type",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-f893942214d7454ea941573510dd5cac.png)\n\n​\n\n​\n\nDatasource + Article: [Meat and Dairy Production - Our World in Data](https://ourworldindata.org/meat-production)",
+      "tags": [
+        "meat",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "out-of-school-youths-and-adolescents",
+      "title": "Out of School Youths and Adolescents",
+      "description": "Out-of-school children, adolescents and youth: Global status and trends",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-7954ee01388342edae40558898f32b7b.png)\n\n​\n\nDatasource and Article: [new-methodology-shows-258-million-children-adolescents-and-youth-are-out-school.pdf](https://uis.unesco.org/sites/default/files/documents/new-methodology-shows-258-million-children-adolescents-and-youth-are-out-school.pdf)",
+      "tags": [
+        "education",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
