@@ -1,0 +1,102 @@
+{
+  "owner": "makeovermonday",
+  "id": "do-younger-britons-see-kidult-hobbies-as-less-childish",
+  "title": "2025/Wk 38 Do Britons see 'kidult' hobbies as childish",
+  "description": "% of people who say 'kidult' hobbies are entirely or mostly for children",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-e248aa7e506241d0964d42f2684d9052.png)\n\n​\n\nDatasource + Article: [Which ‘kidult’ hobbies and practices do Britons think are really for children? | YouGov](https://yougov.co.uk/society/articles/52851-which-kidult-hobbies-and-practices-do-britons-think-are-really-for-children)",
+  "version": "fd6da184-5",
+  "tags": [
+    "hobbies",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "% saying kidult hobbies are entirely or mostly for children.xlsx",
+      "sizeInBytes": 10835,
+      "created": "2025-09-15T15:52:15.068399225Z",
+      "updated": "2025-09-15T15:52:15.068399225Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-09-15T15:49:36.326673219Z",
+  "updated": "2025-09-15T15:56:48.781185842Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 21
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "out-of-school-youths-and-adolescents",
+      "title": "Out of School Youths and Adolescents",
+      "description": "Out-of-school children, adolescents and youth: Global status and trends",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-7954ee01388342edae40558898f32b7b.png)\n\n​\n\nDatasource and Article: [new-methodology-shows-258-million-children-adolescents-and-youth-are-out-school.pdf](https://uis.unesco.org/sites/default/files/documents/new-methodology-shows-258-million-children-adolescents-and-youth-are-out-school.pdf)",
+      "tags": [
+        "education",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "life-expectancy-by-country-in-2025",
+      "title": "2025/W26 Life Expectancy by Country in 2025",
+      "description": "How Long People Live, by Country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-1fbb4b99e69049daa27b90994a38fe56.png)\n\n​\n\nDatasource : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\nArticle : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\n​",
+      "tags": [
+        "makeovermonday",
+        "life expectancy"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w51-new-year-resolution-tweets-in-us",
+      "title": "2025/W51 New Year Resolution in US",
+      "description": "What were Americans’ New Year’s Resolutions for 2025?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-f2a2a086c7264f8e9a5ac27ff3d4db86.jpg)\n\n​\n\nDatasource & Article: [YouGov US 2025 New Year's Resolutions](https://today.yougov.com/society/articles/51144-what-are-americans-new-years-resolutions-for-2025)",
+      "tags": [
+        "makeovermonday",
+        "resolutions"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w33-access-to-electricity-of-population",
+      "title": "2025/W33 Access to Electricity (% of Population)",
+      "description": "% of population who have access to electricity.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-cfc0a4ebe4c645eeaa81d710095f42ad.png)\n\nDatasource: [World Bank Group](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=map)\n\nArticle: [World Bank Group](https://blogs.worldbank.org/en/voices/How-to-close-Africa-energy-access-gap)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025wk48-which-ai-models-hallucinate-the-most",
+      "title": "2025/WK48 Which AI Models Hallucinate the Most?",
+      "description": "A Look into which AI models have higher rates of accuracy / hallucination",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-954613b04960410c83019ac4c49d5556.png)\n\n​\n\nDatasource and Article : [Which AI Models Hallucinate the Most? - Voronoi](https://www.voronoiapp.com/technology/Which-AI-Models-Hallucinate-the-Most-7211)",
+      "tags": [
+        "makeovermonday",
+        "ai"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
