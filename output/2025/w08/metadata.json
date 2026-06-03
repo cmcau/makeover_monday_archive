@@ -1,0 +1,109 @@
+{
+  "owner": "makeovermonday",
+  "id": "per-second-vibrations-cycles-waves-rate-frequency",
+  "title": "2025/ Week 8 Per Second – Vibrations , Cycles , Waves etc.",
+  "description": "Breakdown of different dimensions across seconds",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-datainformant-5c975034e8904a4285288fd08d8f616f.png)\n\n​\n\nData [Information is Beautiful](https://informationisbeautiful.net/2024/per-second-vibrations-cycles-waves-rate-frequency/)",
+  "version": "a5805a24-9",
+  "tags": [
+    "makeover monday",
+    "seconds"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Per Second.xlsx",
+      "sizeInBytes": 13743,
+      "created": "2025-02-17T20:39:57.911616413Z",
+      "updated": "2025-02-17T20:39:57.911616413Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-02-17T20:25:41.544549792Z",
+  "updated": "2025-02-21T01:15:16.832142121Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "the-rise-and-rise-of-llms",
+      "title": "The Rise and Rise of LLMs",
+      "description": "The Rise and Rise of A.I.   Large Language Models (LLMs)& their associated bots like ChatGPT",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-ac45d6b3309f46eb80209fbf8faefb5d.png)\n\n​\n\nLink to original :  [The Rise of Generative AI Large Language Models (LLMs) like ChatGPT — Information is Beautiful](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)\n\nSource : [https://geni.us/IIB-LLMdata](https://geni.us/IIB-LLMdata)",
+      "tags": [
+        "bots",
+        "chatgpt",
+        "llms",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w20-the-religious-composition-of-the-worlds-migrants",
+      "title": "2025/W20 : The Religious Composition of the World’s Migrants",
+      "description": "A breakdown of global migration patterns by religious affiliation",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-e2b09fbf79bc4c64acfb14d3d8e3e11a.png)\n\n​\n\nDatasource: https://www.pewresearch.org/dataset/dataset-religious-composition-of-the-worlds-migrants-1990-2020/\n\nArticle: [How Immigrants Are Shaping the Religious Landscape | Pew Research Center](https://www.pewresearch.org/religion/2024/08/19/the-religious-composition-of-the-worlds-migrants/)",
+      "tags": [
+        "makeover monday",
+        "religion",
+        "migration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-11-electric-car-sales",
+      "title": "2025/ week 11 Electric car sales",
+      "description": "Trends in electric cars",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-63e6dae2c7cd4395bf0953cc24ebb2cd.png)\n\n​\n\nDatasource: [Global EV Data Explorer – Data Tools - IEA](https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer)\n\nArticle: [Trends in electric cars – Global EV Outlook 2024 – Analysis - IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars)\n\nShow less",
+      "tags": [
+        "makeover monday",
+        "cars",
+        "ev"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-best-performing-marvel-movie",
+      "title": "Which is The Best Performing Marvel Movie ?",
+      "description": "The Best Performing Marvel Movie",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image.png](https://mediauploads-US.data.world/00000-datainformant-2a4b29592abc473885f569de014d903d.png)\n\n# **About this Dataset**\n\\* SOURCE: [Information is Beautiful](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* Share your remakes on Linkedin and/or Twitter!\n\nRemember to tag Irene Diomi, Harry Beardon, and Chimdi Nwosu.",
+      "tags": [
+        "marvel",
+        "movies",
+        "makeovermonday",
+        "datavisualization"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "coverage-of-the-hpv-vaccine",
+      "title": "2025/ Week 2 Coverage of the HPV Vaccine",
+      "description": "Proportion of the target who received the final dose of (HPV) vaccine (%)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-682c4268932041de92733b7a51fcce07.png)\n\n​\n\nDatasource / Article : [HPV vaccination: How the world can eliminate cervical cancer - Our World in Data](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)",
+      "tags": [
+        "makeover monday",
+        "hpv vaccine"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
