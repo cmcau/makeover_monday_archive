@@ -1,0 +1,124 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w41",
+  "title": "2023/W41: Retail Investment",
+  "description": "What are Retail Investors Interested in Buying in 2023?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/dc42f79a69f6d39ecf0c9717675072ec5a0c05560d853c914a5e9ee78c3c441c_image.png)\n\n## **Resources**\nArticle: [What are Retail Investors Interested in Buying in 2023?](https://www.visualcapitalist.com/charted-what-are-retail-investors-interested-in-buying-in-2023/)\nData Source: Visual Capitalist",
+  "version": "ab29692a-4",
+  "tags": [
+    "makeover monday",
+    "visual capitalist",
+    "retail"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Retail Investors Focus.xlsx",
+      "sizeInBytes": 9367,
+      "created": "2023-10-07T16:10:44.770856057Z",
+      "updated": "2023-10-07T16:10:44.770856057Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-10-07T16:10:32.573919650Z",
+  "updated": "2023-10-08T17:25:15.347557900Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w19",
+      "title": "2021/W19: What Does 1GB of Mobile Data Cost by Country?",
+      "description": "What Does 1GB of Mobile Data Cost in Every Country?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/ziDtA7B9QyCypYZySfEn_image.png)\n\n​\n\n# **About this Dataset**\n**Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n**Data Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "data",
+        "country",
+        "location",
+        "mobile",
+        "phone",
+        "cost",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w30a",
+      "title": "2021/W30: America's Racial Breakdown By State",
+      "description": "America's Racial Breakdown By State",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/xCzvj40QAO2eWbPe9xPQ_image.png)\n\n​\n\n# Resources\nOriginal viz: [Visual Capitalist](https://www.visualcapitalist.com/visualizing-u-s-population-by-race/)\n\nData Source: Kaiser Family Foundation, U.S. Census Bureau",
+      "tags": [
+        "makeover monday",
+        "race",
+        "ethnicity",
+        "usa",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w21-visualizing-40-years-of-music-industry-sales",
+      "title": "2020/W21: Visualizing 40 Years of Music Industry Sales",
+      "description": "Visualizing 40 Years of Music Industry Sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/music-industry-sales/)\nDATA SOURCE: [RIAA](https://www.riaa.com/u-s-sales-database/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "music"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w16",
+      "title": "2023/W16: Retirement Ages Around the World",
+      "description": "At what age to people retire around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/f8d8119d5a5a6b7732d8ee917cecb9589616f4d44e23704b4ccfce3ca9d0a73f_image.png)\n\n​\n\n# Resources\nOriginal Article - [Statista](https://www.statista.com/chart/29570/european-average-effective-labor-market-exit-ages/)\nData Source - [OECD](https://stats.oecd.org/Index.aspx?QueryId=111940)\n\n​",
+      "tags": [
+        "makeover monday",
+        "age",
+        "oecd",
+        "retire",
+        "retirement",
+        "labour",
+        "labor",
+        "labor statistics",
+        "country",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-3-u-s-household-income-distribution-by-state",
+      "title": "2018/W3: U.S. Household Income Distribution by State",
+      "description": "U.S. Household Income Distribution by State",
+      "summary": "# **Original Visualization**\n![Visual Capitalist](http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/11/household-income.png)\n\n# **About this Dataset**\n**SOURCE:** [Visual Capitalist](http://www.visualcapitalist.com/household-income-distribution-u-s-state/)\n\n**DATA SOURCE:** [U.S. Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "united states",
+        "income distribution",
+        "state",
+        "household",
+        "visual capitalist"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
