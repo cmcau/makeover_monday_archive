@@ -1,0 +1,94 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w29-open-era-wimbledon-championships",
+  "title": "2024/W29 Open Era Wimbledon Championships",
+  "description": "Open Era (1968 Onwards) Wimbledon Championships & Prize Money (£)",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualizations**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-c14bdfc9b5d04d71afa851cdc1aca160.png)\n\n\n![](https://mediauploads-US.data.world/00000-beardon-674816ed5ca54fc086f894b72484891e.png)\n\n​\n\nDatasource : [Wimbledon (Prize Money)](https://www.wimbledon.com/en_GB/about_wimbledon/prize_money_and_finance.html), [Wimbledon (Champions)](https://www.wimbledon.com/en_GB/draws_archive/champions/gentlemenssingles.html)\n\nArticle : [Flourish](https://flourish.studio/blog/visualizing-wimbledon-2022/)",
+  "version": "891c01ce-5",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Wimbledon Champions (Open Era).xlsx",
+      "sizeInBytes": 10878,
+      "created": "2024-07-14T15:57:50.245933809Z",
+      "updated": "2024-07-14T15:57:50.245933809Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-07-14T15:50:53.622872402Z",
+  "updated": "2024-07-14T16:01:42.114860089Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w16-airhelp-global-airport-rankings",
+      "title": "2024/W17 AirHelp Global Airport Rankings",
+      "description": "2023 AirHelp scores for 194 of the worlds busiest airports.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4aeac604d4974dc38557f604f53aa62d.png)\n\n​\n\nDatasource : [AirHelp](https://www.airhelp.com/en-gb/blog/airhelp-score-2023-how-did-we-rank-the-airports/)\n\nArticle : [Global Airport Ranking](https://www.airhelp.com/en-gb/airhelp-score/airport-ranking/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w32-2024-paris-olympics-venue-locations",
+      "title": "2024/W32 2024 Paris Olympics Venue Locations",
+      "description": "Geographical locations of Paris Olympics venues and number of events held at them.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-b3a423e96641410cbf85730402633c7d.png)\n\n​\n\nDatasource: [Paris 2024](https://data.paris2024.org/pages/accueil/?flg=en-gb)\n\nArticle: [Paris 2024](https://olympics.com/en/paris-2024/venues)",
+      "tags": [
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "paris-2024-medal-cout",
+      "title": "2024/W35 Paris 2024 Medal Count",
+      "description": "Paris 2024 Olympic medal count by country, sport & sporting event",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-367ed83c71394f1fb94123556a946b57.png)\n\n​\n\nDatasource: [Olympics](https://olympics.com/en/paris-2024/medals)\n\nArticle: [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w20-us-made-gun-exports-2005-2022",
+      "title": "2024/W20 US-Made Gun Exports 2005-2022",
+      "description": "Cumulative volume of US semiautomatic firearm exports, 2005–2022",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-c7bb995e7d1d40abbd50b7381601d6d7.png)\n\n​\n\nDatasource : [United States Census Bureau](https://www.census.gov/foreign-trade/data/index.html)\n\nArticle : [Bloomberg](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w21-metacritic-best-games-of-all-time",
+      "title": "2025/W21 Metacritic Best Games of All Time",
+      "description": "All games with a 90+ metascore (critic reviews) on Metacritic",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-59c00425eae94d5781efdb407cecfdad.png)\n\nDatasource: [Metacritic](https://www.metacritic.com/browse/game/)\n\nArticle: [Metacritic](https://www.metacritic.com/browse/game/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
