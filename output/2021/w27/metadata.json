@@ -1,0 +1,71 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w27",
+  "title": "2021/W27: If Only ____ Voted",
+  "description": "2020 Electoral Map -  If Only ____ Voted",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\nNOTE: This is a cropped version of the original viz. View the original visualization [here](https://www.reddit.com/r/dataisbeautiful/comments/kji3wx/oc_2020_electoral_map_if_only_voted_breakdown_by/).\n\n![](https://media.data.world/m34sMovSRDm0j2UQHJPg_Untitled.jpg)\n\n​\n\n# Resources\nOriginal Visualization: [2020 Electoral Map If Only \\_\\_\\_\\_ Voted](https://www.reddit.com/r/dataisbeautiful/comments/kji3wx/oc_2020_electoral_map_if_only_voted_breakdown_by/)\nCreated by: [Dustin Gibson](https://www.reddit.com/user/dustingibson/)\nData Source: [Dustin Gibson](https://docs.google.com/spreadsheets/d/1j-sTWtIrXuqMOj6I67X0Q9bpQ-XmKkf71jXj48j_BmE/edit#gid=244779571) via AP Votecast Exit Polls (which can be viewed on the [New York Times](https://www.nytimes.com/interactive/2020/11/03/us/elections/ap-polls-alaska.html))\nAdditional Info: [Reddit](https://www.reddit.com/r/dataisbeautiful/comments/kji3wx/oc_2020_electoral_map_if_only_voted_breakdown_by/ggwqnft/)",
+  "version": "5897eeea-2c64-4171-9732-5e1607103864",
+  "tags": [
+    "makeover monday",
+    "election",
+    "survey",
+    "demographics",
+    "united states",
+    "usa",
+    "vote",
+    "trump",
+    "biden",
+    "electoral map",
+    "democrat",
+    "republican",
+    "red",
+    "blue",
+    "states"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "2020_ap_exit_polls_combined.csv",
+      "sizeInBytes": 103510,
+      "created": "2021-07-05T14:56:46.638Z",
+      "updated": "2021-07-05T14:56:46.638Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-07-03T17:13:42.603Z",
+  "updated": "2021-07-05T14:56:46.638Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 9
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w36",
+      "title": "2022/W36: Median Age at First Marriage in America",
+      "description": "Median Age of Women at First Marriage by State vs. State Population Density",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/1b2789bc3c3bcde3a3e7d228b7f41e6dc1835cdc2422f7d240e066d0b5bf29b3_image.png)\n\n# Resources\nOriginal Viz/Article - [Reddit](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)\nData Source - [PBR.org](https://www.prb.org/usdata/indicator/marriage-age-women/snapshot/)",
+      "tags": [
+        "makeover monday",
+        "marriage",
+        "women",
+        "men",
+        "state",
+        "population",
+        "america",
+        "united states",
+        "usa",
+        "age"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
