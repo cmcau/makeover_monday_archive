@@ -1,0 +1,99 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w19-us-population-migration",
+  "title": "2026/W19 US Population Migration",
+  "description": "From 2010 through 2019, the data shows the US county level population migration by gender",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-c1ce37b7319840559a0194d04863cbc7.png)\n\n",
+  "version": "9eb51116-5",
+  "tags": [
+    "us population"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US County PopMigration.csv",
+      "sizeInBytes": 176554,
+      "created": "2026-05-11T13:31:57.060189352Z",
+      "updated": "2026-05-11T13:31:57.060189352Z",
+      "createdBy": "ojoswi",
+      "updatedBy": "ojoswi"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-05-11T13:26:23.416484390Z",
+  "updated": "2026-05-11T13:37:20.935398978Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w5-gold-prices",
+      "title": "Gold Prices",
+      "description": "Monthly Gold Prices over the last 20 years from BullionVault",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-d5bb4d14f92a41ae97b7b4f12107db62.jpg)\n\n​\n\nDatasource: https://www.bullionvault.com/gold-price-chart.do",
+      "tags": [
+        "makeovermonday",
+        "gold"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w51-new-year-resolution-tweets-in-us",
+      "title": "2025/W51 New Year Resolution in US",
+      "description": "What were Americans’ New Year’s Resolutions for 2025?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-f2a2a086c7264f8e9a5ac27ff3d4db86.jpg)\n\n​\n\nDatasource & Article: [YouGov US 2025 New Year's Resolutions](https://today.yougov.com/society/articles/51144-what-are-americans-new-years-resolutions-for-2025)",
+      "tags": [
+        "makeovermonday",
+        "resolutions"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w13-ai-workslop",
+      "title": "2026/W13 AI Workslop",
+      "description": "Data sourced from a survey about how frequently US desk workers send low quality AI generated work slop to colleagues",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-44fbd982bcec4ae4a1736c75c01035e6.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-w19-asian-restaurants-in-the-us",
+      "title": "2025 W19: Asian Restaurants in the US",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: Pew Research Center analysis of SafeGraph data for all\nopen restaurants in the U.S. (N=787,153) as of March 23, 2023.\n\nArticle: https://www.pewresearch.org/short-reads/2023/05/23/71-of-asian-restaurants-in-the-u-s-serve-chinese-japanese-or-thai-food/\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-29e64c410aa348baadd9f43c8361a01b.png)\n\n",
+      "tags": [
+        "restaurant"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "individuals-using-the-internet-of-population",
+      "title": "Individuals using the Internet (% of population)",
+      "description": "This is the proportion of people that use the internet across the world.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-6840b94695034be49e3d5391fbdd9e45.png)\n\n​\n\nDatasource: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)\n\nArticle: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)",
+      "tags": [
+        "makeovermonday",
+        "internet"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
