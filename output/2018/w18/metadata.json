@@ -1,0 +1,74 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w18-bee-colony-loss",
+  "title": "2018/W18: Bee Colony Loss",
+  "description": "Bee Colony Loss",
+  "summary": "# **Original Visualization**\n![Original Visualization](https://media.data.world/pqKNj6jZTiCmR3xP8JrE_original.png)\n\n# **About this Dataset**\nSOURCE: [Bee Informed](https://bip2.beeinformed.org/loss-map/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n# **Notes**\n\n* Slight variations, resulting from additional analyses, may occur between reported losses in publications and those shown on this map.\n* Responses for beekeepers that manage colonies in more than one state are included in the loss calculation for each state they keep bees in.\n* Percent of beekeepers exclusive to the state indicates the percent of responding beekeepers who do NOT keep bees in other states in addition to the state indicated here.\n* \"Average loss\" represents the average level of loss experienced by a beekeeper in its operation in the selected state. \"Total loss\" is the estimate of the number of colonies lost by the whole beekeeping population in that state.\n* For the protection of privacy, losses are reported as N/A if 5 or fewer beekeepers responded in that state. These beekeepers losses are included in the national statistics.",
+  "version": "712d785d-8ff5-470a-9412-689ebda9535b",
+  "tags": [
+    "bees",
+    "honey bees",
+    "bee colony loss",
+    "environment"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Bee Colony Loss.xlsx",
+      "sizeInBytes": 29055,
+      "created": "2018-04-27T09:19:39.385Z",
+      "updated": "2018-04-27T09:19:39.385Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-04-27T08:16:49.641Z",
+  "updated": "2018-04-29T11:24:34.887Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w16-zambia-southern-province-confirmed-malaria-cases",
+      "title": "2018/W16: Zambia Southern Province Confirmed Malaria Cases",
+      "description": "Zambia Southern Province Confirmed Malaria Cases",
+      "summary": "# **Original Visualization**\n![week 16 original.png](https://media.data.world/XvOumXCQkmgfZZXfvjaA_week%2016%20original.png)\n\n[Interactive Version](https://public.tableau.com/profile/jonathan.drummey#!/vizhome/VisualizeNoMalariaMakeoverMonday201804/AreaChart)\n\n# **About this Dataset**\nSOURCE: Simulated data from http://visualizenomalaria.org. \nContact jdrummey@path.org with data questions \n# **Description**\nThe data is a simulated data set based on actual malaria case counts detected by Zambian Ministry of Health staff who are part of the VisualizeNoMalaria project http://visualizenomalaria.org in Southern Province, Zambia. The data has records for each month for each district in the province broken down by Reporting Category (whether cases were detected by Health Facility staff or Community Health Workers) and Urban/Rural (where the facility or community health workers are located) with a single Count measure.\n\nThe chart is a sample view of this data based on a real-world chart used in the Visualize No Malaria project.\n\nThe repeating pattern in the data set is coming from the rainy season each year that drives malaria transmission. The decline in the size of the case counts over is due to the persistent efforts of the Zambian Ministry of Health staff and their partners, for more information see http://visualizenomalaria.org and http://makingmalariahistory.org. The counts themselves are not the actual counts, they are simulated.\n\nIn the data set is a Disclaimer field with the text “Simulated data from http://visualizenomalaria.org. Contact jdrummey@path.org for data question.”, **please include that text somewhere on your visualization.**\n\nOne final note about creating maps on this data if you are using Tableau: Tableau will map the Zambian districts, you’ll need to right-click on the District field and choose Default Properties->Geographic Role->County.\n\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "malaria",
+        "public health",
+        "non profit",
+        "path",
+        "visualize no malaria"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w23-uk-gender-pay-gap",
+      "title": "2018/W23: U.K. Gender Pay Gap",
+      "description": "U.K. Gender Pay Gap",
+      "summary": "# **Original Visualization**\n![6268-HMRC-Gender-Pay-Gap-_HMRC__v3_MB_20171205-4.gif](https://media.data.world/UfLDYT9CR2sL14SFGosl_6268-HMRC-Gender-Pay-Gap-_HMRC__v3_MB_20171205-4.gif)\n\n# **About this Dataset**\nSOURCE: [GOV.UK](https://www.gov.uk/government/publications/hmrc-and-voa-gender-pay-gap-report-and-data-2017/hm-revenue-and-customs-gender-pay-gap-report-2017)\n\nPlease use the #genderpaygap hashtag when you post on Twitter. Also tag @govuk @voagovuk and @aislingroberts.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n# **Notes & Explanations**\n## Difference in hourly rate\nThe mean hourly rate is the average hourly wage across the entire organization so the mean gender pay gap is a measure of the difference between women’s mean hourly wage and men’s mean hourly wage.\n\nFor example, if the mean is positive, then women are paid less than men by the percentage listed.\n\nThe median hourly rate is calculated by ranking all employees from the highest paid to the lowest paid, and taking the hourly wage of the person in the middle; so the median gender pay gap is the difference between women’s median hourly wage (the middle paid woman) and men’s median hourly wage (the middle paid man).\n\nFor example, if the median is positive, then women are paid less than men by the percentage listed.\n\n## Proportion of women in each pay quartile\nPay quartiles are calculated by splitting all employees in an organisation into four even groups according to their level of pay. Looking at the proportion of women in each quartile gives an indication of women's representation at different levels of the organisation.\n\n![Screen Shot 2018-06-02 at 9.07.42 pm.png](https://media.data.world/B6RCWCCmQCK9bJRuKCBQ_Screen%20Shot%202018-06-02%20at%209.07.42%20pm.png)\n\n## Company Lookup\nFind any company at https://gender-pay-gap.service.gov.uk/. \n\n## Example\nAs an example, consider [Red Band Chemical Company](https://gender-pay-gap.service.gov.uk/viewing/employer-details?e=zfHBmPVe7y86yXwqcStdLg%21%21).\n\nDifference in hourly rate\nWomen’s mean hourly rate is 2.3% lower than men’s\nIn other words when comparing mean hourly rates, women earn 98p for every £1 that men earn.\n\nWomen’s median hourly rate is 2.7% higher than men’s\nIn other words when comparing median hourly rates, women earn £1.03 for every £1 that men earn.\n\nProportion of women in each pay quartile\n\nWho received bonus pay\n66.7% of women\n15.6% of men\nDifference in bonus pay\nWomen’s mean bonus pay is 15% lower than men’s\nWomen’s median bonus pay is 37.5% lower than men’s\n\n",
+      "tags": [
+        "united kingdom",
+        "gender",
+        "pay",
+        "gap",
+        "companies",
+        "makeover monday",
+        "hmrc",
+        "valuation office agency",
+        "voa"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
