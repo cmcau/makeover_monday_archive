@@ -1,0 +1,131 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w17",
+  "title": "2023/W17: Biggest Tomato & Potato Producers",
+  "description": "Production of tomatoes and potatoes by country",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/41586fdcbc9dfb4fd9b6f967fab26fb395d1daad423a6a9e908103fc8e1a8b3e_CleanShot_2023_04_18_at_3.43.17_2x.png)\n\n​\n\n# Resources\nOriginal viz - [Sjoerd Tilmans via LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/)\n\nData Source: [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)",
+  "version": "92cd3b83-4",
+  "tags": [
+    "makeover monday",
+    "potato",
+    "tomato",
+    "production",
+    "crops",
+    "yield",
+    "harvest",
+    "country"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Tomato & Potato Production.csv",
+      "sizeInBytes": 4779076,
+      "created": "2023-04-18T14:42:55.664164406Z",
+      "updated": "2023-04-18T14:42:55.664164406Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-04-18T14:39:48.732392895Z",
+  "updated": "2023-04-23T19:10:37.316025642Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w11",
+      "title": "2021/W11: What is the World's Biggest Cash Crop?",
+      "description": "From 1961-2019, which crops per region were most harvested, produced the most yield, and produced the most quantity?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/](https://infobeautiful4.s3.amazonaws.com/2014/11/2552_IIB_Cash-Crops.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Information Is Beautiful](https://www.informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/)\nDATA SOURCE: [FAOSTAT](http://www.fao.org/faostat/en/#data/QC)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "faostat",
+        "stats",
+        "crops",
+        "yield",
+        "production",
+        "quantity",
+        "food",
+        "grains",
+        "world",
+        "region"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w37",
+      "title": "2023/W37: Average UK house price for first time buyers",
+      "description": "Average UK house price for first time buyers from 1992 to 2023 compared against buyer income and money boorrowed",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/96c036d5dee7f5f595e8d382492d36dd10153549c1f17e8a7a8184f1cea0b194_CleanShot_2023_09_04_at_10.05.05_2x.png)\n\n​\n\n## **Resources**\nVisualization: [Average UK house price for first time buyers](https://www.linkedin.com/feed/update/urn:li:activity:7103318335701803008/?utm_source=share&utm_medium=member_desktop)\nData Source: [ONS](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindexmonthlyquarterlytables1to19)",
+      "tags": [
+        "makeover monday",
+        "uk",
+        "united kingdom",
+        "house prices",
+        "first time buyers",
+        "income",
+        "borrowing",
+        "debt",
+        "trend",
+        "price index",
+        "ons"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w3",
+      "title": "2023/W3: Interstate and Cross-Border 2022 Migration Patterns",
+      "description": "US & Canada Interstate and Cross-Border 2022 Migration Patterns",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/791435034a9a6bc43ae30eb211d3b96223434aa3b6feebf138f2380aba290cf6_CleanShot_2023_01_13_at_10.17.16_2x.png)\n\n​\n\n## **Resources**\nArticle: [Interstate and Cross-Border 2022 Migration Patterns](https://www.atlasvanlines.com/resources/migration-patterns)\nData Source: Atlas Van Lines",
+      "tags": [
+        "makeover monday",
+        "commerce",
+        "migration",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w42",
+      "title": "2023/W42: Watch Me Viz Stats",
+      "description": "Viewer stats for all Makeover Monday livestreams",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Viz**\n![](https://mediauploads.data.world/c99f8966f4e14410e7006b0cec912b24c1b6c533abbe3a687e1fdd656a8366c1_CleanShot_2023_10_15_at_8.24.04_2x.png)\n\nData Source: [Andy Kriebel on YouTube](https://www.youtube.com/andykriebel)",
+      "tags": [
+        "makeover monday",
+        "watch me viz",
+        "youtube"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w30",
+      "title": "2023/W30: Daily sea ice extent",
+      "description": "Daily sea ice extent",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/09dfa7c1a6fa6b044605409a3799481fbc2b78af60f2dee144a13d30f9c636db_CleanShot_2023_07_24_at_3.18.31_2x.png)\n\n​\n\n# Resources\nArticle: [Daily Sea Ice Extent](https://www.theguardian.com/environment/datablog/2023/jul/20/the-climate-crisis-in-four-charts-extreme-weather-heatwaves?CMP=Share_iOSApp_Other)\nData Source: [National Snow & Ice Data Center](https://nsidc.org/data/seaice_index/data-and-image-archive)\n\n​",
+      "tags": [
+        "makeover monday",
+        "climate change",
+        "sea ice",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
