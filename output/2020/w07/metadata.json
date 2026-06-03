@@ -1,0 +1,114 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w7-world-wealth",
+  "title": "2020/W7: World Wealth",
+  "description": "World Wealth",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n**Original Visualization**\n\n![https://cdn.howmuch.net/articles/distribution-worlds-wealth-2019-%282%29-2064.jpg](https://cdn.howmuch.net/articles/distribution-worlds-wealth-2019-%282%29-2064.jpg)\n\n**About this Dataset**\n\nSOURCE ARTICLE: [All the World’s Wealth in One Visual](https://howmuch.net/articles/distribution-worlds-wealth-2019)\nDATA SOURCE: [Credit Suisse](https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "cf674fb4-bbfc-440a-81db-4f96f121a60f",
+  "tags": [
+    "makeover monday",
+    "wealth"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "WorldWealth.xlsx",
+      "sizeInBytes": 14322,
+      "created": "2020-02-15T14:03:33.650Z",
+      "updated": "2020-02-15T14:03:33.650Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-02-15T14:02:59.541Z",
+  "updated": "2020-02-16T10:39:25.847Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w20",
+      "title": "2020/W20: Visualizing Auto Insurance Rate by State in 2020",
+      "description": "Visualizing Auto Insurance Rate by State in 2020",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://cdn.howmuch.net/articles/Car-Insurance-Rates-in-2020---2500px---72dpi-7203.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visualizing Auto Insurance Rate by State in 2020](https://howmuch.net/articles/car-insurance-rates-in-2020)\nDATA SOURCE: [Average car insurance rates by state](https://www.valuepenguin.com/average-cost-of-insurance)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "insurance",
+        "us data",
+        "car insurance"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w8",
+      "title": "W8/2019: Which States Produce the Most Wind Energy",
+      "description": "Which States Produce the Most Wind Energy",
+      "summary": "# **Original Visualization**\n![Original](https://cdn.howmuch.net/articles/wind-power-in-the-united-states-2018-2cf9.jpg)\n\n# **About this Dataset**\nARTICLE: [Howmuch.net](https://howmuch.net/articles/wind-power-in-the-united-states-2018)\n\nSOURCE: [American Wind Energy Association via ChooseEnergy.com](https://www.chooseenergy.com/news/article/best-worst-ranked-states-wind-power/)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "wind energy",
+        "renewable energy",
+        "us wind energy",
+        "ranking"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w17",
+      "title": "2021/W17: Regional Price Parity Per State",
+      "description": "How do regional prices in America compare from 2008-2019",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![https://howmuch.net/articles/regional-price-parities-by-state](https://cdn.howmuch.net/articles/regional-price-parities-by-state-cfce.jpg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [howmuch.net](https://howmuch.net/articles/regional-price-parities-by-state)\nDATA SOURCE: [U.S. Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=8)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "united states",
+        "economy",
+        "price parity",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w32-what-countries-spend-on-research-development",
+      "title": "2018/W32: What Countries Spend on Research & Development",
+      "description": "What Countries Spend on Research & Development",
+      "summary": "# **Original Visualization**\n![Original Image](https://cdn.howmuch.net/articles/R%26D-AROUND-THE-WORLD-22c6.jpg)\n\n# **About this Dataset**\nARTICLE: [How Much?](https://howmuch.net/articles/research-development-spending-by-country)\n\nadditional information on this [UNESCO page](http://uis.unesco.org/apps/visualisations/research-and-development-spending/)\n\nSOURCE: [UNESCO Institute for Statistics](http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS)\n\nNote: To recreate the original numbers, you need to use year 2014.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "unesco",
+        "research and development",
+        "uis",
+        "global spend"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
