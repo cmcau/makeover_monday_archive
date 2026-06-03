@@ -1,0 +1,129 @@
+{
+  "owner": "makeovermonday",
+  "id": "2016w51",
+  "title": "2016/W51: DC Metro Scorecard",
+  "description": "DC Metro Scorecard",
+  "summary": "# **Original Visualization**\n![Screenshot 2018-11-08 at 6.02.20 pm.png](https://media.data.world/RVlsU5TW2Ol0rJoqhag6_Screenshot%202018-11-08%20at%206.02.20%20pm.png)\n\n# **About this Dataset**\n* SOURCE: [Washington D.C. Metro](https://www.wmata.com/about/records/scorecard/upload/Vital-Signs_Report_2016-Q4_030117.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+  "version": "99c7052f-0236-4807-9863-3702fdd8a77a",
+  "tags": [
+    "washington dc",
+    "metro",
+    "public transportation",
+    "bus",
+    "train",
+    "rail",
+    "commute",
+    "traffic",
+    "open data"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "DC Metro Scorecard.xlsx",
+      "sizeInBytes": 37231,
+      "created": "2018-11-08T18:00:41.705Z",
+      "updated": "2018-11-08T18:00:41.705Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-11-08T17:59:54.704Z",
+  "updated": "2018-11-08T18:12:30.300Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 20
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w51",
+      "title": "2018/W51: London Bus Safety Performance",
+      "description": "Transport for London produces quarterly reports that provide analysis of incidents on the London bus network",
+      "summary": "# **Original Visualization**\n![Screenshot 2018-12-15 at 9.24.20 pm.png](https://media.data.world/opVvgdS7uA0NapMACtQq_Screenshot%202018-12-15%20at%209.24.20%20pm.png)\n\n# **About this Dataset**\nDATA SOURCE: [Transport for London](https://tfl.gov.uk/corporate/publications-and-reports/bus-safety-data)\n\nDASHBOARD: [London Buses Safety Dashboard – Q2](https://tfl.gov.uk/cdn/static/cms/documents/q2-18-london-bus-safety-dashboard.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "bus",
+        "transportation",
+        "transport for london",
+        "safety",
+        "perfomance",
+        "kpi",
+        "incidents",
+        "accidents",
+        "injuries",
+        "collisions"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w43",
+      "title": "2019/W43: The Age At Which Most People Are Dying By Suicide",
+      "description": "CONTENT WARNING: Suicide - Number of people dying by suicide by single year of age in England and Wales",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screenshot 2019-10-20 at 6.38.36 pm.png](https://media.data.world/2DxYbGbYRWi8U4YanHL4_Screenshot%202019-10-20%20at%206.38.36%20pm.png)\n\n# **About this Dataset**\nSOURCE: [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "age",
+        "death",
+        "suicide",
+        "united kingdom",
+        "uk",
+        "wales",
+        "england",
+        "drugs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w20-hours-spent-in-congestion-in-european-cities",
+      "title": "2018/W20: Hours spent in Congestion in European Cities",
+      "description": "Hours spent in Congestion in European Cities",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-05-12 at 10.18.56 pm.png](https://media.data.world/IWvgW8w9SbSoXkWKxYcv_Screen%20Shot%202018-05-12%20at%2010.18.56%20pm.png)\n\n# **About this Dataset**\nSOURCE: [EuroNews](http://www.euronews.com/2018/02/07/which-european-commuters-spend-the-most-time-in-traffic-jams-)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w14-world-wine-production",
+      "title": "2018/W14: World Wine Production",
+      "description": "World Wine Production",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-04-01 at 4.15.25 pm.png](https://media.data.world/i3Xmig5qTaabFqbfOE09_Screen%20Shot%202018-04-01%20at%204.15.25%20pm.png)\n\n# **About this Dataset**\nSOURCE: [International Organisation of Vine and Wine](http://www.oiv.int/public/medias/5287/oiv-noteconjmars2017-en.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "wine data",
+        "world wine production",
+        "data visualization",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
