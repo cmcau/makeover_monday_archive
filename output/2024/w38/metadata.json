@@ -1,0 +1,88 @@
+{
+  "owner": "makeovermonday",
+  "id": "londons-poverty-inequality-profile",
+  "title": "2024/W38 London's Poverty & Inequality Profile",
+  "description": "London’s 32 boroughs across different poverty and inequality indicators.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-fa143bb6487649979a2260910af302d9.png)\n\nDatasource: [ONS](https://www.ons.gov.uk/)\n\nArticle: [Trust for London](https://trustforlondon.org.uk/data/boroughs/overview-of-london-boroughs/)",
+  "version": "a680e9a7-7",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "London Borough Poverty & Inequality.csv",
+      "sizeInBytes": 74012,
+      "created": "2024-09-15T10:34:49.551502147Z",
+      "updated": "2024-09-15T10:34:49.551502147Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-09-15T10:26:39.386646703Z",
+  "updated": "2024-09-15T10:37:57.139016212Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 13
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w49-london-crimes-by-income-deprivation-decile",
+      "title": "2025/W49 London crimes by income deprivation decile",
+      "description": "Crimes recorded by neighbourhood income deprivation decile in London (2024)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-fd6d04e68e4c45d68379f7ef8c803c43.png)\n\n​\n\nDatasources: [DataPoliceUK](https://data.police.uk/docs/method/crime-street/), [Department for Levelling Up, Housing and Communities](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025)\n\nArticle: [Trust for London](https://trustforlondon.org.uk/data/topics/community/?tab=crime-and-income-deprivation)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w30-london-underground-average-monthly-temperatures",
+      "title": "2025/W30 London Underground Average Monthly Temperatures",
+      "description": "London Underground Average Monthly Temperatures (°C) 2013-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-11485fd39bcc40c7911336374c95e8eb.png)\n\nDatasource: [TFL](https://data.london.gov.uk/dataset/london-underground-average-monthly-temperatures/)\nArticle: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739705/london-underground-hottest-line.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w41-uk-average-ratings-of-personal-well-being-2012-2023",
+      "title": "2024/W41 UK Average ratings of personal well-being 2012-2023",
+      "description": "Average ratings of personal well-being, UK, years ending March 2012 to March 2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-14c624769653411f9a499707c0853544.png)\n\n​\n\nDatasource: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/april2022tomarch2023)\n\nArticle: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/april2022tomarch2023)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w12-precipitation-anomalies",
+      "title": "2025/W12 Precipitation Anomalies",
+      "description": "The difference in a specific year's total precipitation — rain and snow — from the 1991–2020 average, measured in mm.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a2a069a6bf8e4533af0319830e0fc1bc.png)\n\nDatasource: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)\n\nArticle: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w29-open-era-wimbledon-championships",
+      "title": "2024/W29 Open Era Wimbledon Championships",
+      "description": "Open Era (1968 Onwards) Wimbledon Championships & Prize Money (£)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualizations**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-c14bdfc9b5d04d71afa851cdc1aca160.png)\n\n\n![](https://mediauploads-US.data.world/00000-beardon-674816ed5ca54fc086f894b72484891e.png)\n\n​\n\nDatasource : [Wimbledon (Prize Money)](https://www.wimbledon.com/en_GB/about_wimbledon/prize_money_and_finance.html), [Wimbledon (Champions)](https://www.wimbledon.com/en_GB/draws_archive/champions/gentlemenssingles.html)\n\nArticle : [Flourish](https://flourish.studio/blog/visualizing-wimbledon-2022/)",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}

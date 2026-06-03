@@ -1,0 +1,628 @@
+﻿Borough,Category,Measure (e.g Poverty Rate),Area,"Better = (Lower, Higher)",Measure Value,"Unit (%, pts)",London higher threshold,London,London lower threshold,England upper threshold,England,England lower threshold
+Barking & Dagenham,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,24.6,%,20.2,16.4,11.82,,,
+Barking & Dagenham,Work,Benefits,Out-of-work benefits,Lower,16.7,%,15.19,12.8,10.02,15.68,13.1,10.52
+Barking & Dagenham,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,42,%,39.38,33,23.75,38.82,31,23.18
+Barking & Dagenham,Housing,Evictions,"Repossessions per 1,000 households",Lower,4.11,,3.39,2.42,1.39,2.51,1.51,0.51
+Barking & Dagenham,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,66,%,76.8,71.2,65.65,70.97,65.4,59.83
+Barking & Dagenham,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.66,,1.34,0.93,0.5,,,
+Barking & Dagenham,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,36.5,%,56.13,46.4,35.48,35.22,24.9,14.58
+Barking & Dagenham,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,613,,635.95,353,92.93,,,
+Barking & Dagenham,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.9,,1.49,1,0.67,1.21,0.8,0.39
+Barking & Dagenham,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,4.6,,4.51,3.3,2.15,4.88,3.7,2.52
+Barking & Dagenham,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,12,%,7.82,6.7,3.95,9.34,7.4,5.46
+Barking & Dagenham,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.05,,2.59,2.5,2.32,1.85,1.72,1.59
+Barking & Dagenham,Living standards,Poverty rate,Poverty rate,Lower,29,%,34.5,25,19.38,29.76,22.2,14.64
+Barking & Dagenham,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,433,,362.71,309,265.54,390.59,342,293.41
+Barking & Dagenham,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,34.7,%,34.12,28.8,23.88,39.72,34.6,29.48
+Barking & Dagenham,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,139,,489.32,219,139.87,,,
+Barking & Dagenham,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,16.08,,25.61,16.62,6.51,13.94,4.39,-5.16
+Barking & Dagenham,Work,Unemployment rate,Unemployment rate,Lower,6.8,%,5.77,5,4.27,4.45,3.7,2.95
+Barking & Dagenham,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,1.9,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Barnet,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,18.9,%,20.2,16.4,11.82,,,
+Barnet,Work,Benefits,Out-of-work benefits,Lower,11.7,%,15.19,12.8,10.02,15.68,13.1,10.52
+Barnet,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,25,%,39.38,33,23.75,38.82,31,23.18
+Barnet,Housing,Evictions,"Repossessions per 1,000 households",Lower,2.09,,3.39,2.42,1.39,2.51,1.51,0.51
+Barnet,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,80.1,%,76.8,71.2,65.65,70.97,65.4,59.83
+Barnet,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.5,,1.34,0.93,0.5,,,
+Barnet,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,43.1,%,56.13,46.4,35.48,35.22,24.9,14.58
+Barnet,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,338,,635.95,353,92.93,,,
+Barnet,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.77,,1.49,1,0.67,1.21,0.8,0.39
+Barnet,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3.6,,4.51,3.3,2.15,4.88,3.7,2.52
+Barnet,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.9,%,7.82,6.7,3.95,9.34,7.4,5.46
+Barnet,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.41,,2.59,2.5,2.32,1.85,1.72,1.59
+Barnet,Living standards,Poverty rate,Poverty rate,Lower,26,%,34.5,25,19.38,29.76,22.2,14.64
+Barnet,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,258,,362.71,309,265.54,390.59,342,293.41
+Barnet,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,21.7,%,34.12,28.8,23.88,39.72,34.6,29.48
+Barnet,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,166,,489.32,219,139.87,,,
+Barnet,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,13.63,,25.61,16.62,6.51,13.94,4.39,-5.16
+Barnet,Work,Unemployment rate,Unemployment rate,Lower,5.4,%,5.77,5,4.27,4.45,3.7,2.95
+Barnet,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,0.1,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Bexley,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,16.7,%,20.2,16.4,11.82,,,
+Bexley,Work,Benefits,Out-of-work benefits,Lower,10.4,%,15.19,12.8,10.02,15.68,13.1,10.52
+Bexley,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,26,%,39.38,33,23.75,38.82,31,23.18
+Bexley,Housing,Evictions,"Repossessions per 1,000 households",Lower,2.76,,3.39,2.42,1.39,2.51,1.51,0.51
+Bexley,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,69.4,%,76.8,71.2,65.65,70.97,65.4,59.83
+Bexley,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.48,,1.34,0.93,0.5,,,
+Bexley,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,33.2,%,56.13,46.4,35.48,35.22,24.9,14.58
+Bexley,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,284,,635.95,353,92.93,,,
+Bexley,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.7,,1.49,1,0.67,1.21,0.8,0.39
+Bexley,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,6,,4.51,3.3,2.15,4.88,3.7,2.52
+Bexley,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,7.4,%,7.82,6.7,3.95,9.34,7.4,5.46
+Bexley,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.29,,2.59,2.5,2.32,1.85,1.72,1.59
+Bexley,Living standards,Poverty rate,Poverty rate,Lower,26,%,34.5,25,19.38,29.76,22.2,14.64
+Bexley,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,308,,362.71,309,265.54,390.59,342,293.41
+Bexley,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,37.3,%,34.12,28.8,23.88,39.72,34.6,29.48
+Bexley,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,92,,489.32,219,139.87,,,
+Bexley,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,5.68,,25.61,16.62,6.51,13.94,4.39,-5.16
+Bexley,Work,Unemployment rate,Unemployment rate,Lower,4.9,%,5.77,5,4.27,4.45,3.7,2.95
+Bexley,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,2.2,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Brent,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,23.3,%,20.2,16.4,11.82,,,
+Brent,Work,Benefits,Out-of-work benefits,Lower,14.9,%,15.19,12.8,10.02,15.68,13.1,10.52
+Brent,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,36,%,39.38,33,23.75,38.82,31,23.18
+Brent,Housing,Evictions,"Repossessions per 1,000 households",Lower,3.45,,3.39,2.42,1.39,2.51,1.51,0.51
+Brent,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,68,%,76.8,71.2,65.65,70.97,65.4,59.83
+Brent,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.52,,1.34,0.93,0.5,,,
+Brent,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,43.1,%,56.13,46.4,35.48,35.22,24.9,14.58
+Brent,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,1112,,635.95,353,92.93,,,
+Brent,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.11,,1.49,1,0.67,1.21,0.8,0.39
+Brent,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,4.1,,4.51,3.3,2.15,4.88,3.7,2.52
+Brent,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,7.6,%,7.82,6.7,3.95,9.34,7.4,5.46
+Brent,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.42,,2.59,2.5,2.32,1.85,1.72,1.59
+Brent,Living standards,Poverty rate,Poverty rate,Lower,32,%,34.5,25,19.38,29.76,22.2,14.64
+Brent,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,305,,362.71,309,265.54,390.59,342,293.41
+Brent,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,28,%,34.12,28.8,23.88,39.72,34.6,29.48
+Brent,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,373,,489.32,219,139.87,,,
+Brent,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,13.97,,25.61,16.62,6.51,13.94,4.39,-5.16
+Brent,Work,Unemployment rate,Unemployment rate,Lower,5.7,%,5.77,5,4.27,4.45,3.7,2.95
+Brent,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-1.3,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Bromley,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,14,%,20.2,16.4,11.82,,,
+Bromley,Work,Benefits,Out-of-work benefits,Lower,9.3,%,15.19,12.8,10.02,15.68,13.1,10.52
+Bromley,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,20,%,39.38,33,23.75,38.82,31,23.18
+Bromley,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.43,,3.39,2.42,1.39,2.51,1.51,0.51
+Bromley,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,73.2,%,76.8,71.2,65.65,70.97,65.4,59.83
+Bromley,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.48,,1.34,0.93,0.5,,,
+Bromley,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,38.1,%,56.13,46.4,35.48,35.22,24.9,14.58
+Bromley,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,90,,635.95,353,92.93,,,
+Bromley,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.58,,1.49,1,0.67,1.21,0.8,0.39
+Bromley,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,2.7,,4.51,3.3,2.15,4.88,3.7,2.52
+Bromley,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,4.4,%,7.82,6.7,3.95,9.34,7.4,5.46
+Bromley,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.57,,2.59,2.5,2.32,1.85,1.72,1.59
+Bromley,Living standards,Poverty rate,Poverty rate,Lower,17,%,34.5,25,19.38,29.76,22.2,14.64
+Bromley,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,250,,362.71,309,265.54,390.59,342,293.41
+Bromley,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,32.6,%,34.12,28.8,23.88,39.72,34.6,29.48
+Bromley,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,92,,489.32,219,139.87,,,
+Bromley,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,10.87,,25.61,16.62,6.51,13.94,4.39,-5.16
+Bromley,Work,Unemployment rate,Unemployment rate,Lower,5,%,5.77,5,4.27,4.45,3.7,2.95
+Bromley,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,2.3,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Camden,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,12.2,%,20.2,16.4,11.82,,,
+Camden,Work,Benefits,Out-of-work benefits,Lower,13.7,%,15.19,12.8,10.02,15.68,13.1,10.52
+Camden,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,40,%,39.38,33,23.75,38.82,31,23.18
+Camden,Housing,Evictions,"Repossessions per 1,000 households",Lower,0.89,,3.39,2.42,1.39,2.51,1.51,0.51
+Camden,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,67.9,%,76.8,71.2,65.65,70.97,65.4,59.83
+Camden,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.27,,1.34,0.93,0.5,,,
+Camden,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,57.2,%,56.13,46.4,35.48,35.22,24.9,14.58
+Camden,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,121,,635.95,353,92.93,,,
+Camden,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.18,,1.49,1,0.67,1.21,0.8,0.39
+Camden,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,1.7,,4.51,3.3,2.15,4.88,3.7,2.52
+Camden,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.1,%,7.82,6.7,3.95,9.34,7.4,5.46
+Camden,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.48,,2.59,2.5,2.32,1.85,1.72,1.59
+Camden,Living standards,Poverty rate,Poverty rate,Lower,41,%,34.5,25,19.38,29.76,22.2,14.64
+Camden,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,324,,362.71,309,265.54,390.59,342,293.41
+Camden,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,25.2,%,34.12,28.8,23.88,39.72,34.6,29.48
+Camden,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,719,,489.32,219,139.87,,,
+Camden,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,5.31,,25.61,16.62,6.51,13.94,4.39,-5.16
+Camden,Work,Unemployment rate,Unemployment rate,Lower,4.9,%,5.77,5,4.27,4.45,3.7,2.95
+Camden,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,1,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Croydon,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,16.3,%,20.2,16.4,11.82,,,
+Croydon,Work,Benefits,Out-of-work benefits,Lower,14.7,%,15.19,12.8,10.02,15.68,13.1,10.52
+Croydon,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,30,%,39.38,33,23.75,38.82,31,23.18
+Croydon,Housing,Evictions,"Repossessions per 1,000 households",Lower,3.12,,3.39,2.42,1.39,2.51,1.51,0.51
+Croydon,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,64.5,%,76.8,71.2,65.65,70.97,65.4,59.83
+Croydon,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.31,,1.34,0.93,0.5,,,
+Croydon,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,36.5,%,56.13,46.4,35.48,35.22,24.9,14.58
+Croydon,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,571,,635.95,353,92.93,,,
+Croydon,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.01,,1.49,1,0.67,1.21,0.8,0.39
+Croydon,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,2.4,,4.51,3.3,2.15,4.88,3.7,2.52
+Croydon,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.1,%,7.82,6.7,3.95,9.34,7.4,5.46
+Croydon,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.41,,2.59,2.5,2.32,1.85,1.72,1.59
+Croydon,Living standards,Poverty rate,Poverty rate,Lower,26,%,34.5,25,19.38,29.76,22.2,14.64
+Croydon,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,314,,362.71,309,265.54,390.59,342,293.41
+Croydon,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,33.3,%,34.12,28.8,23.88,39.72,34.6,29.48
+Croydon,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,373,,489.32,219,139.87,,,
+Croydon,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,12.32,,25.61,16.62,6.51,13.94,4.39,-5.16
+Croydon,Work,Unemployment rate,Unemployment rate,Lower,5.3,%,5.77,5,4.27,4.45,3.7,2.95
+Croydon,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,0.6,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Ealing,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,19.8,%,20.2,16.4,11.82,,,
+Ealing,Work,Benefits,Out-of-work benefits,Lower,13.3,%,15.19,12.8,10.02,15.68,13.1,10.52
+Ealing,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,32,%,39.38,33,23.75,38.82,31,23.18
+Ealing,Housing,Evictions,"Repossessions per 1,000 households",Lower,3.51,,3.39,2.42,1.39,2.51,1.51,0.51
+Ealing,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,73.7,%,76.8,71.2,65.65,70.97,65.4,59.83
+Ealing,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.01,,1.34,0.93,0.5,,,
+Ealing,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,44.1,%,56.13,46.4,35.48,35.22,24.9,14.58
+Ealing,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,774,,635.95,353,92.93,,,
+Ealing,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1,,1.49,1,0.67,1.21,0.8,0.39
+Ealing,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3,,4.51,3.3,2.15,4.88,3.7,2.52
+Ealing,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,7.3,%,7.82,6.7,3.95,9.34,7.4,5.46
+Ealing,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.33,,2.59,2.5,2.32,1.85,1.72,1.59
+Ealing,Living standards,Poverty rate,Poverty rate,Lower,34,%,34.5,25,19.38,29.76,22.2,14.64
+Ealing,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,300,,362.71,309,265.54,390.59,342,293.41
+Ealing,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,23.2,%,34.12,28.8,23.88,39.72,34.6,29.48
+Ealing,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,563,,489.32,219,139.87,,,
+Ealing,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,20.41,,25.61,16.62,6.51,13.94,4.39,-5.16
+Ealing,Work,Unemployment rate,Unemployment rate,Lower,4.9,%,5.77,5,4.27,4.45,3.7,2.95
+Ealing,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-0.3,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Enfield,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,22.8,%,20.2,16.4,11.82,,,
+Enfield,Work,Benefits,Out-of-work benefits,Lower,16.4,%,15.19,12.8,10.02,15.68,13.1,10.52
+Enfield,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,31,%,39.38,33,23.75,38.82,31,23.18
+Enfield,Housing,Evictions,"Repossessions per 1,000 households",Lower,3.53,,3.39,2.42,1.39,2.51,1.51,0.51
+Enfield,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,65.7,%,76.8,71.2,65.65,70.97,65.4,59.83
+Enfield,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.7,,1.34,0.93,0.5,,,
+Enfield,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,37.3,%,56.13,46.4,35.48,35.22,24.9,14.58
+Enfield,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,240,,635.95,353,92.93,,,
+Enfield,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.49,,1.49,1,0.67,1.21,0.8,0.39
+Enfield,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,5.8,,4.51,3.3,2.15,4.88,3.7,2.52
+Enfield,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,4.4,%,7.82,6.7,3.95,9.34,7.4,5.46
+Enfield,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.35,,2.59,2.5,2.32,1.85,1.72,1.59
+Enfield,Living standards,Poverty rate,Poverty rate,Lower,33,%,34.5,25,19.38,29.76,22.2,14.64
+Enfield,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,297,,362.71,309,265.54,390.59,342,293.41
+Enfield,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,34.8,%,34.12,28.8,23.88,39.72,34.6,29.48
+Enfield,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,219,,489.32,219,139.87,,,
+Enfield,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,23.49,,25.61,16.62,6.51,13.94,4.39,-5.16
+Enfield,Work,Unemployment rate,Unemployment rate,Lower,5.6,%,5.77,5,4.27,4.45,3.7,2.95
+Enfield,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-0.3,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Greenwich,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,14.2,%,20.2,16.4,11.82,,,
+Greenwich,Work,Benefits,Out-of-work benefits,Lower,13.8,%,15.19,12.8,10.02,15.68,13.1,10.52
+Greenwich,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,36,%,39.38,33,23.75,38.82,31,23.18
+Greenwich,Housing,Evictions,"Repossessions per 1,000 households",Lower,3.75,,3.39,2.42,1.39,2.51,1.51,0.51
+Greenwich,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,66.3,%,76.8,71.2,65.65,70.97,65.4,59.83
+Greenwich,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.46,,1.34,0.93,0.5,,,
+Greenwich,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,48.9,%,56.13,46.4,35.48,35.22,24.9,14.58
+Greenwich,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,382,,635.95,353,92.93,,,
+Greenwich,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.26,,1.49,1,0.67,1.21,0.8,0.39
+Greenwich,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,2.8,,4.51,3.3,2.15,4.88,3.7,2.52
+Greenwich,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,4.4,%,7.82,6.7,3.95,9.34,7.4,5.46
+Greenwich,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.49,,2.59,2.5,2.32,1.85,1.72,1.59
+Greenwich,Living standards,Poverty rate,Poverty rate,Lower,21,%,34.5,25,19.38,29.76,22.2,14.64
+Greenwich,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,331,,362.71,309,265.54,390.59,342,293.41
+Greenwich,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,35.2,%,34.12,28.8,23.88,39.72,34.6,29.48
+Greenwich,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,196,,489.32,219,139.87,,,
+Greenwich,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,13.91,,25.61,16.62,6.51,13.94,4.39,-5.16
+Greenwich,Work,Unemployment rate,Unemployment rate,Lower,4.4,%,5.77,5,4.27,4.45,3.7,2.95
+Greenwich,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-0.1,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Hackney,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,16.7,%,20.2,16.4,11.82,,,
+Hackney,Work,Benefits,Out-of-work benefits,Lower,16.3,%,15.19,12.8,10.02,15.68,13.1,10.52
+Hackney,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,43,%,39.38,33,23.75,38.82,31,23.18
+Hackney,Housing,Evictions,"Repossessions per 1,000 households",Lower,2.2,,3.39,2.42,1.39,2.51,1.51,0.51
+Hackney,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,71.7,%,76.8,71.2,65.65,70.97,65.4,59.83
+Hackney,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.44,,1.34,0.93,0.5,,,
+Hackney,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,53.7,%,56.13,46.4,35.48,35.22,24.9,14.58
+Hackney,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,246,,635.95,353,92.93,,,
+Hackney,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.8,,1.49,1,0.67,1.21,0.8,0.39
+Hackney,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,2.8,,4.51,3.3,2.15,4.88,3.7,2.52
+Hackney,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.9,%,7.82,6.7,3.95,9.34,7.4,5.46
+Hackney,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.44,,2.59,2.5,2.32,1.85,1.72,1.59
+Hackney,Living standards,Poverty rate,Poverty rate,Lower,28,%,34.5,25,19.38,29.76,22.2,14.64
+Hackney,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,404,,362.71,309,265.54,390.59,342,293.41
+Hackney,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,28,%,34.12,28.8,23.88,39.72,34.6,29.48
+Hackney,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,246,,489.32,219,139.87,,,
+Hackney,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,24.64,,25.61,16.62,6.51,13.94,4.39,-5.16
+Hackney,Work,Unemployment rate,Unemployment rate,Lower,3.8,%,5.77,5,4.27,4.45,3.7,2.95
+Hackney,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-2.3,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Hammersmith & Fulham,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,9.9,%,20.2,16.4,11.82,,,
+Hammersmith & Fulham,Work,Benefits,Out-of-work benefits,Lower,12,%,15.19,12.8,10.02,15.68,13.1,10.52
+Hammersmith & Fulham,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,28,%,39.38,33,23.75,38.82,31,23.18
+Hammersmith & Fulham,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.5,,3.39,2.42,1.39,2.51,1.51,0.51
+Hammersmith & Fulham,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,77.2,%,76.8,71.2,65.65,70.97,65.4,59.83
+Hammersmith & Fulham,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.65,,1.34,0.93,0.5,,,
+Hammersmith & Fulham,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,53.1,%,56.13,46.4,35.48,35.22,24.9,14.58
+Hammersmith & Fulham,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,271,,635.95,353,92.93,,,
+Hammersmith & Fulham,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.03,,1.49,1,0.67,1.21,0.8,0.39
+Hammersmith & Fulham,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,6.1,,4.51,3.3,2.15,4.88,3.7,2.52
+Hammersmith & Fulham,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,,%,7.82,6.7,3.95,9.34,7.4,5.46
+Hammersmith & Fulham,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.51,,2.59,2.5,2.32,1.85,1.72,1.59
+Hammersmith & Fulham,Living standards,Poverty rate,Poverty rate,Lower,18,%,34.5,25,19.38,29.76,22.2,14.64
+Hammersmith & Fulham,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,325,,362.71,309,265.54,390.59,342,293.41
+Hammersmith & Fulham,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,25.7,%,34.12,28.8,23.88,39.72,34.6,29.48
+Hammersmith & Fulham,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,238,,489.32,219,139.87,,,
+Hammersmith & Fulham,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,14.15,,25.61,16.62,6.51,13.94,4.39,-5.16
+Hammersmith & Fulham,Work,Unemployment rate,Unemployment rate,Lower,4.8,%,5.77,5,4.27,4.45,3.7,2.95
+Hammersmith & Fulham,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,0.6,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Haringey,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,20,%,20.2,16.4,11.82,,,
+Haringey,Work,Benefits,Out-of-work benefits,Lower,16.2,%,15.19,12.8,10.02,15.68,13.1,10.52
+Haringey,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,35,%,39.38,33,23.75,38.82,31,23.18
+Haringey,Housing,Evictions,"Repossessions per 1,000 households",Lower,3.91,,3.39,2.42,1.39,2.51,1.51,0.51
+Haringey,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,65.9,%,76.8,71.2,65.65,70.97,65.4,59.83
+Haringey,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.8,,1.34,0.93,0.5,,,
+Haringey,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,46.4,%,56.13,46.4,35.48,35.22,24.9,14.58
+Haringey,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,350,,635.95,353,92.93,,,
+Haringey,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.43,,1.49,1,0.67,1.21,0.8,0.39
+Haringey,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3.3,,4.51,3.3,2.15,4.88,3.7,2.52
+Haringey,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,3.6,%,7.82,6.7,3.95,9.34,7.4,5.46
+Haringey,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.5,,2.59,2.5,2.32,1.85,1.72,1.59
+Haringey,Living standards,Poverty rate,Poverty rate,Lower,33,%,34.5,25,19.38,29.76,22.2,14.64
+Haringey,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,323,,362.71,309,265.54,390.59,342,293.41
+Haringey,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,32.9,%,34.12,28.8,23.88,39.72,34.6,29.48
+Haringey,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,304,,489.32,219,139.87,,,
+Haringey,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,22.87,,25.61,16.62,6.51,13.94,4.39,-5.16
+Haringey,Work,Unemployment rate,Unemployment rate,Lower,4.4,%,5.77,5,4.27,4.45,3.7,2.95
+Haringey,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-1.2,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Harrow,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,19.6,%,20.2,16.4,11.82,,,
+Harrow,Work,Benefits,Out-of-work benefits,Lower,10,%,15.19,12.8,10.02,15.68,13.1,10.52
+Harrow,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,31,%,39.38,33,23.75,38.82,31,23.18
+Harrow,Housing,Evictions,"Repossessions per 1,000 households",Lower,2.37,,3.39,2.42,1.39,2.51,1.51,0.51
+Harrow,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,71.4,%,76.8,71.2,65.65,70.97,65.4,59.83
+Harrow,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.55,,1.34,0.93,0.5,,,
+Harrow,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,39,%,56.13,46.4,35.48,35.22,24.9,14.58
+Harrow,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,213,,635.95,353,92.93,,,
+Harrow,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.82,,1.49,1,0.67,1.21,0.8,0.39
+Harrow,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3,,4.51,3.3,2.15,4.88,3.7,2.52
+Harrow,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,,%,7.82,6.7,3.95,9.34,7.4,5.46
+Harrow,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.56,,2.59,2.5,2.32,1.85,1.72,1.59
+Harrow,Living standards,Poverty rate,Poverty rate,Lower,23,%,34.5,25,19.38,29.76,22.2,14.64
+Harrow,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,250,,362.71,309,265.54,390.59,342,293.41
+Harrow,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,20,%,34.12,28.8,23.88,39.72,34.6,29.48
+Harrow,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,96,,489.32,219,139.87,,,
+Harrow,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,12.18,,25.61,16.62,6.51,13.94,4.39,-5.16
+Harrow,Work,Unemployment rate,Unemployment rate,Lower,4.7,%,5.77,5,4.27,4.45,3.7,2.95
+Harrow,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,0.5,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Havering,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,16.2,%,20.2,16.4,11.82,,,
+Havering,Work,Benefits,Out-of-work benefits,Lower,11.1,%,15.19,12.8,10.02,15.68,13.1,10.52
+Havering,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,28,%,39.38,33,23.75,38.82,31,23.18
+Havering,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.91,,3.39,2.42,1.39,2.51,1.51,0.51
+Havering,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,69.4,%,76.8,71.2,65.65,70.97,65.4,59.83
+Havering,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.23,,1.34,0.93,0.5,,,
+Havering,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,33.2,%,56.13,46.4,35.48,35.22,24.9,14.58
+Havering,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,258,,635.95,353,92.93,,,
+Havering,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.69,,1.49,1,0.67,1.21,0.8,0.39
+Havering,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,2.3,,4.51,3.3,2.15,4.88,3.7,2.52
+Havering,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.9,%,7.82,6.7,3.95,9.34,7.4,5.46
+Havering,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.47,,2.59,2.5,2.32,1.85,1.72,1.59
+Havering,Living standards,Poverty rate,Poverty rate,Lower,16,%,34.5,25,19.38,29.76,22.2,14.64
+Havering,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,321,,362.71,309,265.54,390.59,342,293.41
+Havering,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,35.5,%,34.12,28.8,23.88,39.72,34.6,29.48
+Havering,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,79,,489.32,219,139.87,,,
+Havering,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,9.77,,25.61,16.62,6.51,13.94,4.39,-5.16
+Havering,Work,Unemployment rate,Unemployment rate,Lower,4.4,%,5.77,5,4.27,4.45,3.7,2.95
+Havering,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,1.6,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Hillingdon,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,17.8,%,20.2,16.4,11.82,,,
+Hillingdon,Work,Benefits,Out-of-work benefits,Lower,11.4,%,15.19,12.8,10.02,15.68,13.1,10.52
+Hillingdon,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,31,%,39.38,33,23.75,38.82,31,23.18
+Hillingdon,Housing,Evictions,"Repossessions per 1,000 households",Lower,2.66,,3.39,2.42,1.39,2.51,1.51,0.51
+Hillingdon,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,70.1,%,76.8,71.2,65.65,70.97,65.4,59.83
+Hillingdon,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1,,1.34,0.93,0.5,,,
+Hillingdon,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,36.5,%,56.13,46.4,35.48,35.22,24.9,14.58
+Hillingdon,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,290,,635.95,353,92.93,,,
+Hillingdon,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.85,,1.49,1,0.67,1.21,0.8,0.39
+Hillingdon,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3.4,,4.51,3.3,2.15,4.88,3.7,2.52
+Hillingdon,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,7.1,%,7.82,6.7,3.95,9.34,7.4,5.46
+Hillingdon,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.44,,2.59,2.5,2.32,1.85,1.72,1.59
+Hillingdon,Living standards,Poverty rate,Poverty rate,Lower,22,%,34.5,25,19.38,29.76,22.2,14.64
+Hillingdon,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,317,,362.71,309,265.54,390.59,342,293.41
+Hillingdon,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,32.3,%,34.12,28.8,23.88,39.72,34.6,29.48
+Hillingdon,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,167,,489.32,219,139.87,,,
+Hillingdon,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,8.13,,25.61,16.62,6.51,13.94,4.39,-5.16
+Hillingdon,Work,Unemployment rate,Unemployment rate,Lower,7,%,5.77,5,4.27,4.45,3.7,2.95
+Hillingdon,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,2.7,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Hounslow,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,19.5,%,20.2,16.4,11.82,,,
+Hounslow,Work,Benefits,Out-of-work benefits,Lower,13,%,15.19,12.8,10.02,15.68,13.1,10.52
+Hounslow,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,32,%,39.38,33,23.75,38.82,31,23.18
+Hounslow,Housing,Evictions,"Repossessions per 1,000 households",Lower,2.06,,3.39,2.42,1.39,2.51,1.51,0.51
+Hounslow,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,72,%,76.8,71.2,65.65,70.97,65.4,59.83
+Hounslow,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.24,,1.34,0.93,0.5,,,
+Hounslow,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,44.8,%,56.13,46.4,35.48,35.22,24.9,14.58
+Hounslow,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,390,,635.95,353,92.93,,,
+Hounslow,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.96,,1.49,1,0.67,1.21,0.8,0.39
+Hounslow,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,4.9,,4.51,3.3,2.15,4.88,3.7,2.52
+Hounslow,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,5,%,7.82,6.7,3.95,9.34,7.4,5.46
+Hounslow,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.35,,2.59,2.5,2.32,1.85,1.72,1.59
+Hounslow,Living standards,Poverty rate,Poverty rate,Lower,28,%,34.5,25,19.38,29.76,22.2,14.64
+Hounslow,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,314,,362.71,309,265.54,390.59,342,293.41
+Hounslow,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,25.1,%,34.12,28.8,23.88,39.72,34.6,29.48
+Hounslow,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,196,,489.32,219,139.87,,,
+Hounslow,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,3.26,,25.61,16.62,6.51,13.94,4.39,-5.16
+Hounslow,Work,Unemployment rate,Unemployment rate,Lower,4.4,%,5.77,5,4.27,4.45,3.7,2.95
+Hounslow,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-0.5,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Islington,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,12.1,%,20.2,16.4,11.82,,,
+Islington,Work,Benefits,Out-of-work benefits,Lower,15.6,%,15.19,12.8,10.02,15.68,13.1,10.52
+Islington,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,37,%,39.38,33,23.75,38.82,31,23.18
+Islington,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.95,,3.39,2.42,1.39,2.51,1.51,0.51
+Islington,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,65.6,%,76.8,71.2,65.65,70.97,65.4,59.83
+Islington,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.42,,1.34,0.93,0.5,,,
+Islington,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,58,%,56.13,46.4,35.48,35.22,24.9,14.58
+Islington,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,514,,635.95,353,92.93,,,
+Islington,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.58,,1.49,1,0.67,1.21,0.8,0.39
+Islington,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,2.3,,4.51,3.3,2.15,4.88,3.7,2.52
+Islington,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.7,%,7.82,6.7,3.95,9.34,7.4,5.46
+Islington,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.28,,2.59,2.5,2.32,1.85,1.72,1.59
+Islington,Living standards,Poverty rate,Poverty rate,Lower,25,%,34.5,25,19.38,29.76,22.2,14.64
+Islington,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,371,,362.71,309,265.54,390.59,342,293.41
+Islington,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,33.1,%,34.12,28.8,23.88,39.72,34.6,29.48
+Islington,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,337,,489.32,219,139.87,,,
+Islington,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,9.49,,25.61,16.62,6.51,13.94,4.39,-5.16
+Islington,Work,Unemployment rate,Unemployment rate,Lower,5,%,5.77,5,4.27,4.45,3.7,2.95
+Islington,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,1.5,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Kensington & Chelsea,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,10,%,20.2,16.4,11.82,,,
+Kensington & Chelsea,Work,Benefits,Out-of-work benefits,Lower,10.6,%,15.19,12.8,10.02,15.68,13.1,10.52
+Kensington & Chelsea,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,23,%,39.38,33,23.75,38.82,31,23.18
+Kensington & Chelsea,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.14,,3.39,2.42,1.39,2.51,1.51,0.51
+Kensington & Chelsea,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,75.4,%,76.8,71.2,65.65,70.97,65.4,59.83
+Kensington & Chelsea,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.58,,1.34,0.93,0.5,,,
+Kensington & Chelsea,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,73,%,56.13,46.4,35.48,35.22,24.9,14.58
+Kensington & Chelsea,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,39,,635.95,353,92.93,,,
+Kensington & Chelsea,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.7,,1.49,1,0.67,1.21,0.8,0.39
+Kensington & Chelsea,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,,,4.51,3.3,2.15,4.88,3.7,2.52
+Kensington & Chelsea,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,,%,7.82,6.7,3.95,9.34,7.4,5.46
+Kensington & Chelsea,Living standards,Pay inequality,80:20 ratio of earnings,Lower,,,2.59,2.5,2.32,1.85,1.72,1.59
+Kensington & Chelsea,Living standards,Poverty rate,Poverty rate,Lower,29,%,34.5,25,19.38,29.76,22.2,14.64
+Kensington & Chelsea,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,265,,362.71,309,265.54,390.59,342,293.41
+Kensington & Chelsea,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,26,%,34.12,28.8,23.88,39.72,34.6,29.48
+Kensington & Chelsea,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,199,,489.32,219,139.87,,,
+Kensington & Chelsea,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,24.98,,25.61,16.62,6.51,13.94,4.39,-5.16
+Kensington & Chelsea,Work,Unemployment rate,Unemployment rate,Lower,5.9,%,5.77,5,4.27,4.45,3.7,2.95
+Kensington & Chelsea,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,2.3,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Kingston upon Thames,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,14,%,20.2,16.4,11.82,,,
+Kingston upon Thames,Work,Benefits,Out-of-work benefits,Lower,8.3,%,15.19,12.8,10.02,15.68,13.1,10.52
+Kingston upon Thames,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,19,%,39.38,33,23.75,38.82,31,23.18
+Kingston upon Thames,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.28,,3.39,2.42,1.39,2.51,1.51,0.51
+Kingston upon Thames,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,81,%,76.8,71.2,65.65,70.97,65.4,59.83
+Kingston upon Thames,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.57,,1.34,0.93,0.5,,,
+Kingston upon Thames,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,41.5,%,56.13,46.4,35.48,35.22,24.9,14.58
+Kingston upon Thames,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,33,,635.95,353,92.93,,,
+Kingston upon Thames,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.59,,1.49,1,0.67,1.21,0.8,0.39
+Kingston upon Thames,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3.8,,4.51,3.3,2.15,4.88,3.7,2.52
+Kingston upon Thames,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,,%,7.82,6.7,3.95,9.34,7.4,5.46
+Kingston upon Thames,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.71,,2.59,2.5,2.32,1.85,1.72,1.59
+Kingston upon Thames,Living standards,Poverty rate,Poverty rate,Lower,22,%,34.5,25,19.38,29.76,22.2,14.64
+Kingston upon Thames,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,259,,362.71,309,265.54,390.59,342,293.41
+Kingston upon Thames,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,22.4,%,34.12,28.8,23.88,39.72,34.6,29.48
+Kingston upon Thames,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,120,,489.32,219,139.87,,,
+Kingston upon Thames,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,13.01,,25.61,16.62,6.51,13.94,4.39,-5.16
+Kingston upon Thames,Work,Unemployment rate,Unemployment rate,Lower,4.6,%,5.77,5,4.27,4.45,3.7,2.95
+Kingston upon Thames,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,2.3,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Lambeth,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,10.6,%,20.2,16.4,11.82,,,
+Lambeth,Work,Benefits,Out-of-work benefits,Lower,12.8,%,15.19,12.8,10.02,15.68,13.1,10.52
+Lambeth,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,36,%,39.38,33,23.75,38.82,31,23.18
+Lambeth,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.98,,3.39,2.42,1.39,2.51,1.51,0.51
+Lambeth,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,62.9,%,76.8,71.2,65.65,70.97,65.4,59.83
+Lambeth,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.55,,1.34,0.93,0.5,,,
+Lambeth,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,51.4,%,56.13,46.4,35.48,35.22,24.9,14.58
+Lambeth,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,245,,635.95,353,92.93,,,
+Lambeth,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.19,,1.49,1,0.67,1.21,0.8,0.39
+Lambeth,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3.1,,4.51,3.3,2.15,4.88,3.7,2.52
+Lambeth,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,3.9,%,7.82,6.7,3.95,9.34,7.4,5.46
+Lambeth,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.49,,2.59,2.5,2.32,1.85,1.72,1.59
+Lambeth,Living standards,Poverty rate,Poverty rate,Lower,28,%,34.5,25,19.38,29.76,22.2,14.64
+Lambeth,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,356,,362.71,309,265.54,390.59,342,293.41
+Lambeth,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,36.7,%,34.12,28.8,23.88,39.72,34.6,29.48
+Lambeth,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,623,,489.32,219,139.87,,,
+Lambeth,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,,,25.61,16.62,6.51,13.94,4.39,-5.16
+Lambeth,Work,Unemployment rate,Unemployment rate,Lower,4.4,%,5.77,5,4.27,4.45,3.7,2.95
+Lambeth,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,0.2,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Lewisham,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,17.7,%,20.2,16.4,11.82,,,
+Lewisham,Work,Benefits,Out-of-work benefits,Lower,14.9,%,15.19,12.8,10.02,15.68,13.1,10.52
+Lewisham,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,33,%,39.38,33,23.75,38.82,31,23.18
+Lewisham,Housing,Evictions,"Repossessions per 1,000 households",Lower,3.58,,3.39,2.42,1.39,2.51,1.51,0.51
+Lewisham,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,61,%,76.8,71.2,65.65,70.97,65.4,59.83
+Lewisham,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.98,,1.34,0.93,0.5,,,
+Lewisham,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,41.5,%,56.13,46.4,35.48,35.22,24.9,14.58
+Lewisham,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,173,,635.95,353,92.93,,,
+Lewisham,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.39,,1.49,1,0.67,1.21,0.8,0.39
+Lewisham,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3.7,,4.51,3.3,2.15,4.88,3.7,2.52
+Lewisham,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.1,%,7.82,6.7,3.95,9.34,7.4,5.46
+Lewisham,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.52,,2.59,2.5,2.32,1.85,1.72,1.59
+Lewisham,Living standards,Poverty rate,Poverty rate,Lower,32,%,34.5,25,19.38,29.76,22.2,14.64
+Lewisham,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,369,,362.71,309,265.54,390.59,342,293.41
+Lewisham,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,35.2,%,34.12,28.8,23.88,39.72,34.6,29.48
+Lewisham,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,296,,489.32,219,139.87,,,
+Lewisham,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,20.02,,25.61,16.62,6.51,13.94,4.39,-5.16
+Lewisham,Work,Unemployment rate,Unemployment rate,Lower,4.9,%,5.77,5,4.27,4.45,3.7,2.95
+Lewisham,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,0.3,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Merton,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,13.1,%,20.2,16.4,11.82,,,
+Merton,Work,Benefits,Out-of-work benefits,Lower,9.9,%,15.19,12.8,10.02,15.68,13.1,10.52
+Merton,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,27,%,39.38,33,23.75,38.82,31,23.18
+Merton,Housing,Evictions,"Repossessions per 1,000 households",Lower,2.07,,3.39,2.42,1.39,2.51,1.51,0.51
+Merton,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,73.9,%,76.8,71.2,65.65,70.97,65.4,59.83
+Merton,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.3,,1.34,0.93,0.5,,,
+Merton,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,44.8,%,56.13,46.4,35.48,35.22,24.9,14.58
+Merton,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,174,,635.95,353,92.93,,,
+Merton,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.67,,1.49,1,0.67,1.21,0.8,0.39
+Merton,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,4,,4.51,3.3,2.15,4.88,3.7,2.52
+Merton,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,2.3,%,7.82,6.7,3.95,9.34,7.4,5.46
+Merton,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.65,,2.59,2.5,2.32,1.85,1.72,1.59
+Merton,Living standards,Poverty rate,Poverty rate,Lower,14,%,34.5,25,19.38,29.76,22.2,14.64
+Merton,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,264,,362.71,309,265.54,390.59,342,293.41
+Merton,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,31.1,%,34.12,28.8,23.88,39.72,34.6,29.48
+Merton,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,63,,489.32,219,139.87,,,
+Merton,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,4.51,,25.61,16.62,6.51,13.94,4.39,-5.16
+Merton,Work,Unemployment rate,Unemployment rate,Lower,5.3,%,5.77,5,4.27,4.45,3.7,2.95
+Merton,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,2.2,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Newham,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,20,%,20.2,16.4,11.82,,,
+Newham,Work,Benefits,Out-of-work benefits,Lower,14.9,%,15.19,12.8,10.02,15.68,13.1,10.52
+Newham,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,44,%,39.38,33,23.75,38.82,31,23.18
+Newham,Housing,Evictions,"Repossessions per 1,000 households",Lower,4.46,,3.39,2.42,1.39,2.51,1.51,0.51
+Newham,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,71.8,%,76.8,71.2,65.65,70.97,65.4,59.83
+Newham,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.47,,1.34,0.93,0.5,,,
+Newham,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,47.1,%,56.13,46.4,35.48,35.22,24.9,14.58
+Newham,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,1085,,635.95,353,92.93,,,
+Newham,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.49,,1.49,1,0.67,1.21,0.8,0.39
+Newham,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,4.1,,4.51,3.3,2.15,4.88,3.7,2.52
+Newham,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.1,%,7.82,6.7,3.95,9.34,7.4,5.46
+Newham,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.39,,2.59,2.5,2.32,1.85,1.72,1.59
+Newham,Living standards,Poverty rate,Poverty rate,Lower,35,%,34.5,25,19.38,29.76,22.2,14.64
+Newham,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,363,,362.71,309,265.54,390.59,342,293.41
+Newham,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,29.3,%,34.12,28.8,23.88,39.72,34.6,29.48
+Newham,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,503,,489.32,219,139.87,,,
+Newham,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,50.25,,25.61,16.62,6.51,13.94,4.39,-5.16
+Newham,Work,Unemployment rate,Unemployment rate,Lower,5,%,5.77,5,4.27,4.45,3.7,2.95
+Newham,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-0.9,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Redbridge,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,19.6,%,20.2,16.4,11.82,,,
+Redbridge,Work,Benefits,Out-of-work benefits,Lower,11.5,%,15.19,12.8,10.02,15.68,13.1,10.52
+Redbridge,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,32,%,39.38,33,23.75,38.82,31,23.18
+Redbridge,Housing,Evictions,"Repossessions per 1,000 households",Lower,2.75,,3.39,2.42,1.39,2.51,1.51,0.51
+Redbridge,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,78.3,%,76.8,71.2,65.65,70.97,65.4,59.83
+Redbridge,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.18,,1.34,0.93,0.5,,,
+Redbridge,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,37.3,%,56.13,46.4,35.48,35.22,24.9,14.58
+Redbridge,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,101,,635.95,353,92.93,,,
+Redbridge,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.91,,1.49,1,0.67,1.21,0.8,0.39
+Redbridge,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3.3,,4.51,3.3,2.15,4.88,3.7,2.52
+Redbridge,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,7.4,%,7.82,6.7,3.95,9.34,7.4,5.46
+Redbridge,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.4,,2.59,2.5,2.32,1.85,1.72,1.59
+Redbridge,Living standards,Poverty rate,Poverty rate,Lower,27,%,34.5,25,19.38,29.76,22.2,14.64
+Redbridge,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,297,,362.71,309,265.54,390.59,342,293.41
+Redbridge,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,20.1,%,34.12,28.8,23.88,39.72,34.6,29.48
+Redbridge,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,248,,489.32,219,139.87,,,
+Redbridge,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,26.89,,25.61,16.62,6.51,13.94,4.39,-5.16
+Redbridge,Work,Unemployment rate,Unemployment rate,Lower,5.5,%,5.77,5,4.27,4.45,3.7,2.95
+Redbridge,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,0.5,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Richmond upon Thames,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,11.5,%,20.2,16.4,11.82,,,
+Richmond upon Thames,Work,Benefits,Out-of-work benefits,Lower,6.9,%,15.19,12.8,10.02,15.68,13.1,10.52
+Richmond upon Thames,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,12,%,39.38,33,23.75,38.82,31,23.18
+Richmond upon Thames,Housing,Evictions,"Repossessions per 1,000 households",Lower,0.78,,3.39,2.42,1.39,2.51,1.51,0.51
+Richmond upon Thames,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,80,%,76.8,71.2,65.65,70.97,65.4,59.83
+Richmond upon Thames,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.59,,1.34,0.93,0.5,,,
+Richmond upon Thames,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,42.3,%,56.13,46.4,35.48,35.22,24.9,14.58
+Richmond upon Thames,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,30,,635.95,353,92.93,,,
+Richmond upon Thames,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.5,,1.49,1,0.67,1.21,0.8,0.39
+Richmond upon Thames,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,1.9,,4.51,3.3,2.15,4.88,3.7,2.52
+Richmond upon Thames,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,2.8,%,7.82,6.7,3.95,9.34,7.4,5.46
+Richmond upon Thames,Living standards,Pay inequality,80:20 ratio of earnings,Lower,,,2.59,2.5,2.32,1.85,1.72,1.59
+Richmond upon Thames,Living standards,Poverty rate,Poverty rate,Lower,11,%,34.5,25,19.38,29.76,22.2,14.64
+Richmond upon Thames,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,225,,362.71,309,265.54,390.59,342,293.41
+Richmond upon Thames,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,26.1,%,34.12,28.8,23.88,39.72,34.6,29.48
+Richmond upon Thames,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,86,,489.32,219,139.87,,,
+Richmond upon Thames,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,5.98,,25.61,16.62,6.51,13.94,4.39,-5.16
+Richmond upon Thames,Work,Unemployment rate,Unemployment rate,Lower,4.5,%,5.77,5,4.27,4.45,3.7,2.95
+Richmond upon Thames,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,1.6,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Southwark,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,15.5,%,20.2,16.4,11.82,,,
+Southwark,Work,Benefits,Out-of-work benefits,Lower,13.5,%,15.19,12.8,10.02,15.68,13.1,10.52
+Southwark,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,36,%,39.38,33,23.75,38.82,31,23.18
+Southwark,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.87,,3.39,2.42,1.39,2.51,1.51,0.51
+Southwark,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,73.1,%,76.8,71.2,65.65,70.97,65.4,59.83
+Southwark,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.43,,1.34,0.93,0.5,,,
+Southwark,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,49.7,%,56.13,46.4,35.48,35.22,24.9,14.58
+Southwark,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,445,,635.95,353,92.93,,,
+Southwark,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.5,,1.49,1,0.67,1.21,0.8,0.39
+Southwark,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,2.6,,4.51,3.3,2.15,4.88,3.7,2.52
+Southwark,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.2,%,7.82,6.7,3.95,9.34,7.4,5.46
+Southwark,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.65,,2.59,2.5,2.32,1.85,1.72,1.59
+Southwark,Living standards,Poverty rate,Poverty rate,Lower,25,%,34.5,25,19.38,29.76,22.2,14.64
+Southwark,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,345,,362.71,309,265.54,390.59,342,293.41
+Southwark,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,28,%,34.12,28.8,23.88,39.72,34.6,29.48
+Southwark,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,435,,489.32,219,139.87,,,
+Southwark,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,26.05,,25.61,16.62,6.51,13.94,4.39,-5.16
+Southwark,Work,Unemployment rate,Unemployment rate,Lower,3.9,%,5.77,5,4.27,4.45,3.7,2.95
+Southwark,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-1.8,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Sutton,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,17.5,%,20.2,16.4,11.82,,,
+Sutton,Work,Benefits,Out-of-work benefits,Lower,10.1,%,15.19,12.8,10.02,15.68,13.1,10.52
+Sutton,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,22,%,39.38,33,23.75,38.82,31,23.18
+Sutton,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.46,,3.39,2.42,1.39,2.51,1.51,0.51
+Sutton,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,82.5,%,76.8,71.2,65.65,70.97,65.4,59.83
+Sutton,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.84,,1.34,0.93,0.5,,,
+Sutton,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,32.3,%,56.13,46.4,35.48,35.22,24.9,14.58
+Sutton,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,130,,635.95,353,92.93,,,
+Sutton,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.63,,1.49,1,0.67,1.21,0.8,0.39
+Sutton,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,2.6,,4.51,3.3,2.15,4.88,3.7,2.52
+Sutton,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,5.3,%,7.82,6.7,3.95,9.34,7.4,5.46
+Sutton,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.5,,2.59,2.5,2.32,1.85,1.72,1.59
+Sutton,Living standards,Poverty rate,Poverty rate,Lower,22,%,34.5,25,19.38,29.76,22.2,14.64
+Sutton,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,291,,362.71,309,265.54,390.59,342,293.41
+Sutton,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,25.2,%,34.12,28.8,23.88,39.72,34.6,29.48
+Sutton,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,30,,489.32,219,139.87,,,
+Sutton,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,10.68,,25.61,16.62,6.51,13.94,4.39,-5.16
+Sutton,Work,Unemployment rate,Unemployment rate,Lower,4.7,%,5.77,5,4.27,4.45,3.7,2.95
+Sutton,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,1.7,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Tower Hamlets,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,10.1,%,20.2,16.4,11.82,,,
+Tower Hamlets,Work,Benefits,Out-of-work benefits,Lower,14.4,%,15.19,12.8,10.02,15.68,13.1,10.52
+Tower Hamlets,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,48,%,39.38,33,23.75,38.82,31,23.18
+Tower Hamlets,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.56,,3.39,2.42,1.39,2.51,1.51,0.51
+Tower Hamlets,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,69.3,%,76.8,71.2,65.65,70.97,65.4,59.83
+Tower Hamlets,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.44,,1.34,0.93,0.5,,,
+Tower Hamlets,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,54.7,%,56.13,46.4,35.48,35.22,24.9,14.58
+Tower Hamlets,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,662,,635.95,353,92.93,,,
+Tower Hamlets,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,2.03,,1.49,1,0.67,1.21,0.8,0.39
+Tower Hamlets,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,2.5,,4.51,3.3,2.15,4.88,3.7,2.52
+Tower Hamlets,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6.5,%,7.82,6.7,3.95,9.34,7.4,5.46
+Tower Hamlets,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.37,,2.59,2.5,2.32,1.85,1.72,1.59
+Tower Hamlets,Living standards,Poverty rate,Poverty rate,Lower,39,%,34.5,25,19.38,29.76,22.2,14.64
+Tower Hamlets,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,394,,362.71,309,265.54,390.59,342,293.41
+Tower Hamlets,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,23.3,%,34.12,28.8,23.88,39.72,34.6,29.48
+Tower Hamlets,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,460,,489.32,219,139.87,,,
+Tower Hamlets,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,19.19,,25.61,16.62,6.51,13.94,4.39,-5.16
+Tower Hamlets,Work,Unemployment rate,Unemployment rate,Lower,6.3,%,5.77,5,4.27,4.45,3.7,2.95
+Tower Hamlets,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,1.7,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Waltham Forest,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,17,%,20.2,16.4,11.82,,,
+Waltham Forest,Work,Benefits,Out-of-work benefits,Lower,13.6,%,15.19,12.8,10.02,15.68,13.1,10.52
+Waltham Forest,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,38,%,39.38,33,23.75,38.82,31,23.18
+Waltham Forest,Housing,Evictions,"Repossessions per 1,000 households",Lower,2.99,,3.39,2.42,1.39,2.51,1.51,0.51
+Waltham Forest,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,64.8,%,76.8,71.2,65.65,70.97,65.4,59.83
+Waltham Forest,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.02,,1.34,0.93,0.5,,,
+Waltham Forest,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,39.8,%,56.13,46.4,35.48,35.22,24.9,14.58
+Waltham Forest,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,435,,635.95,353,92.93,,,
+Waltham Forest,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,1.14,,1.49,1,0.67,1.21,0.8,0.39
+Waltham Forest,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,3.1,,4.51,3.3,2.15,4.88,3.7,2.52
+Waltham Forest,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,3.5,%,7.82,6.7,3.95,9.34,7.4,5.46
+Waltham Forest,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.41,,2.59,2.5,2.32,1.85,1.72,1.59
+Waltham Forest,Living standards,Poverty rate,Poverty rate,Lower,23,%,34.5,25,19.38,29.76,22.2,14.64
+Waltham Forest,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,333,,362.71,309,265.54,390.59,342,293.41
+Waltham Forest,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,29.6,%,34.12,28.8,23.88,39.72,34.6,29.48
+Waltham Forest,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,186,,489.32,219,139.87,,,
+Waltham Forest,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,8.74,,25.61,16.62,6.51,13.94,4.39,-5.16
+Waltham Forest,Work,Unemployment rate,Unemployment rate,Lower,5.3,%,5.77,5,4.27,4.45,3.7,2.95
+Waltham Forest,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,-0.6,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Wandsworth,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,9.7,%,20.2,16.4,11.82,,,
+Wandsworth,Work,Benefits,Out-of-work benefits,Lower,8.8,%,15.19,12.8,10.02,15.68,13.1,10.52
+Wandsworth,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,26,%,39.38,33,23.75,38.82,31,23.18
+Wandsworth,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.84,,3.39,2.42,1.39,2.51,1.51,0.51
+Wandsworth,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,71.1,%,76.8,71.2,65.65,70.97,65.4,59.83
+Wandsworth,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.57,,1.34,0.93,0.5,,,
+Wandsworth,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,52.2,%,56.13,46.4,35.48,35.22,24.9,14.58
+Wandsworth,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,524,,635.95,353,92.93,,,
+Wandsworth,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.77,,1.49,1,0.67,1.21,0.8,0.39
+Wandsworth,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,1.9,,4.51,3.3,2.15,4.88,3.7,2.52
+Wandsworth,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,,%,7.82,6.7,3.95,9.34,7.4,5.46
+Wandsworth,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.63,,2.59,2.5,2.32,1.85,1.72,1.59
+Wandsworth,Living standards,Poverty rate,Poverty rate,Lower,34,%,34.5,25,19.38,29.76,22.2,14.64
+Wandsworth,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,282,,362.71,309,265.54,390.59,342,293.41
+Wandsworth,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,31.3,%,34.12,28.8,23.88,39.72,34.6,29.48
+Wandsworth,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,173,,489.32,219,139.87,,,
+Wandsworth,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,23.6,,25.61,16.62,6.51,13.94,4.39,-5.16
+Wandsworth,Work,Unemployment rate,Unemployment rate,Lower,4,%,5.77,5,4.27,4.45,3.7,2.95
+Wandsworth,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,1.5,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+Westminster,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,11.5,%,20.2,16.4,11.82,,,
+Westminster,Work,Benefits,Out-of-work benefits,Lower,12.7,%,15.19,12.8,10.02,15.68,13.1,10.52
+Westminster,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,31,%,39.38,33,23.75,38.82,31,23.18
+Westminster,Housing,Evictions,"Repossessions per 1,000 households",Lower,1.57,,3.39,2.42,1.39,2.51,1.51,0.51
+Westminster,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,76,%,76.8,71.2,65.65,70.97,65.4,59.83
+Westminster,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,1.15,,1.34,0.93,0.5,,,
+Westminster,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,75.4,%,56.13,46.4,35.48,35.22,24.9,14.58
+Westminster,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,529,,635.95,353,92.93,,,
+Westminster,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.87,,1.49,1,0.67,1.21,0.8,0.39
+Westminster,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,1.9,,4.51,3.3,2.15,4.88,3.7,2.52
+Westminster,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,6,%,7.82,6.7,3.95,9.34,7.4,5.46
+Westminster,Living standards,Pay inequality,80:20 ratio of earnings,Lower,2.62,,2.59,2.5,2.32,1.85,1.72,1.59
+Westminster,Living standards,Poverty rate,Poverty rate,Lower,43,%,34.5,25,19.38,29.76,22.2,14.64
+Westminster,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,264,,362.71,309,265.54,390.59,342,293.41
+Westminster,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,25,%,34.12,28.8,23.88,39.72,34.6,29.48
+Westminster,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,2050,,489.32,219,139.87,,,
+Westminster,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,23.74,,25.61,16.62,6.51,13.94,4.39,-5.16
+Westminster,Work,Unemployment rate,Unemployment rate,Lower,5,%,5.77,5,4.27,4.45,3.7,2.95
+Westminster,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,1.6,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
+City of London,Work,Low pay (resident),Proportion of borough residents' jobs that are low paid,Lower,,%,20.2,16.4,11.82,,,
+City of London,Work,Benefits,Out-of-work benefits,Lower,5.6,%,15.19,12.8,10.02,15.68,13.1,10.52
+City of London,Living standards,Child poverty rate,Child poverty rate (AHC),Lower,,%,39.38,33,23.75,38.82,31,23.18
+City of London,Housing,Evictions,"Repossessions per 1,000 households",Lower,0.93,,3.39,2.42,1.39,2.51,1.51,0.51
+City of London,Shared opportunity,GCSE attainment,Percentage of pupils who achieved grade 9-4,Higher,,%,76.8,71.2,65.65,70.97,65.4,59.83
+City of London,Housing,Homeless acceptances,"Main homelessness duty owed per 1,000 households",Lower,0.92,,1.34,0.93,0.5,,,
+City of London,Housing,Housing affordability,Median rent as a percentage of median pay,Lower,68.3,%,56.13,46.4,35.48,35.22,24.9,14.58
+City of London,Housing,Housing delivery,"Average net affordable, social and discounted housing completions",Higher,2,,635.95,353,92.93,,,
+City of London,Living standards,Income deprivation,Income deprivation (relative to London overall),Lower,0.42,,1.49,1,0.67,1.21,0.8,0.39
+City of London,People,Infant mortality,"Infant mortality rate per 1,000 live births",Lower,,,4.51,3.3,2.15,4.88,3.7,2.52
+City of London,Shared opportunity,No qualifications,Proportion with no qualifications,Lower,,%,7.82,6.7,3.95,9.34,7.4,5.46
+City of London,Living standards,Pay inequality,80:20 ratio of earnings,Lower,,,2.59,2.5,2.32,1.85,1.72,1.59
+City of London,Living standards,Poverty rate,Poverty rate,Lower,,%,34.5,25,19.38,29.76,22.2,14.64
+City of London,People,Premature mortality,"Deaths of <75 year olds per 100,000",Lower,,,362.71,309,265.54,390.59,342,293.41
+City of London,People,Qualifications at 19,19 year olds without level 3 qualifications,Lower,,%,34.12,28.8,23.88,39.72,34.6,29.48
+City of London,Housing,Rough sleeping,People seen sleeping rough by outreach,Lower,482,,489.32,219,139.87,,,
+City of London,Housing,Temporary accommodation,"Households in temporary accommodation per 1,000",Lower,6.77,,25.61,16.62,6.51,13.94,4.39,-5.16
+City of London,Work,Unemployment rate,Unemployment rate,Lower,,%,5.77,5,4.27,4.45,3.7,2.95
+City of London,Work,Unemployment rate change,Unemployment rate 1 year change,Lower,,pts,2.01,0.6,-0.66,1.44,0.1,-1.24
