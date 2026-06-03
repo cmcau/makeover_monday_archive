@@ -1,0 +1,119 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w12-uk-pet-population-in-2017",
+  "title": "2018/W12: UK Pet Population in 2017",
+  "description": "UK Pet Population in 2017",
+  "summary": "# **Original Visualization**\n![week 12 original.png](https://media.data.world/N4l9vaEiRZuE2EXRk68K_week%2012%20original.png)\n\n# **About this Dataset**\nSOURCE: [Pet Food Manufacturers Association](https://www.pfma.org.uk/pet-population-2017)\n\n[Annual Report 2017, p. 14](https://www.pfma.org.uk/_assets/docs/annual-reports/PFMA-Annual-Report-2016.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "f8762dbf-db52-407f-9aa4-c3fe0d27b190",
+  "tags": [
+    "uk data",
+    "pet population",
+    "pets",
+    "cats and dogs"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Pet Ownership.xlsx",
+      "sizeInBytes": 10450,
+      "created": "2018-03-17T15:47:54.859Z",
+      "updated": "2018-03-17T15:47:54.859Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-03-17T15:47:54.565Z",
+  "updated": "2018-03-18T10:58:50.787Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w4",
+      "title": "2019/W4: Energy Use at 10 Downing St in 2017",
+      "description": "Energy Use at 10 Downing St in 2017",
+      "summary": "\n# **Original Visualization**\n![original](https://media.data.world/aL1pomQKefyi3iYlEYQp_original.png)\n\n# **About this Dataset**\nSOURCE: [Carbon Culture](https://platform.carbonculture.net/places/10-downing-street/9/)\n\nDATA: [Carbon Culture](https://platform.carbonculture.net/apps/studydata/data-download?year=2017&id=9&subject=places)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "uk data",
+        "downing st",
+        "electricity",
+        "energy data",
+        "electricity consumption"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "w102018-what-policymakers-know-about-women-and-girl-issues",
+      "title": "2018/W10: What Policymakers know about Women and Girl Issues",
+      "description": "What Policymakers know about Women and Girl Issues",
+      "summary": "# **Original Visualization**\n![week 10 original.png](https://media.data.world/333mFENRQKQqPJHtsG09_week%2010%20original.png)\n\n# **About this Dataset**\nSOURCE: [Equal Measures 2030](http://www.equalmeasures2030.org/products/policymaker-report)\n\nThis week's Makeover Monday challenge is a collaboration with Tableau Public and Equal Measures 2030 in celebration of International Women's Day.\n\nThe data provided shows the responses by policy makers across a number of countries when asked for their judgement of different issues relating to women in girls in their country.\n\nThe data contains a *'correct answer'* with, for example, the rate at which women participate in the labor force. \n\nThen there is a column with the *guess or estimate* by the policy makers.\nFor labor participation, a guess that is higher than the correct answer is an overestimation, i.e. people think the situation is better than it is in reality.\n\nFor early marriage rates (the percentage of women currently aged 20-24 who were married before reaching the age of 18), an estimate below the correct answer means policy makers are underestimating how frequent these early marriages are.\n\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "maternal health",
+        "policy data",
+        "survey data",
+        "iwd",
+        "united nations",
+        "sdg action campaign"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w40",
+      "title": "2019/W40: London Population Predictions",
+      "description": "London Population Predictions",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![London Population](https://media.data.world/Iz4UmqNeRlmouvVKnBXx_Screen%20Shot%202019-09-28%20at%207.23.28%20pm.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Population of London (click on 'Communities')](https://data.london.gov.uk)\nDATA SOURCE: [London Datastore](https://data.london.gov.uk/download/projections/fcda413b-2b3a-44cd-a692-242bc45ffe24/central_trend_2017_base.xlsx)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?",
+      "tags": [
+        "london",
+        "population",
+        "london population",
+        "uk data",
+        "open data",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-6-baseball-demographics-1947-2016",
+      "title": "2018/W6: Baseball Demographics (1947-2016)",
+      "description": "Baseball Demographics (1947-2016)",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://sabr.org/sites/default/files/MLB-Demographics-Armour-Levitt-Figure1.png)\n\n# **About this Dataset**\nSOURCE: [Society for American Baseball Research](https://sabr.org/bioproj/topic/baseball-demographics-1947-2012)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "black history month",
+        "diversity",
+        "baseball"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w52",
+      "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+      "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+      "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "christmas",
+        "spending",
+        "consumption",
+        "us spending",
+        "us household spending",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
