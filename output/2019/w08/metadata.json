@@ -1,0 +1,112 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w8",
+  "title": "W8/2019: Which States Produce the Most Wind Energy",
+  "description": "Which States Produce the Most Wind Energy",
+  "summary": "# **Original Visualization**\n![Original](https://cdn.howmuch.net/articles/wind-power-in-the-united-states-2018-2cf9.jpg)\n\n# **About this Dataset**\nARTICLE: [Howmuch.net](https://howmuch.net/articles/wind-power-in-the-united-states-2018)\n\nSOURCE: [American Wind Energy Association via ChooseEnergy.com](https://www.chooseenergy.com/news/article/best-worst-ranked-states-wind-power/)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+  "version": "c58062cc-8c7a-416d-9f5e-dd02e7f921ef",
+  "tags": [
+    "wind energy",
+    "renewable energy",
+    "us wind energy",
+    "ranking"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US State Wind Energy Facts 2018.xlsx",
+      "sizeInBytes": 8253,
+      "created": "2019-02-16T16:54:45.889Z",
+      "updated": "2019-02-16T16:54:45.889Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-02-16T16:54:40.054Z",
+  "updated": "2019-02-17T11:18:21.910Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w20",
+      "title": "2020/W20: Visualizing Auto Insurance Rate by State in 2020",
+      "description": "Visualizing Auto Insurance Rate by State in 2020",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://cdn.howmuch.net/articles/Car-Insurance-Rates-in-2020---2500px---72dpi-7203.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visualizing Auto Insurance Rate by State in 2020](https://howmuch.net/articles/car-insurance-rates-in-2020)\nDATA SOURCE: [Average car insurance rates by state](https://www.valuepenguin.com/average-cost-of-insurance)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "insurance",
+        "us data",
+        "car insurance"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w7-world-wealth",
+      "title": "2020/W7: World Wealth",
+      "description": "World Wealth",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n**Original Visualization**\n\n![https://cdn.howmuch.net/articles/distribution-worlds-wealth-2019-%282%29-2064.jpg](https://cdn.howmuch.net/articles/distribution-worlds-wealth-2019-%282%29-2064.jpg)\n\n**About this Dataset**\n\nSOURCE ARTICLE: [All the World’s Wealth in One Visual](https://howmuch.net/articles/distribution-worlds-wealth-2019)\nDATA SOURCE: [Credit Suisse](https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "wealth"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w17",
+      "title": "2021/W17: Regional Price Parity Per State",
+      "description": "How do regional prices in America compare from 2008-2019",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![https://howmuch.net/articles/regional-price-parities-by-state](https://cdn.howmuch.net/articles/regional-price-parities-by-state-cfce.jpg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [howmuch.net](https://howmuch.net/articles/regional-price-parities-by-state)\nDATA SOURCE: [U.S. Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=8)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "united states",
+        "economy",
+        "price parity",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w32-what-countries-spend-on-research-development",
+      "title": "2018/W32: What Countries Spend on Research & Development",
+      "description": "What Countries Spend on Research & Development",
+      "summary": "# **Original Visualization**\n![Original Image](https://cdn.howmuch.net/articles/R%26D-AROUND-THE-WORLD-22c6.jpg)\n\n# **About this Dataset**\nARTICLE: [How Much?](https://howmuch.net/articles/research-development-spending-by-country)\n\nadditional information on this [UNESCO page](http://uis.unesco.org/apps/visualisations/research-and-development-spending/)\n\nSOURCE: [UNESCO Institute for Statistics](http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS)\n\nNote: To recreate the original numbers, you need to use year 2014.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "unesco",
+        "research and development",
+        "uis",
+        "global spend"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w8-where-does-your-medicine-come-from",
+      "title": "2018/W8: Where does your medicine come from?",
+      "description": "Where does your medicine come from?",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://cdn.howmuch.net/articles/66-1-231f.jpg)\n\n# **About this Dataset**\nSOURCE: [TradeMap](https://www.trademap.org/Country_SelProduct_TS.aspx?nvpm=1|||||3004|||4|1|1|2|2|1|2|1|1)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "analytics",
+        "data visualization",
+        "medicine",
+        "pharmaceuticals"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
