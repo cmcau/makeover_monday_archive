@@ -1,0 +1,119 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w50",
+  "title": "2020/W50: A Statistical Analysis of the Work of Bob Ross",
+  "description": "A Statistical Analysis of the Work of Bob Ross",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![hickey-ross-tags-1.png](https://media.data.world/jIyGBpidQRqwhznx8Ns0_hickey-ross-tags-1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [A Statistical Analysis of the Work of Bob Ross](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)\nDATA SOURCE: [GitHub](https://github.com/fivethirtyeight/data/blob/master/bob-ross/elements-by-episode.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "61e4b681-04d4-48de-9010-df578358f1a1",
+  "tags": [
+    "bob ross",
+    "statistics",
+    "art",
+    "painting",
+    "bar chart"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "elements-by-episode.csv",
+      "sizeInBytes": 1831290,
+      "created": "2020-12-13T10:41:43.659Z",
+      "updated": "2020-12-13T10:41:43.659Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-12-13T10:36:54.205Z",
+  "updated": "2020-12-13T10:45:24.172Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w26",
+      "title": "2021/W26: How Popular Is Your Birthday?",
+      "description": "How popular is your birthday?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/yFDOaIorTUuNKthTGay9_Births.png)\n\n​\n\n# Resources\nOriginal Article: [How Common is Your Birthday?](http://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/)\nData Source: U.S. National Center for Health Statistics ([1994-2003](https://github.com/fivethirtyeight/data/blob/master/births/US_births_1994-2003_CDC_NCHS.csv)); U.S. Social Security Administration ([2004-2014](https://github.com/fivethirtyeight/data/blob/master/births/US_births_2000-2014_SSA.csv)) — via [FiveThirthyEight](https://github.com/fivethirtyeight/data/births)",
+      "tags": [
+        "makeover monday",
+        "five thirty eight",
+        "birth",
+        "usa",
+        "united states",
+        "cdc",
+        "social security",
+        "ssa",
+        "birthday",
+        "date",
+        "year",
+        "month",
+        "weekday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w26",
+      "title": "2019/W26: Alcohol Consumption by Country",
+      "description": "Alcohol Consumption by Country",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![chart (1).png](https://media.data.world/JMDbwapcRRihNV0ikOIN_chart%20(1).png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\nDATA SOURCE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n\n",
+      "tags": [
+        "alcohol",
+        "bar chart",
+        "world atlas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w24",
+      "title": "2020/W24: The rise of soccer",
+      "description": "The rise of soccer: Percentage of high school female athletes playing each sport",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://fivethirtyeight.com/wp-content/uploads/2015/07/morris-datalab-wsoccer-1.png?w=575)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Why is the US so good at women's soccer?](https://fivethirtyeight.com/features/why-is-the-u-s-so-good-at-womens-soccer/)\nDATA SOURCE: [NFHS](https://members.nfhs.org/participation_statistics)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "sport",
+        "soccer",
+        "us sport"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w28",
+      "title": "2020/W28: Penguin Flipper and Bill Length at Palmer Station",
+      "description": "Flipper and Bill Length for Adelie, Chinstrap and Gentoo Penguins at Palmer Station Antarctica LTER",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://github.com/allisonhorst/palmerpenguins/raw/master/man/figures/README-mass-flipper-1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Palmer Penguins](https://github.com/allisonhorst/palmerpenguins)\nDATA SOURCE: [Structural size measurements and isotopic signatures Adelie, Chinstrap and Gentoo Penguins (3 datasets combined)](https://oceaninformatics.ucsd.edu/datazoo/catalogs/pallter/datasets/220) - datasets 219, 220, 221\nIMAGE USE: If using images, please follow the guidelines found under [Artwork](https://github.com/allisonhorst/palmerpenguins)\nTWITTER TAGS: See [original tweet here](https://twitter.com/allison_horst/status/1270046399418138625)\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "penguins",
+        "antarctica",
+        "ecological research",
+        "ecology"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w19-world-happiness-report-2020",
+      "title": "2020/W19: World Happiness Report 2020",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://worldhappiness.report/assets/images/2020/whr-2020-ch-02-fig-2-1-part1.png](https://worldhappiness.report/assets/images/2020/whr-2020-ch-02-fig-2-1-part1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [World Happiness Report](https://worldhappiness.report)\nDATA SOURCE: [Gallup World Poll](https://worldhappiness.report)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "happiness",
+        "bar chart"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
