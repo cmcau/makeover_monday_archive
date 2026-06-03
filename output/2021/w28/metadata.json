@@ -1,0 +1,144 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w28",
+  "title": "2021/W28: UK COVID Vaccination Coverage by Age & Ethnicity",
+  "description": "UK COVID Vaccination Coverage by Age & Ethnicity",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/ht8BguUUQXOedB9YSvq5_image.png)\n\n​\n\n# Resources\nArticle: [UK Vaccine Coverage by Age and Ethnicity](https://reports.opensafely.org/reports/vaccine-coverage/)\nData Source: [OpenSAFELY](https://reports.opensafely.org/reports/vaccine-coverage/)",
+  "version": "69f16c5b-3a8b-44a5-b594-5288fd56b7e2",
+  "tags": [
+    "makeover monday",
+    "age",
+    "ethnicity",
+    "race",
+    "uk",
+    "united kingdom",
+    "covid",
+    "coverage",
+    "vaccine"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "COVID Vaccine Coverage.csv",
+      "sizeInBytes": 212850,
+      "created": "2021-07-10T07:45:05.512Z",
+      "updated": "2021-07-10T07:45:05.512Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-07-10T07:44:59.027Z",
+  "updated": "2021-07-11T06:30:54.504Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 14
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w29",
+      "title": "2021/W29: UK COVID-19 Mortality Rate by Ethnicity",
+      "description": "Most minority ethnicities have a higher COVID-19 mortality rate",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/X4uw21IRZOyBEtmW3sFA_Screenshot%202021-07-18%20at%202.52.59%20pm.png)\n\n​\n\n# Resources\nOriginal Viz: [Most minority ethnicities have a higher COVID-19 mortality rate](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)\nData Source: [Information is Beautiful](https://docs.google.com/spreadsheets/d/1g_YxmDfQx7aOU2DKzNZo9b-NTk62Bju6X3z6OuCa6gw/edit#gid=2004630296) via UK Office for National Statistics",
+      "tags": [
+        "makeover monday",
+        "covid",
+        "uk",
+        "ethnicity",
+        "minorities",
+        "race",
+        "gender"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w25",
+      "title": "2021/W25: Stop & Search by Ethnicity in England & Wales",
+      "description": "Stop & Search Rates by Ethnicity in England & Wales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/kF7gjpyvThKVIxmVWUXN_image.png)\n\n​\n\n# Resources\nOriginal Visualization: [Stop & Search - gov.uk](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest#by-ethnicity-over-time)\nData Source: [gov.uk](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest#download-the-data)",
+      "tags": [
+        "makeover monday",
+        "ethnicity",
+        "race",
+        "area",
+        "location",
+        "england",
+        "united kingdom",
+        "uk",
+        "crime",
+        "wales",
+        "rate",
+        "population",
+        "per capita"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w43",
+      "title": "2019/W43: The Age At Which Most People Are Dying By Suicide",
+      "description": "CONTENT WARNING: Suicide - Number of people dying by suicide by single year of age in England and Wales",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screenshot 2019-10-20 at 6.38.36 pm.png](https://media.data.world/2DxYbGbYRWi8U4YanHL4_Screenshot%202019-10-20%20at%206.38.36%20pm.png)\n\n# **About this Dataset**\nSOURCE: [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "age",
+        "death",
+        "suicide",
+        "united kingdom",
+        "uk",
+        "wales",
+        "england",
+        "drugs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w35",
+      "title": "2023/W35: Food Inflation Rates in the UK",
+      "description": "Food Inflation Rates in the UK",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/e16c8a020c91d51b02ad9487e6a1a798b4f285c73011112a72e2bf4091d7c0da_CleanShot_2023_08_28_at_8.35.43.png)\n\n## Resources\n[Food Inflation Rates in the UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)\nData Source: Office for Natonal Statistics",
+      "tags": [
+        "food",
+        "uk",
+        "united kingdom",
+        "inflation",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w16",
+      "title": "2023/W16: Retirement Ages Around the World",
+      "description": "At what age to people retire around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/f8d8119d5a5a6b7732d8ee917cecb9589616f4d44e23704b4ccfce3ca9d0a73f_image.png)\n\n​\n\n# Resources\nOriginal Article - [Statista](https://www.statista.com/chart/29570/european-average-effective-labor-market-exit-ages/)\nData Source - [OECD](https://stats.oecd.org/Index.aspx?QueryId=111940)\n\n​",
+      "tags": [
+        "makeover monday",
+        "age",
+        "oecd",
+        "retire",
+        "retirement",
+        "labour",
+        "labor",
+        "labor statistics",
+        "country",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
