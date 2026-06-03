@@ -1,0 +1,92 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w35-which-body-parts-are-we-attaching-computers-to",
+  "title": "2018/W35: Which body parts are we attaching computers to?",
+  "description": "Which body parts are we attaching computers to?",
+  "summary": "# **Original Visualization**\n![](https://cms.qz.com/wp-content/uploads/2014/02/locations-of-wearable-devices-wearables_chartbuilder.png?w=1240&strip=all&quality=75)\n\n# **About this Dataset**\n* ARTICLE: [Quartz](https://qz.com/179344/which-body-parts-are-we-attaching-computers-to/)\n* DATA SOURCE: [Figure Eight](https://www.figure-eight.com/data-for-everyone/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "b2f795a5-906a-4c30-8b09-d7aa73d17ee9",
+  "tags": [
+    "body",
+    "computers",
+    "products",
+    "technology",
+    "makeover monday"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Wearables-DFE.csv",
+      "sizeInBytes": 2726451,
+      "created": "2018-08-25T10:46:13.358Z",
+      "updated": "2018-08-25T10:50:12.098Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-08-25T10:44:10.390Z",
+  "updated": "2018-08-26T05:56:20.836Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 15
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w51",
+      "title": "2019/W51: NBA Defensive Ratings",
+      "description": "The Spurs have never been this bad at defense. Which NBA teams are the best defensively?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://fivethirtyeight.com/wp-content/uploads/2019/12/dubin-SPURS-1203-2.png?w=1150)\n\n# **About this Dataset**\nSOURCE ARTICLE: [FiveThirtyEight](https://fivethirtyeight.com/features/the-spurs-have-never-been-this-bad-at-defense/)\nDATA SOURCE: [NBA](https://stats.nba.com/teams/defense/?sort=DEF_RATING&dir=-1&Season=2019-20&SeasonType=Regular%20Season)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "nba",
+        "basketball",
+        "ratings"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w37-paying-the-president",
+      "title": "2018/W37: Paying the President",
+      "description": "Spending at Trump properties by ProPublica - Collaboration with #WorkoutWednesday",
+      "summary": "# **Original Visualization**\n![](https://view.dwcontent.com/file_view/makeovermonday/2018w37-paying-the-president/Screen%20Shot%202018-09-08%20at%2010.14.48%20am.png?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OnZpendpeiIsImlzcyI6ImFnZW50OnZpendpejo6MDkwZjJhODItYThkMS00YzQ1LWFjY2QtZmU2ZjIwYzZmZGRlIiwiaWF0IjoxNTM2Mzk4MzU0LCJyb2xlIjpbInVzZXIiLCJ1c2VyX2FwaV9hZG1pbiIsInVzZXJfYXBpX3JlYWQiLCJ1c2VyX2FwaV93cml0ZSJdLCJnZW5lcmFsLXB1cnBvc2UiOmZhbHNlLCJ1cmwiOiJmYTQ4OTEyZTVmYjJlNjZkYTVhYWU5OWYxNTk1YzIzNjBmZjllOTQ2In0.rpaG4qKeBbA67lKLEyl3ANqTEAhkomoQTvNGs7M2KnS8RriYnmQY1aPoxqiF1qOEHMGwNM2gUdgL2nkGN1GWuA)\nORIGINAL ARTICLE: [ProPublica](https://projects.propublica.org/paying-the-president/)\n\n# **About this Dataset**\nDATA SOURCE: [ProPublica](https://www.propublica.org/datastore/dataset/spending-at-trump-properties)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "workout wednesday",
+        "propublica",
+        "donald trump",
+        "america",
+        "united states",
+        "president",
+        "spending",
+        "campaign",
+        "election",
+        "taxpayer"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-3-u-s-household-income-distribution-by-state",
+      "title": "2018/W3: U.S. Household Income Distribution by State",
+      "description": "U.S. Household Income Distribution by State",
+      "summary": "# **Original Visualization**\n![Visual Capitalist](http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/11/household-income.png)\n\n# **About this Dataset**\n**SOURCE:** [Visual Capitalist](http://www.visualcapitalist.com/household-income-distribution-u-s-state/)\n\n**DATA SOURCE:** [U.S. Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "united states",
+        "income distribution",
+        "state",
+        "household",
+        "visual capitalist"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
