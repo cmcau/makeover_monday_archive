@@ -1,0 +1,34 @@
+{
+  "owner": "makeovermonday",
+  "id": "w242024-whats-going-on-in-this-graph-engagement-ring-c",
+  "title": "2024/W24 Engagement Ring Costs",
+  "description": "How much do people spend on engagement rings?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nHow much do people spend on engagement rings?\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-fa9351eec0434209839d24cf149cf647.png)\n\n\nLink to article :[https://www.nytimes.com/2020/02/06/learning/whats-going-on-in-this-graph-engagement-ring-costs.html](https://www.nytimes.com/2020/02/06/learning/whats-going-on-in-this-graph-engagement-ring-costs.html)\n\nSource: National poll of 1,640 adults between Jan. 24 – 30, 2019 by Morning Consult\n\n​",
+  "version": "506084a8-6",
+  "tags": [],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "engagement_ring_spending.csv",
+      "sizeInBytes": 247,
+      "created": "2024-06-09T18:35:09.976529939Z",
+      "updated": "2024-06-09T18:35:09.976529939Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-06-09T18:33:41.434333101Z",
+  "updated": "2024-06-09T18:37:27.582055037Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [],
+  "isProject": false
+}
