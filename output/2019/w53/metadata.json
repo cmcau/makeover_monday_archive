@@ -1,0 +1,131 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w53",
+  "title": "2019/W53: The Most Popular Makeover Monday Topics",
+  "description": "Top 10 most downloaded topics",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/zjg4A3VdSrSZ5w3iAMGn\\_image.png](https://media.data.world/zjg4A3VdSrSZ5w3iAMGn_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE: [Data Studio](https://datastudio.google.com/reporting/e801e09d-b45c-4642-ba94-c887e69f781d)\n\nDATA SOURCES: data.world • Makeover Monday\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "2249062f-eba3-4333-adf5-2aed7a9016e8",
+  "tags": [
+    "makeover monday",
+    "metrics",
+    "downloads"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Downloads by Dataset.csv",
+      "sizeInBytes": 16632,
+      "created": "2019-12-27T15:00:13.350Z",
+      "updated": "2019-12-27T15:00:13.350Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-12-27T14:59:55.363Z",
+  "updated": "2019-12-29T14:35:59.546Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 9
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w29",
+      "title": "2019/W29: Share of Americans Not Having Sex",
+      "description": "The share of Americans not having sex has reached a record high",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/OntaCUBdQkuspoAphzgv\\_MM.png](https://media.data.world/OntaCUBdQkuspoAphzgv_MM.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Washington Post](https://www.washingtonpost.com/business/2019/03/29/share-americans-not-having-sex-has-reached-record-high/)\nDATA SOURCE: [General Social Survey](https://gssdataexplorer.norc.org/variables/5057/vshow)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "sex",
+        "washington post",
+        "time series",
+        "year",
+        "line chart",
+        "frequency"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w11",
+      "title": "2019/W9: Economic value of the bicycle industry",
+      "summary": "# **Original Visualization**\n![image.png](https://media.data.world/4tQb8t2kSyqv0XNOjOFu_image.png)\n\n# **About this Dataset**\nSOURCE: [SQW](http://www.sqw.co.uk/files/6914/9406/9034/SQW_Economic_value_of_the_bicycle_industry_and_cycling_March_2017_FINAL.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "bicycle",
+        "united kingdom",
+        "uk",
+        "economics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w38",
+      "title": "2019/W38: Positive Impact Events - SDG Commitments",
+      "description": "Positive Impact Events - Commitments from the Event Industry for the Sustainable Development Goals",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![original.png](https://media.data.world/GADNAjpKQW263emC28EP_original.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Positive Impact Events - Committments from the Event Industry for the Sustainable Development Goals](https://datastudio.google.com/u/0/reporting/1VZc12vP-qsKGvdghQdvCm3zb6pKe3Ztc/page/66Sr)\nDATA SOURCE: [MyWorld2030 Events Survey](https://events.myworld2030.org/)\nADDITIONAL INFORMATION: [Positive Impact Events Website](https://www.positiveimpactevents.com)\nTWITTER: Please tag [sdgaction](https://twitter.com/SDGaction) on Twitter and use the hashtag #Act4SDGs\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "sdg",
+        "sdg action campaign",
+        "sustainable development",
+        "sustainbility",
+        "events industry",
+        "global goals",
+        "united nations",
+        "general assembly"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-47-snapchat-is-tops-with-american-teens",
+      "title": "2017/W47: Snapchat is Tops with American Teens",
+      "description": "Snapchat is Tops with American Teens",
+      "summary": "# Original Visualization\n![supporting image or chart](http://static6.businessinsider.com/image/59e52afb1f848906058b618c-1200/cotd101602.png)\n\n# About this Dataset\nSOURCE: [Piper Jaffray](http://www.piperjaffray.com/3col.aspx?id=4610)\n\n# Objectives\nWhat works and what doesn't work with this chart? How can you make it better? Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "apps",
+        "teens",
+        "america",
+        "united states",
+        "snapchat",
+        "instagram",
+        "facebook",
+        "twitter",
+        "trends",
+        "business insider"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
