@@ -1,0 +1,101 @@
+{
+  "owner": "makeovermonday",
+  "id": "gpu-computational-performance-per-dollar",
+  "title": "2026/w21 GPU computational performance per dollar",
+  "description": "Hardware computational performance shown in floating-point operations per second (FLOP/s) per US dollar",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-04f70c75ba0042f99a526b25783187ba.png)\n\n​\n\nSource: [GPU computational performance per dollar](https://ourworldindata.org/grapher/gpu-price-performance)",
+  "version": "ac7e1af1-5",
+  "tags": [
+    "makeovermonday",
+    "gpu"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "GPU performance per dollar.csv",
+      "sizeInBytes": 2674,
+      "created": "2026-05-25T18:43:33.278825165Z",
+      "updated": "2026-05-25T18:43:33.278825165Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-05-25T18:39:14.783350948Z",
+  "updated": "2026-05-25T18:43:58.659750959Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w12-precipitation-anomalies",
+      "title": "2025/W12 Precipitation Anomalies",
+      "description": "The difference in a specific year's total precipitation — rain and snow — from the 1991–2020 average, measured in mm.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a2a069a6bf8e4533af0319830e0fc1bc.png)\n\nDatasource: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)\n\nArticle: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "financial-markets-historical-performance",
+      "title": "Financial Markets Historical Performance",
+      "description": "Performance of the S&P 500 compared with other indices",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-43cef320a69145a5a6b6da4e4a28d6e8.png)\n\n# **About this Dataset**\nSOURCE: [FTSE 100 vs MSCI China vs Nasdaq-100 vs NYSE Arca Gold BUGS vs S&P 500: historical performance from 2008 to 2024 (curvo.eu)](https://curvo.eu/backtest/en/compare-indexes/euro-stoxx-50-vs-ftse-100-vs-msci-china-vs-nasdaq-100-vs-nyse-arca-gold-bugs-vs-sp-500?currency=usd)\n\n\\*Prices shown in dollars\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Share your remakes on Linkedin and/or Twitter!",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w17-2024-eiu-democracy-index",
+      "title": "2026/W17 2024 EIU Democracy Index",
+      "description": "2024 Democracy Index and sub-indicators from the Economist Intelligence Unit.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-b9cdba3cc054479bba117d6f51cc2519.png)\n\nData Source: [OurWorldInData](https://ourworldindata.org/grapher/democracy-index-eiu)\n\nArticle: [The Economist](https://www.eiu.com/n/campaigns/democracy-index-2024/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "global-energy-consumption",
+      "title": "Global Energy Consumption",
+      "description": "How much energy does the world consume?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-3692b68c387b47b9a17e79ab31fbde45.png)\n\n​\n\nArticle and Datasource : [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)",
+      "tags": [
+        "energy",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "gains-in-commodity-prices",
+      "title": "Gains in Commodity Prices",
+      "description": "Changes in the price of different commodities",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-60b1ca19e8ab433e841c7944db20d581.png)\n\n​\n\nDatasource : [Commodity prices post modest gains in October—Pink Sheet](https://blogs.worldbank.org/en/opendata/commodity-prices-post-modest-gains-in-october-pink-sheet)\n\n**Notes:  \n**While the visualization above shows month over month change in commodity prices from September to October, the data provides yearly data for commodities, and provides the ability to analyze year over year changes.\n\nUnits:\n\n\n* **$/bbl**: Price in US dollars per barrel. A barrel is a standard unit of measure for crude oil and other liquid fuels.\n* **$/mmbtu**: Price in US dollars per million British thermal units. A unit of energy commonly used for natural gas.\n* **$/kg**: Price in US dollars per kilogram. Frequently used for agricultural products like cocoa, coffee, and tea.\n* **$/toz**: Price in US dollars per troy ounce. A unit of weight used for precious metals like gold, silver, and platinum\n* **$/mt**: Price in US dollars per metric ton. Commonly used for bulk commodities like coal, metals, and grains.",
+      "tags": [
+        "makeovermonday",
+        "commodities",
+        "price"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
