@@ -1,0 +1,88 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w39-literacy-rate",
+  "title": "2024/w39 Literacy rate",
+  "description": "\"Global literacy today  Of the world population older than 15 years, the majority are literate. \" Ourworldindata",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-8d7db5e23f4c4aedab96608cecf855f7.png)\n\nArticle : [https://ourworldindata.org/literacy](https://ourworldindata.org/literacy)\n\n**Data source:** World Bank (2023); Various sources (2018) – Learn more about this data",
+  "version": "87e534ac-10",
+  "tags": [
+    "literacy rates"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "cross-country-literacy-rates.csv",
+      "sizeInBytes": 69781,
+      "created": "2024-09-22T23:37:14.368016963Z",
+      "updated": "2024-09-22T23:37:14.368016963Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-09-22T23:31:51.987099807Z",
+  "updated": "2024-09-22T23:44:20.034403407Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w46",
+      "title": "2019/W46: Youth & adult literacy rates",
+      "description": "Youth & adult literacy rates",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Dashboard.png](https://media.data.world/BvJMqfmbTvq2C911Jovs_Dashboard.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [UNESCO](http://tcg.uis.unesco.org/4-6-2-youth-adult-literacy-rate/)\nDATA SOURCE: [UNESCO SDG4](http://data.uis.unesco.org/index.aspx?queryid=3482)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "literacy rates"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-18-global-500-brands-by-sector",
+      "title": "2024/ Week 18 Global 500 brands by sector",
+      "description": "Global 500 2023 The annual report on the world's most valuable and strongest brands",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nLink to Article : https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf\n\nSource: Brand Finance\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-b5275d57063440de8e6bd68163e4bcc8.png)\n\n",
+      "tags": [],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-30-streaming-hits-40-of-us-tv-usage-for-the-fi",
+      "title": "2024/ Week 30 Streaming Hits 40% of U.S. TV Usage for the Fi",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle:  [https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/](https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/)\nsource : nielsen\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-38b895be259540e984cdcaa8ebd6bdd5.png)\n\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-25f482997a5d490f8654a298403c69aa.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "week-27-what-to-watch-in-2024-energy",
+      "title": "Week 27 / The history of global natural gas production",
+      "description": "The history of global natural gas production",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle: [https://visualizingenergy.org/the-history-of-global-natural-gas-produ](https://visualizingenergy.org/the-history-of-global-natural-gas-production/)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Post your alternative on the discussions page.\n​\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-28e63c3b134d4aedaceddafd5d69ab22.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-077110330bc04007ae7c7db50ab1fce5.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-1-technological-change",
+      "title": "2025/ week 1 Technological change",
+      "description": "Storage",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata: ourworld in data\n\nhttps://ourworldindata.org/technological-change\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-8ee90da5ba6149fbbcb466693866609f.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
