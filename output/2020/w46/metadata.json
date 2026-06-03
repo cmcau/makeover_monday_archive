@@ -1,0 +1,43 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w46",
+  "title": "2020/W46: Majority of Advertising Dollars Now Spent Online",
+  "description": "The Majority of Advertising Dollars are Now Being Spent Online",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![WhatsApp Image 2020-11-14 at 18.19.31.jpeg](https://media.data.world/4nPsFb3CSJSXMGmxgBbH_WhatsApp%20Image%202020-11-14%20at%2018.19.31.jpeg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Majority of Advertising Dollars are Now Being Spent Online](https://www.visualcapitalist.com/majority-advertising-dollars-spent-online/)\nDATA SOURCE: [Group M](https://dmx9040v9xyo8.cloudfront.net/uploads/2020/06/groupmusadvertisingforecast-1.pdf)\nNote: source article attached as PDF in this dataset\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+  "version": "16f33fcb-1913-4c87-8f33-78b5547acaaf",
+  "tags": [
+    "advertising",
+    "time series"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Share of US Ad Spend.xlsx",
+      "sizeInBytes": 10913,
+      "created": "2020-11-15T12:05:27.550Z",
+      "updated": "2020-11-15T12:05:27.550Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "groupmusadvertisingforecast-1.pdf",
+      "sizeInBytes": 858943,
+      "created": "2020-11-15T12:05:50.767Z",
+      "updated": "2020-11-15T12:05:50.767Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-11-15T12:01:04.618Z",
+  "updated": "2020-11-15T12:13:19.730Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 15
+  },
+  "similarResources": [],
+  "isProject": false
+}
