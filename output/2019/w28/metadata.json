@@ -1,0 +1,129 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w28",
+  "title": "2019/W28: International protection in the EU+: 2018 overview",
+  "description": "International protection in the EU+: 2018 overview",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original.png](https://media.data.world/aR543tHS3Wz9eZ6oLtaH_Original.png)\n\nPlease note: The data only covers the first two bar charts below the map. The rest of the dashboard has been included for context but data has not been provided.\n\n# **About this Dataset**\nSOURCE ARTICLE: [European Asylum Support Office](https://www.easo.europa.eu/asylum-trends-annual-report-2018)\nDATA SOURCE: EUROSTAT, from 2009 to 2018 [Summary applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asyappctza&lang=en)\n[Decisions on applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asydcfsta&lang=en)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "f2d3cfa0-ae91-4abd-8adc-ac0492278d7d",
+  "tags": [
+    "asylum",
+    "refugee",
+    "refugee crisis",
+    "europe",
+    "eu",
+    "migration"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "asylum applications in Europe - decision detail.xls",
+      "sizeInBytes": 58368,
+      "created": "2019-07-07T08:27:26.965Z",
+      "updated": "2019-07-07T08:27:26.965Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "asylum applications in Europe.xls",
+      "sizeInBytes": 64000,
+      "created": "2019-07-07T08:27:26.965Z",
+      "updated": "2019-07-07T08:27:26.965Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-07-07T08:27:08.589Z",
+  "updated": "2019-07-07T08:37:53.070Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 2,
+    "columnCount": 32
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w38",
+      "title": "2020/w38: Pick up a book and read!",
+      "description": "Pick up a book and read!",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://media.data.world/yvxBGUv9Q9GJCt6g6pAZ\\_Price%20develpment%20of%20books%20in%20the%20EU.png](https://media.data.world/yvxBGUv9Q9GJCt6g6pAZ_Price%20develpment%20of%20books%20in%20the%20EU.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Pick up a book and read!](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/EDN-20200422-1)\nDATA SOURCE: [Eurostat](https://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055106_QID_2BA8FB1D_UID_-3F171EB0&layout=TIME,C,X,0;COICOP,B,Y,0;UNIT,B,Z,0;GEO,B,Z,1;INDICATORS,C,Z,2;&zSelection=DS-055106INDICATORS,OBS_FLAG;DS-055106GEO,EU27_2020;DS-055106UNIT,I15;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=GEO_1_2_1_1&rankName4=TIME_1_0_0_0&rankName5=COICOP_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "data visualization",
+        "book prices",
+        "eurostat",
+        "line chart",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w5",
+      "title": "2019/W5: Digital Economy and Society Index (DESI)",
+      "description": "DESI is a composite index that summarises relevant indicators on Europe’s digital performance.",
+      "summary": "\n# **Original Visualization**\n![original](https://ec.europa.eu/digital-single-market/sites/digital-agenda/files/desi2018_correction.png)\n\n# **About this Dataset**\nSOURCE: [European Commission](https://ec.europa.eu/digital-single-market/en/desi)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "europe",
+        "desi",
+        "society",
+        "index",
+        "economy",
+        "digital",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w13",
+      "title": "2021/W13: UK Exports to EU have plunged since Brexit",
+      "description": "Exports to EU plunge by 40% in first month since Brexit",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![](https://media.data.world/EwMFcBAcR42cTBlVUPHY_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/business/2021/mar/12/exports-to-eu-plunge-in-first-month-since-brexit-uk-economy)\n\nDATA SOURCE: [ONS - UK trade goods and services publication table 14](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/uktradegoodsandservicespublicationtables) (expressed as £ million)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "brexit",
+        "economy",
+        "uk",
+        "united kingdom",
+        "europe",
+        "eu",
+        "exports",
+        "imports",
+        "goods"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w48",
+      "title": "2019/W48: 2018 Squirrel Census Fur Color Map",
+      "description": "2018 Squirrel Census Fur Color Map",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![week 48 original.png](https://media.data.world/vaUElB6SjiUzSard7J1y_week%2048%20original.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [2018 Squirrel Census Fur Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)\nDATA SOURCE: [NYC Open Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "new york",
+        "central park",
+        "squirrel",
+        "squirrel map"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w20-hours-spent-in-congestion-in-european-cities",
+      "title": "2018/W20: Hours spent in Congestion in European Cities",
+      "description": "Hours spent in Congestion in European Cities",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-05-12 at 10.18.56 pm.png](https://media.data.world/IWvgW8w9SbSoXkWKxYcv_Screen%20Shot%202018-05-12%20at%2010.18.56%20pm.png)\n\n# **About this Dataset**\nSOURCE: [EuroNews](http://www.euronews.com/2018/02/07/which-european-commuters-spend-the-most-time-in-traffic-jams-)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
