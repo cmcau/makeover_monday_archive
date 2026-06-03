@@ -1,0 +1,100 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w9-trumps-approval-ratings",
+  "title": "2026/W9 Trump's Approval Ratings",
+  "description": "Comparing Trump's approval ratings across groups between February 2025 and February 2026.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-e775b1ec60644250b05cad20a1a121f0.png)\n\nArticle: [CNN](https://edition.cnn.com/2026/02/23/politics/trump-approval-rating-independents-cnn-poll)",
+  "version": "9b1eaf04-4",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MM 2026 W09 Trump Approval Ratings.xlsx",
+      "sizeInBytes": 5575,
+      "created": "2026-03-02T02:01:57.748580151Z",
+      "updated": "2026-03-02T02:01:57.748580151Z",
+      "createdBy": "blakefeiza",
+      "updatedBy": "blakefeiza"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-03-02T02:00:59.628338392Z",
+  "updated": "2026-03-02T02:08:53.487041033Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w18-trump-approval-ratings",
+      "title": "2025/W18 Trump Approval Ratings",
+      "description": "% Who ____ of the way Trump is handling his job as president",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n​\n\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4134dce1a68742e495b184bc6d52b78c.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/trump-100-days-methodology/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/evaluations-of-trump-job-approval-and-confidence-on-issues/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk-8-the-periodic-table-of-ai-startups",
+      "title": "2026/WK 8 The Periodic Table of AI Startups",
+      "description": "14 categories of AI companies founded/funded Feb 2025-Feb 2026",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-e9aab82b6a0043d68a707a82bd37fc84.png)\n\n​\n\nDatasource & Article :  [The Periodic Table of AI Startups – 14 categories of AI companies founded/funded Feb 2025-Feb 2026 - Voronoi](https://www.voronoiapp.com/investing/The-Periodic-Table-of-AI-Startups--14-categories-of-AI-companies-foundedfunded-Feb-2025-Feb-2026-7663)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w18-best-tacos-in-san-diego",
+      "title": "2026/W18 Best Tacos in San Diego",
+      "description": "Top 50 Places to get Tacos in San Diego, per Gemini. Can you build a better dashboard than AI?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-8a7ad481d9014313bf88f31bd880c96f.png)\n\nDatasource & Article: [Gemini](https://gemini.google.com/share/672e1babcb27)",
+      "tags": [
+        "tacos",
+        "san diego"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "8-fastest-cars-in-the-world-as-of-2026",
+      "title": "2026/Wk11 8 Fastest Cars In The World | As Of 2026",
+      "description": "Which are the fastest cars in 2026?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original**\n![](https://mediauploads-US.data.world/00000-datainformant-a4aaf9cfa77f46f18de6c908523e6cd8.png)\n\n​\n\nArticle: [8 Fastest Cars In The World | As Of 2026 - RankRed](https://www.rankred.com/fastest-cars-in-the-world/)\nData: RankRed/Chimdi (Compiled from article, enriched with google)",
+      "tags": [
+        "cars",
+        "speed",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w50-cost-of-kevins-home-alone-grocery-haul-in-2025",
+      "title": "2025/W50 Cost of Kevin’s ‘Home Alone’ Grocery Haul in 2025",
+      "description": "Analyzing the cost of Kevin's grocery bill (Home Alone) if he were shopping in 2025.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-a94057527480475880bbc0308fbb71f8.png)\n\n​\n\nDatasource & Article: [GoBankingRates](https://www.gobankingrates.com/saving-money/food/how-much-kevins-home-alone-grocery-haul-would-cost-today/)",
+      "tags": [
+        "makeovermonday",
+        "retail",
+        "shopping"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
