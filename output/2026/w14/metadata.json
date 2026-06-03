@@ -1,0 +1,99 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w14",
+  "title": "2026/W14",
+  "description": "Oil production data over time.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: https://ourworldindata.org/grapher/oil-production-by-country\n\n![](https://mediauploads-US.data.world/00000-mhuff04-078394a409cc456a8fec7f77edcd1fc2.png)\n\n",
+  "version": "f5c5623a-7",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "oil-production-by-country.csv",
+      "sizeInBytes": 22739,
+      "created": "2026-04-06T13:09:28.409808774Z",
+      "updated": "2026-04-06T13:09:28.409808774Z",
+      "createdBy": "mhuff04",
+      "updatedBy": "mhuff04"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-04-06T13:09:22.793662553Z",
+  "updated": "2026-04-06T13:12:17.861224378Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w17-2024-eiu-democracy-index",
+      "title": "2026/W17 2024 EIU Democracy Index",
+      "description": "2024 Democracy Index and sub-indicators from the Economist Intelligence Unit.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-b9cdba3cc054479bba117d6f51cc2519.png)\n\nData Source: [OurWorldInData](https://ourworldindata.org/grapher/democracy-index-eiu)\n\nArticle: [The Economist](https://www.eiu.com/n/campaigns/democracy-index-2024/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "gpu-computational-performance-per-dollar",
+      "title": "2026/w21 GPU computational performance per dollar",
+      "description": "Hardware computational performance shown in floating-point operations per second (FLOP/s) per US dollar",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-04f70c75ba0042f99a526b25783187ba.png)\n\n​\n\nSource: [GPU computational performance per dollar](https://ourworldindata.org/grapher/gpu-price-performance)",
+      "tags": [
+        "makeovermonday",
+        "gpu"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w12-precipitation-anomalies",
+      "title": "2025/W12 Precipitation Anomalies",
+      "description": "The difference in a specific year's total precipitation — rain and snow — from the 1991–2020 average, measured in mm.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a2a069a6bf8e4533af0319830e0fc1bc.png)\n\nDatasource: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)\n\nArticle: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w33",
+      "title": "2023/W33: Energy Use per Person",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/a8ad0e746a57e8155eb26c82d6ba9a86effc1eebcd1c6950d2122adee14030ce_per_capita_energy_use.png)\n\n​\n\n## **Resources**\n[Energy Use per Person](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&country=IND~TWN~SWE~OWID_WRL~USA~CAN~RUS~GBR)\nData Source: [Our World in Data](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&country=IND~TWN~SWE~OWID_WRL~USA~CAN~RUS~GBR)",
+      "tags": [
+        "makeover monday",
+        "energy",
+        "country",
+        "region",
+        "world bank"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "meat-production-by-livestock-type",
+      "title": "2025 / Week 35 Meat Production by Livestock Type",
+      "description": "Global meat production by livestock type",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-f893942214d7454ea941573510dd5cac.png)\n\n​\n\n​\n\nDatasource + Article: [Meat and Dairy Production - Our World in Data](https://ourworldindata.org/meat-production)",
+      "tags": [
+        "meat",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
