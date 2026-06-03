@@ -1,0 +1,42 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w49",
+  "title": "2019/W49: How much do unions benefit America's workers?",
+  "description": "How much does union membership benefit America's workers?",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+  "version": "9136a5e2-e4d3-43dc-99f9-4e330fe3ef23",
+  "tags": [
+    "makeover monday",
+    "union",
+    "workers",
+    "america",
+    "united states",
+    "usa",
+    "time series",
+    "bls",
+    "labor statistics"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Union vs Non-Union Median Salaries.xlsx",
+      "sizeInBytes": 29878,
+      "created": "2019-11-26T16:52:03.514Z",
+      "updated": "2019-11-26T16:52:03.514Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-11-26T16:51:52.316Z",
+  "updated": "2019-12-01T10:41:53.973Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 9
+  },
+  "similarResources": [],
+  "isProject": false
+}
