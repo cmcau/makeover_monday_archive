@@ -1,0 +1,108 @@
+{
+  "owner": "makeovermonday",
+  "id": "the-worlds-highest-paid-athletes-in-2023",
+  "title": "2024/W4: Forbes Highest Paid Athletes in 2023",
+  "description": "Ranking the Top 50 Athletes by Earnings in 2023",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/60b5775be62e709711c7132e903859fc2c2548a4ebf49a95972151206845498e_image.png)\n\n​\n\nDatasource :  [forbes.com](https://www.forbes.com/lists/athletes/?sh=69bf004f5b7e)\nArticle : [The World's Highest-Paid Athletes 2023 (forbes.com)](https://www.forbes.com/lists/athletes/?sh=69bf004f5b7e)",
+  "version": "3c2b5f7c-19",
+  "tags": [
+    "forbes",
+    "sports",
+    "top 50",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "The_World's_Highest_Paid_Athletes.xlsx",
+      "sizeInBytes": 11561,
+      "created": "2024-01-21T20:25:58.612053402Z",
+      "updated": "2024-01-21T20:25:58.612053402Z",
+      "description": "",
+      "labels": [],
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-01-21T20:18:17.062766095Z",
+  "updated": "2024-01-21T23:35:10.108141785Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "the-worlds-most-innovative-companies-2024",
+      "title": "The World's Most Innovative Companies - 2018",
+      "description": "Forbes list and ranking of the most innovative companies.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-b5619d25e70c4594be9acec16ecc574a.png)\n\n​\n\nDatasource + Article : [https://www.forbes.com/innovative-companies/list/](https://www.forbes.com/innovative-companies/list/)\n\n\\*Note : this dataset was originally posted as a 2024 dataset but was later corrected as we found out it was from 2018.",
+      "tags": [
+        "innovation",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w16-airhelp-global-airport-rankings",
+      "title": "2024/W17 AirHelp Global Airport Rankings",
+      "description": "2023 AirHelp scores for 194 of the worlds busiest airports.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4aeac604d4974dc38557f604f53aa62d.png)\n\n​\n\nDatasource : [AirHelp](https://www.airhelp.com/en-gb/blog/airhelp-score-2023-how-did-we-rank-the-airports/)\n\nArticle : [Global Airport Ranking](https://www.airhelp.com/en-gb/airhelp-score/airport-ranking/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w36",
+      "title": "2023/W36: Employees at Forbes Cloud 100",
+      "description": "# of employees at Fortune Cloud 100 companies: 2022-2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/317bb59c870579fb25a3bc786433cbf205ffeaa7cb75924c23e0ef2fa9561b41_CleanShot_2023_09_03_at_1.13.47_2x.png)\n\n## **Resources**\nArticle: [Tech Layoffs](https://layoffs.fyi/)\nData Collected by: [Brittany Rosenau](https://twitter.com/brrosenau)",
+      "tags": [
+        "makeover monday",
+        "technology",
+        "tech sector",
+        "tech",
+        "forbes"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w4-most-posted-us-jobs-by-state",
+      "title": "2025/W4 Most Posted US Jobs by State",
+      "description": "The top 3 job titles for each state from Lightcast's job postings data.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-c55710bacdb949699d43b87439d3ae5c.png)\n\nDatasource & Article: [Lightcast](https://lightcast.io/resources/blog/most-posted-for-jobs-in-each-us-state)",
+      "tags": [
+        "makeovermonday",
+        "jobs",
+        "workforce"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w20-us-made-gun-exports-2005-2022",
+      "title": "2024/W20 US-Made Gun Exports 2005-2022",
+      "description": "Cumulative volume of US semiautomatic firearm exports, 2005–2022",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-c7bb995e7d1d40abbd50b7381601d6d7.png)\n\n​\n\nDatasource : [United States Census Bureau](https://www.census.gov/foreign-trade/data/index.html)\n\nArticle : [Bloomberg](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
