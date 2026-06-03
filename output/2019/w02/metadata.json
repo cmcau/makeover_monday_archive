@@ -1,0 +1,126 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w2",
+  "title": "2019/W2: Press Freedom's Dark Horizon",
+  "description": "How free is press around the world?",
+  "summary": "# **Original Visualization**\n![image.png](https://media.data.world/KAmTgZxtR8axjhZmRae5_image.png)\n\n# **About this Dataset**\nARTICLE: [Freedom House](https://freedomhouse.org/report/freedom-press/freedom-press-2017)\n\nDATA SOURCE: [Freedom House](https://freedomhouse.org/sites/default/files/FOTP1980-FOTP2017_Public-Data.xlsx)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\nUnder the edit window, click on *Preview* to see what your post will look like. You can also edit your post later on (instead of posting a new comment)",
+  "version": "76148717-323d-48c4-bb88-6b850e21acd7",
+  "tags": [
+    "makeover monday",
+    "press",
+    "freedom",
+    "liberty",
+    "survey",
+    "freedom house",
+    "rating",
+    "score"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "FOTP.xlsx",
+      "sizeInBytes": 108629,
+      "created": "2019-01-05T16:47:53.602Z",
+      "updated": "2019-01-05T16:47:53.602Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-01-05T16:47:06.819Z",
+  "updated": "2019-01-06T12:15:00.123Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w9-world-economic-freedom",
+      "title": "2018/W9: World Economic Freedom",
+      "description": "World Economic Freedom: 1970-2015",
+      "summary": "![MM9 2018.png](https://media.data.world/A8V9pbrTSZqxLUYwLg9n_MM9%202018.png)\n\n# **About this Dataset**\nSOURCE: [Fraser Institute](https://www.fraserinstitute.org/economic-freedom/dataset)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economics",
+        "fraser institute",
+        "makeover monday",
+        "filled map"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w31-big-mac-index",
+      "title": "2018/W31: Big Mac Index",
+      "description": "The Economist Big Mac Index",
+      "summary": "# **Original Visualization**\n![](https://www.economist.com/sites/default/files/imagecache/1280-width/images/print-edition/20180120_FNC577_0.png)\n\n# **About this Dataset**\nSOURCE: [The Economist](https://www.economist.com/finance-and-economics/2018/01/20/our-big-mac-index-shows-fundamentals-now-matter-more-in-currency-markets)\n\nMore information about how the index is calculated, where exchange rates came from, etc. available on [github](https://github.com/TheEconomist/big-mac-data).\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economist",
+        "makeover monday",
+        "economy",
+        "mcdonalds",
+        "big mac index",
+        "currency"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w49",
+      "title": "2018/W49: Women Constructors in the Shortz Era",
+      "description": "How many women have constructed crossword puzzles in the Shortz Era",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://www.xwordinfo.com/images/Women2017.png)\n\n### **About this Dataset**\nSOURCE: [XWord Info](https://www.xwordinfo.com/Women)\n\n### **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "crossword puzzle",
+        "new york times",
+        "xword info",
+        "gender",
+        "female",
+        "women"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
