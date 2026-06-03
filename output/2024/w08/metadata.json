@@ -1,0 +1,98 @@
+{
+  "owner": "makeovermonday",
+  "id": "generative-ai-search-trends-in-the-united-states",
+  "title": "2024/W8 Generative AI Search Trends in the United States",
+  "description": "US percentage of searches breakdown for the search terms ‘Midjourney’, ‘Stable Diffusion’ & ‘DALL-E’ since January 2022.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-40c8b1b880a94ec196ebd0418f2c43d6.png)\n\nDatasource : [Google Trends](https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng)\n\nArticle : [Google Trends](https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng)",
+  "version": "e9331c49-5",
+  "tags": [
+    "ai",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "percentage_of_searches_by_US_subregion.csv",
+      "sizeInBytes": 1257,
+      "created": "2024-02-18T17:41:25.591549989Z",
+      "updated": "2024-02-18T17:41:25.591549989Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-02-18T17:41:16.472804709Z",
+  "updated": "2024-02-18T17:52:20.127023326Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w20-us-made-gun-exports-2005-2022",
+      "title": "2024/W20 US-Made Gun Exports 2005-2022",
+      "description": "Cumulative volume of US semiautomatic firearm exports, 2005–2022",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-c7bb995e7d1d40abbd50b7381601d6d7.png)\n\n​\n\nDatasource : [United States Census Bureau](https://www.census.gov/foreign-trade/data/index.html)\n\nArticle : [Bloomberg](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w11-vacant-household-rates-in-the-united-states",
+      "title": "2024/W11 Vacant Household Rates in the United States",
+      "description": "Number of occupied and vacant households by US Metropolitan Statistical Area",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-24ff66476b45492abcaf587823ef5a33.jpg)\n\n​\n\nDatasource : [United States Census Bureau](https://data.census.gov/table/ACSDT1Y2022.B25002?t=Housing:Housing%20Units:Vacancy&g=010XX00US$31000M1&tp=true)\n\nArticle : [LendingTree](https://www.lendingtree.com/home/mortgage/vacant-homes-metros-study/)",
+      "tags": [
+        "makeovermonday",
+        "housing"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "paris-2024-medal-cout",
+      "title": "2024/W35 Paris 2024 Medal Count",
+      "description": "Paris 2024 Olympic medal count by country, sport & sporting event",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-367ed83c71394f1fb94123556a946b57.png)\n\n​\n\nDatasource: [Olympics](https://olympics.com/en/paris-2024/medals)\n\nArticle: [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w16-airhelp-global-airport-rankings",
+      "title": "2024/W17 AirHelp Global Airport Rankings",
+      "description": "2023 AirHelp scores for 194 of the worlds busiest airports.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4aeac604d4974dc38557f604f53aa62d.png)\n\n​\n\nDatasource : [AirHelp](https://www.airhelp.com/en-gb/blog/airhelp-score-2023-how-did-we-rank-the-airports/)\n\nArticle : [Global Airport Ranking](https://www.airhelp.com/en-gb/airhelp-score/airport-ranking/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w3-women-conductors-on-broadway",
+      "title": "2026/W3 Women+ Conductors on Broadway",
+      "description": "Representation of female and nonbinary conductors, music directors, and music supervisors in Broadway.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-f46d99ed03ce482aafef6022e3d20329.png)\n\nData Source: [Sariva Goetz](https://docs.google.com/spreadsheets/d/1yTUUKoOhpSiizZNHDZYoPMZL0Jdk7PSw/edit?gid=87507842#gid=87507842)\n\nArticle: [Maestra](https://maestramusic.org/resources/timelines/timeline-of-broadway-conductors-and-mds/)\nWomen+ Conduct on Broadway Data Visualization Contest: [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeDsKbCsCmyzg30W7rUC3wmXOYVSEZiR1jTKGanNLjE8U9o_Q/viewform)\nWomen+ Conduct on Broadway Data Visualization Contest: [Livestream](https://www.youtube.com/live/ZDTnKAenlno)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
