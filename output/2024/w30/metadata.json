@@ -1,0 +1,91 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024-week-30-streaming-hits-40-of-us-tv-usage-for-the-fi",
+  "title": "2024/ Week 30 Streaming Hits 40% of U.S. TV Usage for the Fi",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\narticle:  [https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/](https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/)\nsource : nielsen\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-38b895be259540e984cdcaa8ebd6bdd5.png)\n\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-25f482997a5d490f8654a298403c69aa.png)\n\n",
+  "version": "2497c982-4",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "TV_Viewership_Data.xlsx",
+      "sizeInBytes": 7221,
+      "created": "2024-07-21T22:16:05.427900444Z",
+      "updated": "2024-07-21T22:16:05.427900444Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-07-21T22:15:52.519974359Z",
+  "updated": "2024-07-21T22:21:15.853769169Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 3,
+    "columnCount": 9
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-18-global-500-brands-by-sector",
+      "title": "2024/ Week 18 Global 500 brands by sector",
+      "description": "Global 500 2023 The annual report on the world's most valuable and strongest brands",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nLink to Article : https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf\n\nSource: Brand Finance\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-b5275d57063440de8e6bd68163e4bcc8.png)\n\n",
+      "tags": [],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w39-literacy-rate",
+      "title": "2024/w39 Literacy rate",
+      "description": "\"Global literacy today  Of the world population older than 15 years, the majority are literate. \" Ourworldindata",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-8d7db5e23f4c4aedab96608cecf855f7.png)\n\nArticle : [https://ourworldindata.org/literacy](https://ourworldindata.org/literacy)\n\n**Data source:** World Bank (2023); Various sources (2018) – Learn more about this data",
+      "tags": [
+        "literacy rates"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "schools-out-and-the-tvs-on",
+      "title": "2025/WK46 School’s out and the TV’s on",
+      "description": "What kids in the U.S. watched in June 2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-644c7897f28c433d96b3c987c61f4fb3.png)\n\n​\n\nDatasource and Article : [School’s out and the TV’s on: What kids in the U.S. watched in June | Nielsen](https://www.nielsen.com/insights/2025/what-us-kids-watched-tv-streaming-summer-june/)\n\n​",
+      "tags": [
+        "watch",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-w48-christmasgiftsdesirabilityusuk2024",
+      "title": "2024/ w48 Christmas_Gifts_Desirability_US_UK_2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nChristmas: https://www.statista.com/statistics/1084794/christmas-gifts-desired-by-uk-consumers/\n\n![](https://mediauploads-US.data.world/00000-idiomind-a0017270bb5c4af5918620582c5891e0.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-050bbb79ae1e409fba750394c46356f3.png)\n\n",
+      "tags": [
+        "christmas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-w19-asian-restaurants-in-the-us",
+      "title": "2025 W19: Asian Restaurants in the US",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: Pew Research Center analysis of SafeGraph data for all\nopen restaurants in the U.S. (N=787,153) as of March 23, 2023.\n\nArticle: https://www.pewresearch.org/short-reads/2023/05/23/71-of-asian-restaurants-in-the-u-s-serve-chinese-japanese-or-thai-food/\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-29e64c410aa348baadd9f43c8361a01b.png)\n\n",
+      "tags": [
+        "restaurant"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
