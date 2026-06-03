@@ -1,0 +1,119 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w16",
+  "title": "2019/W16: The words in 'Info We Trust'",
+  "description": "The words in  RJ Andrew's book 'Info We Trust'",
+  "summary": "# **Original Visualization**\n![voyant-tools-wordcloud.png](https://media.data.world/HqPI2jUxRF69iYygJP7W_voyant-tools-wordcloud.png)\n\n# **About this Dataset**\nDATA SOURCE: [RJ Andrews (direct)](https://infowetrust.com/inspire/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+  "version": "bc306aef-d4c3-4d14-933d-7b06e6209bfd",
+  "tags": [
+    "word count",
+    "book",
+    "data visualization",
+    "text analysis"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Info We Trust | #MakeoverMonday.xlsx",
+      "sizeInBytes": 178124,
+      "created": "2019-04-13T08:28:19.025Z",
+      "updated": "2019-04-13T08:28:19.025Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-04-09T12:18:00.056Z",
+  "updated": "2019-04-20T13:33:41.275Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 3,
+    "columnCount": 11
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w53",
+      "title": "2019/W53: The Most Popular Makeover Monday Topics",
+      "description": "Top 10 most downloaded topics",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/zjg4A3VdSrSZ5w3iAMGn\\_image.png](https://media.data.world/zjg4A3VdSrSZ5w3iAMGn_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE: [Data Studio](https://datastudio.google.com/reporting/e801e09d-b45c-4642-ba94-c887e69f781d)\n\nDATA SOURCES: data.world • Makeover Monday\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "metrics",
+        "downloads"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w14-world-wine-production",
+      "title": "2018/W14: World Wine Production",
+      "description": "World Wine Production",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-04-01 at 4.15.25 pm.png](https://media.data.world/i3Xmig5qTaabFqbfOE09_Screen%20Shot%202018-04-01%20at%204.15.25%20pm.png)\n\n# **About this Dataset**\nSOURCE: [International Organisation of Vine and Wine](http://www.oiv.int/public/medias/5287/oiv-noteconjmars2017-en.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "wine data",
+        "world wine production",
+        "data visualization",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w37",
+      "title": "2019/W37: James Patterson Book Checkouts in Seattle",
+      "description": "Seattle Public Library monthly checkouts of books written by James Patterson",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/25OkZFQ4a5dNOUmKwqLg\\_Screenshot%202019-09-07%20at%207.00.26%20pm.png](https://media.data.world/25OkZFQ4a5dNOUmKwqLg_Screenshot%202019-09-07%20at%207.00.26%20pm.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Making Visible the Invisible: DataVis at the Seattle Public Library](http://helper.ipam.ucla.edu/publications/caws1/caws1_13603.pdf)\nDATA SOURCE: [Seattle Open Data](https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6/data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "seattle",
+        "washington",
+        "usa",
+        "united states",
+        "books",
+        "library",
+        "publisher",
+        "subject",
+        "title",
+        "usage"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w26",
+      "title": "2019/W26: Alcohol Consumption by Country",
+      "description": "Alcohol Consumption by Country",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![chart (1).png](https://media.data.world/JMDbwapcRRihNV0ikOIN_chart%20(1).png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\nDATA SOURCE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n\n",
+      "tags": [
+        "alcohol",
+        "bar chart",
+        "world atlas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w27",
+      "title": "2019/W27: Deaths in Game of Thrones",
+      "description": "Who killed who, with what, where and when in Game of Thrones?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/UJbyHPiQrKGgmt8w9sGG\\_Main.png](https://media.data.world/UJbyHPiQrKGgmt8w9sGG_Main.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [David Murphy](https://datasaurus-rex.com/gallery/gotviz-mkiii)\nDATA SOURCE: [data.world](https://data.world/datasaurusrex/game-of-thones-deaths)\nDATA DICTIONARY: [data.world](https://data.world/datasaurusrex/game-of-thones-deaths/workspace/data-dictionary)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "david murphy",
+        "game of thrones",
+        "death",
+        "kill"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
