@@ -1,0 +1,157 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w44",
+  "title": "2022/W44: Fundraising by Members of the 117th Congress",
+  "description": "Fundraising by Members of the 117th Congress",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\nNOTE: This is only a section of the table. The table contains 11 pages with about 55 congress people per page.\n\n![](https://mediauploads.data.world/a5ecce1500310b62428db7c5c00ec06f436b028b297afec7b7d7b7dec1a97e79_Congress.png)\n\n​\n\nData Source: [OpenSecrets](https://www.opensecrets.org/members-of-congress/members-list)",
+  "version": "47dba58a-3e92-45af-bdb4-3bb2674e05c8",
+  "tags": [
+    "makeover monday",
+    "politics",
+    "united states",
+    "usa",
+    "congress",
+    "house",
+    "senate",
+    "election",
+    "democrat",
+    "republican",
+    "democratic",
+    "members"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "2022 election cycle fundraising.xlsx",
+      "sizeInBytes": 46298,
+      "created": "2022-10-26T19:27:01.950458528Z",
+      "updated": "2022-10-26T19:27:01.950458528Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-10-26T19:22:53.993105910Z",
+  "updated": "2022-10-31T08:54:04.927928476Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w27",
+      "title": "2021/W27: If Only ____ Voted",
+      "description": "2020 Electoral Map -  If Only ____ Voted",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\nNOTE: This is a cropped version of the original viz. View the original visualization [here](https://www.reddit.com/r/dataisbeautiful/comments/kji3wx/oc_2020_electoral_map_if_only_voted_breakdown_by/).\n\n![](https://media.data.world/m34sMovSRDm0j2UQHJPg_Untitled.jpg)\n\n​\n\n# Resources\nOriginal Visualization: [2020 Electoral Map If Only \\_\\_\\_\\_ Voted](https://www.reddit.com/r/dataisbeautiful/comments/kji3wx/oc_2020_electoral_map_if_only_voted_breakdown_by/)\nCreated by: [Dustin Gibson](https://www.reddit.com/user/dustingibson/)\nData Source: [Dustin Gibson](https://docs.google.com/spreadsheets/d/1j-sTWtIrXuqMOj6I67X0Q9bpQ-XmKkf71jXj48j_BmE/edit#gid=244779571) via AP Votecast Exit Polls (which can be viewed on the [New York Times](https://www.nytimes.com/interactive/2020/11/03/us/elections/ap-polls-alaska.html))\nAdditional Info: [Reddit](https://www.reddit.com/r/dataisbeautiful/comments/kji3wx/oc_2020_electoral_map_if_only_voted_breakdown_by/ggwqnft/)",
+      "tags": [
+        "makeover monday",
+        "election",
+        "survey",
+        "demographics",
+        "united states",
+        "usa",
+        "vote",
+        "trump",
+        "biden",
+        "electoral map",
+        "democrat",
+        "republican",
+        "red",
+        "blue",
+        "states"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w46",
+      "title": "2022/W46: Cocaine & Heroin Prices (1990-2020)",
+      "description": "Historical wholesale & retail prices for the USA and Western Europe",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3b20bc94a1014598530cf57b2b892fa51bdfdb0c5875e643292fbef628db2e8c_CleanShot_2022_11_08_at_2.47.10_2x.png)\n\n## **References**\nThe Economist: [How much does cocaine cost around the world?](https://www.economist.com/graphic-detail/2022/10/25/how-much-does-cocaine-cost-around-the-world)\nData Source: UNODC [Price time series for cocaine and heroin, Western Europe and the United States](https://dataunodc.un.org/dp-drug-prices-Europe-USA)",
+      "tags": [
+        "makeover monday",
+        "drugs",
+        "cocaine",
+        "heroin",
+        "time series",
+        "country",
+        "europe",
+        "united states",
+        "usa",
+        "wholesale",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w52",
+      "title": "2022/W52: Average holiday Spending by Americans",
+      "description": "Average holiday spending over time by gift recipient",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/aa8f7dd2642869b252d010b2bbb930df5937f048b3935acd440c9920e5329b76_image.png)\n\n​\n\n## **Resources**\nData Source: [Exploding Topics](https://explodingtopics.com/blog/christmas-spending-stats)",
+      "tags": [
+        "makeover monday",
+        "holiday",
+        "gifts",
+        "christmas",
+        "americans",
+        "usa",
+        "united states",
+        "spending",
+        "year",
+        "family",
+        "friends",
+        "coworkers"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w36",
+      "title": "2022/W36: Median Age at First Marriage in America",
+      "description": "Median Age of Women at First Marriage by State vs. State Population Density",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/1b2789bc3c3bcde3a3e7d228b7f41e6dc1835cdc2422f7d240e066d0b5bf29b3_image.png)\n\n# Resources\nOriginal Viz/Article - [Reddit](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)\nData Source - [PBR.org](https://www.prb.org/usdata/indicator/marriage-age-women/snapshot/)",
+      "tags": [
+        "makeover monday",
+        "marriage",
+        "women",
+        "men",
+        "state",
+        "population",
+        "america",
+        "united states",
+        "usa",
+        "age"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w18",
+      "title": "2023/W18: Federal minimum wage by State",
+      "description": "How many people earned the Federal minimum wage or less in each State?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/e49272041e4cbf38eeba06ef9d7066174b8a5496997773b9984e819bd677060f_image.png)\n\n​\n\n# Resources\nChart Source/Article: [Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nData source: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2021/home.htm)",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "united states",
+        "earning",
+        "wages",
+        "minimum wage",
+        "state"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
