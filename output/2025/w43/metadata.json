@@ -1,0 +1,100 @@
+{
+  "owner": "makeovermonday",
+  "id": "families-and-households-in-the-uk-2024",
+  "title": "Families and households in the UK: 2024",
+  "description": "Estimates of families (with and without children) and household types, including people living alone in the UK in 2024.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![image.png](https://mediauploads-US.data.world/00000-datainformant-57f2e5774b8849b8a99ef8b528f627b2.png)\n\nDatasource & Article :  [Families and households in the UK - Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/bulletins/familiesandhouseholds/2024)",
+  "version": "3cefd394-5",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Dependents by Family Type.xlsx",
+      "sizeInBytes": 20070,
+      "created": "2025-11-04T16:09:02.283378927Z",
+      "updated": "2025-11-04T16:09:02.283378927Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-11-04T16:00:15.020578961Z",
+  "updated": "2025-11-04T16:10:54.475230219Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w41-uk-average-ratings-of-personal-well-being-2012-2023",
+      "title": "2024/W41 UK Average ratings of personal well-being 2012-2023",
+      "description": "Average ratings of personal well-being, UK, years ending March 2012 to March 2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-14c624769653411f9a499707c0853544.png)\n\n​\n\nDatasource: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/april2022tomarch2023)\n\nArticle: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/april2022tomarch2023)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w39-family-spending-in-the-uk",
+      "title": "2025/W39 Family Spending in the UK",
+      "description": "Average weekly household expenditure as a percentage of total weekly expenditure, by quintile group, UK, financial year",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n![](https://mediauploads-US.data.world/00000-beardon-8199cc9176c44007b14f4d3ab73c7612.png)\n\n\nArticle: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2023tomarch2024#data-sources-and-quality)\n\nData: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2023tomarch2024#data-sources-and-quality)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w32",
+      "title": "2021/W32: Monthly Mortality Rates in England and Wales",
+      "description": "Monthly Mortality Rates in England and Wales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/lGyMdv7FTZ2aaGGpaeRK_image.png)\n\n​\n\n# Resources\nOriginal Viz: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/monthlymortalityanalysisenglandandwales/june2021)\nData Source: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/monthlymortalityanalysisenglandandwales/june2021)\n\n​\n\n​",
+      "tags": [
+        "makeover monday",
+        "ons",
+        "statistics",
+        "england",
+        "wales",
+        "mortality"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-11-electric-car-sales",
+      "title": "2025/ week 11 Electric car sales",
+      "description": "Trends in electric cars",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-63e6dae2c7cd4395bf0953cc24ebb2cd.png)\n\n​\n\nDatasource: [Global EV Data Explorer – Data Tools - IEA](https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer)\n\nArticle: [Trends in electric cars – Global EV Outlook 2024 – Analysis - IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars)\n\nShow less",
+      "tags": [
+        "makeover monday",
+        "cars",
+        "ev"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "life-expectancy-by-country-in-2025",
+      "title": "2025/W26 Life Expectancy by Country in 2025",
+      "description": "How Long People Live, by Country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-1fbb4b99e69049daa27b90994a38fe56.png)\n\n​\n\nDatasource : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\nArticle : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\n​",
+      "tags": [
+        "makeovermonday",
+        "life expectancy"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
