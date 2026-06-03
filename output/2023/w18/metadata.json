@@ -1,0 +1,139 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w18",
+  "title": "2023/W18: Federal minimum wage by State",
+  "description": "How many people earned the Federal minimum wage or less in each State?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/e49272041e4cbf38eeba06ef9d7066174b8a5496997773b9984e819bd677060f_image.png)\n\n​\n\n# Resources\nChart Source/Article: [Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nData source: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2021/home.htm)",
+  "version": "17b81b3e-5",
+  "tags": [
+    "makeover monday",
+    "usa",
+    "united states",
+    "earning",
+    "wages",
+    "minimum wage",
+    "state"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Minimum Wage or Less by State.xlsx",
+      "sizeInBytes": 22541,
+      "created": "2023-05-01T08:48:54.315836693Z",
+      "updated": "2023-05-01T08:48:54.315836693Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-04-30T12:18:53.340200983Z",
+  "updated": "2023-05-01T08:49:08.922902930Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 7,
+    "columnCount": 28
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w3",
+      "title": "2019/W3: How many people earned the Federal minimum wage?",
+      "description": "According to the Bureau of Labor Statistics, how many people earned the Federal minimum wage or less in each State?",
+      "summary": "# **Original Visualization**\n![5bb3904393032c18c75259b4-1136-852.png](https://media.data.world/Q36ZvvbuS5CiLSOpKI76_5bb3904393032c18c75259b4-1136-852.png)\n\n# **About this Dataset**\nARTICLE: [Business Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nSOURCE: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2017/home.htm)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? ",
+      "tags": [
+        "makeover monday",
+        "united states",
+        "usa",
+        "wages",
+        "minimum wage",
+        "bls",
+        "labor statistics",
+        "bureau",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "employment-and-wages-of-commercial-pilots",
+      "title": "Annual Mean Wage of Commercial Pilots",
+      "description": "Occupational Employment and Wages : 53-2012 Commercial Pilots",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-75d9288a6c6445a1961bc2b546c92db0.png)\n\n​\n\nDatasource : [Occupational Employment and Wage Statistics (bls.gov)](https://data.bls.gov/oes/#/home)\n\nArticle : [Commercial Pilots (bls.gov)](https://www.bls.gov/oes/current/oes532012.htm#(9))\n\nData Notes: \n\n(1) Estimates do not include self-employed workers.     \n(2) Annual wages have been calculated by multiplying the corresponding hourly wage by 2,080 hours.   \n(3) The relative standard error (RSE) is a measure of the reliability of a survey statistic. The smaller the relative standard error, the more precise the   estimate.   \n(9) The location quotient is the ratio of the area concentration of occupational employment to the national average concentration. A location quotient greater than one indicates the occupation has a higher share of employment than average, and a location quotient less than one indicates the occupation is less prevalent in the area than average.            \n\nSOC code:   Standard Occupational Classification code -- see   http://www.bls.gov/soc/home.htm   \nData extracted on: Mar 03, 2024",
+      "tags": [
+        "pilots",
+        "makeovermonday",
+        "wages"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w36",
+      "title": "2022/W36: Median Age at First Marriage in America",
+      "description": "Median Age of Women at First Marriage by State vs. State Population Density",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/1b2789bc3c3bcde3a3e7d228b7f41e6dc1835cdc2422f7d240e066d0b5bf29b3_image.png)\n\n# Resources\nOriginal Viz/Article - [Reddit](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)\nData Source - [PBR.org](https://www.prb.org/usdata/indicator/marriage-age-women/snapshot/)",
+      "tags": [
+        "makeover monday",
+        "marriage",
+        "women",
+        "men",
+        "state",
+        "population",
+        "america",
+        "united states",
+        "usa",
+        "age"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w16",
+      "title": "2023/W16: Retirement Ages Around the World",
+      "description": "At what age to people retire around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/f8d8119d5a5a6b7732d8ee917cecb9589616f4d44e23704b4ccfce3ca9d0a73f_image.png)\n\n​\n\n# Resources\nOriginal Article - [Statista](https://www.statista.com/chart/29570/european-average-effective-labor-market-exit-ages/)\nData Source - [OECD](https://stats.oecd.org/Index.aspx?QueryId=111940)\n\n​",
+      "tags": [
+        "makeover monday",
+        "age",
+        "oecd",
+        "retire",
+        "retirement",
+        "labour",
+        "labor",
+        "labor statistics",
+        "country",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
