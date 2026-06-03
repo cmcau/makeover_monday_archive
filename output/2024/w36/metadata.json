@@ -1,0 +1,54 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w36-countries-with-the-most-holidays-2024",
+  "title": "2024/W36 : Countries with the Most Holidays 2024",
+  "description": "Countries with the Most Holidays 2024",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\ndata from https://worldpopulationreview.com/country-rankings/countries-with-the-most-holidays \n\n\"Most every culture and country in the world celebrates holidays. Holidays take many forms. Some are near-global public holidays such as [New Year's Eve](https://worldpopulationreview.com/country-rankings/which-country-celebrates-new-year-first), and some are celebrated by only a few countries, such as [Cinco de Mayo](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-cinco-de-mayo) and [St. Patrick's Day](https://worldpopulationreview.com/country-rankings/how-many-countries-celebrate-st-patricks-day). Some are strictly religious, such as [Ramadan](https://worldpopulationreview.com/country-rankings/which-countries-celebrate-ramadan), some are strictly secular, such as [Thanksgiving](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-thanksgiving), and some have both spiritual and secular elements, such as the fall and winter holidays ([Halloween](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-halloween), [Dia de los Muertos](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-day-of-the-dead), [Christmas](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-christmas), Hanukkah, [Krampus](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-krampus), and related holidays). But which country celebrates the most holidays of all?\"\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-58e80f6111a449b3bce0d81cfdae684a.png)\n\n",
+  "version": "e2b44981-7",
+  "tags": [
+    "countries",
+    "bank",
+    "holidays"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "countries-with-the-most-holidays-2024.csv",
+      "sizeInBytes": 1758,
+      "created": "2024-09-01T21:57:59.243429924Z",
+      "updated": "2024-09-01T21:57:59.243429924Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-09-01T21:52:09.763998970Z",
+  "updated": "2024-09-01T21:57:59.243607709Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w50",
+      "title": "2022/W50: Which country gets the most paid vacation days?",
+      "description": "Which country gets the most paid vacation days?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/170e5d01ea1443c1452df70e9f36774a517f8c0cbb3f133c91b4124d2fddf89d_image.png)\n\n​\n\n## Resources\nData Source: [Resume.io](https://resume.io/blog/which-country-gets-the-most-paid-vacation-days)\nData collected and prepared by: [Yamil Medina](https://twitter.com/VIZMIXER) (please tag him)",
+      "tags": [
+        "makeover monday",
+        "vacation",
+        "holiday",
+        "country"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
