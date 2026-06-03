@@ -1,0 +1,68 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w39",
+  "title": "2021/W39: MLB All-Time Wins Above Replacement",
+  "description": "MLB All-Time Wins Above Replacement",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# Original Visualization\n​\n![](https://4.bp.blogspot.com/-Pj0KE1-akGU/VootQqND7lI/AAAAAAAAo-I/WkvYiJq3mXs/s1600/Bryce%2BHarper.png)\n\n​\n\n# Resources\nOriginal Viz/Article - [#MakeoverMonday Week 1 2016](https://www.vizwiz.com/2016/01/bryceharper.html)\nData Source/Definitions - [ESPN](https://www.espn.com/mlb/war/leaders/_/type/offensive/alltime/true)",
+  "version": "e5f4f998-162e-4f76-a9e2-533b47cc0514",
+  "tags": [
+    "makeover monday",
+    "baseball",
+    "espn",
+    "stats",
+    "war",
+    "wins above replacement",
+    "statistics"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MLB All-Time Wins Above Replacement.xlsx",
+      "sizeInBytes": 21451,
+      "created": "2021-09-24T13:11:29.250Z",
+      "updated": "2021-09-24T13:11:29.250Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-09-24T13:10:06.685Z",
+  "updated": "2021-09-27T08:31:59.029Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 11
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w43",
+      "title": "2022/W43: Major League Baseball Pitch Types",
+      "description": "Why Some MLB Pitchers Are Abandoning The Fastball",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/101665b8060394f52660267c2a1d59a5135c7f91360debe633d28c024fdc36b9_CleanShot_2022_10_21_at_11.23.11_2x.png)\n\n​\n\n## Resources\nArticle: [Why Some MLB Pitchers Are Abandoning The Fastball](https://fivethirtyeight.com/features/why-some-mlb-pitchers-are-abandoning-the-fastball/)\nSource: [FiveThirtyEight](https://fivethirtyeight.com/features/why-some-mlb-pitchers-are-abandoning-the-fastball/)\nData Source: [FanGraphs](https://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=c,13,31,75,77,79,81,83,85,87,89&season=2022&month=0&season1=2002&ind=0&team=0,ss&rost=0&age=0&filter=&players=0&startdate=&enddate=)\nGlossary: [FanGraphs](https://library.fangraphs.com/pitching/complete-list-pitching/)",
+      "tags": [
+        "makeover monday",
+        "baseball",
+        "mlb",
+        "fangraphs",
+        "stats",
+        "fastball",
+        "changeup",
+        "slider",
+        "curveball",
+        "knuckleball",
+        "splitter",
+        "cutter",
+        "split finger",
+        "pitch",
+        "pitching"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
