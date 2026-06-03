@@ -1,0 +1,136 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w38",
+  "title": "2023/W38: Monthly Eviction Filings in America",
+  "description": "Monthly evictions for 10 states and 34 cities",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/67d6f833ba02ceb0593110e50f9f169b84c5df876f3692f9d96d1044724d1030_CleanShot_2023_09_17_at_12.22.40_2x.png)\n\n​\n\n## Resources\nWebsite: [America's Eviction Crisis](https://evictionlab.org/eviction-tracking/)\nData Source: [Eviction Lab](https://evictionlab.org/eviction-tracking/get-the-data/)",
+  "version": "34b263ed-4",
+  "tags": [
+    "united states",
+    "usa",
+    "evictions",
+    "america",
+    "eviction lab",
+    "month",
+    "date",
+    "time series"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Monthly Eviction Filings by Location.csv",
+      "sizeInBytes": 29358804,
+      "created": "2023-09-17T11:23:46.183969116Z",
+      "updated": "2023-09-17T11:23:46.183969116Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-09-17T11:20:09.394838728Z",
+  "updated": "2023-09-17T11:23:46.184158016Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w40",
+      "title": "2023/W40: Scary Dreams in America",
+      "description": "What does Google Trends tell us about scary dreams in America?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/d5448209097a520c05acc852bbd1de1f9d50c6483cf9055afd2261d5f26eb03e_CleanShot_2023_10_01_at_1.22.51_2x.png)\n\n​\n\n## Resources\nData Source: [Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB)",
+      "tags": [
+        "united states",
+        "dreams",
+        "makeover monday",
+        "america",
+        "google trends"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w39",
+      "title": "2023/W39: Street Level Temperatures in NYC",
+      "description": "Street level temperature on a subset of city blocks in neighborhoods with highest heat mortality risk",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/db46e506da8c5b980e51d78ffda4c3f68bf0d778155c02fc8972ad14b9480f9b_CleanShot_2023_09_22_at_7.42.16_2x.png)\n\n## Resources\nThe Guardian: [Street Level Temperatures in NYC](https://www.theguardian.com/us-news/2022/sep/07/new-york-heat-deaths-map-inequality)\nData Source: [NYC Open Data](https://data.cityofnewyork.us/dataset/Hyperlocal-Temperature-Monitoring/qdq3-9eqn)",
+      "tags": [
+        "new york city",
+        "open data",
+        "temperature",
+        "heat",
+        "street"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w46",
+      "title": "2022/W46: Cocaine & Heroin Prices (1990-2020)",
+      "description": "Historical wholesale & retail prices for the USA and Western Europe",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3b20bc94a1014598530cf57b2b892fa51bdfdb0c5875e643292fbef628db2e8c_CleanShot_2022_11_08_at_2.47.10_2x.png)\n\n## **References**\nThe Economist: [How much does cocaine cost around the world?](https://www.economist.com/graphic-detail/2022/10/25/how-much-does-cocaine-cost-around-the-world)\nData Source: UNODC [Price time series for cocaine and heroin, Western Europe and the United States](https://dataunodc.un.org/dp-drug-prices-Europe-USA)",
+      "tags": [
+        "makeover monday",
+        "drugs",
+        "cocaine",
+        "heroin",
+        "time series",
+        "country",
+        "europe",
+        "united states",
+        "usa",
+        "wholesale",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w13",
+      "title": "2023/W13: The Gender Pay Gap in US World Cup Bonuses",
+      "description": "The Gender Pay Gap in US World Cup Bonuses",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/b336e4ced55fe660dd589e6687f449bf42de1a94663714c6b0c8c2b18d8db35c_CleanShot_2023_03_26_at_11.45.41_2x.png)\n\n# Resources\nData Source: The Guardian (from US soccer)",
+      "tags": [
+        "soccer",
+        "football",
+        "gender",
+        "pay gap",
+        "equity",
+        "united states",
+        "world cup",
+        "pay"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w6",
+      "title": "2023/W6: Small Business Applications and Loan Amounts",
+      "description": "Small Business Applications and Loan Amounts by Race/Ethnicity",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/fec139a3cdddd3a1344d97dc9e8568dc07995a0766f5d2ef43cf948f750b6d94_CleanShot_2023_01_14_at_10.43.30_2x.png)\n\n​\n\n## **Resources**\n[Small Business Applications and Loan Amounts by Race/Ethnicity](https://blackwealthdata.org/explore/business)\nData Source: [U.S. Small Business Administration](https://data.sba.gov/dataset/7-a-504-foia)",
+      "tags": [
+        "makeover monday",
+        "wealth",
+        "indicator",
+        "business",
+        "ownership",
+        "race",
+        "ethnicity",
+        "usa",
+        "small business"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
