@@ -1,0 +1,128 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w35",
+  "title": "2019/W35: PCs to Become the Smallest Gaming Platform in 2018",
+  "description": "PCs to Become the Smallest Gaming Platform in 2018",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://infographic.statista.com/normal/chartoftheday\\_13789\\_worldwide\\_video\\_game\\_revenue\\_forecast\\_n.jpg](https://infographic.statista.com/normal/chartoftheday_13789_worldwide_video_game_revenue_forecast_n.jpg)\n\n# **About this Dataset**\nDATA SOURCE: [Statista](https://www.statista.com/chart/13789/worldwide-video-game-revenue-forecast/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "59c14d1f-0f6e-404c-89b1-12ed8f88bf7a",
+  "tags": [
+    "makeover monday",
+    "gaming",
+    "mobile",
+    "pc",
+    "console",
+    "games",
+    "video games"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Gaming Platform Revenue.xlsx",
+      "sizeInBytes": 9938,
+      "created": "2019-08-25T14:06:20.846Z",
+      "updated": "2019-08-25T14:06:20.846Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-08-25T11:47:30.933Z",
+  "updated": "2019-08-25T14:06:20.847Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w6",
+      "title": "2019/W6: How Chinese New Year Compares With Thanksgiving",
+      "description": "How Chinese New Year Compares With Thanksgiving",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://infographic.statista.com/normal/chartoftheday_3246_How_Chinese_New_Year_Compares_With_Thanksgiving_n.jpg)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/chart/3246/how-chinese-new-year-compares-with-thanksgiving/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "chinese new year",
+        "consumer spending",
+        "thanksgiving",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w48",
+      "title": "2018/W48: The cost of a night out",
+      "description": "The cost of a night out",
+      "summary": "# **Original Visualization**\n![supporting image](https://infographic.statista.com/normal/chartoftheday_14081_the_price_of_a_party_around_the_world_n.jpg)\n\n# **About this Dataset**\nARTICLE: [Thrillist](https://www.thrillist.com/news/nation/cost-of-a-night-out-cities-around-the-world#)\n\nDATA SOURCE: [Statista](https://www.statista.com/chart/14081/the-price-of-a-party-around-the-world/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "entertainment",
+        "bar chart",
+        "stacked bar chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w45-dedicated-video-game-sales-units",
+      "title": "2020/W45: Dedicated Video Game Sales Units",
+      "description": "Dedicated Video Games Sales Units",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/11/graph.jpg](https://learningtableaublog.files.wordpress.com/2020/11/graph.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Nintendo Investor Relations](https://www.nintendo.co.jp/ir/en/finance/hard_soft/number.html)\nDATA SOURCE: [Data downloaded from source article. Original source is Euroland.com](https://www.euroland.com)\n\n# **Objectives**\n\\\\\\* What works and what doesn't work with this chart?\n\\\\\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "video games",
+        "sales"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w7",
+      "title": "2021/W7: ​What's the point of Valentine's Day?",
+      "description": "Men are highly likely to consider sex and eating out as the main point of Valentine's Day",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/](https://cdn.statcdn.com/Infographic/images/normal/3229.jpeg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Statista](https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/)\nDATA SOURCE: [Statista](https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "valentines day",
+        "holiday",
+        "hallmark",
+        "cards",
+        "love",
+        "sex",
+        "gender",
+        "men",
+        "women",
+        "united kingdom",
+        "uk",
+        "survey",
+        "gifts",
+        "dinner",
+        "impress",
+        "treat"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w27",
+      "title": "2019/W27: Deaths in Game of Thrones",
+      "description": "Who killed who, with what, where and when in Game of Thrones?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/UJbyHPiQrKGgmt8w9sGG\\_Main.png](https://media.data.world/UJbyHPiQrKGgmt8w9sGG_Main.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [David Murphy](https://datasaurus-rex.com/gallery/gotviz-mkiii)\nDATA SOURCE: [data.world](https://data.world/datasaurusrex/game-of-thones-deaths)\nDATA DICTIONARY: [data.world](https://data.world/datasaurusrex/game-of-thones-deaths/workspace/data-dictionary)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "david murphy",
+        "game of thrones",
+        "death",
+        "kill"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
