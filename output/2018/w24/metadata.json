@@ -1,0 +1,118 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w24-tourism-density-index",
+  "title": "2018/W24: Tourism Density Index",
+  "description": "Tourism Density Index",
+  "summary": "# **Original Visualization**\n![Tourism Density Index.png](https://media.data.world/ADmIkzOTQkW25OtytPjm_Tourism%20Density%20Index.png)\n\n# **About this Dataset**\nSOURCE: [Intrepid Travel](https://intrepidgroup.bynder.com/transfer/bdd0abcac448329ed4c9057327b6ca660742e4b5ea16f18bd5a343b2c6d0d0c8)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "b230829b-ebe7-4a19-bfd6-961e8348cb37",
+  "tags": [
+    "tourism density",
+    "tourism",
+    "travel data"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Over and Undertourism.xlsx",
+      "sizeInBytes": 10505,
+      "created": "2018-05-25T10:38:18.928Z",
+      "updated": "2018-05-25T10:38:18.928Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-05-25T10:38:18.678Z",
+  "updated": "2018-06-10T09:53:06.049Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w31-big-mac-index",
+      "title": "2018/W31: Big Mac Index",
+      "description": "The Economist Big Mac Index",
+      "summary": "# **Original Visualization**\n![](https://www.economist.com/sites/default/files/imagecache/1280-width/images/print-edition/20180120_FNC577_0.png)\n\n# **About this Dataset**\nSOURCE: [The Economist](https://www.economist.com/finance-and-economics/2018/01/20/our-big-mac-index-shows-fundamentals-now-matter-more-in-currency-markets)\n\nMore information about how the index is calculated, where exchange rates came from, etc. available on [github](https://github.com/TheEconomist/big-mac-data).\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economist",
+        "makeover monday",
+        "economy",
+        "mcdonalds",
+        "big mac index",
+        "currency"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w52",
+      "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+      "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+      "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "christmas",
+        "spending",
+        "consumption",
+        "us spending",
+        "us household spending",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w28-volcano-eruptions",
+      "title": "2018/W28: Volcano Eruptions",
+      "description": "Volcano Eruptions",
+      "summary": "# **Original Visualization**\n![original visualization](https://media.data.world/1GcK19GyQWacwa4ifDaj_original.png)\n\n# **About this Dataset**\nSOURCE: [Global Volcanism Program](https://volcano.si.edu/list_volcano_holocene.cfm)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "volcanos",
+        "volcano eruptions",
+        "geological data",
+        "geospatial data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w9-world-economic-freedom",
+      "title": "2018/W9: World Economic Freedom",
+      "description": "World Economic Freedom: 1970-2015",
+      "summary": "![MM9 2018.png](https://media.data.world/A8V9pbrTSZqxLUYwLg9n_MM9%202018.png)\n\n# **About this Dataset**\nSOURCE: [Fraser Institute](https://www.fraserinstitute.org/economic-freedom/dataset)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economics",
+        "fraser institute",
+        "makeover monday",
+        "filled map"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
