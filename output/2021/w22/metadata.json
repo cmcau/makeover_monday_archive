@@ -1,0 +1,128 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w22",
+  "title": "2021/W22: The Plastic Waste Makers Index",
+  "description": "Which companies produce the most plastic waste?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/tTKgS2tST2sohyodmEgc_PLASTIC%20WASTE%20MAKERS.png)\n\n​\n\n# Resources\nOriginal Article: [The Plastic Waste Makers Index](https://cdn.minderoo.org/content/uploads/2021/05/18065501/20210518-Plastic-Waste-Makers-Index.pdf)\nData Source: [Minderoo](https://www.minderoo.org/plastic-waste-makers-index/data/indices/producers/)",
+  "version": "f3eef605-71a2-4756-a413-2804bd44d55e",
+  "tags": [
+    "makeover monday",
+    "environment",
+    "waste",
+    "plastic"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Plastic Waste Makers Index.xlsx",
+      "sizeInBytes": 13700,
+      "created": "2021-05-26T16:23:29.899Z",
+      "updated": "2021-05-26T16:23:29.899Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-05-26T16:22:23.371Z",
+  "updated": "2021-05-30T14:42:26.823Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w20",
+      "title": "2021/W20: What animal could you beat in a fight?",
+      "description": "What animal could you beat in a fight?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/SlswHsSjQ1esxT3PbnTj_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2021/05/13/lions-and-tigers-and-bears-what-animal-would-win-f)\nDATA SOURCE: [YouGov](https://docs.cdn.yougov.com/07vgk5e81j/YouGov%20-%20Human%20vs%20animal%20fight.pdf)",
+      "tags": [
+        "makeover monday",
+        "fight",
+        "animal",
+        "human",
+        "survey",
+        "gender",
+        "male",
+        "female"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w38",
+      "title": "2021/W38: Dark Web Price Index 2021",
+      "description": "Dark Web Price Index 2021",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://www.privacyaffairs.com/wp-content/uploads/2021/02/dark-web-vendor-profile.png)\n\n​\n\n# Resources\nOriginal Article: [Dark Web Price Index 2021](https://www.privacyaffairs.com/dark-web-price-index-2021/)\nData Source: [Privacy Affairs](https://www.privacyaffairs.com/dark-web-price-index-2021/)\nSuggested By: Lindsay Betzendahl | [@ZenDollData](https://twitter.com/ZenDollData)",
+      "tags": [
+        "makeover monday",
+        "internet",
+        "security",
+        "dark web"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w23",
+      "title": "2021/W23: Never Married Is on the Rise",
+      "description": "Percentage of Never Married Adults by Sex and Age",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/iuXXZaFRT0yO61Nbw3ws_image.png)\n\n​\n\n# Resources\nOriginal Article: [Number, Timing and Duration of Marriages and Divorces](https://www.census.gov/newsroom/press-releases/2021/marriages-and-divorces.html)\nData Source: [U.S. Census](https://www.census.gov/content/dam/Census/library/publications/2021/demo/p70-167.pdf)",
+      "tags": [
+        "makeover monday",
+        "gender",
+        "age",
+        "marriage",
+        "divorce",
+        "married"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w14",
+      "title": "2019/W14: What kind of waste appears on UK beaches?",
+      "description": "What kind of waste appears on UK beaches?",
+      "summary": "\n**Original Visualization**\n![supporting image or chart](https://ichef.bbci.co.uk/news/624/cpsprodpb/5889/production/_99156622_plastic_planet_6_640-nc.png)\n\n**About this Dataset**\nSOURCE ARTICLE: [Seven charts that explain the plastic pollution problem]( https://www.bbc.com/news/science-environment-42264788)\nDATA SOURCE: [Great British Beach Clean Report 2017]( https://www.mcsuk.org/media/GBBC_2017_Report.pdf)\n\n**Objectives**\n•\tWhat works and what doesn't work with this chart? \n•\tHow can you make it better?\n\n",
+      "tags": [
+        "waste",
+        "plastics",
+        "pollution",
+        "uk",
+        "great britain"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w11",
+      "title": "2021/W11: What is the World's Biggest Cash Crop?",
+      "description": "From 1961-2019, which crops per region were most harvested, produced the most yield, and produced the most quantity?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/](https://infobeautiful4.s3.amazonaws.com/2014/11/2552_IIB_Cash-Crops.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Information Is Beautiful](https://www.informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/)\nDATA SOURCE: [FAOSTAT](http://www.fao.org/faostat/en/#data/QC)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "faostat",
+        "stats",
+        "crops",
+        "yield",
+        "production",
+        "quantity",
+        "food",
+        "grains",
+        "world",
+        "region"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
