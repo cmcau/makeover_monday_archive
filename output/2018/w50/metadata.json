@@ -1,0 +1,120 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w50",
+  "title": "2018/W50: Land use by food type",
+  "description": "Land use by food type",
+  "summary": "# **Original Visualization**\n![land-use-per-gram-of-protein-by-food-type.png](https://media.data.world/Xl841BpwR5iZ3LYd2KUs_land-use-per-gram-of-protein-by-food-type.png)\n\n# **About this Dataset**\nSOURCE: [Our World in Data](https://ourworldindata.org/yields-and-land-use-in-agriculture#land-use-by-food-type)\n\nFULL ARTICLE: [IOP Science](http://iopscience.iop.org/article/10.1088/1748-9326/aa6cd5)\n\nDATA SOURCE: [Our World in Data](https://ourworldindata.org/700a146d-726a-489c-9fd0-94b6b481f523)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "72beebf1-b436-4330-a1df-afcca8d90fbc",
+  "tags": [
+    "bar chart",
+    "land usage",
+    "farming",
+    "protein inefficiencies",
+    "meat",
+    "plant based diet"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Land use per gram of protein.xlsx",
+      "sizeInBytes": 10256,
+      "created": "2018-12-09T07:59:14.455Z",
+      "updated": "2018-12-09T07:59:14.455Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-12-09T07:58:57.285Z",
+  "updated": "2018-12-09T08:17:03.140Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w4",
+      "title": "2021/W4: Indian Coal Mine Production",
+      "description": "Indian Coal Mine Locations & Production",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/1DmkisQ2OUIvOMnPg2vg\\_Screenshot%202021-01-20%20at%209.14.50%20pm.png](https://media.data.world/1DmkisQ2OUIvOMnPg2vg_Screenshot%202021-01-20%20at%209.14.50%20pm.png)\n\n​\n\n# **About this Dataset**\n**Required Citation**\nSandeep Pai and Hisham Zerriffi. A novel dataset for analysing sub-national socioeconomic developments in the Indian coal industry, IOPSciNotes, [https://doi.org/10.1088/2633-1357/abdbbb](https://doi.org/10.1088/2633-1357/abdbbb)\n\nSOURCE ARTICLE: [A novel dataset for analysing sub-national socioeconomic developments in the Indian coal industry](https://iopscience.iop.org/article/10.1088/2633-1357/abdbbb/pdf)\nDATA SOURCE: Sandeep Pai and Hisham Zerriffi via [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TDEK8O)\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "india",
+        "coal",
+        "mining",
+        "production",
+        "location",
+        "geographic",
+        "climate change",
+        "coal mining"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w16",
+      "title": "2020/W16: Food: Greenhouse Gas Emission across supply chain",
+      "description": "Food: Greenhouse Gas Emission across supply chain",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://ourworldindata.org/uploads/2020/02/Environmental-impact-of-food-by-life-cycle-stage-1536x1380.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Focus on what you eat, not whether your food is local](https://ourworldindata.org/food-choice-vs-eating-local)\nDATA SOURCE: [GHG emissions by Lifecycle stage](https://ourworldindata.org/uploads/2020/02/GHG-emissions-by-life-cycle-stage-OurWorldinData-upload.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "food",
+        "climate change",
+        "greenhouse gas emissions",
+        "eat local",
+        "methane",
+        "beef"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w24",
+      "title": "2023/W24: Global cereal production",
+      "description": "Change in cereal production, yield, land use and population",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/73a3814f37803509b7272ef773c0d7daf123bc2c06c3e5d628b5931ec6731569_image.png)\n\n​\n\n# Resources\nData Source: [Our World in Data](https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population)",
+      "tags": [
+        "makeover monday",
+        "population",
+        "land use",
+        "cereal",
+        "yield",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "meat-production-by-livestock-type",
+      "title": "2025 / Week 35 Meat Production by Livestock Type",
+      "description": "Global meat production by livestock type",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-f893942214d7454ea941573510dd5cac.png)\n\n​\n\n​\n\nDatasource + Article: [Meat and Dairy Production - Our World in Data](https://ourworldindata.org/meat-production)",
+      "tags": [
+        "meat",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w11-self-reported-life-satisfaction-vs-gdp-per-capita",
+      "title": "2020/W11: Self-reported Life Satisfaction vs GDP per capita",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![gdp-vs-happiness.png](https://media.data.world/booMJcXbQZKHymqVU3il_gdp-vs-happiness.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Our World in Data](https://ourworldindata.org/happiness-and-life-satisfaction)\nDATA SOURCE: [World Bank](https://datacatalog.worldbank.org/dataset/world-development-indicators)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n* I've added three data files. One associated with the original visualisation, one to allow you to assign countries to regions, or a .hyper file for Tableau users which joined the two sources together if you can't figure out how to do it yourselves!",
+      "tags": [
+        "makeover monday",
+        "happiness",
+        "gdp per capita"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
