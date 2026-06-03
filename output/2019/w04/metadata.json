@@ -1,0 +1,126 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w4",
+  "title": "2019/W4: Energy Use at 10 Downing St in 2017",
+  "description": "Energy Use at 10 Downing St in 2017",
+  "summary": "\n# **Original Visualization**\n![original](https://media.data.world/aL1pomQKefyi3iYlEYQp_original.png)\n\n# **About this Dataset**\nSOURCE: [Carbon Culture](https://platform.carbonculture.net/places/10-downing-street/9/)\n\nDATA: [Carbon Culture](https://platform.carbonculture.net/apps/studydata/data-download?year=2017&id=9&subject=places)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "bc821ffd-0dc0-4c3c-a1de-d46c6b74599f",
+  "tags": [
+    "uk data",
+    "downing st",
+    "electricity",
+    "energy data",
+    "electricity consumption"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Energy Use Number 10 Downing St 2017.csv",
+      "sizeInBytes": 373913,
+      "created": "2019-01-18T17:25:30.083Z",
+      "updated": "2019-01-18T17:25:30.083Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "original.png",
+      "sizeInBytes": 37496,
+      "created": "2019-01-18T17:23:40.697Z",
+      "updated": "2019-01-18T17:23:40.697Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-01-18T17:19:41.090Z",
+  "updated": "2019-01-20T12:52:29.440Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w12-uk-pet-population-in-2017",
+      "title": "2018/W12: UK Pet Population in 2017",
+      "description": "UK Pet Population in 2017",
+      "summary": "# **Original Visualization**\n![week 12 original.png](https://media.data.world/N4l9vaEiRZuE2EXRk68K_week%2012%20original.png)\n\n# **About this Dataset**\nSOURCE: [Pet Food Manufacturers Association](https://www.pfma.org.uk/pet-population-2017)\n\n[Annual Report 2017, p. 14](https://www.pfma.org.uk/_assets/docs/annual-reports/PFMA-Annual-Report-2016.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "uk data",
+        "pet population",
+        "pets",
+        "cats and dogs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w40",
+      "title": "2019/W40: London Population Predictions",
+      "description": "London Population Predictions",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![London Population](https://media.data.world/Iz4UmqNeRlmouvVKnBXx_Screen%20Shot%202019-09-28%20at%207.23.28%20pm.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Population of London (click on 'Communities')](https://data.london.gov.uk)\nDATA SOURCE: [London Datastore](https://data.london.gov.uk/download/projections/fcda413b-2b3a-44cd-a692-242bc45ffe24/central_trend_2017_base.xlsx)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?",
+      "tags": [
+        "london",
+        "population",
+        "london population",
+        "uk data",
+        "open data",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w4",
+      "title": "2020/W4: Bridges for Prosperity - Rwanda",
+      "description": "Bridges for Prosperity - Rwanda",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://media.data.world/g6hBz69tQj6To0p4skDq\\_image.png](https://media.data.world/g6hBz69tQj6To0p4skDq_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Bridges for Prosperity - Global Work](https://bridgestoprosperity.org/global-work/rwanda)\nDATA SOURCE: [Bridges for Prosperity - Global Indicators](https://bridges.app.box.com/s/7kloiebfxlni6ruhmv3wqyw8zclgep81) | [Bridges for Prosperity - Bridges](https://bridges.app.box.com/s/pdvbowjrsakl6t2mmx0zpnzm1f1tzzu2)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "social impact",
+        "bridges for prosperity",
+        "nonprofit",
+        "poverty",
+        "sustainable development",
+        "sdgs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w52",
+      "title": "2019/W52: Estimated Christmas spending by concept",
+      "description": "Estimated Christmas spending by concept",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2019-12-22 at 11.05.37 am.png](https://media.data.world/AhSycIvRYu5GEwaxmsMD_Screen%20Shot%202019-12-22%20at%2011.05.37%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/uk/en/pages/consumer-business/articles/deloitte-christmas-survey-2019.html)\nDATA SOURCE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/consumer-business/deloitte-uk-christmas-survey-2019.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "christmas",
+        "consumer spending",
+        "uk data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w11",
+      "title": "2019/W9: Economic value of the bicycle industry",
+      "summary": "# **Original Visualization**\n![image.png](https://media.data.world/4tQb8t2kSyqv0XNOjOFu_image.png)\n\n# **About this Dataset**\nSOURCE: [SQW](http://www.sqw.co.uk/files/6914/9406/9034/SQW_Economic_value_of_the_bicycle_industry_and_cycling_March_2017_FINAL.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "bicycle",
+        "united kingdom",
+        "uk",
+        "economics"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
