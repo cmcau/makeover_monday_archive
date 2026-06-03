@@ -1,0 +1,141 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w5",
+  "title": "2021/W5: Renewables Overtake Fossil Fuels in Europe",
+  "description": "Renewables Overtake Fossil Fuels in Europe",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/QavAWlYjQf6TqHDlr0V1\\_image.png](https://media.data.world/QavAWlYjQf6TqHDlr0V1_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Ember](https://ember-climate.org/project/eu-power-sector-2020/)\nDATA SOURCE: [Ember](https://ember-climate.org/project/eu-power-sector-2020/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "4a56029f-edb3-40a0-ac60-5d342d56ef83",
+  "tags": [
+    "makeover monday",
+    "europe",
+    "eu",
+    "energy",
+    "renewable energy",
+    "fossil fuels",
+    "ember"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Data-file-Europe-Power-Sector-2020.xlsx",
+      "sizeInBytes": 1092930,
+      "created": "2021-01-28T10:34:16.730Z",
+      "updated": "2021-01-28T10:34:16.730Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-01-27T13:24:11.966Z",
+  "updated": "2021-01-31T12:16:03.484Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 5,
+    "columnCount": 67
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w13",
+      "title": "2021/W13: UK Exports to EU have plunged since Brexit",
+      "description": "Exports to EU plunge by 40% in first month since Brexit",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![](https://media.data.world/EwMFcBAcR42cTBlVUPHY_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/business/2021/mar/12/exports-to-eu-plunge-in-first-month-since-brexit-uk-economy)\n\nDATA SOURCE: [ONS - UK trade goods and services publication table 14](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/uktradegoodsandservicespublicationtables) (expressed as £ million)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "brexit",
+        "economy",
+        "uk",
+        "united kingdom",
+        "europe",
+        "eu",
+        "exports",
+        "imports",
+        "goods"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w18",
+      "title": "2021/W18: CEO-to-Worker Compensation Ratio",
+      "description": "CEOs make 320 times as much as typical workers at the top 350 U.S. firms ranked by sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/NFW3n2ozQbuAohObtu29\\_image.png](https://media.data.world/NFW3n2ozQbuAohObtu29_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Economic Policy Institute](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)\nDATA SOURCE: [Economic Policy Institute | Figure B](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "money",
+        "pay",
+        "ceo",
+        "compensation",
+        "business",
+        "ratio",
+        "pay ration",
+        "america",
+        "usa",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w32",
+      "title": "2019/W32: Britain is rapidly phasing out coal",
+      "description": "Britain is rapidly phasing out coal",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/MZv1UvTuRf2sakpA9jJM\\_Screenshot%202019-08-03%20at%207.53.06%20am.png](https://media.data.world/MZv1UvTuRf2sakpA9jJM_Screenshot%202019-08-03%20at%207.53.06%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/environment/ng-interactive/2019/may/25/the-power-switch-tracking-britains-record-coal-free-run)\nDATA SOURCE: [Gridwatch](https://www.gridwatch.templar.co.uk/download.php)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "uk",
+        "united kingdom",
+        "coal",
+        "renewable energy",
+        "supply",
+        "demand",
+        "time series",
+        "guardian",
+        "environment"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w28",
+      "title": "2019/W28: International protection in the EU+: 2018 overview",
+      "description": "International protection in the EU+: 2018 overview",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original.png](https://media.data.world/aR543tHS3Wz9eZ6oLtaH_Original.png)\n\nPlease note: The data only covers the first two bar charts below the map. The rest of the dashboard has been included for context but data has not been provided.\n\n# **About this Dataset**\nSOURCE ARTICLE: [European Asylum Support Office](https://www.easo.europa.eu/asylum-trends-annual-report-2018)\nDATA SOURCE: EUROSTAT, from 2009 to 2018 [Summary applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asyappctza&lang=en)\n[Decisions on applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asydcfsta&lang=en)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "asylum",
+        "refugee",
+        "refugee crisis",
+        "europe",
+        "eu",
+        "migration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w19",
+      "title": "2021/W19: What Does 1GB of Mobile Data Cost by Country?",
+      "description": "What Does 1GB of Mobile Data Cost in Every Country?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/ziDtA7B9QyCypYZySfEn_image.png)\n\n​\n\n# **About this Dataset**\n**Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n**Data Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "data",
+        "country",
+        "location",
+        "mobile",
+        "phone",
+        "cost",
+        "price"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
