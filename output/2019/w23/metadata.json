@@ -1,0 +1,88 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w23",
+  "title": "2019/W23: Sleepless in America?",
+  "description": "The American Time Use Survey tracks how much Americans sleep by gender and age.",
+  "summary": "# **Original Visualization**\n![https://www.bls.gov/tus/charts/chart16.jpg](https://www.bls.gov/tus/charts/chart16.jpg)\n\n# **About this Dataset**\nIMAGE SOURCE: [American Time Use Survey](https://www.bls.gov/tus/charts/sleep.htm)\nDATA SOURCE: [American Time Use Survey](https://www.bls.gov/tus/database.htm)\n\n#### **ADDITIONAL RESOURCES**\n\n1. [The Connection between Sleep and Autoimmune Disease](https://www.nutritionaltherapyconference.com/wp-content/uploads/2016/04/NTA2016-Conference-Talk.pdf) - Sarah Ballantyne, PhD\n2. [National Sleep Foundation](https://www.sleepfoundation.org/)\n3. [Drowsy Driving](https://www.nhtsa.gov/risky-driving/drowsy-driving) - National Highway Traffic Safety Adminstration\n4. [Acute Sleep Deprivation and Risk of Motor Vehicle Crash Involvement](https://aaafoundation.org/acute-sleep-deprivation-risk-motor-vehicle-crash-involvement/) - AAA Foundation for Traffic Safety\n5. [Richard Smith: _Why We Sleep_ (Matthew Walker) book review](https://blogs.bmj.com/bmj/2018/06/20/richard-smith-why-we-sleep-one-of-those-rare-books-that-changes-your-worldview-and-should-change-society-and-medicine/) - the bmj opinion\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "ed0ac0d5-7b42-4c99-8391-be0a9925a5a0",
+  "tags": [
+    "makeover monday",
+    "sleep",
+    "america",
+    "united states",
+    "american time use survey",
+    "atus",
+    "gender",
+    "age",
+    "sex",
+    "year",
+    "time series"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Time Americans Spend Sleeping.xlsx",
+      "sizeInBytes": 48097,
+      "created": "2019-05-30T20:36:43.795Z",
+      "updated": "2019-05-30T20:36:43.795Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-05-30T19:32:32.638Z",
+  "updated": "2019-06-02T05:30:52.704Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w31",
+      "title": "2019/W31: STD Infection Rates in America",
+      "description": "How have rates changed by disease, year, state, gender, and age?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/YcRQEE4TSrS75v74BQDX\\_Screenshot%202019-07-26%20at%2011.24.04%20am.png](https://media.data.world/YcRQEE4TSrS75v74BQDX_Screenshot%202019-07-26%20at%2011.24.04%20am.png)\n\n​\n\n### **About this Dataset**\nORIGINAL VIZ: [Tableau Public](https://public.tableau.com/profile/andy.kriebel#!/vizhome/STDs1996-2008/STDInfectionRates)\nCREATED BY: [Andy Kriebel | @VizWizBI](https://twitter.com/VizWizBI)\nDATA SOURCE: [CDC](https://wonder.cdc.gov/controller/datarequest/D128)\n\n​\n\n### **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "population",
+        "time series",
+        "year",
+        "usa",
+        "united states",
+        "std",
+        "sex",
+        "disease",
+        "gender",
+        "age",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
