@@ -1,0 +1,112 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w24",
+  "title": "2021/W24: Which Schools Create the Most Student Loans?",
+  "description": "Which Schools Create the Most Student Loans in the U.S.?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/onSz7yzSoGXHOYSM1bga_image.png)\n\n​\n\n# Resources\nOriginal Article: [howmuch.net](https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state)\nData Source: Common Origination and Disbursement (COD) System via [howmuch.net](https://howmuch.net/sources/university-with-the-most-student-loan-originations-in-every-state)",
+  "version": "b9ac1eef-f6bb-42c9-8a93-f4ed2e5ff9f2",
+  "tags": [
+    "makeover monday",
+    "school",
+    "education",
+    "university",
+    "college",
+    "loans",
+    "money",
+    "finance",
+    "debt",
+    "student",
+    "united states",
+    "usa",
+    "state",
+    "city",
+    "zip code",
+    "location"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Student Loan Debt by School 2020-2021.xlsx",
+      "sizeInBytes": 3249019,
+      "created": "2021-06-11T12:57:18.037Z",
+      "updated": "2021-06-11T12:57:18.037Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-06-11T12:52:50.606Z",
+  "updated": "2021-06-13T06:48:51.079Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 18
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w18",
+      "title": "2021/W18: CEO-to-Worker Compensation Ratio",
+      "description": "CEOs make 320 times as much as typical workers at the top 350 U.S. firms ranked by sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/NFW3n2ozQbuAohObtu29\\_image.png](https://media.data.world/NFW3n2ozQbuAohObtu29_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Economic Policy Institute](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)\nDATA SOURCE: [Economic Policy Institute | Figure B](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "money",
+        "pay",
+        "ceo",
+        "compensation",
+        "business",
+        "ratio",
+        "pay ration",
+        "america",
+        "usa",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w26",
+      "title": "2021/W26: How Popular Is Your Birthday?",
+      "description": "How popular is your birthday?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/yFDOaIorTUuNKthTGay9_Births.png)\n\n​\n\n# Resources\nOriginal Article: [How Common is Your Birthday?](http://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/)\nData Source: U.S. National Center for Health Statistics ([1994-2003](https://github.com/fivethirtyeight/data/blob/master/births/US_births_1994-2003_CDC_NCHS.csv)); U.S. Social Security Administration ([2004-2014](https://github.com/fivethirtyeight/data/blob/master/births/US_births_2000-2014_SSA.csv)) — via [FiveThirthyEight](https://github.com/fivethirtyeight/data/births)",
+      "tags": [
+        "makeover monday",
+        "five thirty eight",
+        "birth",
+        "usa",
+        "united states",
+        "cdc",
+        "social security",
+        "ssa",
+        "birthday",
+        "date",
+        "year",
+        "month",
+        "weekday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w50",
+      "title": "2022/W50: Which country gets the most paid vacation days?",
+      "description": "Which country gets the most paid vacation days?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/170e5d01ea1443c1452df70e9f36774a517f8c0cbb3f133c91b4124d2fddf89d_image.png)\n\n​\n\n## Resources\nData Source: [Resume.io](https://resume.io/blog/which-country-gets-the-most-paid-vacation-days)\nData collected and prepared by: [Yamil Medina](https://twitter.com/VIZMIXER) (please tag him)",
+      "tags": [
+        "makeover monday",
+        "vacation",
+        "holiday",
+        "country"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
