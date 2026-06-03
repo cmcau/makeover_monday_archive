@@ -1,0 +1,130 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w25",
+  "title": "2023/W25: Divorces in England & Wales",
+  "description": "Annual divorce numbers and rates, by duration of marriage, sex and to whom granted and reason.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/ae8a7e6b480f50e5fc251a444985827c54f01ff764042b78bb434e09b1871233_CleanShot_2023_06_17_at_1.34.25_2x.png)\n\n​\n\n# Resources\n[Divorces in England & Wales](http://divorces%20in%20england%20and%20wales/)\nData Source: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales)",
+  "version": "be6ccb1d-11",
+  "tags": [
+    "makeover monday",
+    "divorce",
+    "marriage",
+    "england",
+    "wales",
+    "rate",
+    "duration"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "UK Divorces.xlsx",
+      "sizeInBytes": 38048,
+      "created": "2023-06-19T07:34:20.716957619Z",
+      "updated": "2023-06-19T07:34:20.716957619Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-06-11T20:32:22.042052026Z",
+  "updated": "2023-06-19T07:34:37.704653876Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 16
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w32",
+      "title": "2021/W32: Monthly Mortality Rates in England and Wales",
+      "description": "Monthly Mortality Rates in England and Wales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/lGyMdv7FTZ2aaGGpaeRK_image.png)\n\n​\n\n# Resources\nOriginal Viz: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/monthlymortalityanalysisenglandandwales/june2021)\nData Source: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/monthlymortalityanalysisenglandandwales/june2021)\n\n​\n\n​",
+      "tags": [
+        "makeover monday",
+        "ons",
+        "statistics",
+        "england",
+        "wales",
+        "mortality"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w25",
+      "title": "2021/W25: Stop & Search by Ethnicity in England & Wales",
+      "description": "Stop & Search Rates by Ethnicity in England & Wales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/kF7gjpyvThKVIxmVWUXN_image.png)\n\n​\n\n# Resources\nOriginal Visualization: [Stop & Search - gov.uk](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest#by-ethnicity-over-time)\nData Source: [gov.uk](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest#download-the-data)",
+      "tags": [
+        "makeover monday",
+        "ethnicity",
+        "race",
+        "area",
+        "location",
+        "england",
+        "united kingdom",
+        "uk",
+        "crime",
+        "wales",
+        "rate",
+        "population",
+        "per capita"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w3",
+      "title": "2023/W3: Interstate and Cross-Border 2022 Migration Patterns",
+      "description": "US & Canada Interstate and Cross-Border 2022 Migration Patterns",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/791435034a9a6bc43ae30eb211d3b96223434aa3b6feebf138f2380aba290cf6_CleanShot_2023_01_13_at_10.17.16_2x.png)\n\n​\n\n## **Resources**\nArticle: [Interstate and Cross-Border 2022 Migration Patterns](https://www.atlasvanlines.com/resources/migration-patterns)\nData Source: Atlas Van Lines",
+      "tags": [
+        "makeover monday",
+        "commerce",
+        "migration",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w51",
+      "title": "2022/W51: Religious Affiliation in the UK - 2011 vs. 2021",
+      "description": "Religious Affiliation in the UK - 2011 vs. 2021",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/d4a96fee7404fbdba09c7f5b229ef20a31b52a653ec50830b49f29ecd6c571f9_CleanShot_2022_12_16_at_10.59.22_2x.png)\n\n​\n\n# Resources\n[UK religions](https://www.theguardian.com/uk-news/2022/nov/29/census-2021-in-charts-christianity-now-minority-religion-in-england-and-wales?CMP=Share_iOSApp_Other)\nData Source: [UK Census](https://census.gov.uk/) (England only)",
+      "tags": [
+        "makeover monday",
+        "religion",
+        "united kingdom",
+        "uk",
+        "census"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w12",
+      "title": "2023/W12: US Wind Turbines",
+      "description": "Locations of wind turbines in the US, wind project information, and turbine technical specifications",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5632aae2a4df6f1a7b70015f1cddc2a371d4384d84305c1674d67664a8f94f02_CleanShot_2023_02_22_at_12.05.18_2x.png)\n\n​\n\n## **Resources**\nVisualization: [U.S. Wind Turbines](https://eerscmap.usgs.gov/uswtdb/viewer/#3/37.25/-96.25)\nData Source: [U.S. Wind Turbine Database](https://eerscmap.usgs.gov/uswtdb/data/) | [Metadata](https://eerscmap.usgs.gov/uswtdb/api-doc/#keyValue) | [About](https://eerscmap.usgs.gov/uswtdb/)",
+      "tags": [
+        "makeover monday",
+        "science",
+        "wind energy",
+        "turbine",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
