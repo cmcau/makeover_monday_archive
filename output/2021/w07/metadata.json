@@ -1,0 +1,140 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w7",
+  "title": "2021/W7: ​What's the point of Valentine's Day?",
+  "description": "Men are highly likely to consider sex and eating out as the main point of Valentine's Day",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/](https://cdn.statcdn.com/Infographic/images/normal/3229.jpeg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Statista](https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/)\nDATA SOURCE: [Statista](https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "74c0cc02-d9cf-4c63-817f-a9784463aa50",
+  "tags": [
+    "makeover monday",
+    "valentines day",
+    "holiday",
+    "hallmark",
+    "cards",
+    "love",
+    "sex",
+    "gender",
+    "men",
+    "women",
+    "united kingdom",
+    "uk",
+    "survey",
+    "gifts",
+    "dinner",
+    "impress",
+    "treat"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Valentines Day.xlsx",
+      "sizeInBytes": 9109,
+      "created": "2021-02-14T11:15:32.211Z",
+      "updated": "2021-02-14T11:15:32.211Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-01-28T10:28:03.540Z",
+  "updated": "2021-02-14T11:20:16.631Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w13",
+      "title": "2021/W13: UK Exports to EU have plunged since Brexit",
+      "description": "Exports to EU plunge by 40% in first month since Brexit",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![](https://media.data.world/EwMFcBAcR42cTBlVUPHY_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/business/2021/mar/12/exports-to-eu-plunge-in-first-month-since-brexit-uk-economy)\n\nDATA SOURCE: [ONS - UK trade goods and services publication table 14](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/uktradegoodsandservicespublicationtables) (expressed as £ million)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "brexit",
+        "economy",
+        "uk",
+        "united kingdom",
+        "europe",
+        "eu",
+        "exports",
+        "imports",
+        "goods"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w48",
+      "title": "2018/W48: The cost of a night out",
+      "description": "The cost of a night out",
+      "summary": "# **Original Visualization**\n![supporting image](https://infographic.statista.com/normal/chartoftheday_14081_the_price_of_a_party_around_the_world_n.jpg)\n\n# **About this Dataset**\nARTICLE: [Thrillist](https://www.thrillist.com/news/nation/cost-of-a-night-out-cities-around-the-world#)\n\nDATA SOURCE: [Statista](https://www.statista.com/chart/14081/the-price-of-a-party-around-the-world/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "entertainment",
+        "bar chart",
+        "stacked bar chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w35",
+      "title": "2019/W35: PCs to Become the Smallest Gaming Platform in 2018",
+      "description": "PCs to Become the Smallest Gaming Platform in 2018",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://infographic.statista.com/normal/chartoftheday\\_13789\\_worldwide\\_video\\_game\\_revenue\\_forecast\\_n.jpg](https://infographic.statista.com/normal/chartoftheday_13789_worldwide_video_game_revenue_forecast_n.jpg)\n\n# **About this Dataset**\nDATA SOURCE: [Statista](https://www.statista.com/chart/13789/worldwide-video-game-revenue-forecast/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "gaming",
+        "mobile",
+        "pc",
+        "console",
+        "games",
+        "video games"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w6",
+      "title": "2019/W6: How Chinese New Year Compares With Thanksgiving",
+      "description": "How Chinese New Year Compares With Thanksgiving",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://infographic.statista.com/normal/chartoftheday_3246_How_Chinese_New_Year_Compares_With_Thanksgiving_n.jpg)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/chart/3246/how-chinese-new-year-compares-with-thanksgiving/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "chinese new year",
+        "consumer spending",
+        "thanksgiving",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w32",
+      "title": "2019/W32: Britain is rapidly phasing out coal",
+      "description": "Britain is rapidly phasing out coal",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/MZv1UvTuRf2sakpA9jJM\\_Screenshot%202019-08-03%20at%207.53.06%20am.png](https://media.data.world/MZv1UvTuRf2sakpA9jJM_Screenshot%202019-08-03%20at%207.53.06%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/environment/ng-interactive/2019/may/25/the-power-switch-tracking-britains-record-coal-free-run)\nDATA SOURCE: [Gridwatch](https://www.gridwatch.templar.co.uk/download.php)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "uk",
+        "united kingdom",
+        "coal",
+        "renewable energy",
+        "supply",
+        "demand",
+        "time series",
+        "guardian",
+        "environment"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
