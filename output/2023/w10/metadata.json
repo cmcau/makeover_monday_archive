@@ -1,0 +1,122 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w10",
+  "title": "2023/W10: Meat Production in Germany",
+  "description": "Meat production down 8.1% in 2022",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/53d022a4ca381978b1e57c059a5a2a1c0c9ab56ec281675df3f8dff2b3e2f542_meat_production_year.png)\n\n​\n\n## **Resources**\nArticle: [Meat production in Germany](https://www.destatis.de/EN/Press/2023/02/PE23_051_413.html)\nData Source: [Federal Statistical Office](https://www.destatis.de/EN/FactsFigures/EconomicSectors/AgricultureForestryFisheries/AnimalsAnimalProduction/Tables/2NumberOfSlaughteredAnimals.html)\n\n​",
+  "version": "654a8607-8046-4199-afb9-9dae07eb1ea7",
+  "tags": [
+    "makeover monday",
+    "meat",
+    "slaughter",
+    "beef",
+    "poultry",
+    "pork",
+    "germany",
+    "trends",
+    "time series"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Meat Production in Germany.xlsx",
+      "sizeInBytes": 10585,
+      "created": "2023-02-22T11:41:52.560983844Z",
+      "updated": "2023-02-22T11:41:52.560983844Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-02-22T11:41:21.167179474Z",
+  "updated": "2023-03-05T12:40:24.280983593Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "meat-production-by-livestock-type",
+      "title": "2025 / Week 35 Meat Production by Livestock Type",
+      "description": "Global meat production by livestock type",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-f893942214d7454ea941573510dd5cac.png)\n\n​\n\n​\n\nDatasource + Article: [Meat and Dairy Production - Our World in Data](https://ourworldindata.org/meat-production)",
+      "tags": [
+        "meat",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w35",
+      "title": "2023/W35: Food Inflation Rates in the UK",
+      "description": "Food Inflation Rates in the UK",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/e16c8a020c91d51b02ad9487e6a1a798b4f285c73011112a72e2bf4091d7c0da_CleanShot_2023_08_28_at_8.35.43.png)\n\n## Resources\n[Food Inflation Rates in the UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)\nData Source: Office for Natonal Statistics",
+      "tags": [
+        "food",
+        "uk",
+        "united kingdom",
+        "inflation",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w36",
+      "title": "2023/W36: Employees at Forbes Cloud 100",
+      "description": "# of employees at Fortune Cloud 100 companies: 2022-2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/317bb59c870579fb25a3bc786433cbf205ffeaa7cb75924c23e0ef2fa9561b41_CleanShot_2023_09_03_at_1.13.47_2x.png)\n\n## **Resources**\nArticle: [Tech Layoffs](https://layoffs.fyi/)\nData Collected by: [Brittany Rosenau](https://twitter.com/brrosenau)",
+      "tags": [
+        "makeover monday",
+        "technology",
+        "tech sector",
+        "tech",
+        "forbes"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w41",
+      "title": "2023/W41: Retail Investment",
+      "description": "What are Retail Investors Interested in Buying in 2023?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/dc42f79a69f6d39ecf0c9717675072ec5a0c05560d853c914a5e9ee78c3c441c_image.png)\n\n## **Resources**\nArticle: [What are Retail Investors Interested in Buying in 2023?](https://www.visualcapitalist.com/charted-what-are-retail-investors-interested-in-buying-in-2023/)\nData Source: Visual Capitalist",
+      "tags": [
+        "makeover monday",
+        "visual capitalist",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w17",
+      "title": "2023/W17: Biggest Tomato & Potato Producers",
+      "description": "Production of tomatoes and potatoes by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/41586fdcbc9dfb4fd9b6f967fab26fb395d1daad423a6a9e908103fc8e1a8b3e_CleanShot_2023_04_18_at_3.43.17_2x.png)\n\n​\n\n# Resources\nOriginal viz - [Sjoerd Tilmans via LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/)\n\nData Source: [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)",
+      "tags": [
+        "makeover monday",
+        "potato",
+        "tomato",
+        "production",
+        "crops",
+        "yield",
+        "harvest",
+        "country"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
