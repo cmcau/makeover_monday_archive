@@ -1,0 +1,120 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w38-trains-vs-planes-whats-the-real-cost-of-travel",
+  "title": "2018/W38: Trains vs. planes: What's the real cost of travel?",
+  "description": "Trains vs. planes: What's the real cost of travel?",
+  "summary": "# **Original Visualization**\n![supporting image or chart](https://www.dw.com/image/45211293_7.png)\n\n# **About this Dataset**\nArticle: [Deutsche Welle](https://www.dw.com/en/trains-vs-planes-whats-the-real-cost-of-travel/a-45209552)\n\nData Source: [DW Data](https://github.com/dw-data/travel-cost)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "b1d6a2b2-7e82-49e5-9c1e-b2ad36a3abc0",
+  "tags": [
+    "time series analysis",
+    "line charts",
+    "travel",
+    "train vs flight"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Ticket prices for planes and trains on different routes.xlsx",
+      "sizeInBytes": 12508,
+      "created": "2018-09-15T09:45:32.165Z",
+      "updated": "2018-09-15T09:45:32.165Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-09-15T09:45:31.891Z",
+  "updated": "2018-09-16T12:14:01.080Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w33-anthony-bourdains-travels",
+      "title": "2018/W33: Anthony Bourdain’s Travels",
+      "description": "Anthony Bourdain’s Travels",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://pbs.twimg.com/media/DfXwFO1V4AAn1CM.jpg)\n\n# **About this Dataset**\n* IMAGE SOURCE: [Christine Zhang (Twitter)](https://twitter.com/christinezhang/status/1005974583206449152)\n* DATA SOURCE: [Christine Zhang (Github)](https://t.co/vS7TIWUcQa)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "anthony bourdain",
+        "travel",
+        "makeover monday",
+        "television",
+        "reality tv",
+        "tv",
+        "christine zhang"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w48",
+      "title": "2018/W48: The cost of a night out",
+      "description": "The cost of a night out",
+      "summary": "# **Original Visualization**\n![supporting image](https://infographic.statista.com/normal/chartoftheday_14081_the_price_of_a_party_around_the_world_n.jpg)\n\n# **About this Dataset**\nARTICLE: [Thrillist](https://www.thrillist.com/news/nation/cost-of-a-night-out-cities-around-the-world#)\n\nDATA SOURCE: [Statista](https://www.statista.com/chart/14081/the-price-of-a-party-around-the-world/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "entertainment",
+        "bar chart",
+        "stacked bar chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w24-tourism-density-index",
+      "title": "2018/W24: Tourism Density Index",
+      "description": "Tourism Density Index",
+      "summary": "# **Original Visualization**\n![Tourism Density Index.png](https://media.data.world/ADmIkzOTQkW25OtytPjm_Tourism%20Density%20Index.png)\n\n# **About this Dataset**\nSOURCE: [Intrepid Travel](https://intrepidgroup.bynder.com/transfer/bdd0abcac448329ed4c9057327b6ca660742e4b5ea16f18bd5a343b2c6d0d0c8)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "tourism density",
+        "tourism",
+        "travel data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w21-premier-league-predictions-vs-reality",
+      "title": "2018/W21: Premier League Predictions vs. Reality",
+      "description": "Premier League Predictions vs. Reality",
+      "summary": "# **Original Visualization**\n![EPL Predictions.jpeg](https://media.data.world/X1YPBAa0RgKwXosQljwW_EPL%20Predictions.jpeg)\n\n# **About this Dataset**\nSOURCE: [The Guardian](https://amp.theguardian.com/football/2018/may/15/premier-league-2017-18-season-predictions-versus-reality)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "soccer",
+        "football",
+        "premier league",
+        "epl",
+        "prediction",
+        "table"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
