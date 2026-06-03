@@ -1,0 +1,133 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w41",
+  "title": "2022/W41: United Nations Human Development Index",
+  "description": "United Nations Human Development Index",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/d87e012aff5edbae2a80185aa4c4a038f533e8ed7b4ac2da721783682bc35b4a_CleanShot_2022_10_05_at_12.21.12.png)\n\n​\n\n# Resources\nArticle: [BBC News](https://www.bbc.com/news/world-62824357.amp)\nChart Source: [UNDP](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI)\nData Source: [UNDP](https://hdr.undp.org/data-center/documentation-and-downloads)",
+  "version": "2f4836e0-be9b-4515-9c43-5d6af8e0cce6",
+  "tags": [
+    "makeover monday",
+    "united nations",
+    "human development index"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "UNDP Composite Indices Metadata.xlsx",
+      "sizeInBytes": 13635,
+      "created": "2022-10-05T11:23:04.122Z",
+      "updated": "2022-10-05T11:23:04.122Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "UNDP Composite Indices.xlsx",
+      "sizeInBytes": 1471697,
+      "created": "2022-10-05T11:22:59.903Z",
+      "updated": "2022-10-05T11:22:59.903Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-10-05T11:22:46.609Z",
+  "updated": "2022-10-10T07:59:16.177Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 3,
+    "columnCount": 14
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w49",
+      "title": "2022/W49: How Americans Perceive Demographics",
+      "description": "Americans were asked \"If you had to guess, what percentage of American adults...\"",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/e812c166422bab1e46200cc283d40a938d5886312df46f5327a949264c9582bb_CleanShot_2022_12_02_at_9.02.20_2x.png)\n\n## **Resources**\nOriginal article and data - [YouGovAmerica](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population)",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "united states",
+        "yougov",
+        "survey",
+        "proportion"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w30",
+      "title": "2023/W30: Daily sea ice extent",
+      "description": "Daily sea ice extent",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/09dfa7c1a6fa6b044605409a3799481fbc2b78af60f2dee144a13d30f9c636db_CleanShot_2023_07_24_at_3.18.31_2x.png)\n\n​\n\n# Resources\nArticle: [Daily Sea Ice Extent](https://www.theguardian.com/environment/datablog/2023/jul/20/the-climate-crisis-in-four-charts-extreme-weather-heatwaves?CMP=Share_iOSApp_Other)\nData Source: [National Snow & Ice Data Center](https://nsidc.org/data/seaice_index/data-and-image-archive)\n\n​",
+      "tags": [
+        "makeover monday",
+        "climate change",
+        "sea ice",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w2",
+      "title": "2023/W2: Gay Travel Index",
+      "description": "Spartacus Gay Travel Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/e1d785aaba7b27e4b8f0bd13124856adbc30675724ac4363df72c47162b39f25_CleanShot_2023_01_09_at_10.48.19.png)\n\n​\n\n## **Resources**\nArticle: [Gay Travel Index](https://spartacus.gayguide.travel/blog/spartacus-gay-travel-index/)\nData Source: Spartacus",
+      "tags": [
+        "gay",
+        "travel",
+        "ranking",
+        "country",
+        "discrimination",
+        "marriage",
+        "adoption",
+        "lgbt",
+        "religion",
+        "hiv",
+        "homosexuality",
+        "pride month"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w48",
+      "title": "2022/W48: US School Shootings K - 12",
+      "description": "School shootings in America - K-12",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/8db70325f77bc3ab3b26bcb5f1e99b77fee9465eaa9d3b8c41ff78b4bf239197_CleanShot_2022_11_24_at_2.30.58.png)\n\n​\n\n# Resources\nDatasource: **_MUST BE CITED WITH:_** Riedman, David. \"K-12 School Shooting Database\" (2022). 02.Nov.2022\n\nArticle: https://k12ssdb.org/\n\n​\n\n​",
+      "tags": [
+        "makeover monday",
+        "guns",
+        "violence",
+        "usa",
+        "united states",
+        "school"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w3",
+      "title": "2023/W3: Interstate and Cross-Border 2022 Migration Patterns",
+      "description": "US & Canada Interstate and Cross-Border 2022 Migration Patterns",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/791435034a9a6bc43ae30eb211d3b96223434aa3b6feebf138f2380aba290cf6_CleanShot_2023_01_13_at_10.17.16_2x.png)\n\n​\n\n## **Resources**\nArticle: [Interstate and Cross-Border 2022 Migration Patterns](https://www.atlasvanlines.com/resources/migration-patterns)\nData Source: Atlas Van Lines",
+      "tags": [
+        "makeover monday",
+        "commerce",
+        "migration",
+        "country"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
