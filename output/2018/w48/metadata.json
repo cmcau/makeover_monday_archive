@@ -1,0 +1,114 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w48",
+  "title": "2018/W48: The cost of a night out",
+  "description": "The cost of a night out",
+  "summary": "# **Original Visualization**\n![supporting image](https://infographic.statista.com/normal/chartoftheday_14081_the_price_of_a_party_around_the_world_n.jpg)\n\n# **About this Dataset**\nARTICLE: [Thrillist](https://www.thrillist.com/news/nation/cost-of-a-night-out-cities-around-the-world#)\n\nDATA SOURCE: [Statista](https://www.statista.com/chart/14081/the-price-of-a-party-around-the-world/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "5a5fd429-7823-4888-a52e-0353d9292460",
+  "tags": [
+    "entertainment",
+    "bar chart",
+    "stacked bar chart"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Cost of a night out around the world.xlsx",
+      "sizeInBytes": 11312,
+      "created": "2018-11-24T15:10:49.623Z",
+      "updated": "2018-11-24T15:10:49.623Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-11-24T15:10:38.035Z",
+  "updated": "2018-11-26T15:19:56.482Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w35",
+      "title": "2019/W35: PCs to Become the Smallest Gaming Platform in 2018",
+      "description": "PCs to Become the Smallest Gaming Platform in 2018",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://infographic.statista.com/normal/chartoftheday\\_13789\\_worldwide\\_video\\_game\\_revenue\\_forecast\\_n.jpg](https://infographic.statista.com/normal/chartoftheday_13789_worldwide_video_game_revenue_forecast_n.jpg)\n\n# **About this Dataset**\nDATA SOURCE: [Statista](https://www.statista.com/chart/13789/worldwide-video-game-revenue-forecast/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "gaming",
+        "mobile",
+        "pc",
+        "console",
+        "games",
+        "video games"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w6",
+      "title": "2019/W6: How Chinese New Year Compares With Thanksgiving",
+      "description": "How Chinese New Year Compares With Thanksgiving",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://infographic.statista.com/normal/chartoftheday_3246_How_Chinese_New_Year_Compares_With_Thanksgiving_n.jpg)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/chart/3246/how-chinese-new-year-compares-with-thanksgiving/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "chinese new year",
+        "consumer spending",
+        "thanksgiving",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w18",
+      "title": "2019/W18: Space Station Spacewalks",
+      "description": "There have been 216 spacewalks at the International Space Station since December 1998.",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/eva_infographics_216.jpg?itok=n6TILRap)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Space Station Spacewalks](https://www.nasa.gov/mission_pages/station/spacewalks/)\nDATA SOURCE: [NASA](https://www.nasa.gov/mission_pages/station/spacewalks/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "nasa",
+        "spacewalks",
+        "bar chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-52-christmas-trees-sold-in-the-us",
+      "title": "2017/W52: Christmas trees sold in the US",
+      "description": "Christmas trees sold in the US",
+      "summary": "# Original Visualization\n![original.png](https://media.data.world/FxLUQJfwSpGTDhHW9cdC_original.png)\n\n# About this Dataset\nSOURCE: [Statista](https://www.statista.com/statistics/209249/purchase-figures-for-real-and-fake-christmas-trees-in-the-us/)\n\n\n# Objectives\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "christmas",
+        "us data",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w40-avocado-prices",
+      "title": "2018/W40: Avocado Prices",
+      "description": "Avocado Prices",
+      "summary": "# **Original Visualization**\n![Avocado Prices](https://onebluewindow.com/wp-content/uploads/2017/10/Avocado-Prices-400x253.jpg)\n\n# **About this Dataset**\nARTICLE: [Avocados are getting expensive](https://overridge.com/market-update/market-update-oct-17)\n\nSOURCE: [Hass Avocado Board](http://www.hassavocadoboard.com/retail/volume-and-price-data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "avocado",
+        "us avocado market",
+        "avocado prices",
+        "line chart",
+        "fatty fruit"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
