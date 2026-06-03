@@ -1,0 +1,123 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019week11",
+  "title": "2019/W11: Philadelphia Real Estate Transfers",
+  "description": "Philadelphia Real Estate Transfers",
+  "summary": "# **Original Visualization**\n![supporting image or chart](https://i.imgur.com/reZzuay.png)\n\n# **About this Dataset**\nSOURCE: [OpenDataPhilly](https://data.phila.gov/visualizations/real-estate-transfers)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n\n",
+  "version": "ee6f0493-c681-42d4-b9f4-030efe12f4d2",
+  "tags": [
+    "makeover monday",
+    "philadelphia",
+    "real estate",
+    "economics"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "philly real estate.csv",
+      "sizeInBytes": 594116553,
+      "created": "2019-03-10T21:48:39.023Z",
+      "updated": "2019-03-10T21:48:39.023Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "philly real estate.hyper",
+      "sizeInBytes": 278855680,
+      "created": "2019-03-10T21:48:39.023Z",
+      "updated": "2019-03-10T21:48:39.023Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-03-09T20:00:29.869Z",
+  "updated": "2019-03-10T21:48:39.024Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 24
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w11",
+      "title": "2019/W9: Economic value of the bicycle industry",
+      "summary": "# **Original Visualization**\n![image.png](https://media.data.world/4tQb8t2kSyqv0XNOjOFu_image.png)\n\n# **About this Dataset**\nSOURCE: [SQW](http://www.sqw.co.uk/files/6914/9406/9034/SQW_Economic_value_of_the_bicycle_industry_and_cycling_March_2017_FINAL.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "bicycle",
+        "united kingdom",
+        "uk",
+        "economics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w38-trains-vs-planes-whats-the-real-cost-of-travel",
+      "title": "2018/W38: Trains vs. planes: What's the real cost of travel?",
+      "description": "Trains vs. planes: What's the real cost of travel?",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://www.dw.com/image/45211293_7.png)\n\n# **About this Dataset**\nArticle: [Deutsche Welle](https://www.dw.com/en/trains-vs-planes-whats-the-real-cost-of-travel/a-45209552)\n\nData Source: [DW Data](https://github.com/dw-data/travel-cost)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "time series analysis",
+        "line charts",
+        "travel",
+        "train vs flight"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w27-rat-sightings-in-new-york-city",
+      "title": "2018/W27: Rat Sightings in New York City",
+      "description": "Rat Sightings in New York City",
+      "summary": "# **Original Visualization**\n![](http://i.imgur.com/5jk5L8f.png)\n\nCREATED BY: [Jowanza Joseph](https://twitter.com/Jowanza)\n\nSOURCE ARTICLE: [Link](https://www.jowanza.com/blog/rat-sightings-in-new-york-city-revisited)\n\n\n# **About this Dataset**\n\nDATA SOURCE: [NYC Open Data](https://nycopendata.socrata.com/Social-Services/Rat-Sightings/3q43-55fe/data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "rats"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w49",
+      "title": "2018/W49: Women Constructors in the Shortz Era",
+      "description": "How many women have constructed crossword puzzles in the Shortz Era",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://www.xwordinfo.com/images/Women2017.png)\n\n### **About this Dataset**\nSOURCE: [XWord Info](https://www.xwordinfo.com/Women)\n\n### **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "crossword puzzle",
+        "new york times",
+        "xword info",
+        "gender",
+        "female",
+        "women"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w53",
+      "title": "2019/W53: The Most Popular Makeover Monday Topics",
+      "description": "Top 10 most downloaded topics",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/zjg4A3VdSrSZ5w3iAMGn\\_image.png](https://media.data.world/zjg4A3VdSrSZ5w3iAMGn_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE: [Data Studio](https://datastudio.google.com/reporting/e801e09d-b45c-4642-ba94-c887e69f781d)\n\nDATA SOURCES: data.world • Makeover Monday\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "metrics",
+        "downloads"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
