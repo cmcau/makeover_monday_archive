@@ -1,0 +1,183 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w2",
+  "title": "2021/W2: Gender Inequality in HIV Infections in Adolescents",
+  "description": "Viz5: Gender inequality in new HIV infections among adolescents",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/aef6IHFkRQc7NOe4ttLA\\_Jan%202021%20Viz%20for%20Makeover%20-%20Viz5%20Gender%20Inequality%20and%20HIVAIDS.png](https://media.data.world/aef6IHFkRQc7NOe4ttLA_Jan%202021%20Viz%20for%20Makeover%20-%20Viz5%20Gender%20Inequality%20and%20HIVAIDS.png)\n\n# **About this Dataset**\nDATA SOURCE: UNICEF",
+  "version": "431513d3-2936-48f0-9c55-e10e7ac20fb2",
+  "tags": [
+    "makeover monday",
+    "viz5",
+    "gender inequality",
+    "gender",
+    "adolescents"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "20200305 Viz5 Logo.png",
+      "sizeInBytes": 403965,
+      "created": "2021-01-10T12:52:33.436Z",
+      "updated": "2021-01-10T12:52:33.436Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Black on Transparent.png",
+      "sizeInBytes": 347833,
+      "created": "2021-01-10T12:52:33.436Z",
+      "updated": "2021-01-10T12:52:33.436Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Jan 2021 Data - Viz5 Gender Inequality and HIVAIDS.csv",
+      "sizeInBytes": 215160,
+      "created": "2021-01-10T13:01:20.377Z",
+      "updated": "2021-01-10T13:01:20.377Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Jan 2021 Data Dictionary - Viz5 Gender Inequality and HIVAIDS.pdf",
+      "sizeInBytes": 54824,
+      "created": "2021-01-10T12:52:33.436Z",
+      "updated": "2021-01-10T12:52:33.436Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Jan 2021 Info Pack Viz5 Gender Inequality and HIVAIDS.pdf",
+      "sizeInBytes": 2843682,
+      "created": "2021-01-10T12:52:33.436Z",
+      "updated": "2021-01-10T12:52:33.436Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Jan 2021 Viz for Makeover - Viz5 Gender Inequality and HIVAIDS.png",
+      "sizeInBytes": 141037,
+      "created": "2021-01-10T12:52:33.436Z",
+      "updated": "2021-01-10T12:52:33.436Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "M2M-Logo.png",
+      "sizeInBytes": 72661,
+      "created": "2021-01-10T12:52:33.436Z",
+      "updated": "2021-01-10T12:52:33.436Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Original on Transparent.png",
+      "sizeInBytes": 382570,
+      "created": "2021-01-10T12:52:33.436Z",
+      "updated": "2021-01-10T12:52:33.436Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "White on Transparent.png",
+      "sizeInBytes": 360848,
+      "created": "2021-01-10T12:52:33.436Z",
+      "updated": "2021-01-10T12:52:33.436Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-01-10T12:51:08.419Z",
+  "updated": "2021-01-10T13:08:54.881Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 9,
+    "tableCount": 1,
+    "columnCount": 10
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w6",
+      "title": "2021/W6: Perceived Obstacles to Gender Equality",
+      "description": "Perceived Obstacles to Gender Equality",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/cbmhDXgFR5yk4LvyA9JM\\_Viz%20for%20Makeover%20-%20Perceived%20Obstacles%20to%20Gender%20Equality%20Focus%202030%20%20Women%20Deliver%20Data.png](https://media.data.world/cbmhDXgFR5yk4LvyA9JM_Viz%20for%20Makeover%20-%20Perceived%20Obstacles%20to%20Gender%20Equality%20Focus%202030%20%20Women%20Deliver%20Data.png)\n\n​\n\n# **About this Dataset**\nDATA SOURCE: [Focus 2030](https://focus2030.org/Explore-the-data-and-create-your-own-data-table)\n\n​\n\n# **Objectives**\n\n1. What works?\n2. What could be improved?",
+      "tags": [
+        "makeover monday",
+        "viz5",
+        "gender",
+        "equality"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w22",
+      "title": "2020/W22: Safe Houses for Girls and Women At Risk of FGM",
+      "description": "Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Dashboard for Makeover.png](https://media.data.world/UN1oZyK9RzmnxvJ1bCub_Dashboard%20for%20Makeover.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM](https://hopeforgirlsandwomen.com/about-fgm-in-tanzania/)\nDATA SOURCE: [Hope for Girls and Women Tanzania](https://hopeforgirlsandwomen.com/safe-houses/)\nPLEASE READ THROUGH THE TOPIC SUMMARY PROVIDED AS PDF\n\nTag the following on Twitter: @ opfistula @ HopeForGirlsTZ @ crowd2map @ tanzdevtrust @ Rhobi15\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "viz5",
+        "gender",
+        "gender equality",
+        "gender inequality",
+        "fgm",
+        "female genital mutilation"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w44",
+      "title": "2020/W44: #Viz5 - The digital gender gap",
+      "description": "THE DIGITAL GENDER GAP",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://media.data.world/dYmiAUUSDasC0oQh9H7Q\\_The%20digital%20gender%20divide.png](https://media.data.world/dYmiAUUSDasC0oQh9H7Q_The%20digital%20gender%20divide.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: provided by OpFistula (see documentation below)\nDATA SOURCE: [The Economist Intelligence Unit Inclusive Internet Index 2020](https://theinclusiveinternet.eiu.com/explore/countries/performance?category=overall)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "viz5",
+        "digital gender gap",
+        "gender gap",
+        "visualize gender equality",
+        "gender equality"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w48",
+      "title": "2020/W48: The success of Operation Fistula's Pilot Program",
+      "description": "The success of Operation Fistula's Pilot Program.",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![KICKSTART .png](https://media.data.world/glaGhFtTMqPlMwlkRhgg_KICKSTART%20.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Viz5 Info document](https://data.world/makeovermonday/2020w48/file/Info%20Pack%20-%20Visualize%20Gender%20Equality%20Data%20Set%20%2310.pdf)\nDATA SOURCE: [Operation Fistula](https://data.world/makeovermonday/2020w48/file/20201027%20pilot%20data.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\nPLEASE TAG [at]opfistula on Twitter and add the #Viz5 hashtag\n\n",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "operation fistula",
+        "obstetric fistula"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w30",
+      "title": "2020/W30: Women in Power",
+      "description": "Women in Power - gender inequality in the context of political appointments and parliamentary representation",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![FEMALE POLITICAL REPRESENTATION WORLDWIDE.png](https://media.data.world/rt73DP8dRAC5ojNEp96L_FEMALE%20POLITICAL%20REPRESENTATION%20WORLDWIDE.png)\nVisualization provided by OperationFistula.org\n\n# **About this Dataset**\nSOURCE ARTICLE: [Proportion of seats held by women in national parliaments](https://data.worldbank.org/indicator/SG.GEN.PARL.ZS)\nDATA SOURCE: [World Bank](http://api.worldbank.org/v2/en/indicator/SG.GEN.PARL.ZS?downloadformat=excel)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "viz5",
+        "gender inequality",
+        "gender equality",
+        "women in power",
+        "world bank"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
