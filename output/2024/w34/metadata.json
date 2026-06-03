@@ -1,0 +1,102 @@
+{
+  "owner": "makeovermonday",
+  "id": "social-media-usage",
+  "title": "Social Media Usage",
+  "description": "Who uses each social media platform?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-237478fdf63643c7899fae30d32299d8.png)\n\n​\n\nSOURCE  & ARTICLE : [Demographics of Social Media Users and Adoption in the United States | Pew Research Center](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)",
+  "version": "94bb3025-6",
+  "tags": [
+    "social media",
+    "demographics",
+    "technology",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Social Media Usage_pivoted.xlsx",
+      "sizeInBytes": 14348,
+      "created": "2024-08-19T02:24:54.181068363Z",
+      "updated": "2024-08-19T02:24:54.181068363Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-08-19T02:19:02.966773701Z",
+  "updated": "2024-08-19T13:25:37.447039796Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w18-trump-approval-ratings",
+      "title": "2025/W18 Trump Approval Ratings",
+      "description": "% Who ____ of the way Trump is handling his job as president",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n​\n\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4134dce1a68742e495b184bc6d52b78c.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/trump-100-days-methodology/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/evaluations-of-trump-job-approval-and-confidence-on-issues/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w42-cultural-issues-and-the-2024-election",
+      "title": "2025/W42 Cultural Issues and the 2024 Election",
+      "description": "% of Registered Voters that say....",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-6273861f6f22475fb1d9b1bc6a13fbcb.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/pp_2024-6-5_cultural-values_00-01/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w20-the-religious-composition-of-the-worlds-migrants",
+      "title": "2025/W20 : The Religious Composition of the World’s Migrants",
+      "description": "A breakdown of global migration patterns by religious affiliation",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-e2b09fbf79bc4c64acfb14d3d8e3e11a.png)\n\n​\n\nDatasource: https://www.pewresearch.org/dataset/dataset-religious-composition-of-the-worlds-migrants-1990-2020/\n\nArticle: [How Immigrants Are Shaping the Religious Landscape | Pew Research Center](https://www.pewresearch.org/religion/2024/08/19/the-religious-composition-of-the-worlds-migrants/)",
+      "tags": [
+        "makeover monday",
+        "religion",
+        "migration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w27-spiritual-religious-beliefs",
+      "title": "2025/W27 Spiritual & Religious Beliefs",
+      "description": "% of adults who have spiritual and religious beliefs. Surveyed across 2023 & 2024.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-910cae67cb1d4300982ec3cb738e6b19.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-w47-who-spends-the-most-time-on-social-media",
+      "title": "2024/ w47 : Who Spends the Most Time on Social Media?",
+      "description": "top countries by social media use",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nvisualistion : https://www.visualcapitalist.com/who-spends-the-most-time-on-social-media/\n\nData: Cable.co.uk\n\n![](https://mediauploads-US.data.world/00000-idiomind-86f0b9da801d4bcc9b95e8f5dd6bafc2.png)\n\n​\n\n​",
+      "tags": [
+        "media",
+        "social media"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
