@@ -1,0 +1,101 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w22-arsenal-2526-champions",
+  "title": "2026/W22 Arsenal 25/26 Champions",
+  "description": "Player level stats for matches in the Premier League 25/26 season",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-ad6f3c82d8e341d38f7db5c15642f91e.png)\n\nData Source: [FBref](https://fbref.com/en/squads/18bb7c10/Arsenal-Stats)\n\nArticle: [Arsenal](https://www.arsenal.com/news/arsenal-analysed-how-we-won-premier-league)",
+  "version": "bc446999-10",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "premier_league_player_match_stats.csv",
+      "sizeInBytes": 3707218,
+      "created": "2026-06-02T09:46:02.357436749Z",
+      "updated": "2026-06-02T09:46:02.357436749Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-06-02T09:37:12.407152395Z",
+  "updated": "2026-06-02T09:49:38.618481193Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 39
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w12-uk-unemployment-estimates",
+      "title": "2026/W12 London Unemployment Estimates",
+      "description": "Labour Force Survey (LFS) estimates for unemployment in London - Not Seasonally Adjusted",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-9c2e35c21e354fe5904c4b81f4697faf.png)\n\nData Source: [ONS](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/regionalunemploymentbyagex02)\n\nArticle: [BBC](https://www.bbc.co.uk/news/articles/cm2rmjnlm94o) & [London Datastore](https://data.london.gov.uk/blog/unemployment-in-key-charts-young-londoners-hit-hardest-by-labour-market-slowdown/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w30",
+      "title": "2019/W30: Arsenal FC's 2018/19 season",
+      "description": "Player statistics for Arsenal's 2018/19 season",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Arsenal original.png](https://media.data.world/1txCTsxJQoqHKHGesBDF_Arsenal%20original.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Transfermarkt](https://www.transfermarkt.co.uk/arsenal-fc/leistungsdaten/verein/11/reldata/GB1%262018)\nDATA SOURCE: [Premier League Stat Center](https://www.premierleague.com/stats/top/players/goals)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "arsenal fc",
+        "football",
+        "soccer",
+        "player statistics",
+        "table"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w7-living-planet-index",
+      "title": "2026/W7 Living Planet Index",
+      "description": "A measure of the state of the world's biological diversity based on population trends of vertebrate species.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-0e31e736307a42048c449fb2017bfc42.png)\n\nData Source: [ZSL & WWF](https://www.livingplanetindex.org/latest_results)\n\nArticle: [WWF](https://livingplanet.panda.org/en-GB/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w33-access-to-electricity-of-population",
+      "title": "2025/W33 Access to Electricity (% of Population)",
+      "description": "% of population who have access to electricity.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-cfc0a4ebe4c645eeaa81d710095f42ad.png)\n\nDatasource: [World Bank Group](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=map)\n\nArticle: [World Bank Group](https://blogs.worldbank.org/en/voices/How-to-close-Africa-energy-access-gap)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w17-2024-eiu-democracy-index",
+      "title": "2026/W17 2024 EIU Democracy Index",
+      "description": "2024 Democracy Index and sub-indicators from the Economist Intelligence Unit.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-b9cdba3cc054479bba117d6f51cc2519.png)\n\nData Source: [OurWorldInData](https://ourworldindata.org/grapher/democracy-index-eiu)\n\nArticle: [The Economist](https://www.eiu.com/n/campaigns/democracy-index-2024/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
