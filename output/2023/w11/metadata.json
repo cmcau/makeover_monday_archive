@@ -1,0 +1,57 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w11",
+  "title": "2023/W11: The Height of Women's Basketball Teams",
+  "description": "How tall are women basketball players on each NCAA team?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/8da48063aef8b5cb6b9577cd9d8b8398dc0eda078e8c57e303c4e917c2fe99d9_image.png)\n\n​\n\n## **Resources**\nOriginal Article: [Scholarship Stats](https://scholarshipstats.com/ncaa1basketball) | [Tweet](https://twitter.com/derekwillis/status/1600946516272861185)\nData Source: [Derek Willis](https://merrill.umd.edu/directory/derek-willis) via [Sports Data Analysis & Visualization class \n@merrillcollege](https://app.testudo.umd.edu/soc/202208/JOUR/JOUR479X) • Data on [github](https://github.com/Sports-Roster-Data/womens-college-basketball)\nCourtesy: Data is Plural",
+  "version": "2f386b39-1533-4ee1-97d9-8ff300b48865",
+  "tags": [
+    "makeover monday",
+    "sports",
+    "basketball",
+    "women",
+    "female",
+    "height",
+    "ncaa"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "wbb_rosters_2022_23.xlsx",
+      "sizeInBytes": 2404744,
+      "created": "2023-02-22T11:51:23.167322634Z",
+      "updated": "2023-02-22T11:51:23.167322634Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "wbb_teams.xlsx",
+      "sizeInBytes": 71270,
+      "created": "2023-02-22T11:51:23.167361558Z",
+      "updated": "2023-02-22T11:51:23.167361558Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "wbb_years_cleaned.xlsx",
+      "sizeInBytes": 11976,
+      "created": "2023-03-13T12:12:57.513321732Z",
+      "updated": "2023-03-13T12:12:57.513321732Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-02-22T11:50:38.484352653Z",
+  "updated": "2023-03-13T12:12:57.513512776Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 3,
+    "tableCount": 3,
+    "columnCount": 42
+  },
+  "similarResources": [],
+  "isProject": false
+}
