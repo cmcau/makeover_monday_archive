@@ -1,0 +1,49 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w43",
+  "title": "2022/W43: Major League Baseball Pitch Types",
+  "description": "Why Some MLB Pitchers Are Abandoning The Fastball",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/101665b8060394f52660267c2a1d59a5135c7f91360debe633d28c024fdc36b9_CleanShot_2022_10_21_at_11.23.11_2x.png)\n\n​\n\n## Resources\nArticle: [Why Some MLB Pitchers Are Abandoning The Fastball](https://fivethirtyeight.com/features/why-some-mlb-pitchers-are-abandoning-the-fastball/)\nSource: [FiveThirtyEight](https://fivethirtyeight.com/features/why-some-mlb-pitchers-are-abandoning-the-fastball/)\nData Source: [FanGraphs](https://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=c,13,31,75,77,79,81,83,85,87,89&season=2022&month=0&season1=2002&ind=0&team=0,ss&rost=0&age=0&filter=&players=0&startdate=&enddate=)\nGlossary: [FanGraphs](https://library.fangraphs.com/pitching/complete-list-pitching/)",
+  "version": "e645b8fd-bf56-4d39-ace6-7b547d8cba13",
+  "tags": [
+    "makeover monday",
+    "baseball",
+    "mlb",
+    "fangraphs",
+    "stats",
+    "fastball",
+    "changeup",
+    "slider",
+    "curveball",
+    "knuckleball",
+    "splitter",
+    "cutter",
+    "split finger",
+    "pitch",
+    "pitching"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "FanGraphs Leaderboard.xlsx",
+      "sizeInBytes": 12541,
+      "created": "2022-10-21T10:24:40.435593548Z",
+      "updated": "2022-10-21T10:24:40.435593548Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-10-21T10:20:56.918345803Z",
+  "updated": "2022-10-23T11:08:56.750559331Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 12
+  },
+  "similarResources": [],
+  "isProject": false
+}
