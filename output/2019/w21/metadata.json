@@ -1,0 +1,133 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w21",
+  "title": "2019/W21: When are you most likely to be killed by a bear?",
+  "description": "In which park and when, are you most likely to be killed by a bear?",
+  "summary": "**NOTE:** The data was collected, prepared, and distributed by [Ali Sanne](https://data.world/ajsanne) on [data.world](https://data.world/ajsanne/north-america-bear-killings). Please reference her in your visualizations.\n\n# ​**Original Visualization**\n![https://media.data.world/tNjcdXZAQZuepWQVOiHs\\_Screenshot%202019-05-19%20at%2011.02.36%20am.png](https://media.data.world/tNjcdXZAQZuepWQVOiHs_Screenshot%202019-05-19%20at%2011.02.36%20am.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Vox](https://www.vox.com/2016/10/6/13170344/bear-attacks-national-state-parks)\nDATA SOURCE: [Wikipedia](https://en.wikipedia.org/wiki/List_of_fatal_bear_attacks_in_North_America)\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "0ba55027-f872-44a0-8e9b-9a929408b738",
+  "tags": [
+    "makeover monday",
+    "bear",
+    "animal",
+    "north america"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "north_america_bear_killings.csv",
+      "sizeInBytes": 55094,
+      "created": "2019-05-19T09:52:33.642Z",
+      "updated": "2019-05-19T09:52:33.642Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-05-19T09:52:24.513Z",
+  "updated": "2019-05-19T10:08:40.867Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 15
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w31",
+      "title": "2019/W31: STD Infection Rates in America",
+      "description": "How have rates changed by disease, year, state, gender, and age?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/YcRQEE4TSrS75v74BQDX\\_Screenshot%202019-07-26%20at%2011.24.04%20am.png](https://media.data.world/YcRQEE4TSrS75v74BQDX_Screenshot%202019-07-26%20at%2011.24.04%20am.png)\n\n​\n\n### **About this Dataset**\nORIGINAL VIZ: [Tableau Public](https://public.tableau.com/profile/andy.kriebel#!/vizhome/STDs1996-2008/STDInfectionRates)\nCREATED BY: [Andy Kriebel | @VizWizBI](https://twitter.com/VizWizBI)\nDATA SOURCE: [CDC](https://wonder.cdc.gov/controller/datarequest/D128)\n\n​\n\n### **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "population",
+        "time series",
+        "year",
+        "usa",
+        "united states",
+        "std",
+        "sex",
+        "disease",
+        "gender",
+        "age",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w32",
+      "title": "2019/W32: Britain is rapidly phasing out coal",
+      "description": "Britain is rapidly phasing out coal",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/MZv1UvTuRf2sakpA9jJM\\_Screenshot%202019-08-03%20at%207.53.06%20am.png](https://media.data.world/MZv1UvTuRf2sakpA9jJM_Screenshot%202019-08-03%20at%207.53.06%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/environment/ng-interactive/2019/may/25/the-power-switch-tracking-britains-record-coal-free-run)\nDATA SOURCE: [Gridwatch](https://www.gridwatch.templar.co.uk/download.php)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "uk",
+        "united kingdom",
+        "coal",
+        "renewable energy",
+        "supply",
+        "demand",
+        "time series",
+        "guardian",
+        "environment"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w33",
+      "title": "2019/W33: A bird’s-eye view of clinical trials",
+      "description": "A bird’s-eye view of clinical trials",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/OVjEAs3JTKmMA2gK9s7F\\_Screenshot%202019-08-10%20at%2010.47.09%20am.png](https://media.data.world/OVjEAs3JTKmMA2gK9s7F_Screenshot%202019-08-10%20at%2010.47.09%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [A bird’s-eye view of clinical trials](https://www.statnews.com/2019/07/18/clinical-trials-birds-eye-view-drug-development/)\nDATA SOURCE/ORIGINAL VIZ: [Aero Data Lab](https://www.aerodatalab.org/birds-eye-view-of-research-landscape)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "pharmaceuticals",
+        "drugs",
+        "clinical trials",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w43",
+      "title": "2019/W43: The Age At Which Most People Are Dying By Suicide",
+      "description": "CONTENT WARNING: Suicide - Number of people dying by suicide by single year of age in England and Wales",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screenshot 2019-10-20 at 6.38.36 pm.png](https://media.data.world/2DxYbGbYRWi8U4YanHL4_Screenshot%202019-10-20%20at%206.38.36%20pm.png)\n\n# **About this Dataset**\nSOURCE: [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "age",
+        "death",
+        "suicide",
+        "united kingdom",
+        "uk",
+        "wales",
+        "england",
+        "drugs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w25",
+      "title": "2019/W25: Berlin Airbnb Ratings",
+      "description": "Where can you find an Airbnb that meets you needs?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/aS9YZ8ERvi0PxXQc9OTM\\_Screenshot%202019-06-16%20at%204.39.09%20pm.png](https://media.data.world/aS9YZ8ERvi0PxXQc9OTM_Screenshot%202019-06-16%20at%204.39.09%20pm.png)\n\n​\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [Inside Airbnb](http://insideairbnb.com/berlin/?neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false)\nDATA SOURCE: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)\n\n**NOTES:**\n\n\n1. Data is available as CSV, Excel, or Tableau Hyper format.\n2. A Geojson file of Berlin neighborhoods has also been included.\n​\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "berlin",
+        "germany",
+        "airbnb",
+        "ratings"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
