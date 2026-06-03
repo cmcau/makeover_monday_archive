@@ -1,0 +1,137 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w3",
+  "title": "2021/W3: What's Warming The Earth?",
+  "description": "What's Warming The Earth?",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n​\n\n![https://media.data.world/CwGjyjxPQTaKDge6o8cQ\\_ClimateChange.gif](https://media.data.world/CwGjyjxPQTaKDge6o8cQ_ClimateChange.gif)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [What's Really Warming the World?](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/)\nDATA SOURCE: [NASA Goddard Institute for Space Studies](https://data.giss.nasa.gov/gistemp/)\nCREDITS:  [Eric Roston](https://twitter.com/eroston) ([@eroston](https://twitter.com/eroston)) and [Blacki Migliozzi](https://twitter.com/blackili) ([@blackili](https://twitter.com/blackili))\n\n**NOTE: _The data represents deviations from the corresponding 1951-1980 means._**\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "40d0b598-8858-47a4-9ed1-8a438478368a",
+  "tags": [
+    "makeover monday",
+    "earth",
+    "global warming",
+    "science",
+    "nasa",
+    "giss"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Global Temperature Anomalies.csv",
+      "sizeInBytes": 47335,
+      "created": "2021-01-17T13:18:57.620Z",
+      "updated": "2021-01-17T13:18:57.620Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-01-17T13:08:15.954Z",
+  "updated": "2021-01-20T21:07:34.090Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 20
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w15",
+      "title": "2021/W15: Fouls Called By NBA Referees",
+      "description": "Fouls Called By NBA Referees",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/TOpCdBubS1Ch9Seg19eq_download.png)\n\n​\n\n# About This Dataset\nOriginal Visualization: [Twitter](https://twitter.com/owenlhjphillips/status/1336681714366689280)\nData Source: [The Unofficial NBA Ref Ball Database](https://llewellynjean.shinyapps.io/NBARefDatabase/)\nCredit: [@owenphillips](https://twitter.com/owenlhjphillips)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "basketball",
+        "nba",
+        "referee",
+        "fouls",
+        "penalty",
+        "sports",
+        "sport"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w31",
+      "title": "2019/W31: STD Infection Rates in America",
+      "description": "How have rates changed by disease, year, state, gender, and age?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/YcRQEE4TSrS75v74BQDX\\_Screenshot%202019-07-26%20at%2011.24.04%20am.png](https://media.data.world/YcRQEE4TSrS75v74BQDX_Screenshot%202019-07-26%20at%2011.24.04%20am.png)\n\n​\n\n### **About this Dataset**\nORIGINAL VIZ: [Tableau Public](https://public.tableau.com/profile/andy.kriebel#!/vizhome/STDs1996-2008/STDInfectionRates)\nCREATED BY: [Andy Kriebel | @VizWizBI](https://twitter.com/VizWizBI)\nDATA SOURCE: [CDC](https://wonder.cdc.gov/controller/datarequest/D128)\n\n​\n\n### **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "population",
+        "time series",
+        "year",
+        "usa",
+        "united states",
+        "std",
+        "sex",
+        "disease",
+        "gender",
+        "age",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w12",
+      "title": "2021/W12: The Cereal Industry Had a Very Weird Year",
+      "description": "Personal Consumption Expenditures by Type of Product",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/vAqrQGOzSyCUh6nC7870_Screenshot%202021-03-21%20at%201.30.54%20pm.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Bloomberg](https://www.bloomberg.com/opinion/articles/2021-02-24/beyond-grape-nuts-cereal-makers-had-a-very-weird-year)\n\nDATA SOURCE: [Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?ReqID=19&step=2#reqid=19&step=2&isuri=1&1921=underlying)\n\nNOTES:\n\n1. Personal Consumption Expenditures on Food and beverages purchased for off-premises consumption\n2. Millions of dollars; quarters and months are seasonally adjusted at annual rates])\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "consumer spending",
+        "consumption",
+        "united states",
+        "bea",
+        "bureau",
+        "economics",
+        "analysis"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w3",
+      "title": "2019/W3: How many people earned the Federal minimum wage?",
+      "description": "According to the Bureau of Labor Statistics, how many people earned the Federal minimum wage or less in each State?",
+      "summary": "# **Original Visualization**\n![5bb3904393032c18c75259b4-1136-852.png](https://media.data.world/Q36ZvvbuS5CiLSOpKI76_5bb3904393032c18c75259b4-1136-852.png)\n\n# **About this Dataset**\nARTICLE: [Business Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nSOURCE: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2017/home.htm)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? ",
+      "tags": [
+        "makeover monday",
+        "united states",
+        "usa",
+        "wages",
+        "minimum wage",
+        "bls",
+        "labor statistics",
+        "bureau",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w29-historical-nba-team-spending-against-the-cap",
+      "title": "2018/W29: Historical NBA Team Spending Against the Cap",
+      "description": "Historical NBA Team Spending Against the Cap in the Salary Cap Era",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-07-15 at 12.46.55 pm.png](https://media.data.world/5HSKyjZHQL6HVng7TMBG_Screen%20Shot%202018-07-15%20at%2012.46.55%20pm.png)\nSOURCE: [What's the Cap?](https://www.whatsthecap.com/nba/salary-cap/)  |  [@whatsthecap](https://twitter.com/whatsthecap)\n\n\n# **About this Dataset**\nDATA SOURCE: [Celtics Hub](http://www.celticshub.com/2017/12/07/nba-player-salaries-1991-2017/)  |  [@CelticsHub](https://twitter.com/CelticsHub)\n\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "nba",
+        "basketball",
+        "salary cap",
+        "spending",
+        "trends"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
