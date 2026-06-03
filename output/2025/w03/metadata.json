@@ -1,0 +1,90 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w3-steam-top-100-played-games",
+  "title": "2025/W3 Steam Top 100 Played Games",
+  "description": "Top 100 Played Games on Steam - Extracted 12/01/2025",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a1fcbd13cd1c481394c0497a0e2cf421.png)\n\nDatasource: [Steam](https://store.steampowered.com/charts/mostplayed)\n\nArticle: [Steam](https://store.steampowered.com/charts/mostplayed)",
+  "version": "920ca26d-4",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Steam Top 100 Played Games - List.csv",
+      "sizeInBytes": 44770,
+      "created": "2025-01-12T14:39:49.084429543Z",
+      "updated": "2025-01-12T14:39:49.084429543Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-01-12T14:39:42.296855830Z",
+  "updated": "2025-01-12T14:43:56.656672351Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w21-metacritic-best-games-of-all-time",
+      "title": "2025/W21 Metacritic Best Games of All Time",
+      "description": "All games with a 90+ metascore (critic reviews) on Metacritic",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-59c00425eae94d5781efdb407cecfdad.png)\n\nDatasource: [Metacritic](https://www.metacritic.com/browse/game/)\n\nArticle: [Metacritic](https://www.metacritic.com/browse/game/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w15-doomsday-clock",
+      "title": "2025/W15 Doomsday Clock",
+      "description": "Doomsday Clock 1947-2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-1af509a6529b44c3961227e49455def7.png)\n\nDatasource: [Bulletin of the Atomic Scientists](https://thebulletin.org/doomsday-clock/timeline/)\n\nArticle: [Bulletin of the Atomic Scientists](https://thebulletin.org/doomsday-clock/timeline/)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w29-open-era-wimbledon-championships",
+      "title": "2024/W29 Open Era Wimbledon Championships",
+      "description": "Open Era (1968 Onwards) Wimbledon Championships & Prize Money (£)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualizations**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-c14bdfc9b5d04d71afa851cdc1aca160.png)\n\n\n![](https://mediauploads-US.data.world/00000-beardon-674816ed5ca54fc086f894b72484891e.png)\n\n​\n\nDatasource : [Wimbledon (Prize Money)](https://www.wimbledon.com/en_GB/about_wimbledon/prize_money_and_finance.html), [Wimbledon (Champions)](https://www.wimbledon.com/en_GB/draws_archive/champions/gentlemenssingles.html)\n\nArticle : [Flourish](https://flourish.studio/blog/visualizing-wimbledon-2022/)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w45-terrorism-and-political-violence-in-the-usa",
+      "title": "2025/W45 Terrorism and Political Violence in the USA",
+      "description": "Terrorist Attacks and Plots in the United States by Perpetrator Orientation, 1994–2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-62974e0766a147a9b13584023f573923.png)\n\nDatasource: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us#h2-appendix-what-is-excluded-)\n\nArticle: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w6-britains-national-grid-energy-sources",
+      "title": "2025/W6 Britain's National Grid Energy Sources",
+      "description": "YTD National Grid energy demands and breakdown of sources",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-fcf3c64d2ad9477197adb1d80a8f87d9.png)\n\n​\n\nDatasource: [Elexon Insights Solution, National Grid ESO’s Data Portal, and the Carbon Intensity API](https://grid.iamkate.com/)\n\nArticle: [National Grid: Live](https://grid.iamkate.com/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
