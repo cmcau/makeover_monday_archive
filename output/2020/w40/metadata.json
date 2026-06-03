@@ -1,0 +1,44 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w40-the-us-cities-with-the-highest-economic-output",
+  "title": "2020/W40: The U.S. Counties With the Highest Economic Output",
+  "description": "The U.S. Counties With the Highest Economic Output",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.visualcapitalist.com/wp-content/uploads/2020/09/us-metro-areas-by-gdp.jpg](https://www.visualcapitalist.com/wp-content/uploads/2020/09/us-metro-areas-by-gdp.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [3D Map: The U.S. Cities With the Highest Economic Output](https://www.visualcapitalist.com/3d-map-the-u-s-cities-with-the-highest-economic-output/)\nDATA SOURCE: [BEA.gov](https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas)\n\n# **#MakeoverMonday Live TC20 Session Links**\nMORNING SESSION (5th October 2020 at 08:00 GMT): [https://www.youtube.com/watch?v=dR5mpiHs-sU](https://www.youtube.com/watch?v=dR5mpiHs-sU)\n\nAFTERNOON SESSION (5th October 2020 at 17:00 GMT): [https://www.youtube.com/watch?v=LPUksl37H70](https://www.youtube.com/watch?v=LPUksl37H70)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+  "version": "70796115-967b-4940-9762-a042f12f8aaf",
+  "tags": [
+    "makeover monday",
+    "usa",
+    "economy"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "GDP by County.csv",
+      "sizeInBytes": 4611484,
+      "created": "2020-10-03T19:28:08.300Z",
+      "updated": "2020-10-03T19:28:08.300Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    },
+    {
+      "name": "GDP by County.hyper",
+      "sizeInBytes": 655360,
+      "created": "2020-10-03T19:28:08.300Z",
+      "updated": "2020-10-03T19:28:08.300Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-10-03T19:27:40.526Z",
+  "updated": "2020-10-05T07:25:54.045Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 9
+  },
+  "similarResources": [],
+  "isProject": false
+}
