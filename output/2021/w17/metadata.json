@@ -1,0 +1,133 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w17",
+  "title": "2021/W17: Regional Price Parity Per State",
+  "description": "How do regional prices in America compare from 2008-2019",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![https://howmuch.net/articles/regional-price-parities-by-state](https://cdn.howmuch.net/articles/regional-price-parities-by-state-cfce.jpg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [howmuch.net](https://howmuch.net/articles/regional-price-parities-by-state)\nDATA SOURCE: [U.S. Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=8)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "fb8d1418-3cd9-43a9-a1ab-429d0dd870e9",
+  "tags": [
+    "makeover monday",
+    "usa",
+    "united states",
+    "economy",
+    "price parity",
+    "time series"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Regional Price Parities by State.xlsx",
+      "sizeInBytes": 26086,
+      "created": "2021-04-25T10:08:55.106Z",
+      "updated": "2021-04-25T10:08:55.106Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-04-25T10:08:43.490Z",
+  "updated": "2021-04-25T10:17:50.800Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 16
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w12",
+      "title": "2021/W12: The Cereal Industry Had a Very Weird Year",
+      "description": "Personal Consumption Expenditures by Type of Product",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/vAqrQGOzSyCUh6nC7870_Screenshot%202021-03-21%20at%201.30.54%20pm.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Bloomberg](https://www.bloomberg.com/opinion/articles/2021-02-24/beyond-grape-nuts-cereal-makers-had-a-very-weird-year)\n\nDATA SOURCE: [Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?ReqID=19&step=2#reqid=19&step=2&isuri=1&1921=underlying)\n\nNOTES:\n\n1. Personal Consumption Expenditures on Food and beverages purchased for off-premises consumption\n2. Millions of dollars; quarters and months are seasonally adjusted at annual rates])\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "consumer spending",
+        "consumption",
+        "united states",
+        "bea",
+        "bureau",
+        "economics",
+        "analysis"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w16",
+      "title": "2021/W16: Monthly Air Passengers in America",
+      "description": "Monthly Air Passengers in America - 2000-2020",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/QClSMWRkSsWVyNYm3GRt_image.png)\n\n​\n\n# About This Dataset\nOriginal Visualization: [US Air Travel Falls Due to Covid Epidemic](https://www.cnbc.com/2021/01/27/us-air-travel-falls-to-lowest-since-july-as-covid-infections-travel-restrictions-hinder-recovery.html)\nData Source: [Bureau of Transportation Statistics](https://www.transtats.bts.gov/DL_SelectFields.asp?gnoyr_VQ=FMF)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "wdi",
+        "world bank",
+        "air transport",
+        "transportation",
+        "passengers",
+        "time series",
+        "united states",
+        "usa",
+        "airlines",
+        "airports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w20",
+      "title": "2020/W20: Visualizing Auto Insurance Rate by State in 2020",
+      "description": "Visualizing Auto Insurance Rate by State in 2020",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://cdn.howmuch.net/articles/Car-Insurance-Rates-in-2020---2500px---72dpi-7203.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visualizing Auto Insurance Rate by State in 2020](https://howmuch.net/articles/car-insurance-rates-in-2020)\nDATA SOURCE: [Average car insurance rates by state](https://www.valuepenguin.com/average-cost-of-insurance)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "insurance",
+        "us data",
+        "car insurance"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
