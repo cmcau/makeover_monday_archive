@@ -1,0 +1,134 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w27",
+  "title": "2023/W27: Alcohol Consumption in OECD Countries",
+  "description": "Alcohol Consumption in OECD Countries",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/8b2a95e7dc594af691e5f0a569940e6e6d5c700f6e6ff3d537a031f3830cec52_CleanShot_2023_07_03_at_9.16.38.png)\n\n​\n\n## **Resources**\n[OECD Alcohol consumption](https://data.oecd.org/healthrisk/alcohol-consumption.htm)\nData Source: [OECD](https://data.oecd.org/healthrisk/alcohol-consumption.htm)",
+  "version": "05865722-4",
+  "tags": [
+    "makeover monday",
+    "alcohol",
+    "oecd",
+    "country",
+    "per capita",
+    "trends",
+    "year"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "OECD Alcohol Consumption per Capita.csv",
+      "sizeInBytes": 105418,
+      "created": "2023-07-03T08:20:25.937668712Z",
+      "updated": "2023-07-03T08:20:25.937668712Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-07-03T08:18:34.595928488Z",
+  "updated": "2023-07-03T08:20:39.278856165Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w16",
+      "title": "2023/W16: Retirement Ages Around the World",
+      "description": "At what age to people retire around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/f8d8119d5a5a6b7732d8ee917cecb9589616f4d44e23704b4ccfce3ca9d0a73f_image.png)\n\n​\n\n# Resources\nOriginal Article - [Statista](https://www.statista.com/chart/29570/european-average-effective-labor-market-exit-ages/)\nData Source - [OECD](https://stats.oecd.org/Index.aspx?QueryId=111940)\n\n​",
+      "tags": [
+        "makeover monday",
+        "age",
+        "oecd",
+        "retire",
+        "retirement",
+        "labour",
+        "labor",
+        "labor statistics",
+        "country",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w40",
+      "title": "2022/W40: Income Inequality",
+      "description": "Income inequality by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/6f572e4d68cbb5434bb85c518107371f670c795165a53882ccc588376e933f27_CleanShot_2022_09_28_at_12.13.36.png)\n\n​\n\n# Resources\nOriginal Article: [Truss to push ahead with low-tax economy despite calls for caution](https://www.theguardian.com/politics/2022/sep/04/liz-truss-energy-prices-action-plan?CMP=Share_iOSApp_Other)\nData Source: [OECD](https://data.oecd.org/inequality/income-inequality.htm)",
+      "tags": [
+        "makeover monday",
+        "income",
+        "inequality",
+        "country",
+        "region",
+        "class",
+        "rich",
+        "poor",
+        "wealth",
+        "money"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w26",
+      "title": "2019/W26: Alcohol Consumption by Country",
+      "description": "Alcohol Consumption by Country",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![chart (1).png](https://media.data.world/JMDbwapcRRihNV0ikOIN_chart%20(1).png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\nDATA SOURCE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n\n",
+      "tags": [
+        "alcohol",
+        "bar chart",
+        "world atlas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w17",
+      "title": "2023/W17: Biggest Tomato & Potato Producers",
+      "description": "Production of tomatoes and potatoes by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/41586fdcbc9dfb4fd9b6f967fab26fb395d1daad423a6a9e908103fc8e1a8b3e_CleanShot_2023_04_18_at_3.43.17_2x.png)\n\n​\n\n# Resources\nOriginal viz - [Sjoerd Tilmans via LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/)\n\nData Source: [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)",
+      "tags": [
+        "makeover monday",
+        "potato",
+        "tomato",
+        "production",
+        "crops",
+        "yield",
+        "harvest",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w29",
+      "title": "2023/W29: Climate Action Tracker",
+      "description": "Historical climate data for multiple factors",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/7f5b1162cf2d9aeb2e2a0aeed9d81919e7e711c06fd413d112a65b4956ccdf4c_CleanShot_2023_07_16_at_12.48.37_2x.png)\n\n​\n\n# Resources\n[Climate Action Tracker](https://climateactiontracker.org/)\nData Source: Climate Action Tracker",
+      "tags": [
+        "climate",
+        "country",
+        "world",
+        "cop28",
+        "global warming"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
