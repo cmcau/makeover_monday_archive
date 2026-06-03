@@ -1,0 +1,104 @@
+{
+  "owner": "makeovermonday",
+  "id": "schools-out-and-the-tvs-on",
+  "title": "2025/WK46 School’s out and the TV’s on",
+  "description": "What kids in the U.S. watched in June 2025",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-644c7897f28c433d96b3c987c61f4fb3.png)\n\n​\n\nDatasource and Article : [School’s out and the TV’s on: What kids in the U.S. watched in June | Nielsen](https://www.nielsen.com/insights/2025/what-us-kids-watched-tv-streaming-summer-june/)\n\n​",
+  "version": "4fad3508-5",
+  "tags": [
+    "watch",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Top 10 Streaming (Kids 6–17).xlsx",
+      "sizeInBytes": 9787,
+      "created": "2025-11-25T00:15:20.881471065Z",
+      "updated": "2025-11-25T00:15:20.881471065Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-11-25T00:12:03.973314351Z",
+  "updated": "2025-11-25T00:15:47.221401305Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-14-the-best-migration-destinations-in-2025",
+      "title": "2025/ week 14 The Best Migration Destinations in 2025",
+      "description": "2025’s Best Countries to Live and Work Based on the Henley Opportunity Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-97ecd8dc81ec432eb4ee36a0f474b681.png)\n\n​\n\nDatasource: [The Henley Opportunity Index 2025 | Henley & Partners](https://www.henleyglobal.com/publications/henley-opportunity-index)\n\nArticle: [Ranked: 2025's Best Countries to Live and Work](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette)\n\nShow less",
+      "tags": [
+        "work",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "life-expectancy-by-country-in-2025",
+      "title": "2025/W26 Life Expectancy by Country in 2025",
+      "description": "How Long People Live, by Country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-1fbb4b99e69049daa27b90994a38fe56.png)\n\n​\n\nDatasource : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\nArticle : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\n​",
+      "tags": [
+        "makeovermonday",
+        "life expectancy"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk-8-the-periodic-table-of-ai-startups",
+      "title": "2026/WK 8 The Periodic Table of AI Startups",
+      "description": "14 categories of AI companies founded/funded Feb 2025-Feb 2026",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-e9aab82b6a0043d68a707a82bd37fc84.png)\n\n​\n\nDatasource & Article :  [The Periodic Table of AI Startups – 14 categories of AI companies founded/funded Feb 2025-Feb 2026 - Voronoi](https://www.voronoiapp.com/investing/The-Periodic-Table-of-AI-Startups--14-categories-of-AI-companies-foundedfunded-Feb-2025-Feb-2026-7663)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025wk48-which-ai-models-hallucinate-the-most",
+      "title": "2025/WK48 Which AI Models Hallucinate the Most?",
+      "description": "A Look into which AI models have higher rates of accuracy / hallucination",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-954613b04960410c83019ac4c49d5556.png)\n\n​\n\nDatasource and Article : [Which AI Models Hallucinate the Most? - Voronoi](https://www.voronoiapp.com/technology/Which-AI-Models-Hallucinate-the-Most-7211)",
+      "tags": [
+        "makeovermonday",
+        "ai"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w51-new-year-resolution-tweets-in-us",
+      "title": "2025/W51 New Year Resolution in US",
+      "description": "What were Americans’ New Year’s Resolutions for 2025?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-f2a2a086c7264f8e9a5ac27ff3d4db86.jpg)\n\n​\n\nDatasource & Article: [YouGov US 2025 New Year's Resolutions](https://today.yougov.com/society/articles/51144-what-are-americans-new-years-resolutions-for-2025)",
+      "tags": [
+        "makeovermonday",
+        "resolutions"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
