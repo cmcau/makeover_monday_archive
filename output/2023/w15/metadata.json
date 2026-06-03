@@ -1,0 +1,131 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w15",
+  "title": "2023/W15: The DougScore",
+  "description": "Which cars are the best cars ever driven by Doug Demuro?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/e3dbaed9ad92cf0c157d98680073648c70b38975a060d90fa76dfd8541be080b_CleanShot_2023_04_10_at_10.22.19.png)\n\n# Resources\n[The DougScore](http://www.dougdemuro.com/dougscore) - READ THIS!\n\nData Source - The DougScore by Doug Demuro",
+  "version": "b491b885-1818-4acd-b790-43dd4a70a056",
+  "tags": [
+    "makeover monday",
+    "cars",
+    "automobiles",
+    "dougscore",
+    "ratings"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "DougScore.xlsx",
+      "sizeInBytes": 192861,
+      "created": "2023-04-10T09:27:13.405077296Z",
+      "updated": "2023-04-10T09:27:13.405077296Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-04-10T09:27:06.820714730Z",
+  "updated": "2023-04-10T09:30:44.443962519Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 20
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w42",
+      "title": "2023/W42: Watch Me Viz Stats",
+      "description": "Viewer stats for all Makeover Monday livestreams",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Viz**\n![](https://mediauploads.data.world/c99f8966f4e14410e7006b0cec912b24c1b6c533abbe3a687e1fdd656a8366c1_CleanShot_2023_10_15_at_8.24.04_2x.png)\n\nData Source: [Andy Kriebel on YouTube](https://www.youtube.com/andykriebel)",
+      "tags": [
+        "makeover monday",
+        "watch me viz",
+        "youtube"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w17",
+      "title": "2023/W17: Biggest Tomato & Potato Producers",
+      "description": "Production of tomatoes and potatoes by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/41586fdcbc9dfb4fd9b6f967fab26fb395d1daad423a6a9e908103fc8e1a8b3e_CleanShot_2023_04_18_at_3.43.17_2x.png)\n\n​\n\n# Resources\nOriginal viz - [Sjoerd Tilmans via LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/)\n\nData Source: [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)",
+      "tags": [
+        "makeover monday",
+        "potato",
+        "tomato",
+        "production",
+        "crops",
+        "yield",
+        "harvest",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w4",
+      "title": "2023/W4: NHTSA Automobile Recalls",
+      "description": "National Highway Traffic Safety Administration Automobile Recalls",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/c59443fa1459c2f4f71cae92a62f1709cdf39e09eab1824894c3e0362bf9aa13_CleanShot_2023_01_14_at_10.23.28_2x.png)\n\n​\n\n## **Resources**\nSource Article: [National Highway Traffic Safety Administration Automobile Recalls](https://datahub.transportation.gov/Automobiles/NHTSA-Recalls-by-Manufacturer/mu99-t4jn)\nData Source: [National Highway Traffic Safety Administration](https://datahub.transportation.gov/Automobiles/Recalls-Data/6axg-epim)",
+      "tags": [
+        "usa",
+        "automobiles",
+        "cars",
+        "manufacturing",
+        "defect",
+        "recall",
+        "safety",
+        "nhtsa"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w5",
+      "title": "2023/W5: NYC Pizza Slices",
+      "description": "The cost of pizza slices in New York City",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5ff1b511714c125421488192110e1ec4ee7bac8e5ecacd07af8c1af5a9f4d796_CleanShot_2023_01_14_at_10.33.51_2x.png)\n\n​\n\n## **Resources**\nSource: [NYC pizza slices](https://elkue.com/nyc-slice/) (via Data Is Plural)\nData Source: [Liam Quigley](https://elkue.com/) | [Data](https://docs.google.com/spreadsheets/d/1EY3oi9ttxybG0A0Obtwey6BFu7QLqdHe02JApijgztg/edit)\n\n​",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "nyc",
+        "new york city",
+        "food",
+        "pizza",
+        "ratings",
+        "location",
+        "slice",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w7",
+      "title": "2023/W7: Global Electric Vehicle Market Share",
+      "description": "Global Electric Vehicle Market Share",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/7b04832e429e44e5e0881e90fed985fda500eca0a2ab387e7977119308471bb5_CleanShot_2023_01_14_at_11.16.23_2x.png)\n\n​\n\n## **Resources**\n[Global Electric Vehicle Market Share](https://www.counterpointresearch.com/global-electric-vehicle-market-share/)\nData Source: [Counterpoint Research](https://www.counterpointresearch.com/global-electric-vehicle-market-share/)\n\n​",
+      "tags": [
+        "makeover monday",
+        "cars",
+        "vehicles",
+        "electric",
+        "ev",
+        "market share",
+        "manufacturer"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
