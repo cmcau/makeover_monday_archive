@@ -1,0 +1,88 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w10-mario-game-sales",
+  "title": "2026/W10 Mario Game Sales",
+  "description": "A history of all major Mario game sales by Nintendo",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization (sample)**\n![](https://mediauploads-US.data.world/00000-mhuff04-54a7462b66664e13b29a3215781c3b42.png)\n\n​\n\nSource: [Fandom](https://vgsales.fandom.com/wiki/Mario#cite_note-vc-27)",
+  "version": "0542df9b-5",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MM 2026 wk10.xlsx",
+      "sizeInBytes": 12447,
+      "created": "2026-03-09T13:21:36.247607794Z",
+      "updated": "2026-03-09T13:21:36.247607794Z",
+      "createdBy": "mhuff04",
+      "updatedBy": "mhuff04"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-03-09T13:14:51.594118489Z",
+  "updated": "2026-03-09T13:22:21.583450343Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w2-tallest-rollercoasters",
+      "title": "2026/W1 Tallest Rollercoasters",
+      "description": "A listing of the tallest drop for rollercoasters around the world.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-2c161378eb934b8eb82a03427e8fae7f.png)\n\nArticle: https://www.tripsavvy.com/tallest-roller-coasters-in-the-world-3226411",
+      "tags": [
+        "makeoveronday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w21-metacritic-best-games-of-all-time",
+      "title": "2025/W21 Metacritic Best Games of All Time",
+      "description": "All games with a 90+ metascore (critic reviews) on Metacritic",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-59c00425eae94d5781efdb407cecfdad.png)\n\nDatasource: [Metacritic](https://www.metacritic.com/browse/game/)\n\nArticle: [Metacritic](https://www.metacritic.com/browse/game/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w14",
+      "title": "2026/W14",
+      "description": "Oil production data over time.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: https://ourworldindata.org/grapher/oil-production-by-country\n\n![](https://mediauploads-US.data.world/00000-mhuff04-078394a409cc456a8fec7f77edcd1fc2.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w13-ai-workslop",
+      "title": "2026/W13 AI Workslop",
+      "description": "Data sourced from a survey about how frequently US desk workers send low quality AI generated work slop to colleagues",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-44fbd982bcec4ae4a1736c75c01035e6.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w15-tech-hiring",
+      "title": "2026/W15 Tech Hiring",
+      "description": "The latest hiring updates from big tech companies",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: trueup.io\n\n![](https://mediauploads-US.data.world/00000-mhuff04-be05bdd72b4745b2a986fd48ea13e2e8.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
