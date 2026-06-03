@@ -1,0 +1,124 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w11",
+  "title": "2019/W9: Economic value of the bicycle industry",
+  "summary": "# **Original Visualization**\n![image.png](https://media.data.world/4tQb8t2kSyqv0XNOjOFu_image.png)\n\n# **About this Dataset**\nSOURCE: [SQW](http://www.sqw.co.uk/files/6914/9406/9034/SQW_Economic_value_of_the_bicycle_industry_and_cycling_March_2017_FINAL.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n",
+  "version": "c5143a87-8b10-4cb4-85a3-5477ae28c2e8",
+  "tags": [
+    "makeover monday",
+    "cycling",
+    "bicycle",
+    "united kingdom",
+    "uk",
+    "economics"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "UK Bike Industry.csv",
+      "sizeInBytes": 975,
+      "created": "2019-02-24T14:54:05.739Z",
+      "updated": "2019-02-24T14:54:05.739Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-02-24T14:53:37.004Z",
+  "updated": "2019-02-24T16:06:49.918Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w9-world-economic-freedom",
+      "title": "2018/W9: World Economic Freedom",
+      "description": "World Economic Freedom: 1970-2015",
+      "summary": "![MM9 2018.png](https://media.data.world/A8V9pbrTSZqxLUYwLg9n_MM9%202018.png)\n\n# **About this Dataset**\nSOURCE: [Fraser Institute](https://www.fraserinstitute.org/economic-freedom/dataset)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economics",
+        "fraser institute",
+        "makeover monday",
+        "filled map"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w32",
+      "title": "2019/W32: Britain is rapidly phasing out coal",
+      "description": "Britain is rapidly phasing out coal",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/MZv1UvTuRf2sakpA9jJM\\_Screenshot%202019-08-03%20at%207.53.06%20am.png](https://media.data.world/MZv1UvTuRf2sakpA9jJM_Screenshot%202019-08-03%20at%207.53.06%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/environment/ng-interactive/2019/may/25/the-power-switch-tracking-britains-record-coal-free-run)\nDATA SOURCE: [Gridwatch](https://www.gridwatch.templar.co.uk/download.php)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "uk",
+        "united kingdom",
+        "coal",
+        "renewable energy",
+        "supply",
+        "demand",
+        "time series",
+        "guardian",
+        "environment"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w14",
+      "title": "2019/W14: What kind of waste appears on UK beaches?",
+      "description": "What kind of waste appears on UK beaches?",
+      "summary": "\n**Original Visualization**\n![supporting image or chart](https://ichef.bbci.co.uk/news/624/cpsprodpb/5889/production/_99156622_plastic_planet_6_640-nc.png)\n\n**About this Dataset**\nSOURCE ARTICLE: [Seven charts that explain the plastic pollution problem]( https://www.bbc.com/news/science-environment-42264788)\nDATA SOURCE: [Great British Beach Clean Report 2017]( https://www.mcsuk.org/media/GBBC_2017_Report.pdf)\n\n**Objectives**\n•\tWhat works and what doesn't work with this chart? \n•\tHow can you make it better?\n\n",
+      "tags": [
+        "waste",
+        "plastics",
+        "pollution",
+        "uk",
+        "great britain"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017w21-alcohol-consumption-in-britain",
+      "title": "2017/W21: Alcohol Consumption in Britain",
+      "description": "Are Britons falling out of love with booze?",
+      "summary": "# **Original Visualization**\n![](https://ichef.bbci.co.uk/news/624/cpsprodpb/13FFF/production/_95891918_graph_drink.png)\nSOURCE: [BBC](https://www.bbc.co.uk/news/health-39785742)\n\n# **About this Dataset**\nDATA SOURCE: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/adultdrinkinghabits)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "alcohol",
+        "britain",
+        "uk",
+        "united kingdom",
+        "britons",
+        "booze"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-uks-favorite-chocolate-bar",
+      "title": "2018/W13: What is the UK's favorite chocolate bar?",
+      "description": "What is the UK's favorite chocolate bar?",
+      "summary": "The Easter Bunny is coming this week, so let's have a great debate! What is the UK's favorite chocolate? \n\n# **Original Visualization**\n![Image](https://media.data.world/VKLPxYYFRyUeeoCc6Jgj_Screen%20Shot%202018-03-25%20at%2010.32.12%20am.png)\n\n# **About this Dataset**\nSOURCE: [CDA](https://www.cda.eu/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chocolate",
+        "united kingdom",
+        "uk"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
