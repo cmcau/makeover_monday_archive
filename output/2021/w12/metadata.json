@@ -1,0 +1,59 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w12",
+  "title": "2021/W12: The Cereal Industry Had a Very Weird Year",
+  "description": "Personal Consumption Expenditures by Type of Product",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/vAqrQGOzSyCUh6nC7870_Screenshot%202021-03-21%20at%201.30.54%20pm.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Bloomberg](https://www.bloomberg.com/opinion/articles/2021-02-24/beyond-grape-nuts-cereal-makers-had-a-very-weird-year)\n\nDATA SOURCE: [Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?ReqID=19&step=2#reqid=19&step=2&isuri=1&1921=underlying)\n\nNOTES:\n\n1. Personal Consumption Expenditures on Food and beverages purchased for off-premises consumption\n2. Millions of dollars; quarters and months are seasonally adjusted at annual rates])\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "66700d34-ef1c-495a-a168-3d2ad3e0e892",
+  "tags": [
+    "makeover monday",
+    "consumer spending",
+    "consumption",
+    "united states",
+    "bea",
+    "bureau",
+    "economics",
+    "analysis"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Personal Consumption Expenditures.xlsx",
+      "sizeInBytes": 393690,
+      "created": "2021-03-21T20:32:49.803Z",
+      "updated": "2021-03-21T20:32:49.803Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-03-21T13:28:11.636Z",
+  "updated": "2021-03-21T20:32:49.803Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w17",
+      "title": "2021/W17: Regional Price Parity Per State",
+      "description": "How do regional prices in America compare from 2008-2019",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![https://howmuch.net/articles/regional-price-parities-by-state](https://cdn.howmuch.net/articles/regional-price-parities-by-state-cfce.jpg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [howmuch.net](https://howmuch.net/articles/regional-price-parities-by-state)\nDATA SOURCE: [U.S. Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=8)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "united states",
+        "economy",
+        "price parity",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
