@@ -1,0 +1,118 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w1",
+  "title": "2021/W1: The Great Bicycle Boom of 2020",
+  "description": "The Great Bicycle Boom of 2020",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/nhbkE0ncSzqk4JWMEpYz\\_Picture%201.png](https://media.data.world/nhbkE0ncSzqk4JWMEpYz_Picture%201.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [BBC](https://www.bbc.com/future/bespoke/made-on-earth/the-great-bicycle-boom-of-2020.html)\nDATA SOURCE: [Rails•to•Trail Conservancy](https://www.railstotrails.org/COVID19/#trailcount)\nNOTE: Chart included in data source\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "444b459b-5a4f-48c9-8147-e92afb46f34e",
+  "tags": [
+    "cycling",
+    "pedestrian",
+    "commuter",
+    "bike",
+    "bicycle",
+    "covid"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "RailsToTrails_National Count Data_week.xlsx",
+      "sizeInBytes": 49111,
+      "created": "2021-01-01T22:33:19.709Z",
+      "updated": "2021-01-01T22:33:19.709Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-12-31T20:19:34.258Z",
+  "updated": "2021-01-03T14:01:14.318Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 6,
+    "columnCount": 25
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w11",
+      "title": "2019/W9: Economic value of the bicycle industry",
+      "summary": "# **Original Visualization**\n![image.png](https://media.data.world/4tQb8t2kSyqv0XNOjOFu_image.png)\n\n# **About this Dataset**\nSOURCE: [SQW](http://www.sqw.co.uk/files/6914/9406/9034/SQW_Economic_value_of_the_bicycle_industry_and_cycling_March_2017_FINAL.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "bicycle",
+        "united kingdom",
+        "uk",
+        "economics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w1",
+      "title": "2019/W1: NHL Attendance",
+      "description": "NHL attendance continues to grow",
+      "summary": "# **Original Visualization**\n![nhl-attendance-thru-feb-9th.png](https://media.data.world/zTzWrGuNQOtMRyojL11Y_nhl-attendance-thru-feb-9th.png)\n\n# **About this Dataset**\nARTICLE: [NHL to Seattle](https://nhltoseattle.com/2013/02/10/nhl-attendance-through-feb-9th/)\n\nDATA SOURCE: [ESPN](http://www.espn.com/nhl/attendance/_/year/2018)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n",
+      "tags": [
+        "makeover monday",
+        "sports",
+        "nhl",
+        "hockey",
+        "attendance"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w23-animal-free-products-consumption-in-great-britain",
+      "title": "2020/W23: Animal-free products consumption in Great Britain",
+      "description": "Animal-free products consumption in Great Britain",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-06-at-09.41.30.png](https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-06-at-09.41.30.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Animal-free products consumption frequency in Great Britain 2019, by eating habits](https://www.statista.com/statistics/1065843/animal-free-products-consumption-frequency-in-great-britain-by-eating-habits/)\nDATA SOURCE: [Statista](https://www.statista.com/statistics/1065843/animal-free-products-consumption-frequency-in-great-britain-by-eating-habits/)\nNOTE THAT MINOR ALTERATIONS HAVE BEEN MADE TO SOURCE DATA TO ENSURE THAT ALL CATEGORIES ADD UP TO 100%\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "food",
+        "great britain"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w14",
+      "title": "2019/W14: What kind of waste appears on UK beaches?",
+      "description": "What kind of waste appears on UK beaches?",
+      "summary": "\n**Original Visualization**\n![supporting image or chart](https://ichef.bbci.co.uk/news/624/cpsprodpb/5889/production/_99156622_plastic_planet_6_640-nc.png)\n\n**About this Dataset**\nSOURCE ARTICLE: [Seven charts that explain the plastic pollution problem]( https://www.bbc.com/news/science-environment-42264788)\nDATA SOURCE: [Great British Beach Clean Report 2017]( https://www.mcsuk.org/media/GBBC_2017_Report.pdf)\n\n**Objectives**\n•\tWhat works and what doesn't work with this chart? \n•\tHow can you make it better?\n\n",
+      "tags": [
+        "waste",
+        "plastics",
+        "pollution",
+        "uk",
+        "great britain"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w44",
+      "title": "2020/W44: #Viz5 - The digital gender gap",
+      "description": "THE DIGITAL GENDER GAP",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://media.data.world/dYmiAUUSDasC0oQh9H7Q\\_The%20digital%20gender%20divide.png](https://media.data.world/dYmiAUUSDasC0oQh9H7Q_The%20digital%20gender%20divide.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: provided by OpFistula (see documentation below)\nDATA SOURCE: [The Economist Intelligence Unit Inclusive Internet Index 2020](https://theinclusiveinternet.eiu.com/explore/countries/performance?category=overall)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "viz5",
+        "digital gender gap",
+        "gender gap",
+        "visualize gender equality",
+        "gender equality"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
