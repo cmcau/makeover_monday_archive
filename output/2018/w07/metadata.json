@@ -1,0 +1,136 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w7-the-winter-olympics",
+  "title": "2018/W7: The Winter Olympics",
+  "description": "Winter Olympics Medals by Year, Country, Event and Gender",
+  "summary": "# **Original Visualization**\n![The Winter Olympics.png](https://media.data.world/6BToE9TgauNf6eJC3vrw_The%20Winter%20Olympics.png)\n\nINTERACTIVE VERSION:\n [Tableau Public](https://public.tableau.com/views/TheWinterOlympics/TheWinterOlympics?:embed=y&:showVizHome=no)\n\nDESIGNED BY: [Rody Zakovich](https://twitter.com/RodyZakovich)\n\n# **About this Dataset**\nSOURCE: [Sports-Reference.com](http://Sports-Reference.com)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "56b5ec27-de2c-4834-b3a0-cab28b2de316",
+  "tags": [
+    "winter olympics",
+    "rody zakovich",
+    "sports",
+    "demographics",
+    "country"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Winer Olympic Medals.xlsx",
+      "sizeInBytes": 148714,
+      "created": "2018-02-11T12:50:00.615Z",
+      "updated": "2018-02-11T12:50:00.615Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-02-11T12:48:52.348Z",
+  "updated": "2018-02-11T12:57:04.184Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 3,
+    "columnCount": 13
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w42-total-number-of-women-the-house-of-representatives",
+      "title": "2018/W42: Total Number of Women the House of Representatives",
+      "description": "Total Number of Women the House of Representatives 1917-2018",
+      "summary": "# **Original Visualization**\n![Party Differences - Mobile.png](https://media.data.world/2n5r0y8zQaK3AbMyPZpp_Party%20Differences%20-%20Mobile.png)\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [Stephen Pelkofer](https://public.tableau.com/profile/stephen.pelkofer#!/vizhome/WomenRepresentationintheHouseHistory/PartyDifferences-Mobile) | [Tweet](https://twitter.com/Spelk24/status/1049054474411675658)\n\nSOURCE: [Congressional Research Service](https://fas.org/sgp/crs/misc/RL30261.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "us politics",
+        "house of representatives",
+        "line chart",
+        "stepped lines",
+        "gender equality",
+        "female representation"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w31",
+      "title": "2019/W31: STD Infection Rates in America",
+      "description": "How have rates changed by disease, year, state, gender, and age?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/YcRQEE4TSrS75v74BQDX\\_Screenshot%202019-07-26%20at%2011.24.04%20am.png](https://media.data.world/YcRQEE4TSrS75v74BQDX_Screenshot%202019-07-26%20at%2011.24.04%20am.png)\n\n​\n\n### **About this Dataset**\nORIGINAL VIZ: [Tableau Public](https://public.tableau.com/profile/andy.kriebel#!/vizhome/STDs1996-2008/STDInfectionRates)\nCREATED BY: [Andy Kriebel | @VizWizBI](https://twitter.com/VizWizBI)\nDATA SOURCE: [CDC](https://wonder.cdc.gov/controller/datarequest/D128)\n\n​\n\n### **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "population",
+        "time series",
+        "year",
+        "usa",
+        "united states",
+        "std",
+        "sex",
+        "disease",
+        "gender",
+        "age",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "london-cycle-hire-usage",
+      "title": "2018/W26: London Cycle Hire Usage",
+      "description": "London Cycle Hire Usage",
+      "summary": "![Screen Shot 2018-06-21 at 12.19.45 pm.png](https://media.data.world/OSkqtJC1TPapfFJMtaGp_Screen%20Shot%202018-06-21%20at%2012.19.45%20pm.png)\n\n# **About this Dataset**\n* DATA SOURCE: [Transport for London](http://cycling.data.tfl.gov.uk/)\n* DESIGNER: [Sophie Sparks](https://twitter.com/sophie_sparkes)\n* INTERACTIVE VERSION: [Tableau Public](https://public.tableau.com/en-us/s/gallery/boris-bikes-daily-usage)\n\n# **NOTES**\n1. To connect to Exasol data source (50M+ records from 2012-2018) use the Tableau Data Source [here](https://fileshare.theinformationlab.co.uk/index.php/s/8xVZze3BZnjl1oh).\n2. Details for connecting to Exasol can be found in [this blog post](http://www.makeovermonday.co.uk/big-data/).\n3. If you have trouble downloading the CSV from data.world, you can download it [here](https://fileshare.theinformationlab.co.uk/index.php/s/lJwnY5V2I8Frali) instead. \n4. The CSV only contains data for 2017.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "london",
+        "boris bikes",
+        "santander",
+        "cycle hire",
+        "bike hire",
+        "rental",
+        "transportation",
+        "transport for london",
+        "tfl"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w33-anthony-bourdains-travels",
+      "title": "2018/W33: Anthony Bourdain’s Travels",
+      "description": "Anthony Bourdain’s Travels",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://pbs.twimg.com/media/DfXwFO1V4AAn1CM.jpg)\n\n# **About this Dataset**\n* IMAGE SOURCE: [Christine Zhang (Twitter)](https://twitter.com/christinezhang/status/1005974583206449152)\n* DATA SOURCE: [Christine Zhang (Github)](https://t.co/vS7TIWUcQa)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "anthony bourdain",
+        "travel",
+        "makeover monday",
+        "television",
+        "reality tv",
+        "tv",
+        "christine zhang"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
