@@ -1,0 +1,47 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w26",
+  "title": "2021/W26: How Popular Is Your Birthday?",
+  "description": "How popular is your birthday?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/yFDOaIorTUuNKthTGay9_Births.png)\n\n​\n\n# Resources\nOriginal Article: [How Common is Your Birthday?](http://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/)\nData Source: U.S. National Center for Health Statistics ([1994-2003](https://github.com/fivethirtyeight/data/blob/master/births/US_births_1994-2003_CDC_NCHS.csv)); U.S. Social Security Administration ([2004-2014](https://github.com/fivethirtyeight/data/blob/master/births/US_births_2000-2014_SSA.csv)) — via [FiveThirthyEight](https://github.com/fivethirtyeight/data/births)",
+  "version": "91da0027-324e-410b-966d-6840ba60f88b",
+  "tags": [
+    "makeover monday",
+    "five thirty eight",
+    "birth",
+    "usa",
+    "united states",
+    "cdc",
+    "social security",
+    "ssa",
+    "birthday",
+    "date",
+    "year",
+    "month",
+    "weekday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US_births_1994-2014.csv",
+      "sizeInBytes": 143083,
+      "created": "2021-06-30T10:42:49.948Z",
+      "updated": "2021-06-30T10:42:49.948Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-06-27T07:10:34.213Z",
+  "updated": "2021-06-30T10:42:49.948Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [],
+  "isProject": false
+}
