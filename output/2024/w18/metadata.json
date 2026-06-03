@@ -1,0 +1,91 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024-week-18-global-500-brands-by-sector",
+  "title": "2024/ Week 18 Global 500 brands by sector",
+  "description": "Global 500 2023 The annual report on the world's most valuable and strongest brands",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nLink to Article : https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf\n\nSource: Brand Finance\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-b5275d57063440de8e6bd68163e4bcc8.png)\n\n",
+  "version": "20946970-4",
+  "tags": [],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Global 500 Brands - Brands by sector - Brands by sector.csv",
+      "sizeInBytes": 322,
+      "created": "2024-04-28T15:41:05.444768274Z",
+      "updated": "2024-04-28T15:41:05.444768274Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-04-28T15:39:44.050317660Z",
+  "updated": "2024-04-28T15:42:52.462259992Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "week-27-what-to-watch-in-2024-energy",
+      "title": "Week 27 / The history of global natural gas production",
+      "description": "The history of global natural gas production",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle: [https://visualizingenergy.org/the-history-of-global-natural-gas-produ](https://visualizingenergy.org/the-history-of-global-natural-gas-production/)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Post your alternative on the discussions page.\n​\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-28e63c3b134d4aedaceddafd5d69ab22.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-077110330bc04007ae7c7db50ab1fce5.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-30-streaming-hits-40-of-us-tv-usage-for-the-fi",
+      "title": "2024/ Week 30 Streaming Hits 40% of U.S. TV Usage for the Fi",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle:  [https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/](https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/)\nsource : nielsen\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-38b895be259540e984cdcaa8ebd6bdd5.png)\n\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-25f482997a5d490f8654a298403c69aa.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w39-literacy-rate",
+      "title": "2024/w39 Literacy rate",
+      "description": "\"Global literacy today  Of the world population older than 15 years, the majority are literate. \" Ourworldindata",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-8d7db5e23f4c4aedab96608cecf855f7.png)\n\nArticle : [https://ourworldindata.org/literacy](https://ourworldindata.org/literacy)\n\n**Data source:** World Bank (2023); Various sources (2018) – Learn more about this data",
+      "tags": [
+        "literacy rates"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w16-airhelp-global-airport-rankings",
+      "title": "2024/W17 AirHelp Global Airport Rankings",
+      "description": "2023 AirHelp scores for 194 of the worlds busiest airports.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4aeac604d4974dc38557f604f53aa62d.png)\n\n​\n\nDatasource : [AirHelp](https://www.airhelp.com/en-gb/blog/airhelp-score-2023-how-did-we-rank-the-airports/)\n\nArticle : [Global Airport Ranking](https://www.airhelp.com/en-gb/airhelp-score/airport-ranking/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "the-most-reliable-car-brands",
+      "title": "The Most Reliable Car Brands",
+      "description": "A list of the most reliable car brands in the US",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n**Original Visualization**\n\n\n![](https://mediauploads-US.data.world/00000-datainformant-e90cd5a11d3545879f53b6634bfeee88.jpg)\n\n​\n\nSOURCE  & ARTICLE : [Ranked: The Most Reliable Car Brands in the U.S. (visualcapitalist.com)](https://www.visualcapitalist.com/ranked-the-most-reliable-car-brands-in-the-u-s/)",
+      "tags": [
+        "cars",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
