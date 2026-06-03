@@ -1,0 +1,141 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w33",
+  "title": "2021/W33: How's UCAS clearing going?",
+  "description": "Clearing is how unis and colleges fill any places they still have on their courses.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/qKCdYdwNRXy3ElhsLoJL_Screenshot%202021-08-14%20at%203.56.26%20pm.png)\n\n​\n\n# Resources\nOriginal Article: [How's UCAS Clearing Going?](https://wonkhe.com/wonk-corner/hows-clearing-going-then/)\nData Source: [WONKHE](https://wonkhe.com/wonk-corner/hows-clearing-going-then/)\nAuthor: [David Kernohan](https://twitter.com/dkernohan)",
+  "version": "1b43c2d4-6bcc-4be0-9d93-192b665b121e",
+  "tags": [
+    "makeover monday",
+    "education",
+    "uk",
+    "united kingdom",
+    "ucas",
+    "testing"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "UCAS Clearing Data.csv",
+      "sizeInBytes": 14280457,
+      "created": "2021-08-19T14:00:39.726Z",
+      "updated": "2021-08-19T14:00:39.726Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-08-14T16:09:13.076Z",
+  "updated": "2021-08-19T14:00:39.727Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w29",
+      "title": "2021/W29: UK COVID-19 Mortality Rate by Ethnicity",
+      "description": "Most minority ethnicities have a higher COVID-19 mortality rate",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/X4uw21IRZOyBEtmW3sFA_Screenshot%202021-07-18%20at%202.52.59%20pm.png)\n\n​\n\n# Resources\nOriginal Viz: [Most minority ethnicities have a higher COVID-19 mortality rate](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)\nData Source: [Information is Beautiful](https://docs.google.com/spreadsheets/d/1g_YxmDfQx7aOU2DKzNZo9b-NTk62Bju6X3z6OuCa6gw/edit#gid=2004630296) via UK Office for National Statistics",
+      "tags": [
+        "makeover monday",
+        "covid",
+        "uk",
+        "ethnicity",
+        "minorities",
+        "race",
+        "gender"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w43",
+      "title": "2019/W43: The Age At Which Most People Are Dying By Suicide",
+      "description": "CONTENT WARNING: Suicide - Number of people dying by suicide by single year of age in England and Wales",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screenshot 2019-10-20 at 6.38.36 pm.png](https://media.data.world/2DxYbGbYRWi8U4YanHL4_Screenshot%202019-10-20%20at%206.38.36%20pm.png)\n\n# **About this Dataset**\nSOURCE: [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "age",
+        "death",
+        "suicide",
+        "united kingdom",
+        "uk",
+        "wales",
+        "england",
+        "drugs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w4",
+      "title": "2021/W4: Indian Coal Mine Production",
+      "description": "Indian Coal Mine Locations & Production",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/1DmkisQ2OUIvOMnPg2vg\\_Screenshot%202021-01-20%20at%209.14.50%20pm.png](https://media.data.world/1DmkisQ2OUIvOMnPg2vg_Screenshot%202021-01-20%20at%209.14.50%20pm.png)\n\n​\n\n# **About this Dataset**\n**Required Citation**\nSandeep Pai and Hisham Zerriffi. A novel dataset for analysing sub-national socioeconomic developments in the Indian coal industry, IOPSciNotes, [https://doi.org/10.1088/2633-1357/abdbbb](https://doi.org/10.1088/2633-1357/abdbbb)\n\nSOURCE ARTICLE: [A novel dataset for analysing sub-national socioeconomic developments in the Indian coal industry](https://iopscience.iop.org/article/10.1088/2633-1357/abdbbb/pdf)\nDATA SOURCE: Sandeep Pai and Hisham Zerriffi via [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TDEK8O)\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "india",
+        "coal",
+        "mining",
+        "production",
+        "location",
+        "geographic",
+        "climate change",
+        "coal mining"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w37",
+      "title": "2019/W37: James Patterson Book Checkouts in Seattle",
+      "description": "Seattle Public Library monthly checkouts of books written by James Patterson",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/25OkZFQ4a5dNOUmKwqLg\\_Screenshot%202019-09-07%20at%207.00.26%20pm.png](https://media.data.world/25OkZFQ4a5dNOUmKwqLg_Screenshot%202019-09-07%20at%207.00.26%20pm.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Making Visible the Invisible: DataVis at the Seattle Public Library](http://helper.ipam.ucla.edu/publications/caws1/caws1_13603.pdf)\nDATA SOURCE: [Seattle Open Data](https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6/data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "seattle",
+        "washington",
+        "usa",
+        "united states",
+        "books",
+        "library",
+        "publisher",
+        "subject",
+        "title",
+        "usage"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w8",
+      "title": "2021/W8: Protests Against Limiting Abortion Rights in Poland",
+      "description": "Where and when are pro-choice protests taking place in Poland?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nOn 22nd of October 2020, in the middle of a pandemic, the Constitutional Tribunal of Poland ruled abortion in case of fetal malformations unconstitutional. When and where were the protests that followed?\n\n## **Original Viz**\n![](https://media.data.world/SDUxXOmBQOCyK9B9cRZR_Screenshot%202021-02-21%20at%201.17.05%20pm.png)\n\n​\n\n## **About This Dataset**\nSOURCE: [Hania Nykowska via Tableau Public](https://public.tableau.com/profile/hanna.nykowska#!/vizhome/ThisisWar-AbortioninPoland/whatisgoingoninpoland)\nDATA SOURCE: Ogólnopolski Strajk Kobiet | [@strajkkobiet](https://twitter.com/strajkkobiet) • Prepared by Hania Nykowska | [@hanykowska](https://twitter.com/hanykowska)",
+      "tags": [
+        "makeover monday",
+        "poland",
+        "womens rights",
+        "women",
+        "female",
+        "protest",
+        "abortion",
+        "prochoice",
+        "rights"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
