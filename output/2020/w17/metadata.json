@@ -1,0 +1,129 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w17-weekly-road-fuel-prices",
+  "title": "2020/W17: Weekly road fuel prices",
+  "description": "Weekly road fuel prices",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![​](https://www.naturallyhealthylife.co.uk/wp-content/uploads/2018/06/1529108260_120_7-simple-steps-to-save-yourself-fuel-money-at-the-petrol-pump.jpg)  \n\n# **About this Dataset**\nSOURCE ARTICLE: [RAC Foundation](https://www.racfoundation.org/data/uk-pump-prices-over-time)\nDATA SOURCE: [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-weekly-statistics)  \n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n* Take care with the data source! Choose the right tab in the source file and use Data Interpreter if using Tableau to clean things up",
+  "version": "6eae37ee-d810-47e0-856f-dde85a17f3d8",
+  "tags": [
+    "fuel",
+    "time series"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Weekly Fuel Prices.xlsx",
+      "sizeInBytes": 42314,
+      "created": "2020-04-26T12:58:51.396Z",
+      "updated": "2020-04-26T12:58:51.396Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Weekly_Fuel_Prices_200420.xlsx",
+      "sizeInBytes": 369698,
+      "created": "2020-04-25T08:45:59.134Z",
+      "updated": "2020-04-25T08:45:59.134Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-04-25T08:45:24.624Z",
+  "updated": "2020-04-26T20:54:14.823Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 15,
+    "columnCount": 128
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w20-uk-fuel-prices",
+      "title": "2026/w20 UK Fuel Prices",
+      "description": "UK fuel prices recorded every other week",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-e0788ca0de2846a8a4269498e8ba81fd.png)\n\n​\n\nSource: https://www.rac.co.uk/drive/advice/fuel-watch/\n\nInspired by: https://public.tableau.com/app/profile/joelreed/viz/UK-Fuel-Prices-2013-2026/TheRiseofUKFuelPrices2013-2026",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w40-avocado-prices",
+      "title": "2018/W40: Avocado Prices",
+      "description": "Avocado Prices",
+      "summary": "# **Original Visualization**\n![Avocado Prices](https://onebluewindow.com/wp-content/uploads/2017/10/Avocado-Prices-400x253.jpg)\n\n# **About this Dataset**\nARTICLE: [Avocados are getting expensive](https://overridge.com/market-update/market-update-oct-17)\n\nSOURCE: [Hass Avocado Board](http://www.hassavocadoboard.com/retail/volume-and-price-data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "avocado",
+        "us avocado market",
+        "avocado prices",
+        "line chart",
+        "fatty fruit"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w23",
+      "title": "2019/W23: Sleepless in America?",
+      "description": "The American Time Use Survey tracks how much Americans sleep by gender and age.",
+      "summary": "# **Original Visualization**\n![https://www.bls.gov/tus/charts/chart16.jpg](https://www.bls.gov/tus/charts/chart16.jpg)\n\n# **About this Dataset**\nIMAGE SOURCE: [American Time Use Survey](https://www.bls.gov/tus/charts/sleep.htm)\nDATA SOURCE: [American Time Use Survey](https://www.bls.gov/tus/database.htm)\n\n#### **ADDITIONAL RESOURCES**\n\n1. [The Connection between Sleep and Autoimmune Disease](https://www.nutritionaltherapyconference.com/wp-content/uploads/2016/04/NTA2016-Conference-Talk.pdf) - Sarah Ballantyne, PhD\n2. [National Sleep Foundation](https://www.sleepfoundation.org/)\n3. [Drowsy Driving](https://www.nhtsa.gov/risky-driving/drowsy-driving) - National Highway Traffic Safety Adminstration\n4. [Acute Sleep Deprivation and Risk of Motor Vehicle Crash Involvement](https://aaafoundation.org/acute-sleep-deprivation-risk-motor-vehicle-crash-involvement/) - AAA Foundation for Traffic Safety\n5. [Richard Smith: _Why We Sleep_ (Matthew Walker) book review](https://blogs.bmj.com/bmj/2018/06/20/richard-smith-why-we-sleep-one-of-those-rare-books-that-changes-your-worldview-and-should-change-society-and-medicine/) - the bmj opinion\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "sleep",
+        "america",
+        "united states",
+        "american time use survey",
+        "atus",
+        "gender",
+        "age",
+        "sex",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w17",
+      "title": "2021/W17: Regional Price Parity Per State",
+      "description": "How do regional prices in America compare from 2008-2019",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![https://howmuch.net/articles/regional-price-parities-by-state](https://cdn.howmuch.net/articles/regional-price-parities-by-state-cfce.jpg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [howmuch.net](https://howmuch.net/articles/regional-price-parities-by-state)\nDATA SOURCE: [U.S. Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=8)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "united states",
+        "economy",
+        "price parity",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
