@@ -1,0 +1,49 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w14",
+  "title": "2021/W14: Multiclass Classification of Dry Beans",
+  "description": "Multiclass Classification of Dry Beans",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n### **REQUIRED CITATION:**\nKOKLU, M. and OZKAN, I.A., (2020), “Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques.” Computers and Electronics in Agriculture, 174, 105507.\n\nDOI: https://doi.org/10.1016/j.compag.2020.105507\n\n​\n\n# **Original Visualization**\n![](https://ars.els-cdn.com/content/image/1-s2.0-S0168169919311573-gr10.jpg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLA: [Multiclass Classification of Dry Beans](https://www.sciencedirect.com/science/article/abs/pii/S0168169919311573)\nDATA SOURCE: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "7829e8bf-8663-47c6-931e-db35cda5ec8f",
+  "tags": [
+    "makeover monday",
+    "food",
+    "beans",
+    "classification",
+    "dry beans",
+    "data visualization",
+    "bar chart",
+    "research"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Dry_Bean_Dataset.txt",
+      "sizeInBytes": 3339,
+      "created": "2021-03-31T14:49:12.463Z",
+      "updated": "2021-03-31T14:49:12.463Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Dry_Bean_Dataset.xlsx",
+      "sizeInBytes": 3147837,
+      "created": "2021-03-31T14:52:33.856Z",
+      "updated": "2021-03-31T14:52:33.856Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-03-31T14:46:56.349Z",
+  "updated": "2021-04-04T10:38:27.967Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 2,
+    "columnCount": 19
+  },
+  "similarResources": [],
+  "isProject": false
+}
