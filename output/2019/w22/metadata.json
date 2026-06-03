@@ -1,0 +1,124 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w22",
+  "title": "2019/W22: CO2 Emissions per capita",
+  "description": "CO2 Emissions per capita in metric tonnes",
+  "summary": "# **Original Visualization**\n\n![image.png](https://media.data.world/lv4WmY9SRt23LieYwE2J_image.png)\n\n\n# **About this Dataset**\nSOURCE ARTICLE: [CO2 Emissions per capita](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&locations=AU-BE-CA-CN-DK-DE-IN-MX-US&start=1960&view=chart)\nDATA SOURCE: [World Bank](http://api.worldbank.org/v2/en/indicator/EN.ATM.CO2E.PC?downloadformat=csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "19584483-230f-4049-ad94-fcc307eea09d",
+  "tags": [
+    "climate change",
+    "global warming",
+    "world bank",
+    "co2 emissions"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "CO2 emissions per capita per country.csv",
+      "sizeInBytes": 154106,
+      "created": "2019-05-26T06:45:37.102Z",
+      "updated": "2019-05-26T06:45:37.102Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-05-25T09:26:23.406Z",
+  "updated": "2019-05-26T09:58:12.262Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 61
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w30",
+      "title": "2020/W30: Women in Power",
+      "description": "Women in Power - gender inequality in the context of political appointments and parliamentary representation",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![FEMALE POLITICAL REPRESENTATION WORLDWIDE.png](https://media.data.world/rt73DP8dRAC5ojNEp96L_FEMALE%20POLITICAL%20REPRESENTATION%20WORLDWIDE.png)\nVisualization provided by OperationFistula.org\n\n# **About this Dataset**\nSOURCE ARTICLE: [Proportion of seats held by women in national parliaments](https://data.worldbank.org/indicator/SG.GEN.PARL.ZS)\nDATA SOURCE: [World Bank](http://api.worldbank.org/v2/en/indicator/SG.GEN.PARL.ZS?downloadformat=excel)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "viz5",
+        "gender inequality",
+        "gender equality",
+        "women in power",
+        "world bank"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w17-ecological-footprint-per-capita",
+      "title": "2018/W17: Ecological Footprint per Capita",
+      "description": "Ecological Footprint per Capita",
+      "summary": "# **Overview**\nThe National Footprint Accounts (NFAs) measure the ecological resource use and resource capacity of nations from 1961 to 2014. The calculations in the National Footprint Accounts are primarily based on United Nations data sets, including those published by the Food and Agriculture Organization, United Nations Commodity Trade Statistics Database, and the UN Statistics Division, as well as the International Energy Agency. The 2018 edition of the NFA features some exciting updates from last year’s 2017 edition, including data for more countries and improved data sources and methodology. Methodology changes:\n\n1. Our conversion of carbon to CO2 increased in precision, which increased the world’s carbon footprint by approximately 1%.\n2. We implemented a new data quality scoring system. This allowed us to publish data for more countries by omitting unreliable data for some years rather than the entire country’s Ecological Footprint timeline.\n3. We used more precise data from the Global Carbon Project to calculate ocean carbon sequestration rates for 2014.\n\n## National Footprint Accounts 2018 Edition\nDataset provides Ecological Footprint per capita data for years 1961-2014 in global hectares (gha). Ecological Footprint is a measure of how much area of biologically productive land and water an individual, population, or activity requires to produce all the resources it consumes and to absorb the waste it generates, using prevailing technology and resource management practices. The Ecological Footprint is measured in global hectares. Since trade is global, an individual or country's Footprint tracks area from all over the world. Without further specification, Ecological Footprint generally refers to the Ecological Footprint of consumption (rather than only production or export). Ecological Footprint is often referred to in short form as Footprint.\n\n# **Original Visualization**\n![Ecological Footprint.png](https://media.data.world/P4Y4XtKQ1eioO2I38QGl_Ecological%20Footprint.png)\n[Interactive Version](http://data.footprintnetwork.org/#/compareCountries?cn=all&type=EFCpc&yr=2013)\n\n# **About this Dataset**\nSOURCE: [Global Footprint Network](https://data.world/footprint/nfa-2018-edition)\n\nThis data includes total and per capita national biocapacity, ecological footprint of consumption, ecological footprint of production and total area in hectares. This dataset, however, does not include any of our yield factors (national or world) nor any equivalence factors. \n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "earth day",
+        "makeover monday",
+        "environment",
+        "visualization",
+        "ecology",
+        "geographic",
+        "trends"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-1-u-s-per-capita-consumption-of-poultry-livestock",
+      "title": "2018/W1: U.S. Per Capita Consumption of Poultry & Livestock",
+      "description": "U.S. Per Capita Consumption of Poultry and Livestock",
+      "summary": "# **Original Visualization**\n![US per capita consumption of poultry and livestock](https://www.theatlas.com/i/atlas_SkwA7QzL.png)\n\nSOURCE: [The Atlas](https://www.theatlas.com/charts/SkwA7QzL)\n\n# **About this Dataset**\nSOURCE: [National Chicken Council](http://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chicken",
+        "pork",
+        "beef",
+        "poultry",
+        "consumption",
+        "per capita",
+        "united states",
+        "usa",
+        "us",
+        "national chicken council"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w11-self-reported-life-satisfaction-vs-gdp-per-capita",
+      "title": "2020/W11: Self-reported Life Satisfaction vs GDP per capita",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![gdp-vs-happiness.png](https://media.data.world/booMJcXbQZKHymqVU3il_gdp-vs-happiness.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Our World in Data](https://ourworldindata.org/happiness-and-life-satisfaction)\nDATA SOURCE: [World Bank](https://datacatalog.worldbank.org/dataset/world-development-indicators)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n* I've added three data files. One associated with the original visualisation, one to allow you to assign countries to regions, or a .hyper file for Tableau users which joined the two sources together if you can't figure out how to do it yourselves!",
+      "tags": [
+        "makeover monday",
+        "happiness",
+        "gdp per capita"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w16",
+      "title": "2020/W16: Food: Greenhouse Gas Emission across supply chain",
+      "description": "Food: Greenhouse Gas Emission across supply chain",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://ourworldindata.org/uploads/2020/02/Environmental-impact-of-food-by-life-cycle-stage-1536x1380.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Focus on what you eat, not whether your food is local](https://ourworldindata.org/food-choice-vs-eating-local)\nDATA SOURCE: [GHG emissions by Lifecycle stage](https://ourworldindata.org/uploads/2020/02/GHG-emissions-by-life-cycle-stage-OurWorldinData-upload.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "food",
+        "climate change",
+        "greenhouse gas emissions",
+        "eat local",
+        "methane",
+        "beef"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
