@@ -1,0 +1,125 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w39",
+  "title": "2019/W39: San Francisco Eviction Notices",
+  "description": "Who, where, when , why and how have people been evicted in San Francisco?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://greenet09.github.io/datasophy/2018/08/08/sfevictions\\_files/figure-markdown\\_github/unnamed-chunk-3-1.png](https://greenet09.github.io/datasophy/2018/08/08/sfevictions_files/figure-markdown_github/unnamed-chunk-3-1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Humanistic Data Science](https://greenet09.github.io/datasophy/2018/08/08/sf-evictions.html)\nDATA SOURCE: [DataSF](https://data.sfgov.org/Housing-and-Buildings/Eviction-Notices/5cei-gny5)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "49b6cc0f-c1d6-4f11-aa4f-368916e48baf",
+  "tags": [
+    "makeover monday",
+    "san francisco",
+    "eviction"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "SF_Eviction_Notices.csv",
+      "sizeInBytes": 10057142,
+      "created": "2019-09-22T10:21:50.978Z",
+      "updated": "2019-09-22T10:21:50.978Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-09-22T10:21:07.712Z",
+  "updated": "2019-09-22T10:28:03.505Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 29
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w43",
+      "title": "2019/W43: The Age At Which Most People Are Dying By Suicide",
+      "description": "CONTENT WARNING: Suicide - Number of people dying by suicide by single year of age in England and Wales",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screenshot 2019-10-20 at 6.38.36 pm.png](https://media.data.world/2DxYbGbYRWi8U4YanHL4_Screenshot%202019-10-20%20at%206.38.36%20pm.png)\n\n# **About this Dataset**\nSOURCE: [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "age",
+        "death",
+        "suicide",
+        "united kingdom",
+        "uk",
+        "wales",
+        "england",
+        "drugs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w3",
+      "title": "2019/W3: How many people earned the Federal minimum wage?",
+      "description": "According to the Bureau of Labor Statistics, how many people earned the Federal minimum wage or less in each State?",
+      "summary": "# **Original Visualization**\n![5bb3904393032c18c75259b4-1136-852.png](https://media.data.world/Q36ZvvbuS5CiLSOpKI76_5bb3904393032c18c75259b4-1136-852.png)\n\n# **About this Dataset**\nARTICLE: [Business Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nSOURCE: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2017/home.htm)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? ",
+      "tags": [
+        "makeover monday",
+        "united states",
+        "usa",
+        "wages",
+        "minimum wage",
+        "bls",
+        "labor statistics",
+        "bureau",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w51",
+      "title": "2019/W51: NBA Defensive Ratings",
+      "description": "The Spurs have never been this bad at defense. Which NBA teams are the best defensively?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://fivethirtyeight.com/wp-content/uploads/2019/12/dubin-SPURS-1203-2.png?w=1150)\n\n# **About this Dataset**\nSOURCE ARTICLE: [FiveThirtyEight](https://fivethirtyeight.com/features/the-spurs-have-never-been-this-bad-at-defense/)\nDATA SOURCE: [NBA](https://stats.nba.com/teams/defense/?sort=DEF_RATING&dir=-1&Season=2019-20&SeasonType=Regular%20Season)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "nba",
+        "basketball",
+        "ratings"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w15",
+      "title": "2019/W15: Ranking States by Fiscal Condition",
+      "description": "How well can States meet short-term and long-term bills by examining their financial statements?",
+      "summary": "# **Original Visualization**\n![https://www.mercatus.org/sites/default/files/norcross-fiscal-rankings-map-mercatus-v1\\_copy\\_0.png](https://www.mercatus.org/sites/default/files/norcross-fiscal-rankings-map-mercatus-v1_copy_0.png)\n\n# **About this Dataset**\nSOURCE: [Mercatus Center](https://www.mercatus.org/statefiscalrankings)\n\nADDITIONAL INFORMATION: [2018 Report](https://www.mercatus.org/system/files/norcross-fiscal-rankings-2018-mercatus-research-v1.pdf)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "united states",
+        "fiscal",
+        "economy",
+        "debt",
+        "ranking"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w25",
+      "title": "2019/W25: Berlin Airbnb Ratings",
+      "description": "Where can you find an Airbnb that meets you needs?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/aS9YZ8ERvi0PxXQc9OTM\\_Screenshot%202019-06-16%20at%204.39.09%20pm.png](https://media.data.world/aS9YZ8ERvi0PxXQc9OTM_Screenshot%202019-06-16%20at%204.39.09%20pm.png)\n\n​\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [Inside Airbnb](http://insideairbnb.com/berlin/?neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false)\nDATA SOURCE: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)\n\n**NOTES:**\n\n\n1. Data is available as CSV, Excel, or Tableau Hyper format.\n2. A Geojson file of Berlin neighborhoods has also been included.\n​\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "berlin",
+        "germany",
+        "airbnb",
+        "ratings"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
