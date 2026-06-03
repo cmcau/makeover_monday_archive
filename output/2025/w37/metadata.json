@@ -1,0 +1,91 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025week-37",
+  "title": "2025/week 37 AI job trends",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nSource Kaggle : https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030?\nThis is a synthetic dataset generated using realistic modeling, public job data patterns (U.S. BLS, OECD, McKinsey, WEF reports), and AI simulation to reflect plausible scenarios from 2024 to 2030. Ideal for educational, research, and AI project purposes.\n\n![](https://mediauploads-US.data.world/00000-idiomind-61b963bb119746f691dce1755f0641c9.png)\n\nm/datasets/sahilislam007/ai-impact-on-job-market-20242030?",
+  "version": "99e19195-5",
+  "tags": [
+    "ai"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "ai_job_trends_dataset.csv",
+      "sizeInBytes": 3285723,
+      "created": "2025-09-08T17:51:33.696785347Z",
+      "updated": "2025-09-08T17:51:33.696785347Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-09-08T17:50:48.052054024Z",
+  "updated": "2025-09-08T17:55:06.155286685Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 13
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-41-drug-consumptions-uci",
+      "title": "2025/ week 41 Drug Consumptions (UCI)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nsource : Kaggle https://www.kaggle.com/datasets/obeykhadija/drug-consumptions-uci?utm\\_source=chatgpt.com\n\n![](https://mediauploads-US.data.world/00000-idiomind-de9e9658fe29479b84f48fca8a8311ec.png)\n\n",
+      "tags": [
+        "drugs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "ai-risk-rankings",
+      "title": "2026/WK 16 AI Risk Rankings",
+      "description": "Occupations ranked by AI automation risk, wages, employment, and projected growth.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-datainformant-75411f0c9d0248b783390db262653083.png)\n\nSource: [AI Risk Rankings — Highest & Lowest Risk Jobs | AI Exposure](https://www.aiexposure.org/rankings)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-47-lazy-cats",
+      "title": "2025/ week 47   Lazy Cats",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-465a0872822846b3ac4d0ca2db899161.png)\n\nData source: Smit, M.; Corner-Thomas, R.A.; Draganova, I.; Andrews, C.J.; Thomas, D.G. How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households. Sensors 2024, 24, 2623. [https://doi.org/10.3390/s24082623](https://doi.org/10.3390/s24082623).\n\nwebsite: https://lazy-cats.netlify.app/",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025wk48-which-ai-models-hallucinate-the-most",
+      "title": "2025/WK48 Which AI Models Hallucinate the Most?",
+      "description": "A Look into which AI models have higher rates of accuracy / hallucination",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-954613b04960410c83019ac4c49d5556.png)\n\n​\n\nDatasource and Article : [Which AI Models Hallucinate the Most? - Voronoi](https://www.voronoiapp.com/technology/Which-AI-Models-Hallucinate-the-Most-7211)",
+      "tags": [
+        "makeovermonday",
+        "ai"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-10-river-water-quality",
+      "title": "2025/ week 10   River Water Quality",
+      "description": "Can we use weather, river flow and water quality data to better understand the forces that impact wate",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n**Problem Statement**\n\nCan we use weather, river flow and water quality data to better understand the forces that impact water in London at Fulham Reach Boat Club, located at Hammersmith Bridge.\n\n**Future Goal**\n\nWith better understanding can we get better at predicting when water quality will be poor, this would be advantageous as we only have capacity to test once a week and the results of E.Coli testing takes a day to process.\n\ndata from [Fulham Reach Boat Club (FRBC)](https://data.world/makeovermonday/2025-week-10-river-water-quality/workspace/file?filename=_Makeover+Monday+with+Fulham+Reach+Boat+Club.docx.pdf)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-685420f6461f41b2a92442b873974ba1.png)\n\nVisualisation: [https://public.tableau.com/app/profile/fulham.reach.boat.club/viz/FRBCFreshWaterWatch\\\\\\_17116616886720/eColi](https://public.tableau.com/app/profile/fulham.reach.boat.club/viz/FRBCFreshWaterWatch%5C_17116616886720/eColi)",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
