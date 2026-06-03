@@ -1,0 +1,94 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w45-terrorism-and-political-violence-in-the-usa",
+  "title": "2025/W45 Terrorism and Political Violence in the USA",
+  "description": "Terrorist Attacks and Plots in the United States by Perpetrator Orientation, 1994–2025",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-62974e0766a147a9b13584023f573923.png)\n\nDatasource: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us#h2-appendix-what-is-excluded-)\n\nArticle: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us)",
+  "version": "82e95b66-5",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "terrorism_by_ideology_1994-2025.csv",
+      "sizeInBytes": 685,
+      "created": "2025-11-17T10:08:15.833141631Z",
+      "updated": "2025-11-17T10:08:15.833141631Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-11-17T10:06:17.348330487Z",
+  "updated": "2025-11-17T10:14:42.704269734Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w18-trump-approval-ratings",
+      "title": "2025/W18 Trump Approval Ratings",
+      "description": "% Who ____ of the way Trump is handling his job as president",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n​\n\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4134dce1a68742e495b184bc6d52b78c.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/trump-100-days-methodology/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/evaluations-of-trump-job-approval-and-confidence-on-issues/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w20-us-made-gun-exports-2005-2022",
+      "title": "2024/W20 US-Made Gun Exports 2005-2022",
+      "description": "Cumulative volume of US semiautomatic firearm exports, 2005–2022",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-c7bb995e7d1d40abbd50b7381601d6d7.png)\n\n​\n\nDatasource : [United States Census Bureau](https://www.census.gov/foreign-trade/data/index.html)\n\nArticle : [Bloomberg](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w42-cultural-issues-and-the-2024-election",
+      "title": "2025/W42 Cultural Issues and the 2024 Election",
+      "description": "% of Registered Voters that say....",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-6273861f6f22475fb1d9b1bc6a13fbcb.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/pp_2024-6-5_cultural-values_00-01/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w12-precipitation-anomalies",
+      "title": "2025/W12 Precipitation Anomalies",
+      "description": "The difference in a specific year's total precipitation — rain and snow — from the 1991–2020 average, measured in mm.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a2a069a6bf8e4533af0319830e0fc1bc.png)\n\nDatasource: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)\n\nArticle: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w15-doomsday-clock",
+      "title": "2025/W15 Doomsday Clock",
+      "description": "Doomsday Clock 1947-2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-1af509a6529b44c3961227e49455def7.png)\n\nDatasource: [Bulletin of the Atomic Scientists](https://thebulletin.org/doomsday-clock/timeline/)\n\nArticle: [Bulletin of the Atomic Scientists](https://thebulletin.org/doomsday-clock/timeline/)",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
