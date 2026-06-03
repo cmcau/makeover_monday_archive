@@ -1,0 +1,33 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w22-where-in-europe-do-men-sit-dow-to-pee",
+  "title": "2025/w22  Where in Europe do men sit dow to pee?",
+  "description": "Where in Europe do men sit dow to pee?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nData source: You Gov\n\narticle:https://www.euronews.com/health/2023/05/18/sitzpinklers-where-in-europe-do-men-sit-down-or-stand-up-to-pee#:\\~:text=Source:%20YouGov,reflect%20in%20a%20quiet%20space\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-f572024d142c4031aae7ae811402505b.png)\n\n",
+  "version": "ab939e95-5",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "data-aGLw1.csv",
+      "sizeInBytes": 692,
+      "created": "2025-05-25T21:34:11.119287832Z",
+      "updated": "2025-05-25T21:34:11.119287832Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-05-25T21:32:01.106636599Z",
+  "updated": "2025-05-25T21:34:11.119515607Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [],
+  "isProject": false
+}
