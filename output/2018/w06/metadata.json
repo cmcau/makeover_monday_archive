@@ -1,0 +1,127 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018-w-6-baseball-demographics-1947-2016",
+  "title": "2018/W6: Baseball Demographics (1947-2016)",
+  "description": "Baseball Demographics (1947-2016)",
+  "summary": "# **Original Visualization**\n![supporting image or chart](https://sabr.org/sites/default/files/MLB-Demographics-Armour-Levitt-Figure1.png)\n\n# **About this Dataset**\nSOURCE: [Society for American Baseball Research](https://sabr.org/bioproj/topic/baseball-demographics-1947-2012)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "e70eaf29-d693-437f-8e9c-697be9f9ffda",
+  "tags": [
+    "black history month",
+    "diversity",
+    "baseball"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MLB Ethnicity 1947-2016.xlsx",
+      "sizeInBytes": 15655,
+      "created": "2018-02-03T10:29:26.897Z",
+      "updated": "2018-02-03T10:29:26.897Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-02-03T10:29:26.526Z",
+  "updated": "2018-02-04T14:11:29.961Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w19",
+      "title": "2019/W19: Major League Baseball Most Cost Effective Batters",
+      "description": "Data only includes players with salary data",
+      "summary": "# **Original Visualization**\n![https://thumbnails-visually.netdna-ssl.com/MLBHittingStats2013\\_57e4bee0f2257\\_w1500.jpg](https://thumbnails-visually.netdna-ssl.com/MLBHittingStats2013_57e4bee0f2257_w1500.jpg)\n\n# **About this Dataset**\nOriginal Source: [visual.ly](https://visual.ly/community/infographic/sports/mlb-hitting-stats-2013)\nData Source: [Lahman’s Baseball Database](http://www.seanlahman.com/baseball-archive/statistics)\nCommonly Baseball Used Stats: [Baseball Reference](https://www.baseball-reference.com/bullpen/Baseball_statistics)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "lahman",
+        "baseball reference",
+        "stats",
+        "statistics",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w12-uk-pet-population-in-2017",
+      "title": "2018/W12: UK Pet Population in 2017",
+      "description": "UK Pet Population in 2017",
+      "summary": "# **Original Visualization**\n![week 12 original.png](https://media.data.world/N4l9vaEiRZuE2EXRk68K_week%2012%20original.png)\n\n# **About this Dataset**\nSOURCE: [Pet Food Manufacturers Association](https://www.pfma.org.uk/pet-population-2017)\n\n[Annual Report 2017, p. 14](https://www.pfma.org.uk/_assets/docs/annual-reports/PFMA-Annual-Report-2016.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "uk data",
+        "pet population",
+        "pets",
+        "cats and dogs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-1-u-s-per-capita-consumption-of-poultry-livestock",
+      "title": "2018/W1: U.S. Per Capita Consumption of Poultry & Livestock",
+      "description": "U.S. Per Capita Consumption of Poultry and Livestock",
+      "summary": "# **Original Visualization**\n![US per capita consumption of poultry and livestock](https://www.theatlas.com/i/atlas_SkwA7QzL.png)\n\nSOURCE: [The Atlas](https://www.theatlas.com/charts/SkwA7QzL)\n\n# **About this Dataset**\nSOURCE: [National Chicken Council](http://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chicken",
+        "pork",
+        "beef",
+        "poultry",
+        "consumption",
+        "per capita",
+        "united states",
+        "usa",
+        "us",
+        "national chicken council"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w30-parental-leave-in-the-oecd",
+      "title": "2018/W30: Parental leave in the OECD",
+      "description": "Parental leave in the OECD",
+      "summary": "# **Original Visualization**\n![Original Visualization](https://media.data.world/2RWnNr4JR3OGY3X2Ppsy_Screen%20Shot%202018-07-21%20at%208.32.10%20pm.png)\n\n# **About this Dataset**\nSOURCE: [OECD](https://www.oecd.org/els/soc/PF2_1_Parental_leave_systems.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "oecd",
+        "parental leave",
+        "maternity leave"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
