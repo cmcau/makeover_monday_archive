@@ -1,0 +1,129 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w15",
+  "title": "2021/W15: Fouls Called By NBA Referees",
+  "description": "Fouls Called By NBA Referees",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/TOpCdBubS1Ch9Seg19eq_download.png)\n\n​\n\n# About This Dataset\nOriginal Visualization: [Twitter](https://twitter.com/owenlhjphillips/status/1336681714366689280)\nData Source: [The Unofficial NBA Ref Ball Database](https://llewellynjean.shinyapps.io/NBARefDatabase/)\nCredit: [@owenphillips](https://twitter.com/owenlhjphillips)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "a5a402f2-22af-4404-8f64-7953cc732ef5",
+  "tags": [
+    "makeover monday",
+    "basketball",
+    "nba",
+    "referee",
+    "fouls",
+    "penalty",
+    "sports",
+    "sport"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "NBA Referee Stats.csv",
+      "sizeInBytes": 45532,
+      "created": "2021-04-11T13:31:53.042Z",
+      "updated": "2021-04-11T13:31:53.042Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-04-11T13:26:45.993Z",
+  "updated": "2021-04-11T13:42:21.275Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 34
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w29-historical-nba-team-spending-against-the-cap",
+      "title": "2018/W29: Historical NBA Team Spending Against the Cap",
+      "description": "Historical NBA Team Spending Against the Cap in the Salary Cap Era",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-07-15 at 12.46.55 pm.png](https://media.data.world/5HSKyjZHQL6HVng7TMBG_Screen%20Shot%202018-07-15%20at%2012.46.55%20pm.png)\nSOURCE: [What's the Cap?](https://www.whatsthecap.com/nba/salary-cap/)  |  [@whatsthecap](https://twitter.com/whatsthecap)\n\n\n# **About this Dataset**\nDATA SOURCE: [Celtics Hub](http://www.celticshub.com/2017/12/07/nba-player-salaries-1991-2017/)  |  [@CelticsHub](https://twitter.com/CelticsHub)\n\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "nba",
+        "basketball",
+        "salary cap",
+        "spending",
+        "trends"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w51",
+      "title": "2019/W51: NBA Defensive Ratings",
+      "description": "The Spurs have never been this bad at defense. Which NBA teams are the best defensively?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://fivethirtyeight.com/wp-content/uploads/2019/12/dubin-SPURS-1203-2.png?w=1150)\n\n# **About this Dataset**\nSOURCE ARTICLE: [FiveThirtyEight](https://fivethirtyeight.com/features/the-spurs-have-never-been-this-bad-at-defense/)\nDATA SOURCE: [NBA](https://stats.nba.com/teams/defense/?sort=DEF_RATING&dir=-1&Season=2019-20&SeasonType=Regular%20Season)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "nba",
+        "basketball",
+        "ratings"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w17",
+      "title": "2019/W17: Stephen Curry's Stadium Popcorn Rankings",
+      "description": "Which NBA stadium has Stephen Curry's favorite popcorn?",
+      "summary": "# **Original Visualization**\n![https://media.data.world/6IuF6gR9S8KeJDBotSCe\\_Screenshot%202019-04-20%20at%202.32.24%20pm.png](https://media.data.world/6IuF6gR9S8KeJDBotSCe_Screenshot%202019-04-20%20at%202.32.24%20pm.png)\n\n# **About this Dataset**\nSOURCE: [New York Times](https://www.nytimes.com/interactive/2019/04/12/sports/basketball/stephen-curry-warriors-popcorn.html)\nDATA SOURCE: [Stephen Curry](https://twitter.com/StephenCurry30)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "basketball",
+        "nba",
+        "stephen curry",
+        "popcorn",
+        "stadium",
+        "ranking"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w19",
+      "title": "2021/W19: What Does 1GB of Mobile Data Cost by Country?",
+      "description": "What Does 1GB of Mobile Data Cost in Every Country?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/ziDtA7B9QyCypYZySfEn_image.png)\n\n​\n\n# **About this Dataset**\n**Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n**Data Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "data",
+        "country",
+        "location",
+        "mobile",
+        "phone",
+        "cost",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w5",
+      "title": "2021/W5: Renewables Overtake Fossil Fuels in Europe",
+      "description": "Renewables Overtake Fossil Fuels in Europe",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/QavAWlYjQf6TqHDlr0V1\\_image.png](https://media.data.world/QavAWlYjQf6TqHDlr0V1_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Ember](https://ember-climate.org/project/eu-power-sector-2020/)\nDATA SOURCE: [Ember](https://ember-climate.org/project/eu-power-sector-2020/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "europe",
+        "eu",
+        "energy",
+        "renewable energy",
+        "fossil fuels",
+        "ember"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
