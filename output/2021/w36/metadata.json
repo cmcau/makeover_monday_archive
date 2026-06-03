@@ -1,0 +1,80 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w36",
+  "title": "2021/W36: What do Americans think about abortion?",
+  "description": "Americans support abortion, but not in all cases",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# Original Visualization\n\n![](https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/lxocbk8vnu-ls9p2n5ae-a.png)\n\n​\n# **About this Dataset**\nSOURCE ARTICLE: [FiveThirtyEight](https://fivethirtyeight.com/features/why-texass-abortion-law-may-go-too-far-for-most-americans/)\nDATA SOURCE: [Gallup](https://news.gallup.com/poll/1576/abortion.aspx)\n",
+  "version": "9ba776ec-81dd-4dec-bfef-8fbcb73999b8",
+  "tags": [
+    "makeover monday",
+    "america",
+    "united states",
+    "texas",
+    "law",
+    "abortion",
+    "women",
+    "rights",
+    "womens rights",
+    "womens health"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Abortion Support.xlsx",
+      "sizeInBytes": 11097,
+      "created": "2021-09-03T16:07:19.679Z",
+      "updated": "2021-09-03T16:07:19.679Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-09-03T15:55:06.502Z",
+  "updated": "2021-09-05T10:50:42.212Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w36",
+      "title": "2019/W36: Fall is favorite season for most Americans",
+      "description": "Fall is favorite season for most Americans",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](http://cdn.yougov.com/cumulus_uploads/document/lvg7zs8wn3/Weatherchart1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2013/06/10/fall-favorite-season-most-americans-33-heartland-l)\nDATA SOURCE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2013/06/10/fall-favorite-season-most-americans-33-heartland-l)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "fall",
+        "autumn",
+        "seasons",
+        "us data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
