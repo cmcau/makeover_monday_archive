@@ -1,0 +1,96 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w36-drug-harms-in-the-uk",
+  "title": "2025/W36 Drug Harms in the UK",
+  "description": "Drug harms in the UK: a multicriteria decision analysis (score out of 100)",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-b6e62f4cc140410ab4d3874d1449480d.png)\n\nArticle: [The Economist](https://www.economist.com/graphic-detail/2019/06/25/what-is-the-most-dangerous-drug)\n\nData: [The Lancet](https://www.thelancet.com/article/S0140-6736(10)61462-6/fulltext)",
+  "version": "c7a0f0fb-4",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Drug Harm MCDA - drug_harms_mcda.csv",
+      "sizeInBytes": 2611,
+      "created": "2025-09-02T09:59:39.440470892Z",
+      "updated": "2025-09-02T09:59:39.440470892Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-09-02T09:59:26.056319951Z",
+  "updated": "2025-09-02T10:02:07.929106882Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 23
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w39-family-spending-in-the-uk",
+      "title": "2025/W39 Family Spending in the UK",
+      "description": "Average weekly household expenditure as a percentage of total weekly expenditure, by quintile group, UK, financial year",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n![](https://mediauploads-US.data.world/00000-beardon-8199cc9176c44007b14f4d3ab73c7612.png)\n\n\nArticle: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2023tomarch2024#data-sources-and-quality)\n\nData: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2023tomarch2024#data-sources-and-quality)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w33-access-to-electricity-of-population",
+      "title": "2025/W33 Access to Electricity (% of Population)",
+      "description": "% of population who have access to electricity.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-cfc0a4ebe4c645eeaa81d710095f42ad.png)\n\nDatasource: [World Bank Group](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=map)\n\nArticle: [World Bank Group](https://blogs.worldbank.org/en/voices/How-to-close-Africa-energy-access-gap)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w27-spiritual-religious-beliefs",
+      "title": "2025/W27 Spiritual & Religious Beliefs",
+      "description": "% of adults who have spiritual and religious beliefs. Surveyed across 2023 & 2024.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-910cae67cb1d4300982ec3cb738e6b19.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w42-cultural-issues-and-the-2024-election",
+      "title": "2025/W42 Cultural Issues and the 2024 Election",
+      "description": "% of Registered Voters that say....",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-6273861f6f22475fb1d9b1bc6a13fbcb.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/pp_2024-6-5_cultural-values_00-01/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w3-women-conductors-on-broadway",
+      "title": "2026/W3 Women+ Conductors on Broadway",
+      "description": "Representation of female and nonbinary conductors, music directors, and music supervisors in Broadway.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-f46d99ed03ce482aafef6022e3d20329.png)\n\nData Source: [Sariva Goetz](https://docs.google.com/spreadsheets/d/1yTUUKoOhpSiizZNHDZYoPMZL0Jdk7PSw/edit?gid=87507842#gid=87507842)\n\nArticle: [Maestra](https://maestramusic.org/resources/timelines/timeline-of-broadway-conductors-and-mds/)\nWomen+ Conduct on Broadway Data Visualization Contest: [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeDsKbCsCmyzg30W7rUC3wmXOYVSEZiR1jTKGanNLjE8U9o_Q/viewform)\nWomen+ Conduct on Broadway Data Visualization Contest: [Livestream](https://www.youtube.com/live/ZDTnKAenlno)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
