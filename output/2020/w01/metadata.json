@@ -1,0 +1,112 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w1-what-is-americas-most-popular-sport",
+  "title": "2020/W1: What is America's most popular sport?",
+  "description": "What is America’s most popular sport?",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![​](https://cdn.vox-cdn.com/thumbor/HGEQDrjFniYy3wItG7r4LQSpfMM=/0x0:595x397/1720x0/filters:focal(0x0:595x397):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3362104/Screen_Shot_2014-10-09_at_10.54.30_AM.0.0.png) \n\n# **About this Dataset**\nSOURCE ARTICLE: [40 maps and charts that explain sports in America](https://www.vox.com/2014/10/14/6951261/sports-maps-charts) \nDATA SOURCE: [Gallup](https://news.gallup.com/poll/4735/sports.aspx#1) \n\n# **Objectives**\n\n\\* What works and what doesn't work with this chart? \n\\* How can you make it better?",
+  "version": "e69afdda-040e-42ab-9c9d-9ef66c467fdd",
+  "tags": [
+    "american sports"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Data.xlsx",
+      "sizeInBytes": 9760,
+      "created": "2020-01-04T17:45:58.566Z",
+      "updated": "2020-01-04T17:45:58.566Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-01-04T17:44:17.459Z",
+  "updated": "2020-01-05T12:22:16.236Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w21",
+      "title": "2019/W21: When are you most likely to be killed by a bear?",
+      "description": "In which park and when, are you most likely to be killed by a bear?",
+      "summary": "**NOTE:** The data was collected, prepared, and distributed by [Ali Sanne](https://data.world/ajsanne) on [data.world](https://data.world/ajsanne/north-america-bear-killings). Please reference her in your visualizations.\n\n# ​**Original Visualization**\n![https://media.data.world/tNjcdXZAQZuepWQVOiHs\\_Screenshot%202019-05-19%20at%2011.02.36%20am.png](https://media.data.world/tNjcdXZAQZuepWQVOiHs_Screenshot%202019-05-19%20at%2011.02.36%20am.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Vox](https://www.vox.com/2016/10/6/13170344/bear-attacks-national-state-parks)\nDATA SOURCE: [Wikipedia](https://en.wikipedia.org/wiki/List_of_fatal_bear_attacks_in_North_America)\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "bear",
+        "animal",
+        "north america"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w36",
+      "title": "2019/W36: Fall is favorite season for most Americans",
+      "description": "Fall is favorite season for most Americans",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](http://cdn.yougov.com/cumulus_uploads/document/lvg7zs8wn3/Weatherchart1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2013/06/10/fall-favorite-season-most-americans-33-heartland-l)\nDATA SOURCE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2013/06/10/fall-favorite-season-most-americans-33-heartland-l)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "fall",
+        "autumn",
+        "seasons",
+        "us data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w47-why-americas-debt-doesnt-stop-growing",
+      "title": "2020/W47: Why America's debt doesn't stop growing",
+      "description": "Why America's debt doesn't stop growing",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/11/screenshot-2020-11-21-at-09.23.09.png](https://learningtableaublog.files.wordpress.com/2020/11/screenshot-2020-11-21-at-09.23.09.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/americas-debt-27-trillion-and-counting/)\nDATA SOURCES: [Federal Reserve Bank of St. Louis (GDP)](https://fred.stlouisfed.org/series/GDP) and [Federal Reserve Bank of St. Louis (Debt)](https://fred.stlouisfed.org/series/GFDEBTN)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "debt"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-5-what-the-most-profitable-companies-make-per-second",
+      "title": "2018/W5: What the Most Profitable Companies Make per Second",
+      "description": "What the Most Profitable Companies Make per Second",
+      "summary": "# **Original Visualization**\n![](https://trimydatacom.files.wordpress.com/2018/01/img_2443.jpg)\n\n# **About this Dataset**\nDATA SOURCE: [TitleMax](https://www.titlemax.com/discovery-center/money-finance/most-profitable-companies/)\n\nAUTHOR: [TitleMax](https://twitter.com/titlemax)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "profit",
+        "corporate",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
