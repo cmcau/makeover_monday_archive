@@ -1,0 +1,93 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025-week-13-work-productivity",
+  "title": "2025/ week 13  Work Productivity",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\ndata : https://www.activtrak.com/resources/benchmarks/productivity-benchmarks-cross-industry/\n\nSource: Activtrak\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-50bc4b8645be45b3a68ee133cfc16ba0.png)\n\n",
+  "version": "b5e1ba10-9",
+  "tags": [
+    "productivity",
+    "work",
+    "industry"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Work productivy Activtrak Report - Sheet1 (2).csv",
+      "sizeInBytes": 382,
+      "created": "2025-03-26T11:55:28.824269739Z",
+      "updated": "2025-03-26T11:55:28.824269739Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-03-24T12:10:28.706653646Z",
+  "updated": "2025-03-26T11:55:28.824641371Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 9
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-3-current-and-preferred-work-arrangements",
+      "title": "2025/ week 3  Current and Preferred Work Arrangements",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nData source: https://www.datavisualizationsociety.org/\n\n![](https://mediauploads-US.data.world/00000-idiomind-4955803e0f27485686bc93f89896b458.png)\n\n",
+      "tags": [
+        "work",
+        "work arragement",
+        "remote"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "week-27-what-to-watch-in-2024-energy",
+      "title": "Week 27 / The history of global natural gas production",
+      "description": "The history of global natural gas production",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle: [https://visualizingenergy.org/the-history-of-global-natural-gas-produ](https://visualizingenergy.org/the-history-of-global-natural-gas-production/)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Post your alternative on the discussions page.\n​\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-28e63c3b134d4aedaceddafd5d69ab22.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-077110330bc04007ae7c7db50ab1fce5.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w25-harry-potter-dataset",
+      "title": "2025/w25 Harry Potter dataset",
+      "description": "Harry Potter",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata from https://www.kaggle.com/datasets/gulsahdemiryurek/harry-potter-dataset?resource=download\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-7ddde70dcd3c4baf8bab3f11907ab49a.png)\n\n",
+      "tags": [
+        "magic"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-41-drug-consumptions-uci",
+      "title": "2025/ week 41 Drug Consumptions (UCI)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nsource : Kaggle https://www.kaggle.com/datasets/obeykhadija/drug-consumptions-uci?utm\\_source=chatgpt.com\n\n![](https://mediauploads-US.data.world/00000-idiomind-de9e9658fe29479b84f48fca8a8311ec.png)\n\n",
+      "tags": [
+        "drugs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-30-streaming-hits-40-of-us-tv-usage-for-the-fi",
+      "title": "2024/ Week 30 Streaming Hits 40% of U.S. TV Usage for the Fi",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle:  [https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/](https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/)\nsource : nielsen\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-38b895be259540e984cdcaa8ebd6bdd5.png)\n\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-25f482997a5d490f8654a298403c69aa.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
