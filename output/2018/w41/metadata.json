@@ -1,0 +1,135 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w40-five-year-cancer-survival-rates-in-america",
+  "title": "2018/W41: Five Year Cancer Survival Rates in America",
+  "description": "Five Year Cancer Survival Rates in America",
+  "summary": "# **Original Visualization**\n![supporting image or chart](https://d33wubrfki0l68.cloudfront.net/fe62b7afdbade311b976b5407272bcc613ccb585/9403b/wp-content/uploads/2018/03/five-year-cancer-survival-rates-usa-v2-01-768x563.png)\n\n# **About this Dataset**\nSOURCE: [Our World in Data](https://ourworldindata.org/cancer#are-death-rates-from-cancer-rising)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "892b38fc-1d75-4f5e-935e-a55fe375c760",
+  "tags": [
+    "makeover monday",
+    "cancer",
+    "america",
+    "usa",
+    "united states",
+    "survival",
+    "rate",
+    "data"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Five Year Cancer Survival Rates in USA.csv",
+      "sizeInBytes": 65391,
+      "created": "2018-10-06T13:28:33.032Z",
+      "updated": "2018-10-06T13:28:33.032Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-10-06T13:28:08.926Z",
+  "updated": "2018-10-07T14:24:58.347Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w37-paying-the-president",
+      "title": "2018/W37: Paying the President",
+      "description": "Spending at Trump properties by ProPublica - Collaboration with #WorkoutWednesday",
+      "summary": "# **Original Visualization**\n![](https://view.dwcontent.com/file_view/makeovermonday/2018w37-paying-the-president/Screen%20Shot%202018-09-08%20at%2010.14.48%20am.png?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OnZpendpeiIsImlzcyI6ImFnZW50OnZpendpejo6MDkwZjJhODItYThkMS00YzQ1LWFjY2QtZmU2ZjIwYzZmZGRlIiwiaWF0IjoxNTM2Mzk4MzU0LCJyb2xlIjpbInVzZXIiLCJ1c2VyX2FwaV9hZG1pbiIsInVzZXJfYXBpX3JlYWQiLCJ1c2VyX2FwaV93cml0ZSJdLCJnZW5lcmFsLXB1cnBvc2UiOmZhbHNlLCJ1cmwiOiJmYTQ4OTEyZTVmYjJlNjZkYTVhYWU5OWYxNTk1YzIzNjBmZjllOTQ2In0.rpaG4qKeBbA67lKLEyl3ANqTEAhkomoQTvNGs7M2KnS8RriYnmQY1aPoxqiF1qOEHMGwNM2gUdgL2nkGN1GWuA)\nORIGINAL ARTICLE: [ProPublica](https://projects.propublica.org/paying-the-president/)\n\n# **About this Dataset**\nDATA SOURCE: [ProPublica](https://www.propublica.org/datastore/dataset/spending-at-trump-properties)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "workout wednesday",
+        "propublica",
+        "donald trump",
+        "america",
+        "united states",
+        "president",
+        "spending",
+        "campaign",
+        "election",
+        "taxpayer"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w35-which-body-parts-are-we-attaching-computers-to",
+      "title": "2018/W35: Which body parts are we attaching computers to?",
+      "description": "Which body parts are we attaching computers to?",
+      "summary": "# **Original Visualization**\n![](https://cms.qz.com/wp-content/uploads/2014/02/locations-of-wearable-devices-wearables_chartbuilder.png?w=1240&strip=all&quality=75)\n\n# **About this Dataset**\n* ARTICLE: [Quartz](https://qz.com/179344/which-body-parts-are-we-attaching-computers-to/)\n* DATA SOURCE: [Figure Eight](https://www.figure-eight.com/data-for-everyone/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "body",
+        "computers",
+        "products",
+        "technology",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-3-u-s-household-income-distribution-by-state",
+      "title": "2018/W3: U.S. Household Income Distribution by State",
+      "description": "U.S. Household Income Distribution by State",
+      "summary": "# **Original Visualization**\n![Visual Capitalist](http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/11/household-income.png)\n\n# **About this Dataset**\n**SOURCE:** [Visual Capitalist](http://www.visualcapitalist.com/household-income-distribution-u-s-state/)\n\n**DATA SOURCE:** [U.S. Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "united states",
+        "income distribution",
+        "state",
+        "household",
+        "visual capitalist"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-1-u-s-per-capita-consumption-of-poultry-livestock",
+      "title": "2018/W1: U.S. Per Capita Consumption of Poultry & Livestock",
+      "description": "U.S. Per Capita Consumption of Poultry and Livestock",
+      "summary": "# **Original Visualization**\n![US per capita consumption of poultry and livestock](https://www.theatlas.com/i/atlas_SkwA7QzL.png)\n\nSOURCE: [The Atlas](https://www.theatlas.com/charts/SkwA7QzL)\n\n# **About this Dataset**\nSOURCE: [National Chicken Council](http://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chicken",
+        "pork",
+        "beef",
+        "poultry",
+        "consumption",
+        "per capita",
+        "united states",
+        "usa",
+        "us",
+        "national chicken council"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
