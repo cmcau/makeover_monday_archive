@@ -1,0 +1,39 @@
+Commodity,Unit,2021,2022,2023
+"Coal, Australia",$/mt,138.10,344.90,172.80
+"Coal, South Africa",$/mt,119.80,240.60,119.10
+"Crude oil, average",$/bbl,69.10,97.10,80.80
+"Crude oil, Brent",$/bbl,70.40,99.80,82.60
+"Crude oil, Dubai",$/bbl,68.80,97.00,82.00
+"Crude oil, WTI",$/bbl,68.00,94.40,77.70
+"Natural gas, Europe",$/mmbtu,16.12,40.34,2.00
+"Natural gas, U.S.",$/mmbtu,3.85,6.37,2.54
+"Liquefied natural gas, Japan",$/mmbtu,10.76,18.43,14.39
+Cocoa,$/kg,2.43,2.39,3.28
+"Coffee, Arabica",$/kg,4.51,5.63,4.54
+"Coffee, Robusta",$/kg,1.98,2.29,2.63
+"Tea, average",$/kg,2.69,3.05,2.74
+Coconut oil,$/mt,1636.00,1635.00,1075.00
+Fish meal,$/mt,1481.00,1596.00,1815.00
+Groundnuts,$/mt,1555.00,1568.00,1892.00
+Groundnut oil,$/mt,2075.00,2203.00,2035.00
+Palm oil,$/mt,1131.00,1276.00,886.00
+Soybean meal,$/mt,481.00,548.00,541.00
+Soybean oil,$/mt,1385.00,1667.00,1119.00
+Soybeans,$/mt,583.00,675.00,598.00
+"Rice, Thailand 5%",$/mt,458.30,436.80,553.70
+"Rice, Vietnam 5%",$/mt,446.30,404.50,523.70
+"Wheat, U.S., HRW",$/mt,315.20,430.00,340.40
+"Wheat, U.S., SRW",$/mt,281.70,381.90,257.70
+Gold,$/toz,1800.00,1801.00,1943.00
+Silver,$/toz,25.20,21.80,23.40
+Platinum,$/toz,1091.00,962.00,966.00
+"Banana, EU",$/kg,0.92,0.94,1.09
+"Banana, U.S.",$/kg,1.21,1.49,1.60
+Beef,$/kg,5.34,5.62,4.90
+Chicken,$/kg,1.99,1.68,1.53
+Lamb,$/kg,8.66,8.27,6.12
+Oranges,$/kg,0.65,0.92,1.57
+Shrimp,$/kg,13.70,13.51,10.19
+"Sugar, EU",$/kg,0.39,0.34,0.35
+"Sugar, U.S.",$/kg,0.74,0.79,0.89
+"Sugae, World",$/kg,0.39,0.41,0.52
