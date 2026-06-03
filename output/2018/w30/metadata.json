@@ -1,0 +1,117 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w30-parental-leave-in-the-oecd",
+  "title": "2018/W30: Parental leave in the OECD",
+  "description": "Parental leave in the OECD",
+  "summary": "# **Original Visualization**\n![Original Visualization](https://media.data.world/2RWnNr4JR3OGY3X2Ppsy_Screen%20Shot%202018-07-21%20at%208.32.10%20pm.png)\n\n# **About this Dataset**\nSOURCE: [OECD](https://www.oecd.org/els/soc/PF2_1_Parental_leave_systems.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "063d86e4-f86e-4735-a6cc-bc3cc98327a9",
+  "tags": [
+    "oecd",
+    "parental leave",
+    "maternity leave"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "OECD Parental Leave system.xlsx",
+      "sizeInBytes": 6239,
+      "created": "2018-07-21T18:34:04.049Z",
+      "updated": "2018-07-21T18:34:04.049Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-07-21T18:34:03.738Z",
+  "updated": "2018-07-22T10:50:02.699Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 10
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w14-world-wine-production",
+      "title": "2018/W14: World Wine Production",
+      "description": "World Wine Production",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-04-01 at 4.15.25 pm.png](https://media.data.world/i3Xmig5qTaabFqbfOE09_Screen%20Shot%202018-04-01%20at%204.15.25%20pm.png)\n\n# **About this Dataset**\nSOURCE: [International Organisation of Vine and Wine](http://www.oiv.int/public/medias/5287/oiv-noteconjmars2017-en.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "wine data",
+        "world wine production",
+        "data visualization",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "tc-europe-2018-how-long-are-patients-in-an-nhs-ae",
+      "title": "TC Europe 2018: How long are patients in an NHS A&E?",
+      "description": "Percentage of Patients Spending 4 Hours or Less in A&E by Provider",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-07-03 at 8.15.52 am.png](https://media.data.world/c7BSjH3XQE7fjk6iFg7Q_Screen%20Shot%202018-07-03%20at%208.15.52%20am.png)\n\n# **About this Dataset**\nSOURCE: [NHS](https://files.digital.nhs.uk/pdf/m/4/acci-emer-atte-eng-2016-17-rep.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "england",
+        "united kingdom",
+        "nhs",
+        "health",
+        "healthcare",
+        "accident",
+        "emergency",
+        "wait time"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w29-historical-nba-team-spending-against-the-cap",
+      "title": "2018/W29: Historical NBA Team Spending Against the Cap",
+      "description": "Historical NBA Team Spending Against the Cap in the Salary Cap Era",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-07-15 at 12.46.55 pm.png](https://media.data.world/5HSKyjZHQL6HVng7TMBG_Screen%20Shot%202018-07-15%20at%2012.46.55%20pm.png)\nSOURCE: [What's the Cap?](https://www.whatsthecap.com/nba/salary-cap/)  |  [@whatsthecap](https://twitter.com/whatsthecap)\n\n\n# **About this Dataset**\nDATA SOURCE: [Celtics Hub](http://www.celticshub.com/2017/12/07/nba-player-salaries-1991-2017/)  |  [@CelticsHub](https://twitter.com/CelticsHub)\n\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "nba",
+        "basketball",
+        "salary cap",
+        "spending",
+        "trends"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w20-hours-spent-in-congestion-in-european-cities",
+      "title": "2018/W20: Hours spent in Congestion in European Cities",
+      "description": "Hours spent in Congestion in European Cities",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-05-12 at 10.18.56 pm.png](https://media.data.world/IWvgW8w9SbSoXkWKxYcv_Screen%20Shot%202018-05-12%20at%2010.18.56%20pm.png)\n\n# **About this Dataset**\nSOURCE: [EuroNews](http://www.euronews.com/2018/02/07/which-european-commuters-spend-the-most-time-in-traffic-jams-)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
