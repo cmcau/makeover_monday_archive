@@ -1,0 +1,90 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w41-uk-average-ratings-of-personal-well-being-2012-2023",
+  "title": "2024/W41 UK Average ratings of personal well-being 2012-2023",
+  "description": "Average ratings of personal well-being, UK, years ending March 2012 to March 2023",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-14c624769653411f9a499707c0853544.png)\n\n​\n\nDatasource: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/april2022tomarch2023)\n\nArticle: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/april2022tomarch2023)",
+  "version": "31d6cd1b-4",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "UK Average Ratings of Personal Well-being 2012-2023.csv",
+      "sizeInBytes": 1981208,
+      "created": "2024-10-06T13:44:13.263920606Z",
+      "updated": "2024-10-06T13:44:13.263920606Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-10-06T13:43:45.835459197Z",
+  "updated": "2024-10-06T13:49:29.367411619Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 10
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w39-family-spending-in-the-uk",
+      "title": "2025/W39 Family Spending in the UK",
+      "description": "Average weekly household expenditure as a percentage of total weekly expenditure, by quintile group, UK, financial year",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n![](https://mediauploads-US.data.world/00000-beardon-8199cc9176c44007b14f4d3ab73c7612.png)\n\n\nArticle: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2023tomarch2024#data-sources-and-quality)\n\nData: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2023tomarch2024#data-sources-and-quality)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "families-and-households-in-the-uk-2024",
+      "title": "Families and households in the UK: 2024",
+      "description": "Estimates of families (with and without children) and household types, including people living alone in the UK in 2024.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![image.png](https://mediauploads-US.data.world/00000-datainformant-57f2e5774b8849b8a99ef8b528f627b2.png)\n\nDatasource & Article :  [Families and households in the UK - Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/bulletins/familiesandhouseholds/2024)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w30-london-underground-average-monthly-temperatures",
+      "title": "2025/W30 London Underground Average Monthly Temperatures",
+      "description": "London Underground Average Monthly Temperatures (°C) 2013-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-11485fd39bcc40c7911336374c95e8eb.png)\n\nDatasource: [TFL](https://data.london.gov.uk/dataset/london-underground-average-monthly-temperatures/)\nArticle: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739705/london-underground-hottest-line.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w15-doomsday-clock",
+      "title": "2025/W15 Doomsday Clock",
+      "description": "Doomsday Clock 1947-2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-1af509a6529b44c3961227e49455def7.png)\n\nDatasource: [Bulletin of the Atomic Scientists](https://thebulletin.org/doomsday-clock/timeline/)\n\nArticle: [Bulletin of the Atomic Scientists](https://thebulletin.org/doomsday-clock/timeline/)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w52-how-does-our-spending-change-in-december",
+      "title": "2024/W52 How Does Our Spending Change in December?",
+      "description": "December Average Percent Increase By Commodity Category",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-fc030a4dbf4b4cedb692493b5aa0ac5f.png)\n\nDatasource: [ONS and Bank Calculations](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas)\n\nArticle: [Bank of England](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
