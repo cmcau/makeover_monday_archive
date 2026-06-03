@@ -1,0 +1,133 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w31",
+  "title": "2023/W31: Milan Drinking Fountains",
+  "description": "Milan Drinking Fountains",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/b2fcb4734f5a78973451ec31f817a3105dcfd0100b464a69d58ca2cbf3790f09_CleanShot_2023_07_31_at_10.05.22_2x.png)\n\n​\n\n## Resources\n[Drinking Fountains of Milan](https://www.ilpost.it/2022/06/27/fontanelle-vedovelle-milano/)\nData Source: [Comune di Milano](https://dati.comune.milano.it/it/dataset/ds502_fontanelle-nel-comune-di-milano)",
+  "version": "2e8d6c93-4",
+  "tags": [
+    "location",
+    "milan",
+    "fountain"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Milan Drinking Fountains.csv",
+      "sizeInBytes": 43175,
+      "created": "2023-07-31T09:04:22.735302399Z",
+      "updated": "2023-07-31T09:04:22.735302399Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Milan Drinking Fountains.geojson",
+      "sizeInBytes": 234097,
+      "created": "2023-07-31T09:04:22.735327774Z",
+      "updated": "2023-07-31T09:04:22.735327774Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-07-31T09:03:59.679301575Z",
+  "updated": "2023-07-31T13:19:35.633308892Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 2,
+    "columnCount": 17
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w28",
+      "title": "2023/W28: The Henley Passport Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/4567b7c4ff39d94cb51638c9f4a837d335b692813c99b6eb357fe39096ea3497_CleanShot_2023_07_10_at_9.12.45_2x.png)\n\n​\n\n# Resources\n[The Henley Passport Index](https://www.henleyglobal.com/passport-index)\nData Source: [Henley & Partners](https://www.henleyglobal.com/passport-index)",
+      "tags": [
+        "passport",
+        "rank",
+        "country",
+        "index",
+        "score"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w39",
+      "title": "2023/W39: Street Level Temperatures in NYC",
+      "description": "Street level temperature on a subset of city blocks in neighborhoods with highest heat mortality risk",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/db46e506da8c5b980e51d78ffda4c3f68bf0d778155c02fc8972ad14b9480f9b_CleanShot_2023_09_22_at_7.42.16_2x.png)\n\n## Resources\nThe Guardian: [Street Level Temperatures in NYC](https://www.theguardian.com/us-news/2022/sep/07/new-york-heat-deaths-map-inequality)\nData Source: [NYC Open Data](https://data.cityofnewyork.us/dataset/Hyperlocal-Temperature-Monitoring/qdq3-9eqn)",
+      "tags": [
+        "new york city",
+        "open data",
+        "temperature",
+        "heat",
+        "street"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w5",
+      "title": "2023/W5: NYC Pizza Slices",
+      "description": "The cost of pizza slices in New York City",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5ff1b511714c125421488192110e1ec4ee7bac8e5ecacd07af8c1af5a9f4d796_CleanShot_2023_01_14_at_10.33.51_2x.png)\n\n​\n\n## **Resources**\nSource: [NYC pizza slices](https://elkue.com/nyc-slice/) (via Data Is Plural)\nData Source: [Liam Quigley](https://elkue.com/) | [Data](https://docs.google.com/spreadsheets/d/1EY3oi9ttxybG0A0Obtwey6BFu7QLqdHe02JApijgztg/edit)\n\n​",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "nyc",
+        "new york city",
+        "food",
+        "pizza",
+        "ratings",
+        "location",
+        "slice",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w13",
+      "title": "2023/W13: The Gender Pay Gap in US World Cup Bonuses",
+      "description": "The Gender Pay Gap in US World Cup Bonuses",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/b336e4ced55fe660dd589e6687f449bf42de1a94663714c6b0c8c2b18d8db35c_CleanShot_2023_03_26_at_11.45.41_2x.png)\n\n# Resources\nData Source: The Guardian (from US soccer)",
+      "tags": [
+        "soccer",
+        "football",
+        "gender",
+        "pay gap",
+        "equity",
+        "united states",
+        "world cup",
+        "pay"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w29",
+      "title": "2023/W29: Climate Action Tracker",
+      "description": "Historical climate data for multiple factors",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/7f5b1162cf2d9aeb2e2a0aeed9d81919e7e711c06fd413d112a65b4956ccdf4c_CleanShot_2023_07_16_at_12.48.37_2x.png)\n\n​\n\n# Resources\n[Climate Action Tracker](https://climateactiontracker.org/)\nData Source: Climate Action Tracker",
+      "tags": [
+        "climate",
+        "country",
+        "world",
+        "cop28",
+        "global warming"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
