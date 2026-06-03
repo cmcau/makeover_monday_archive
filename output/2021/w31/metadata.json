@@ -1,0 +1,136 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w31",
+  "title": "2021/W31: Bike Collisions in London (2005-2019)",
+  "description": "Bike Collisions in London (2005-2019)",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/JRUN9SdRlKWRHottabZi_CycleStreets.png)\n\n​\n\n# Resources\n[Bike Collisions in London](https://bikedata.cyclestreets.net/collisions/#9.44/51.4814/0.0567) (2005-2019)\nData Source: [CycleStreets](https://bikedata.cyclestreets.net/collisions/#9.44/51.4814/0.0567)",
+  "version": "7c12ad39-f20a-4dc3-982b-117e28f3482c",
+  "tags": [
+    "makeover monday",
+    "bikes",
+    "cycling",
+    "london",
+    "uk",
+    "collision"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Bike Collisions.xlsx",
+      "sizeInBytes": 5541493,
+      "created": "2021-07-30T15:30:24.333Z",
+      "updated": "2021-07-30T15:30:24.333Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-07-25T06:23:28.309Z",
+  "updated": "2021-08-01T12:42:01.036Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 13
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "london-cycle-hire-usage",
+      "title": "2018/W26: London Cycle Hire Usage",
+      "description": "London Cycle Hire Usage",
+      "summary": "![Screen Shot 2018-06-21 at 12.19.45 pm.png](https://media.data.world/OSkqtJC1TPapfFJMtaGp_Screen%20Shot%202018-06-21%20at%2012.19.45%20pm.png)\n\n# **About this Dataset**\n* DATA SOURCE: [Transport for London](http://cycling.data.tfl.gov.uk/)\n* DESIGNER: [Sophie Sparks](https://twitter.com/sophie_sparkes)\n* INTERACTIVE VERSION: [Tableau Public](https://public.tableau.com/en-us/s/gallery/boris-bikes-daily-usage)\n\n# **NOTES**\n1. To connect to Exasol data source (50M+ records from 2012-2018) use the Tableau Data Source [here](https://fileshare.theinformationlab.co.uk/index.php/s/8xVZze3BZnjl1oh).\n2. Details for connecting to Exasol can be found in [this blog post](http://www.makeovermonday.co.uk/big-data/).\n3. If you have trouble downloading the CSV from data.world, you can download it [here](https://fileshare.theinformationlab.co.uk/index.php/s/lJwnY5V2I8Frali) instead. \n4. The CSV only contains data for 2017.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "london",
+        "boris bikes",
+        "santander",
+        "cycle hire",
+        "bike hire",
+        "rental",
+        "transportation",
+        "transport for london",
+        "tfl"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w40",
+      "title": "2019/W40: London Population Predictions",
+      "description": "London Population Predictions",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![London Population](https://media.data.world/Iz4UmqNeRlmouvVKnBXx_Screen%20Shot%202019-09-28%20at%207.23.28%20pm.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Population of London (click on 'Communities')](https://data.london.gov.uk)\nDATA SOURCE: [London Datastore](https://data.london.gov.uk/download/projections/fcda413b-2b3a-44cd-a692-242bc45ffe24/central_trend_2017_base.xlsx)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?",
+      "tags": [
+        "london",
+        "population",
+        "london population",
+        "uk data",
+        "open data",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w51",
+      "title": "2018/W51: London Bus Safety Performance",
+      "description": "Transport for London produces quarterly reports that provide analysis of incidents on the London bus network",
+      "summary": "# **Original Visualization**\n![Screenshot 2018-12-15 at 9.24.20 pm.png](https://media.data.world/opVvgdS7uA0NapMACtQq_Screenshot%202018-12-15%20at%209.24.20%20pm.png)\n\n# **About this Dataset**\nDATA SOURCE: [Transport for London](https://tfl.gov.uk/corporate/publications-and-reports/bus-safety-data)\n\nDASHBOARD: [London Buses Safety Dashboard – Q2](https://tfl.gov.uk/cdn/static/cms/documents/q2-18-london-bus-safety-dashboard.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "bus",
+        "transportation",
+        "transport for london",
+        "safety",
+        "perfomance",
+        "kpi",
+        "incidents",
+        "accidents",
+        "injuries",
+        "collisions"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w11",
+      "title": "2019/W9: Economic value of the bicycle industry",
+      "summary": "# **Original Visualization**\n![image.png](https://media.data.world/4tQb8t2kSyqv0XNOjOFu_image.png)\n\n# **About this Dataset**\nSOURCE: [SQW](http://www.sqw.co.uk/files/6914/9406/9034/SQW_Economic_value_of_the_bicycle_industry_and_cycling_March_2017_FINAL.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "bicycle",
+        "united kingdom",
+        "uk",
+        "economics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w29",
+      "title": "2021/W29: UK COVID-19 Mortality Rate by Ethnicity",
+      "description": "Most minority ethnicities have a higher COVID-19 mortality rate",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/X4uw21IRZOyBEtmW3sFA_Screenshot%202021-07-18%20at%202.52.59%20pm.png)\n\n​\n\n# Resources\nOriginal Viz: [Most minority ethnicities have a higher COVID-19 mortality rate](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)\nData Source: [Information is Beautiful](https://docs.google.com/spreadsheets/d/1g_YxmDfQx7aOU2DKzNZo9b-NTk62Bju6X3z6OuCa6gw/edit#gid=2004630296) via UK Office for National Statistics",
+      "tags": [
+        "makeover monday",
+        "covid",
+        "uk",
+        "ethnicity",
+        "minorities",
+        "race",
+        "gender"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
