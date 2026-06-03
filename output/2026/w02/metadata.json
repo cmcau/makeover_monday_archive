@@ -1,0 +1,103 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026wk2-the-biggest-housing-bubble-risks-globally",
+  "title": "2026/WK2 The Biggest Housing Bubble Risks Globally",
+  "description": "Exploring the level of housing bubble risk for major cities globally",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-f645b061f5cb4a5587ca73fb4459e8d3.png)\n\n​\n\nDatasource & Article :  [Housing Bubble Risks: Mapping the 2025 Landscape](https://www.visualcapitalist.com/sp/ter01-the-biggest-housing-bubble-risks-globally/)",
+  "version": "bd0d6b63-4",
+  "tags": [
+    "housing",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Housing bubbles.xlsx",
+      "sizeInBytes": 9665,
+      "created": "2026-01-12T15:43:00.809403916Z",
+      "updated": "2026-01-12T15:43:00.809403916Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-01-12T15:39:32.432598856Z",
+  "updated": "2026-01-12T15:43:16.233313717Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "life-expectancy-by-country-in-2025",
+      "title": "2025/W26 Life Expectancy by Country in 2025",
+      "description": "How Long People Live, by Country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-1fbb4b99e69049daa27b90994a38fe56.png)\n\n​\n\nDatasource : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\nArticle : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\n​",
+      "tags": [
+        "makeovermonday",
+        "life expectancy"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-14-the-best-migration-destinations-in-2025",
+      "title": "2025/ week 14 The Best Migration Destinations in 2025",
+      "description": "2025’s Best Countries to Live and Work Based on the Henley Opportunity Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-97ecd8dc81ec432eb4ee36a0f474b681.png)\n\n​\n\nDatasource: [The Henley Opportunity Index 2025 | Henley & Partners](https://www.henleyglobal.com/publications/henley-opportunity-index)\n\nArticle: [Ranked: 2025's Best Countries to Live and Work](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette)\n\nShow less",
+      "tags": [
+        "work",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk-8-the-periodic-table-of-ai-startups",
+      "title": "2026/WK 8 The Periodic Table of AI Startups",
+      "description": "14 categories of AI companies founded/funded Feb 2025-Feb 2026",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-e9aab82b6a0043d68a707a82bd37fc84.png)\n\n​\n\nDatasource & Article :  [The Periodic Table of AI Startups – 14 categories of AI companies founded/funded Feb 2025-Feb 2026 - Voronoi](https://www.voronoiapp.com/investing/The-Periodic-Table-of-AI-Startups--14-categories-of-AI-companies-foundedfunded-Feb-2025-Feb-2026-7663)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "schools-out-and-the-tvs-on",
+      "title": "2025/WK46 School’s out and the TV’s on",
+      "description": "What kids in the U.S. watched in June 2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-644c7897f28c433d96b3c987c61f4fb3.png)\n\n​\n\nDatasource and Article : [School’s out and the TV’s on: What kids in the U.S. watched in June | Nielsen](https://www.nielsen.com/insights/2025/what-us-kids-watched-tv-streaming-summer-june/)\n\n​",
+      "tags": [
+        "watch",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "ai-risk-rankings",
+      "title": "2026/WK 16 AI Risk Rankings",
+      "description": "Occupations ranked by AI automation risk, wages, employment, and projected growth.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-datainformant-75411f0c9d0248b783390db262653083.png)\n\nSource: [AI Risk Rankings — Highest & Lowest Risk Jobs | AI Exposure](https://www.aiexposure.org/rankings)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
