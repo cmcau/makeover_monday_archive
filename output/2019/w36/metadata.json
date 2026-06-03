@@ -1,0 +1,111 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w36",
+  "title": "2019/W36: Fall is favorite season for most Americans",
+  "description": "Fall is favorite season for most Americans",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](http://cdn.yougov.com/cumulus_uploads/document/lvg7zs8wn3/Weatherchart1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2013/06/10/fall-favorite-season-most-americans-33-heartland-l)\nDATA SOURCE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2013/06/10/fall-favorite-season-most-americans-33-heartland-l)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+  "version": "d4f01dce-bb5c-4dd7-a024-5df7df60f8a7",
+  "tags": [
+    "fall",
+    "autumn",
+    "seasons",
+    "us data"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Season preferences.xlsx",
+      "sizeInBytes": 6595,
+      "created": "2019-09-01T09:26:47.776Z",
+      "updated": "2019-09-01T09:26:47.776Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-09-01T09:21:01.032Z",
+  "updated": "2019-09-01T09:27:29.356Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w20",
+      "title": "2021/W20: What animal could you beat in a fight?",
+      "description": "What animal could you beat in a fight?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/SlswHsSjQ1esxT3PbnTj_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2021/05/13/lions-and-tigers-and-bears-what-animal-would-win-f)\nDATA SOURCE: [YouGov](https://docs.cdn.yougov.com/07vgk5e81j/YouGov%20-%20Human%20vs%20animal%20fight.pdf)",
+      "tags": [
+        "makeover monday",
+        "fight",
+        "animal",
+        "human",
+        "survey",
+        "gender",
+        "male",
+        "female"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w13-does-pineapple-belong-on-a-pizza",
+      "title": "2020/W13 Does pineapple belong on a pizza?",
+      "description": "Does pineapple belong on a pizza?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![gdp-vs-happiness.png](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2017-03-06/Pizza-01.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://yougov.co.uk/topics/politics/articles-reports/2017/03/06/does-pineapple-belong-pizza)\nDATA SOURCE: [YouGov](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/7ordz029w2/InternalResults_170228_Pizza_W.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n* What is your favourite pizza topping?",
+      "tags": [
+        "makeover monday",
+        "pizza",
+        "pie"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w5-brexit-bond",
+      "title": "2020/W5: Brexit Bond",
+      "description": "Brexit Bond",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![​](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2018-09-26/James%20Bond-01.png)\n\n\\# \\*\\*About this Dataset\\*\\*\nSOURCE ARTICLE: [Majority support a black James Bond, but few want a female or gay 007](https://yougov.co.uk/topics/entertainment/articles-reports/2018/10/02/idris-elba-publics-favourite-next-james-bond) \nDATA SOURCE: [YouGov](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/sur4dbksy5/Bond_180925_ResultsWithCode.pdf) \n\n\\# \\*\\*Objectives\\*\\*\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* THIS DATA DOES NOT MATCH THE ARTICLE BUT IS AN OPPORTUNITY TO BE TOPICAL AND FOCUS ON SOME OF THE APPARENT DIVERSITY IN OPINION BETWEEN BOTH SIDES OF THE BREXIT VOTE",
+      "tags": [
+        "brexit",
+        "bond"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w8",
+      "title": "W8/2019: Which States Produce the Most Wind Energy",
+      "description": "Which States Produce the Most Wind Energy",
+      "summary": "# **Original Visualization**\n![Original](https://cdn.howmuch.net/articles/wind-power-in-the-united-states-2018-2cf9.jpg)\n\n# **About this Dataset**\nARTICLE: [Howmuch.net](https://howmuch.net/articles/wind-power-in-the-united-states-2018)\n\nSOURCE: [American Wind Energy Association via ChooseEnergy.com](https://www.chooseenergy.com/news/article/best-worst-ranked-states-wind-power/)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "wind energy",
+        "renewable energy",
+        "us wind energy",
+        "ranking"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w1-what-is-americas-most-popular-sport",
+      "title": "2020/W1: What is America's most popular sport?",
+      "description": "What is America’s most popular sport?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![​](https://cdn.vox-cdn.com/thumbor/HGEQDrjFniYy3wItG7r4LQSpfMM=/0x0:595x397/1720x0/filters:focal(0x0:595x397):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3362104/Screen_Shot_2014-10-09_at_10.54.30_AM.0.0.png) \n\n# **About this Dataset**\nSOURCE ARTICLE: [40 maps and charts that explain sports in America](https://www.vox.com/2014/10/14/6951261/sports-maps-charts) \nDATA SOURCE: [Gallup](https://news.gallup.com/poll/4735/sports.aspx#1) \n\n# **Objectives**\n\n\\* What works and what doesn't work with this chart? \n\\* How can you make it better?",
+      "tags": [
+        "american sports"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
