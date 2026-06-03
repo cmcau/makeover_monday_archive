@@ -1,0 +1,146 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w34",
+  "title": "2023/W34: Most Popular Drinks for Dates",
+  "description": "Most Popular Drinks for Dates",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/72052c2485df11ecf1edbf39e75f4f0f8b665e779297e9ac9d67e9404215be3b_image.png)\n\n# Resources\nChart: [Drinking & Dating](https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics)\nData Source: Zoosk",
+  "version": "ea9105ec-4",
+  "tags": [
+    "makeover monday",
+    "drinking",
+    "dates",
+    "dating",
+    "men",
+    "women",
+    "gender"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Most Popular Drinks.xlsx",
+      "sizeInBytes": 9122,
+      "created": "2023-08-21T07:41:01.441133673Z",
+      "updated": "2023-08-21T07:41:01.441133673Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-08-21T07:38:34.275188780Z",
+  "updated": "2023-08-21T07:41:10.283118649Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w26",
+      "title": "2023/W26: Most Pressured to Drink with Workmates",
+      "description": "Which professions in the UK are most likely to feel pressure to drink with workmates?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/06f5cf28ab1b51de68efdcd63119345addc2bc842bdfc365b76ea82c6435b09a_image.jpeg)\n\n# Resources\nOriginal Viz & Data Source: [OnYearNoBeer](https://twitter.com/oynbuk/status/1133642515385655296)\n\n​",
+      "tags": [
+        "makeover monday",
+        "drinking",
+        "alcohol",
+        "work",
+        "workmates",
+        "profession",
+        "uk",
+        "united kingdom"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w7",
+      "title": "2021/W7: ​What's the point of Valentine's Day?",
+      "description": "Men are highly likely to consider sex and eating out as the main point of Valentine's Day",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/](https://cdn.statcdn.com/Infographic/images/normal/3229.jpeg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Statista](https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/)\nDATA SOURCE: [Statista](https://www.statista.com/chart/3229/whats-the-point-of-valentines-day/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "valentines day",
+        "holiday",
+        "hallmark",
+        "cards",
+        "love",
+        "sex",
+        "gender",
+        "men",
+        "women",
+        "united kingdom",
+        "uk",
+        "survey",
+        "gifts",
+        "dinner",
+        "impress",
+        "treat"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w36",
+      "title": "2022/W36: Median Age at First Marriage in America",
+      "description": "Median Age of Women at First Marriage by State vs. State Population Density",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/1b2789bc3c3bcde3a3e7d228b7f41e6dc1835cdc2422f7d240e066d0b5bf29b3_image.png)\n\n# Resources\nOriginal Viz/Article - [Reddit](https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/)\nData Source - [PBR.org](https://www.prb.org/usdata/indicator/marriage-age-women/snapshot/)",
+      "tags": [
+        "makeover monday",
+        "marriage",
+        "women",
+        "men",
+        "state",
+        "population",
+        "america",
+        "united states",
+        "usa",
+        "age"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w9",
+      "title": "2023/W9: High Street Coffee Caffeine Content",
+      "description": "How much caffeine is in coffee drinks at popular UK chains?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5c4da6bcb26df6ed0b4466cbdfd288e913d66c9640939f46f6197ed079c868ae_image.png)\n\n​\n\n## **Resources**\nData Source: [Which?](https://www.which.co.uk/)",
+      "tags": [
+        "makeover monday",
+        "coffee",
+        "caffeine",
+        "ratio",
+        "drink",
+        "food",
+        "beverage"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w11",
+      "title": "2023/W11: The Height of Women's Basketball Teams",
+      "description": "How tall are women basketball players on each NCAA team?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/8da48063aef8b5cb6b9577cd9d8b8398dc0eda078e8c57e303c4e917c2fe99d9_image.png)\n\n​\n\n## **Resources**\nOriginal Article: [Scholarship Stats](https://scholarshipstats.com/ncaa1basketball) | [Tweet](https://twitter.com/derekwillis/status/1600946516272861185)\nData Source: [Derek Willis](https://merrill.umd.edu/directory/derek-willis) via [Sports Data Analysis & Visualization class \n@merrillcollege](https://app.testudo.umd.edu/soc/202208/JOUR/JOUR479X) • Data on [github](https://github.com/Sports-Roster-Data/womens-college-basketball)\nCourtesy: Data is Plural",
+      "tags": [
+        "makeover monday",
+        "sports",
+        "basketball",
+        "women",
+        "female",
+        "height",
+        "ncaa"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
