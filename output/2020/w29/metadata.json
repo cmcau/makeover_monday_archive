@@ -1,0 +1,112 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w29-the-global-divide-on-homosexuality-persists",
+  "title": "2020/W29: The Global Divide on Homosexuality Persists",
+  "description": "The Global Divide on Homosexuality Persists",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.pewresearch.org/global/wp-content/uploads/sites/2/2020/06/PG\\_2020.06.25\\_Global-Views-Homosexuality\\_0-11.png](https://www.pewresearch.org/global/wp-content/uploads/sites/2/2020/06/PG_2020.06.25_Global-Views-Homosexuality_0-11.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Pew Research](https://www.pewresearch.org/global/2020/06/25/global-divide-on-homosexuality-persists)\nDATA SOURCE: [The Global Divide on Homosexuality Persists](https://www.pewresearch.org/global/2020/06/25/global-divide-on-homosexuality-persists)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+  "version": "ad54984f-b212-4527-af5e-93ae26cb038a",
+  "tags": [
+    "makeover monday",
+    "pew research",
+    "homosexuality"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Week29.xlsx",
+      "sizeInBytes": 9541,
+      "created": "2020-07-17T17:22:30.786Z",
+      "updated": "2020-07-17T17:22:30.786Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-07-17T17:22:16.398Z",
+  "updated": "2020-07-18T20:52:31.442Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w49-divergent-opinions-on-transatlantic-alliance",
+      "title": "2020/W49: Divergent Opinions on Transatlantic Alliance",
+      "description": "Divergent Opinions on Transatlantic Alliance",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.koerber-stiftung.de/fileadmin/\\_processed\\_/1/b/csm\\_Pulse\\_Grafiken\\_englisch\\_ohneAbbinder\\_20201109\\_4\\_relationsUSDEU\\_175d21e4da.png](https://www.koerber-stiftung.de/fileadmin/_processed_/1/b/csm_Pulse_Grafiken_englisch_ohneAbbinder_20201109_4_relationsUSDEU_175d21e4da.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Pew Research Center](https://www.pewresearch.org/global/2020/11/23/americans-and-germans-head-into-2021-with-divergent-opinions-on-transatlantic-alliance/)\nDATA SOURCES: [Koerber-Stiftung](https://www.koerber-stiftung.de/en/the-berlin-pulse)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "survey data",
+        "united states",
+        "germany",
+        "pew research"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w43-apparel-exports-to-us",
+      "title": "2020/W43: Apparel Exports to US",
+      "description": "Apparel Exports to US",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-24-at-11.35.13.png](https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-24-at-11.35.13.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [workersrights.org](https://www.workersrights.org/wp-content/uploads/2020/10/Unpaid-Billions_October-6-2020.pdf)\nDATA SOURCE: [Data manually lifted from source article. Original source is Otexa](https://otexa.trade.gov/msrpoint.htm)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "trade",
+        "data",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w34",
+      "title": "2019/W34:Americans touch their smartphones 2,617 times a day",
+      "description": "Americans touch their smartphones 2,617 times a day",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://www.pewinternet.org/wp-content/uploads/sites/9/2018/08/PI_2018.08.22_teens-screentime_0-01.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [CNBC](https://www.cnbc.com/2019/04/09/cal-newport-a-digital-declutter-can-help-you-reduce-smartphone-time.html)\nDATA SOURCE: [Pew Research Center](hhttps://www.pewinternet.org/2018/08/22/how-teens-and-parents-navigate-screen-time-and-device-distractions/pi_2018-08-22_teens-screentime_0-01/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "cellphone use",
+        "digital",
+        "culture",
+        "minimalism",
+        "survey data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w21-visualizing-40-years-of-music-industry-sales",
+      "title": "2020/W21: Visualizing 40 Years of Music Industry Sales",
+      "description": "Visualizing 40 Years of Music Industry Sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/music-industry-sales/)\nDATA SOURCE: [RIAA](https://www.riaa.com/u-s-sales-database/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "music"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w9",
+      "title": "2020/W9: Sleep Hours Needed Vs. Averaged",
+      "description": "Sleep Hours Needed Vs. Averaged",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://savvysleeper.org/wp-content/uploads/2019/05/costing-kids-sleep-asset2.png](https://savvysleeper.org/wp-content/uploads/2019/05/costing-kids-sleep-asset2.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Costing Kids Sleep](https://savvysleeper.org/costing-kids-sleep/)\nDATA SOURCE: [Costing Kids Sleep](https://savvysleeper.org/costing-kids-sleep/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* What can Tableau users do with the new viz transitions feature in version 2020.1?",
+      "tags": [
+        "makeovermonday",
+        "sleep",
+        "vizanimations",
+        "viztransitions"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
