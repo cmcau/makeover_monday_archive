@@ -1,0 +1,133 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w52",
+  "title": "2022/W52: Average holiday Spending by Americans",
+  "description": "Average holiday spending over time by gift recipient",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/aa8f7dd2642869b252d010b2bbb930df5937f048b3935acd440c9920e5329b76_image.png)\n\n​\n\n## **Resources**\nData Source: [Exploding Topics](https://explodingtopics.com/blog/christmas-spending-stats)",
+  "version": "6fb15b61-1786-4f2e-a068-b7591b0162bd",
+  "tags": [
+    "makeover monday",
+    "holiday",
+    "gifts",
+    "christmas",
+    "americans",
+    "usa",
+    "united states",
+    "spending",
+    "year",
+    "family",
+    "friends",
+    "coworkers"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Average holiday Spending by Americans.xlsx",
+      "sizeInBytes": 9512,
+      "created": "2022-12-26T09:17:35.711298834Z",
+      "updated": "2022-12-26T09:17:35.711298834Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-12-26T09:11:57.834891416Z",
+  "updated": "2022-12-26T09:18:58.345955835Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w52",
+      "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+      "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+      "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "christmas",
+        "spending",
+        "consumption",
+        "us spending",
+        "us household spending",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w45",
+      "title": "2022/W45: Who do we spend time with across our lifetime?",
+      "description": "Who do we spend time with across our lifetime?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n​\n\n![](https://mediauploads.data.world/4dbd972bd83e21208b2c4e0bacd96618bebefe5a3d86e0e8fd5a7e18e73dd2bd_CleanShot_2022_11_07_at_5.39.29_2x.png)\n\n​\n\n## **References**\nOriginal article - [https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)\n\nData Source - [Our World in Data](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)\n\nWatch Me Viz - [https://youtu.be/XZliCbAyBX8](https://youtu.be/XZliCbAyBX8)",
+      "tags": [
+        "makeover monday",
+        "time spent",
+        "family",
+        "friends"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w49",
+      "title": "2022/W49: How Americans Perceive Demographics",
+      "description": "Americans were asked \"If you had to guess, what percentage of American adults...\"",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/e812c166422bab1e46200cc283d40a938d5886312df46f5327a949264c9582bb_CleanShot_2022_12_02_at_9.02.20_2x.png)\n\n## **Resources**\nOriginal article and data - [YouGovAmerica](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population)",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "united states",
+        "yougov",
+        "survey",
+        "proportion"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w50",
+      "title": "2022/W50: Which country gets the most paid vacation days?",
+      "description": "Which country gets the most paid vacation days?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/170e5d01ea1443c1452df70e9f36774a517f8c0cbb3f133c91b4124d2fddf89d_image.png)\n\n​\n\n## Resources\nData Source: [Resume.io](https://resume.io/blog/which-country-gets-the-most-paid-vacation-days)\nData collected and prepared by: [Yamil Medina](https://twitter.com/VIZMIXER) (please tag him)",
+      "tags": [
+        "makeover monday",
+        "vacation",
+        "holiday",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w16",
+      "title": "2023/W16: Retirement Ages Around the World",
+      "description": "At what age to people retire around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/f8d8119d5a5a6b7732d8ee917cecb9589616f4d44e23704b4ccfce3ca9d0a73f_image.png)\n\n​\n\n# Resources\nOriginal Article - [Statista](https://www.statista.com/chart/29570/european-average-effective-labor-market-exit-ages/)\nData Source - [OECD](https://stats.oecd.org/Index.aspx?QueryId=111940)\n\n​",
+      "tags": [
+        "makeover monday",
+        "age",
+        "oecd",
+        "retire",
+        "retirement",
+        "labour",
+        "labor",
+        "labor statistics",
+        "country",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
