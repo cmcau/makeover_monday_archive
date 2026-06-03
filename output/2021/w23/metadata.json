@@ -1,0 +1,138 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w23",
+  "title": "2021/W23: Never Married Is on the Rise",
+  "description": "Percentage of Never Married Adults by Sex and Age",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/iuXXZaFRT0yO61Nbw3ws_image.png)\n\n​\n\n# Resources\nOriginal Article: [Number, Timing and Duration of Marriages and Divorces](https://www.census.gov/newsroom/press-releases/2021/marriages-and-divorces.html)\nData Source: [U.S. Census](https://www.census.gov/content/dam/Census/library/publications/2021/demo/p70-167.pdf)",
+  "version": "89365fee-66a9-40f5-8e60-42f79883e359",
+  "tags": [
+    "makeover monday",
+    "gender",
+    "age",
+    "marriage",
+    "divorce",
+    "married"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Never Married.xlsx",
+      "sizeInBytes": 9526,
+      "created": "2021-06-06T09:01:43.764Z",
+      "updated": "2021-06-06T09:01:43.764Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-06-06T08:42:15.821Z",
+  "updated": "2021-06-06T09:01:59.291Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w25",
+      "title": "2023/W25: Divorces in England & Wales",
+      "description": "Annual divorce numbers and rates, by duration of marriage, sex and to whom granted and reason.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/ae8a7e6b480f50e5fc251a444985827c54f01ff764042b78bb434e09b1871233_CleanShot_2023_06_17_at_1.34.25_2x.png)\n\n​\n\n# Resources\n[Divorces in England & Wales](http://divorces%20in%20england%20and%20wales/)\nData Source: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales)",
+      "tags": [
+        "makeover monday",
+        "divorce",
+        "marriage",
+        "england",
+        "wales",
+        "rate",
+        "duration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w45",
+      "title": "2018/W45: US Population Projections by Age Group, 2016-2060",
+      "description": "US Population Projections by Age Group, 2016-2060",
+      "summary": "# **Original Visualization**\n![Image](https://www.census.gov/content/census/en/library/visualizations/2018/comm/historic-first/jcr:content/map.detailitem.800.high.jpg/1520945944549.jpg)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [United States Census Bureau](https://www.census.gov/library/visualizations/2018/comm/historic-first.html)\n* SOURCE: [United States Census Bureau](https://www.census.gov/data/datasets/2017/demo/popproj/2017-popproj.html)\n* ADDITIONAL INFORMATION: [Data Fields](https://www2.census.gov/programs-surveys/popproj/technical-documentation/file-layouts/2017/np2017_d1.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "race",
+        "population",
+        "projection",
+        "united states",
+        "usa",
+        "age"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w23",
+      "title": "2019/W23: Sleepless in America?",
+      "description": "The American Time Use Survey tracks how much Americans sleep by gender and age.",
+      "summary": "# **Original Visualization**\n![https://www.bls.gov/tus/charts/chart16.jpg](https://www.bls.gov/tus/charts/chart16.jpg)\n\n# **About this Dataset**\nIMAGE SOURCE: [American Time Use Survey](https://www.bls.gov/tus/charts/sleep.htm)\nDATA SOURCE: [American Time Use Survey](https://www.bls.gov/tus/database.htm)\n\n#### **ADDITIONAL RESOURCES**\n\n1. [The Connection between Sleep and Autoimmune Disease](https://www.nutritionaltherapyconference.com/wp-content/uploads/2016/04/NTA2016-Conference-Talk.pdf) - Sarah Ballantyne, PhD\n2. [National Sleep Foundation](https://www.sleepfoundation.org/)\n3. [Drowsy Driving](https://www.nhtsa.gov/risky-driving/drowsy-driving) - National Highway Traffic Safety Adminstration\n4. [Acute Sleep Deprivation and Risk of Motor Vehicle Crash Involvement](https://aaafoundation.org/acute-sleep-deprivation-risk-motor-vehicle-crash-involvement/) - AAA Foundation for Traffic Safety\n5. [Richard Smith: _Why We Sleep_ (Matthew Walker) book review](https://blogs.bmj.com/bmj/2018/06/20/richard-smith-why-we-sleep-one-of-those-rare-books-that-changes-your-worldview-and-should-change-society-and-medicine/) - the bmj opinion\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "sleep",
+        "america",
+        "united states",
+        "american time use survey",
+        "atus",
+        "gender",
+        "age",
+        "sex",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w28",
+      "title": "2021/W28: UK COVID Vaccination Coverage by Age & Ethnicity",
+      "description": "UK COVID Vaccination Coverage by Age & Ethnicity",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/ht8BguUUQXOedB9YSvq5_image.png)\n\n​\n\n# Resources\nArticle: [UK Vaccine Coverage by Age and Ethnicity](https://reports.opensafely.org/reports/vaccine-coverage/)\nData Source: [OpenSAFELY](https://reports.opensafely.org/reports/vaccine-coverage/)",
+      "tags": [
+        "makeover monday",
+        "age",
+        "ethnicity",
+        "race",
+        "uk",
+        "united kingdom",
+        "covid",
+        "coverage",
+        "vaccine"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w20",
+      "title": "2021/W20: What animal could you beat in a fight?",
+      "description": "What animal could you beat in a fight?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/SlswHsSjQ1esxT3PbnTj_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2021/05/13/lions-and-tigers-and-bears-what-animal-would-win-f)\nDATA SOURCE: [YouGov](https://docs.cdn.yougov.com/07vgk5e81j/YouGov%20-%20Human%20vs%20animal%20fight.pdf)",
+      "tags": [
+        "makeover monday",
+        "fight",
+        "animal",
+        "human",
+        "survey",
+        "gender",
+        "male",
+        "female"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
