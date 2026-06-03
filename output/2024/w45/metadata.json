@@ -1,0 +1,102 @@
+{
+  "owner": "makeovermonday",
+  "id": "individuals-using-the-internet-of-population",
+  "title": "Individuals using the Internet (% of population)",
+  "description": "This is the proportion of people that use the internet across the world.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-6840b94695034be49e3d5391fbdd9e45.png)\n\n​\n\nDatasource: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)\n\nArticle: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)",
+  "version": "777dcac8-4",
+  "tags": [
+    "makeovermonday",
+    "internet"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "% of people using the internet..xlsx",
+      "sizeInBytes": 109629,
+      "created": "2024-11-04T14:32:40.004034109Z",
+      "updated": "2024-11-04T14:32:40.004034109Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-11-04T14:27:23.259221043Z",
+  "updated": "2024-11-04T19:54:28.283894731Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 3,
+    "columnCount": 47
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w33-access-to-electricity-of-population",
+      "title": "2025/W33 Access to Electricity (% of Population)",
+      "description": "% of population who have access to electricity.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-cfc0a4ebe4c645eeaa81d710095f42ad.png)\n\nDatasource: [World Bank Group](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=map)\n\nArticle: [World Bank Group](https://blogs.worldbank.org/en/voices/How-to-close-Africa-energy-access-gap)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w9-world-population-estimates-projections",
+      "title": "2025/W9 World Population Estimates & Projections",
+      "description": "Population estimates and projections until 2050 by region & country.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-b6f04f1a8d2c493b854f4b911a987e8f.png)\n\nDatasource: [World Bank Group](https://datacatalog.worldbank.org/search/dataset/0037655/Population-Estimates-and-Projections)\n\nArticle: [World Bank Group](https://data.worldbank.org/indicator/SP.POP.GROW?name_desc=false)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "global-energy-consumption",
+      "title": "Global Energy Consumption",
+      "description": "How much energy does the world consume?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-3692b68c387b47b9a17e79ab31fbde45.png)\n\n​\n\nArticle and Datasource : [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)",
+      "tags": [
+        "energy",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "us-home-affordability",
+      "title": "US Home Affordability",
+      "description": "Metro-level summary: Annual income needed to afford a home, August 2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\nUS Version\n\n![](https://mediauploads-US.data.world/00000-datainformant-4c38d4dd894340f5852ac31388ffd2ee.png)\n\n​\n\nCanadian Version\n\n![](https://mediauploads-US.data.world/00000-datainformant-3dc07a1e6be543ff9221bbd3e0476537.png)\n\n​\n\nUS Article and Datasource : [A Homebuyer Needs to Earn $115,000 to Afford the Typical U.S. Home, More Than Ever Before (redfin.com)](https://www.redfin.com/news/homebuyer-income-afford-home-record-high/)\n\nCanadian Article and Datasource: [You won't believe how much income you now need to afford a home in Canada](https://www.newmarkettoday.ca/village-life/you-wont-believe-how-much-income-you-now-need-to-afford-a-home-in-canada-6654848)",
+      "tags": [
+        "home",
+        "tableau",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "life-expectancy-by-country-in-2025",
+      "title": "2025/W26 Life Expectancy by Country in 2025",
+      "description": "How Long People Live, by Country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-1fbb4b99e69049daa27b90994a38fe56.png)\n\n​\n\nDatasource : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\nArticle : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\n​",
+      "tags": [
+        "makeovermonday",
+        "life expectancy"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
