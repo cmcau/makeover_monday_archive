@@ -1,0 +1,69 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w8",
+  "title": "2020/W8: Australian Homelessness Services Housing Outcomes",
+  "description": "Housing outcomes for clients of Australian Specialist Homelessness Services",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://media.data.world/wtj6rnuxQfS81iAvO0iY_week%207%20original.png))\n\n# **About this Dataset**\nSOURCE ARTICLE: [Housing data dashboard](https://www.housingdata.gov.au/dashboard/rex4y12rnpp8rky) (specific view of the Sankey solution; more general view see www.housingdata.gov.au)\nDATA SOURCE: [Specialist homelessness services annual report 2017–18](https://www.aihw.gov.au/reports/homelessness-services/specialist-homelessness-services-2017-18/data) (Note that the attached is an adjusted file which has all the years needed to replicate the ‘Australia’ build in the dashboard – the link is to a single financial year of data only)\n\nPLEASE TAG @aihw ON TWITTER\nADDITIONAL INFORMATION: [Clients, services and outcomes](https://www.aihw.gov.au/reports/homelessness-services/specialist-homelessness-services-2017-18/contents/clients-services-and-outcomes)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "a19ff961-dc13-478a-86e0-605015f134cd",
+  "tags": [
+    "australia",
+    "homelessness",
+    "housing australia"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Housing outcomes.xlsx",
+      "sizeInBytes": 19264,
+      "created": "2020-02-22T18:32:23.941Z",
+      "updated": "2020-02-22T18:32:23.941Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-02-22T18:30:56.901Z",
+  "updated": "2020-02-23T09:29:10.866Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w34",
+      "title": "2020/W34: Sexual and Reproductive Health and Rights (SRHR)",
+      "description": "Sexual and Reproductive Health and Rights (SRHR)",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Main Dashboard.png](https://media.data.world/boFwVig9ToOkffjnzVMC_Main%20Dashboard.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: **Dashboard and documentation provided by OpFistula** - please see attachments (CSV, PDF) below\nDATA SOURCE: [Guttmacher Institute’s report: Adding It Up: Investing in\nContraception and Maternal and Newborn Health, 2017](https://www.guttmacher.org/sites/default/files/report_pdf/adding-it-up-2017-estimation-methodology.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n**Please include #Viz5 and tag @OpFistula in your tweets**",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "reproductive health",
+        "sexual health",
+        "womens rights",
+        "womens health"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w37-school-workforce-in-england",
+      "title": "2020/W37: School workforce in England",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/09/screenshot-2020-09-11-at-20.50.00.png](https://learningtableaublog.files.wordpress.com/2020/09/screenshot-2020-09-11-at-20.50.00.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [School workforce in England, Reporting Year 2019](https://explore-education-statistics.service.gov.uk/find-statistics/school-workforce-in-england#releaseHeadlines-charts)\nDATA SOURCE: [School Workforce Census](https://explore-education-statistics.service.gov.uk/find-statistics/school-workforce-in-england#releaseHeadlines-charts)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "schools",
+        "salaries",
+        "england"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
