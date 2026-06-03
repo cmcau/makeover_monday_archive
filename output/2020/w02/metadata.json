@@ -1,0 +1,75 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w2",
+  "title": "2020/W2: Use of harmful pesticides in US agriculture",
+  "description": "Use of harmful pesticides in US agriculture",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12940-019-0488-0/MediaObjects/12940_2019_488_Fig1_HTML.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The USA lags behind other agricultural nations in banning harmful pesticides](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-019-0488-0)\nDATA SOURCE: [Total Agricultural Pesticides Used in the USA and Banned in the EU, Brazil or China](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-019-0488-0/tables/1)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+  "version": "625c28ae-e3e9-436b-80e9-78c302ea9449",
+  "tags": [
+    "agriculture",
+    "usa",
+    "pesticides",
+    "eu",
+    "china",
+    "brazil",
+    "environment"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MM data week 2 2020.xlsx",
+      "sizeInBytes": 5201,
+      "created": "2020-01-11T16:42:15.130Z",
+      "updated": "2020-01-11T16:42:15.130Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-01-11T16:34:52.540Z",
+  "updated": "2020-01-12T10:16:05.377Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w43-apparel-exports-to-us",
+      "title": "2020/W43: Apparel Exports to US",
+      "description": "Apparel Exports to US",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-24-at-11.35.13.png](https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-24-at-11.35.13.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [workersrights.org](https://www.workersrights.org/wp-content/uploads/2020/10/Unpaid-Billions_October-6-2020.pdf)\nDATA SOURCE: [Data manually lifted from source article. Original source is Otexa](https://otexa.trade.gov/msrpoint.htm)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "trade",
+        "data",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w14",
+      "title": "2021/W14: Multiclass Classification of Dry Beans",
+      "description": "Multiclass Classification of Dry Beans",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n### **REQUIRED CITATION:**\nKOKLU, M. and OZKAN, I.A., (2020), “Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques.” Computers and Electronics in Agriculture, 174, 105507.\n\nDOI: https://doi.org/10.1016/j.compag.2020.105507\n\n​\n\n# **Original Visualization**\n![](https://ars.els-cdn.com/content/image/1-s2.0-S0168169919311573-gr10.jpg)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLA: [Multiclass Classification of Dry Beans](https://www.sciencedirect.com/science/article/abs/pii/S0168169919311573)\nDATA SOURCE: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "food",
+        "beans",
+        "classification",
+        "dry beans",
+        "data visualization",
+        "bar chart",
+        "research"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
