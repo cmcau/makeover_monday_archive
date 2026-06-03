@@ -1,0 +1,102 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024-w47-who-spends-the-most-time-on-social-media",
+  "title": "2024/ w47 : Who Spends the Most Time on Social Media?",
+  "description": "top countries by social media use",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nvisualistion : https://www.visualcapitalist.com/who-spends-the-most-time-on-social-media/\n\nData: Cable.co.uk\n\n![](https://mediauploads-US.data.world/00000-idiomind-86f0b9da801d4bcc9b95e8f5dd6bafc2.png)\n\n​\n\n​",
+  "version": "112731e6-4",
+  "tags": [
+    "media",
+    "social media"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Daily_Social_Media_Use.xlsx",
+      "sizeInBytes": 5975,
+      "created": "2024-11-18T15:25:37.211934947Z",
+      "updated": "2024-11-18T15:25:37.211934947Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-11-18T15:25:01.595115780Z",
+  "updated": "2024-11-18T15:27:29.693923362Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "social-media-usage",
+      "title": "Social Media Usage",
+      "description": "Who uses each social media platform?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-237478fdf63643c7899fae30d32299d8.png)\n\n​\n\nSOURCE  & ARTICLE : [Demographics of Social Media Users and Adoption in the United States | Pew Research Center](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)",
+      "tags": [
+        "social media",
+        "demographics",
+        "technology",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-w48-christmasgiftsdesirabilityusuk2024",
+      "title": "2024/ w48 Christmas_Gifts_Desirability_US_UK_2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nChristmas: https://www.statista.com/statistics/1084794/christmas-gifts-desired-by-uk-consumers/\n\n![](https://mediauploads-US.data.world/00000-idiomind-a0017270bb5c4af5918620582c5891e0.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-050bbb79ae1e409fba750394c46356f3.png)\n\n",
+      "tags": [
+        "christmas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "the-most-reliable-car-brands",
+      "title": "The Most Reliable Car Brands",
+      "description": "A list of the most reliable car brands in the US",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n**Original Visualization**\n\n\n![](https://mediauploads-US.data.world/00000-datainformant-e90cd5a11d3545879f53b6634bfeee88.jpg)\n\n​\n\nSOURCE  & ARTICLE : [Ranked: The Most Reliable Car Brands in the U.S. (visualcapitalist.com)](https://www.visualcapitalist.com/ranked-the-most-reliable-car-brands-in-the-u-s/)",
+      "tags": [
+        "cars",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w52-how-does-our-spending-change-in-december",
+      "title": "2024/W52 How Does Our Spending Change in December?",
+      "description": "December Average Percent Increase By Commodity Category",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-fc030a4dbf4b4cedb692493b5aa0ac5f.png)\n\nDatasource: [ONS and Bank Calculations](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas)\n\nArticle: [Bank of England](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w33-1976-2020-us-presidential-election-results-by-state",
+      "title": "2024/W33 1976-2020 US Presidential Election Results by State",
+      "description": "US presidential election 1976 to 2020",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata source :[https://www.kaggle.com/datasets/tunguz/us-elections-dataset/data](https://www.kaggle.com/datasets/tunguz/us-elections-dataset/data)\n\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-a47825002058473281252abe9f8e0e9c.png)\n\n",
+      "tags": [
+        "eletion",
+        "politics"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
