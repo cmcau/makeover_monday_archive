@@ -1,0 +1,105 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w11-growth-in-irish-whiskey-sales",
+  "title": "2018/W11: Growth in Irish Whiskey Sales",
+  "description": "St. Patrick's Day Special - Growth in Irish Whiskey Sales",
+  "summary": "# **Original Visualization**\n![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUqXAfGoXTfU/v1/-1x-1.png)\n\n# **About this Dataset**\nSOURCE: [Board Bia](https://twitter.com/Bordbia) via [The IWSR](https://twitter.com/TheIWSR)\n\nWhen you tweet your viz, be sure to tag:\n1. [@Bordbia](https://twitter.com/Bordbia)\n2. [@TheIWSR](https://twitter.com/TheIWSR)\n3. [@GlendaloughDist](https://twitter.com/GlendaloughDist)\n4. [@InfoLabIE](https://twitter.com/infolabIE)\n5. Include #DataVizKey\n\n# **Contest**\n\nTo celebrate St. Patrick’s Day 2018, we’re providing whiskey themed data and our three favorite vizzes from the week will each receive one bottle of double barrel whiskey courtesy of [Glendalough Distillery](http://www.glendaloughdistillery.com/). We’ll pick the winners from the data.world main discussion next **Friday at 3pm GMT**. Be sure to post your vizzes there if you want to be considered.\n\n![MakeoverMonday_w_InfoLab_Twitter (2).jpg](https://media.data.world/Jm3JGaQYSByHEToeWgFd_MakeoverMonday_w_InfoLab_Twitter%20(2).jpg)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "d37cf0ca-dc14-46d8-9c00-cffef232baf3",
+  "tags": [
+    "whisky",
+    "whiskey",
+    "ireland",
+    "irish",
+    "st patricks day",
+    "bordbia",
+    "the iwsr",
+    "irish food board",
+    "time series",
+    "volume",
+    "drinking",
+    "liquor",
+    "alcohol"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Irish Whiskey Sales by Volume.xlsx",
+      "sizeInBytes": 93042,
+      "created": "2018-03-10T11:38:36.589Z",
+      "updated": "2018-03-10T11:38:36.589Z",
+      "description": "Cleaned data to be used for the analysis",
+      "labels": [
+        "clean data"
+      ],
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Irish Whiskey Worldwide 1990 to the present.xlsx",
+      "sizeInBytes": 40765,
+      "created": "2018-03-10T12:41:22.395Z",
+      "updated": "2018-03-10T12:41:22.395Z",
+      "description": "Original (uncleaned) data set - this is for reference only. Use the other data set for analysis.",
+      "labels": [
+        "raw data"
+      ],
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-03-10T11:38:36.600Z",
+  "updated": "2018-03-11T14:06:09.206Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 2,
+    "columnCount": 35
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "london-cycle-hire-usage",
+      "title": "2018/W26: London Cycle Hire Usage",
+      "description": "London Cycle Hire Usage",
+      "summary": "![Screen Shot 2018-06-21 at 12.19.45 pm.png](https://media.data.world/OSkqtJC1TPapfFJMtaGp_Screen%20Shot%202018-06-21%20at%2012.19.45%20pm.png)\n\n# **About this Dataset**\n* DATA SOURCE: [Transport for London](http://cycling.data.tfl.gov.uk/)\n* DESIGNER: [Sophie Sparks](https://twitter.com/sophie_sparkes)\n* INTERACTIVE VERSION: [Tableau Public](https://public.tableau.com/en-us/s/gallery/boris-bikes-daily-usage)\n\n# **NOTES**\n1. To connect to Exasol data source (50M+ records from 2012-2018) use the Tableau Data Source [here](https://fileshare.theinformationlab.co.uk/index.php/s/8xVZze3BZnjl1oh).\n2. Details for connecting to Exasol can be found in [this blog post](http://www.makeovermonday.co.uk/big-data/).\n3. If you have trouble downloading the CSV from data.world, you can download it [here](https://fileshare.theinformationlab.co.uk/index.php/s/lJwnY5V2I8Frali) instead. \n4. The CSV only contains data for 2017.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "cycling",
+        "london",
+        "boris bikes",
+        "santander",
+        "cycle hire",
+        "bike hire",
+        "rental",
+        "transportation",
+        "transport for london",
+        "tfl"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w23-uk-gender-pay-gap",
+      "title": "2018/W23: U.K. Gender Pay Gap",
+      "description": "U.K. Gender Pay Gap",
+      "summary": "# **Original Visualization**\n![6268-HMRC-Gender-Pay-Gap-_HMRC__v3_MB_20171205-4.gif](https://media.data.world/UfLDYT9CR2sL14SFGosl_6268-HMRC-Gender-Pay-Gap-_HMRC__v3_MB_20171205-4.gif)\n\n# **About this Dataset**\nSOURCE: [GOV.UK](https://www.gov.uk/government/publications/hmrc-and-voa-gender-pay-gap-report-and-data-2017/hm-revenue-and-customs-gender-pay-gap-report-2017)\n\nPlease use the #genderpaygap hashtag when you post on Twitter. Also tag @govuk @voagovuk and @aislingroberts.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n# **Notes & Explanations**\n## Difference in hourly rate\nThe mean hourly rate is the average hourly wage across the entire organization so the mean gender pay gap is a measure of the difference between women’s mean hourly wage and men’s mean hourly wage.\n\nFor example, if the mean is positive, then women are paid less than men by the percentage listed.\n\nThe median hourly rate is calculated by ranking all employees from the highest paid to the lowest paid, and taking the hourly wage of the person in the middle; so the median gender pay gap is the difference between women’s median hourly wage (the middle paid woman) and men’s median hourly wage (the middle paid man).\n\nFor example, if the median is positive, then women are paid less than men by the percentage listed.\n\n## Proportion of women in each pay quartile\nPay quartiles are calculated by splitting all employees in an organisation into four even groups according to their level of pay. Looking at the proportion of women in each quartile gives an indication of women's representation at different levels of the organisation.\n\n![Screen Shot 2018-06-02 at 9.07.42 pm.png](https://media.data.world/B6RCWCCmQCK9bJRuKCBQ_Screen%20Shot%202018-06-02%20at%209.07.42%20pm.png)\n\n## Company Lookup\nFind any company at https://gender-pay-gap.service.gov.uk/. \n\n## Example\nAs an example, consider [Red Band Chemical Company](https://gender-pay-gap.service.gov.uk/viewing/employer-details?e=zfHBmPVe7y86yXwqcStdLg%21%21).\n\nDifference in hourly rate\nWomen’s mean hourly rate is 2.3% lower than men’s\nIn other words when comparing mean hourly rates, women earn 98p for every £1 that men earn.\n\nWomen’s median hourly rate is 2.7% higher than men’s\nIn other words when comparing median hourly rates, women earn £1.03 for every £1 that men earn.\n\nProportion of women in each pay quartile\n\nWho received bonus pay\n66.7% of women\n15.6% of men\nDifference in bonus pay\nWomen’s mean bonus pay is 15% lower than men’s\nWomen’s median bonus pay is 37.5% lower than men’s\n\n",
+      "tags": [
+        "united kingdom",
+        "gender",
+        "pay",
+        "gap",
+        "companies",
+        "makeover monday",
+        "hmrc",
+        "valuation office agency",
+        "voa"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
