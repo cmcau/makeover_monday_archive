@@ -1,0 +1,130 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w11-self-reported-life-satisfaction-vs-gdp-per-capita",
+  "title": "2020/W11: Self-reported Life Satisfaction vs GDP per capita",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![gdp-vs-happiness.png](https://media.data.world/booMJcXbQZKHymqVU3il_gdp-vs-happiness.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Our World in Data](https://ourworldindata.org/happiness-and-life-satisfaction)\nDATA SOURCE: [World Bank](https://datacatalog.worldbank.org/dataset/world-development-indicators)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n* I've added three data files. One associated with the original visualisation, one to allow you to assign countries to regions, or a .hyper file for Tableau users which joined the two sources together if you can't figure out how to do it yourselves!",
+  "version": "2560293c-1760-4978-9f1b-198cf2772ca7",
+  "tags": [
+    "makeover monday",
+    "happiness",
+    "gdp per capita"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Region LookUp.xlsx",
+      "sizeInBytes": 15342,
+      "created": "2020-03-14T12:13:59.262Z",
+      "updated": "2020-03-14T12:13:59.262Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    },
+    {
+      "name": "Week11.hyper",
+      "sizeInBytes": 131072,
+      "created": "2020-03-14T12:14:13.534Z",
+      "updated": "2020-03-14T12:14:13.534Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    },
+    {
+      "name": "gdp-vs-happiness.csv",
+      "sizeInBytes": 1488000,
+      "created": "2020-03-14T12:13:49.763Z",
+      "updated": "2020-03-14T12:13:49.763Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-03-14T12:12:38.361Z",
+  "updated": "2020-03-17T07:28:47.474Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 3,
+    "tableCount": 2,
+    "columnCount": 9
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w19-world-happiness-report-2020",
+      "title": "2020/W19: World Happiness Report 2020",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://worldhappiness.report/assets/images/2020/whr-2020-ch-02-fig-2-1-part1.png](https://worldhappiness.report/assets/images/2020/whr-2020-ch-02-fig-2-1-part1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [World Happiness Report](https://worldhappiness.report)\nDATA SOURCE: [Gallup World Poll](https://worldhappiness.report)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "happiness",
+        "bar chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w13-does-pineapple-belong-on-a-pizza",
+      "title": "2020/W13 Does pineapple belong on a pizza?",
+      "description": "Does pineapple belong on a pizza?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![gdp-vs-happiness.png](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2017-03-06/Pizza-01.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://yougov.co.uk/topics/politics/articles-reports/2017/03/06/does-pineapple-belong-pizza)\nDATA SOURCE: [YouGov](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/7ordz029w2/InternalResults_170228_Pizza_W.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n* What is your favourite pizza topping?",
+      "tags": [
+        "makeover monday",
+        "pizza",
+        "pie"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w16",
+      "title": "2020/W16: Food: Greenhouse Gas Emission across supply chain",
+      "description": "Food: Greenhouse Gas Emission across supply chain",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://ourworldindata.org/uploads/2020/02/Environmental-impact-of-food-by-life-cycle-stage-1536x1380.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Focus on what you eat, not whether your food is local](https://ourworldindata.org/food-choice-vs-eating-local)\nDATA SOURCE: [GHG emissions by Lifecycle stage](https://ourworldindata.org/uploads/2020/02/GHG-emissions-by-life-cycle-stage-OurWorldinData-upload.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "food",
+        "climate change",
+        "greenhouse gas emissions",
+        "eat local",
+        "methane",
+        "beef"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w22",
+      "title": "2019/W22: CO2 Emissions per capita",
+      "description": "CO2 Emissions per capita in metric tonnes",
+      "summary": "# **Original Visualization**\n\n![image.png](https://media.data.world/lv4WmY9SRt23LieYwE2J_image.png)\n\n\n# **About this Dataset**\nSOURCE ARTICLE: [CO2 Emissions per capita](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&locations=AU-BE-CA-CN-DK-DE-IN-MX-US&start=1960&view=chart)\nDATA SOURCE: [World Bank](http://api.worldbank.org/v2/en/indicator/EN.ATM.CO2E.PC?downloadformat=csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "climate change",
+        "global warming",
+        "world bank",
+        "co2 emissions"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w40-five-year-cancer-survival-rates-in-america",
+      "title": "2018/W41: Five Year Cancer Survival Rates in America",
+      "description": "Five Year Cancer Survival Rates in America",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://d33wubrfki0l68.cloudfront.net/fe62b7afdbade311b976b5407272bcc613ccb585/9403b/wp-content/uploads/2018/03/five-year-cancer-survival-rates-usa-v2-01-768x563.png)\n\n# **About this Dataset**\nSOURCE: [Our World in Data](https://ourworldindata.org/cancer#are-death-rates-from-cancer-rising)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "cancer",
+        "america",
+        "usa",
+        "united states",
+        "survival",
+        "rate",
+        "data"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
