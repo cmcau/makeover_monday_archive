@@ -1,0 +1,97 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w6-britains-national-grid-energy-sources",
+  "title": "2025/W6 Britain's National Grid Energy Sources",
+  "description": "YTD National Grid energy demands and breakdown of sources",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-fcf3c64d2ad9477197adb1d80a8f87d9.png)\n\n​\n\nDatasource: [Elexon Insights Solution, National Grid ESO’s Data Portal, and the Carbon Intensity API](https://grid.iamkate.com/)\n\nArticle: [National Grid: Live](https://grid.iamkate.com/)",
+  "version": "77f195a1-5",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "National_Grid_Energy_Breakdown.csv",
+      "sizeInBytes": 1798,
+      "created": "2025-02-02T10:30:30.684697964Z",
+      "updated": "2025-02-02T10:30:30.684697964Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-02-02T10:25:24.605902832Z",
+  "updated": "2025-02-02T10:33:28.569648090Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w21-metacritic-best-games-of-all-time",
+      "title": "2025/W21 Metacritic Best Games of All Time",
+      "description": "All games with a 90+ metascore (critic reviews) on Metacritic",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-59c00425eae94d5781efdb407cecfdad.png)\n\nDatasource: [Metacritic](https://www.metacritic.com/browse/game/)\n\nArticle: [Metacritic](https://www.metacritic.com/browse/game/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w12-precipitation-anomalies",
+      "title": "2025/W12 Precipitation Anomalies",
+      "description": "The difference in a specific year's total precipitation — rain and snow — from the 1991–2020 average, measured in mm.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a2a069a6bf8e4533af0319830e0fc1bc.png)\n\nDatasource: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)\n\nArticle: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w24-world-crude-steel-production",
+      "title": "2025/W24 World Crude Steel Production",
+      "description": "Major steel-producing countries 2023 and 2024. Measured in million tonnes for crude steel production.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a61be337b34d4b1397feb09a29190414.png)\n\nDatasource: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)\n\nArticle: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w9-world-population-estimates-projections",
+      "title": "2025/W9 World Population Estimates & Projections",
+      "description": "Population estimates and projections until 2050 by region & country.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-b6f04f1a8d2c493b854f4b911a987e8f.png)\n\nDatasource: [World Bank Group](https://datacatalog.worldbank.org/search/dataset/0037655/Population-Estimates-and-Projections)\n\nArticle: [World Bank Group](https://data.worldbank.org/indicator/SP.POP.GROW?name_desc=false)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "generative-ai-search-trends-in-the-united-states",
+      "title": "2024/W8 Generative AI Search Trends in the United States",
+      "description": "US percentage of searches breakdown for the search terms ‘Midjourney’, ‘Stable Diffusion’ & ‘DALL-E’ since January 2022.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-40c8b1b880a94ec196ebd0418f2c43d6.png)\n\nDatasource : [Google Trends](https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng)\n\nArticle : [Google Trends](https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
