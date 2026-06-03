@@ -1,0 +1,129 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w40",
+  "title": "2023/W40: Scary Dreams in America",
+  "description": "What does Google Trends tell us about scary dreams in America?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/d5448209097a520c05acc852bbd1de1f9d50c6483cf9055afd2261d5f26eb03e_CleanShot_2023_10_01_at_1.22.51_2x.png)\n\n​\n\n## Resources\nData Source: [Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB)",
+  "version": "a0aa1cf2-4",
+  "tags": [
+    "united states",
+    "dreams",
+    "makeover monday",
+    "america",
+    "google trends"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Scary Dreams.csv",
+      "sizeInBytes": 2159,
+      "created": "2023-10-01T12:21:45.456225747Z",
+      "updated": "2023-10-01T12:21:45.456225747Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-10-01T12:20:47.988732865Z",
+  "updated": "2023-10-01T12:23:11.224387098Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w38",
+      "title": "2023/W38: Monthly Eviction Filings in America",
+      "description": "Monthly evictions for 10 states and 34 cities",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/67d6f833ba02ceb0593110e50f9f169b84c5df876f3692f9d96d1044724d1030_CleanShot_2023_09_17_at_12.22.40_2x.png)\n\n​\n\n## Resources\nWebsite: [America's Eviction Crisis](https://evictionlab.org/eviction-tracking/)\nData Source: [Eviction Lab](https://evictionlab.org/eviction-tracking/get-the-data/)",
+      "tags": [
+        "united states",
+        "usa",
+        "evictions",
+        "america",
+        "eviction lab",
+        "month",
+        "date",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w5",
+      "title": "2023/W5: NYC Pizza Slices",
+      "description": "The cost of pizza slices in New York City",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5ff1b511714c125421488192110e1ec4ee7bac8e5ecacd07af8c1af5a9f4d796_CleanShot_2023_01_14_at_10.33.51_2x.png)\n\n​\n\n## **Resources**\nSource: [NYC pizza slices](https://elkue.com/nyc-slice/) (via Data Is Plural)\nData Source: [Liam Quigley](https://elkue.com/) | [Data](https://docs.google.com/spreadsheets/d/1EY3oi9ttxybG0A0Obtwey6BFu7QLqdHe02JApijgztg/edit)\n\n​",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "nyc",
+        "new york city",
+        "food",
+        "pizza",
+        "ratings",
+        "location",
+        "slice",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w12",
+      "title": "2023/W12: US Wind Turbines",
+      "description": "Locations of wind turbines in the US, wind project information, and turbine technical specifications",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5632aae2a4df6f1a7b70015f1cddc2a371d4384d84305c1674d67664a8f94f02_CleanShot_2023_02_22_at_12.05.18_2x.png)\n\n​\n\n## **Resources**\nVisualization: [U.S. Wind Turbines](https://eerscmap.usgs.gov/uswtdb/viewer/#3/37.25/-96.25)\nData Source: [U.S. Wind Turbine Database](https://eerscmap.usgs.gov/uswtdb/data/) | [Metadata](https://eerscmap.usgs.gov/uswtdb/api-doc/#keyValue) | [About](https://eerscmap.usgs.gov/uswtdb/)",
+      "tags": [
+        "makeover monday",
+        "science",
+        "wind energy",
+        "turbine",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w6",
+      "title": "2023/W6: Small Business Applications and Loan Amounts",
+      "description": "Small Business Applications and Loan Amounts by Race/Ethnicity",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/fec139a3cdddd3a1344d97dc9e8568dc07995a0766f5d2ef43cf948f750b6d94_CleanShot_2023_01_14_at_10.43.30_2x.png)\n\n​\n\n## **Resources**\n[Small Business Applications and Loan Amounts by Race/Ethnicity](https://blackwealthdata.org/explore/business)\nData Source: [U.S. Small Business Administration](https://data.sba.gov/dataset/7-a-504-foia)",
+      "tags": [
+        "makeover monday",
+        "wealth",
+        "indicator",
+        "business",
+        "ownership",
+        "race",
+        "ethnicity",
+        "usa",
+        "small business"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "generative-ai-search-trends-in-the-united-states",
+      "title": "2024/W8 Generative AI Search Trends in the United States",
+      "description": "US percentage of searches breakdown for the search terms ‘Midjourney’, ‘Stable Diffusion’ & ‘DALL-E’ since January 2022.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-40c8b1b880a94ec196ebd0418f2c43d6.png)\n\nDatasource : [Google Trends](https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng)\n\nArticle : [Google Trends](https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
