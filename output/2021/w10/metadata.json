@@ -1,0 +1,46 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w10",
+  "title": "2021/W10: IOC Hits New Record with 47.7% Women",
+  "description": "International Women's Day: IOC Hits New Record with 47.7% Women",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://media.data.world/pKRffSQgT5OqhygaftDE_image.png)\n\n​\n\n## **About This Dataset**\nSOURCE: [International Women's Day: ](https://swimswam.com/ioc-hits-new-record-with-47-7-women/)[IOC Hits New Record with 47.7% Women](https://swimswam.com/ioc-hits-new-record-with-47-7-women/)\nDATA SOURCE: [International Olympic Committee](https://stillmedab.olympic.org/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Women-in-the-Olympic-Movement/Factsheet-Women-in-the-Olympic-Movement.pdf#_ga=2.150741558.1281153798.1612817630-235483746.1612817630)",
+  "version": "09dce4e9-798d-4d2f-acbb-776fe385e507",
+  "tags": [
+    "makeover monday",
+    "women",
+    "female",
+    "gender",
+    "gender inequality",
+    "gender equality",
+    "olympics",
+    "ioc",
+    "sports",
+    "sport",
+    "competition",
+    "participation",
+    "international womens day"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Women-in-the-Olympic-Movement.xlsx",
+      "sizeInBytes": 12724,
+      "created": "2021-03-07T17:27:02.296Z",
+      "updated": "2021-03-07T17:27:02.296Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-03-07T17:12:40.044Z",
+  "updated": "2021-03-07T17:27:17.248Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [],
+  "isProject": false
+}
