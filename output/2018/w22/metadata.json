@@ -1,0 +1,123 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w22-the-worlds-most-expensive-prime-property",
+  "title": "2018/W22: The World's Most Expensive Prime Property",
+  "description": "The world's most expensive prime property",
+  "summary": "# **Original Visualization**\n![supporting image or chart](https://assets.weforum.org/editor/uX4EB2egK_UruZm2vfPH86YDbapgsHa4uL34QLayhnc.png)\n\n# **About this Dataset**\nSOURCE: [WeForum](https://www.weforum.org/agenda/2018/04/chart-of-the-day-the-worlds-most-expensive-prime-property)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "7d4b4c76-b877-40a8-b5b5-045453d222e4",
+  "tags": [
+    "real estate",
+    "global cities",
+    "treemap"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Real estate sqm for 1m USD.xlsx",
+      "sizeInBytes": 8616,
+      "created": "2018-05-23T13:19:42.050Z",
+      "updated": "2018-05-23T13:19:42.050Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-05-23T13:19:41.808Z",
+  "updated": "2018-05-27T12:11:07.231Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w37-paying-the-president",
+      "title": "2018/W37: Paying the President",
+      "description": "Spending at Trump properties by ProPublica - Collaboration with #WorkoutWednesday",
+      "summary": "# **Original Visualization**\n![](https://view.dwcontent.com/file_view/makeovermonday/2018w37-paying-the-president/Screen%20Shot%202018-09-08%20at%2010.14.48%20am.png?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OnZpendpeiIsImlzcyI6ImFnZW50OnZpendpejo6MDkwZjJhODItYThkMS00YzQ1LWFjY2QtZmU2ZjIwYzZmZGRlIiwiaWF0IjoxNTM2Mzk4MzU0LCJyb2xlIjpbInVzZXIiLCJ1c2VyX2FwaV9hZG1pbiIsInVzZXJfYXBpX3JlYWQiLCJ1c2VyX2FwaV93cml0ZSJdLCJnZW5lcmFsLXB1cnBvc2UiOmZhbHNlLCJ1cmwiOiJmYTQ4OTEyZTVmYjJlNjZkYTVhYWU5OWYxNTk1YzIzNjBmZjllOTQ2In0.rpaG4qKeBbA67lKLEyl3ANqTEAhkomoQTvNGs7M2KnS8RriYnmQY1aPoxqiF1qOEHMGwNM2gUdgL2nkGN1GWuA)\nORIGINAL ARTICLE: [ProPublica](https://projects.propublica.org/paying-the-president/)\n\n# **About this Dataset**\nDATA SOURCE: [ProPublica](https://www.propublica.org/datastore/dataset/spending-at-trump-properties)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "workout wednesday",
+        "propublica",
+        "donald trump",
+        "america",
+        "united states",
+        "president",
+        "spending",
+        "campaign",
+        "election",
+        "taxpayer"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-6-baseball-demographics-1947-2016",
+      "title": "2018/W6: Baseball Demographics (1947-2016)",
+      "description": "Baseball Demographics (1947-2016)",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://sabr.org/sites/default/files/MLB-Demographics-Armour-Levitt-Figure1.png)\n\n# **About this Dataset**\nSOURCE: [Society for American Baseball Research](https://sabr.org/bioproj/topic/baseball-demographics-1947-2012)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "black history month",
+        "diversity",
+        "baseball"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w12-uk-pet-population-in-2017",
+      "title": "2018/W12: UK Pet Population in 2017",
+      "description": "UK Pet Population in 2017",
+      "summary": "# **Original Visualization**\n![week 12 original.png](https://media.data.world/N4l9vaEiRZuE2EXRk68K_week%2012%20original.png)\n\n# **About this Dataset**\nSOURCE: [Pet Food Manufacturers Association](https://www.pfma.org.uk/pet-population-2017)\n\n[Annual Report 2017, p. 14](https://www.pfma.org.uk/_assets/docs/annual-reports/PFMA-Annual-Report-2016.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "uk data",
+        "pet population",
+        "pets",
+        "cats and dogs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w15-arctic-sea-ice-extent",
+      "title": "2018/W15: Arctic Sea Ice Extent",
+      "description": "Arctic Sea Ice Extent",
+      "summary": "# **Original Visualization**\n![Arctic Sea Ice Extent.png](https://media.data.world/kGQkaedESxureoL4oUcE_Arctic%20Sea%20Ice%20Extent.png)\n\n# **About this Dataset**\nSOURCE: [National Snow & Ice Data Center](https://nsidc.org/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "arctic",
+        "sea ice",
+        "global warming",
+        "ocean",
+        "water",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
