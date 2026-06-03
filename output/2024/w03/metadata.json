@@ -1,0 +1,101 @@
+{
+  "owner": "makeovermonday",
+  "id": "britions-newyearsresolutions-2024",
+  "title": "2024/W3: Britons New_Years_Resolutions 2024",
+  "description": "2024 New Year Resolutions",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/1e3a834a63ecdf92309a198225984f12fd011d025a3010fe815cc6ae289dcd29_Screenshot_2024_01_14_at_21.39.11.png)\n\n​\n\nSOURCE: [YouGov](https://ygo-assets-websites-editorial-emea.yougov.net/documents/YouGov_-_New_Years_resolutions_2024.pdf)\n\nARTICLE: [https://insideoutmastery.com/new-years-resolution-statistics/](https://insideoutmastery.com/new-years-resolution-statistics/)\n\n#\n#",
+  "version": "3cb92542-19",
+  "tags": [
+    "makeover monday",
+    "resolution"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Full_New_Years_Resolutions_Gender_Age_Breakdown (1).xlsx",
+      "sizeInBytes": 9415,
+      "created": "2024-01-14T23:13:08.647403747Z",
+      "updated": "2024-01-14T23:13:08.647403747Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    },
+    {
+      "name": "Full_New_Years_Resolutions_Gender_Age_Breakdown-2.xlsx",
+      "sizeInBytes": 9510,
+      "created": "2024-01-16T00:35:05.817345908Z",
+      "updated": "2024-01-16T00:35:05.817345908Z",
+      "description": "Same data as above bus this dataset includes All which account to the total regardless of gender ",
+      "labels": [],
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-01-14T22:02:35.182486153Z",
+  "updated": "2024-01-16T00:35:59.676002486Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 2,
+    "columnCount": 15
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w51-new-year-resolution-tweets-in-us",
+      "title": "2025/W51 New Year Resolution in US",
+      "description": "What were Americans’ New Year’s Resolutions for 2025?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-f2a2a086c7264f8e9a5ac27ff3d4db86.jpg)\n\n​\n\nDatasource & Article: [YouGov US 2025 New Year's Resolutions](https://today.yougov.com/society/articles/51144-what-are-americans-new-years-resolutions-for-2025)",
+      "tags": [
+        "makeovermonday",
+        "resolutions"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w3",
+      "title": "2023/W3: Interstate and Cross-Border 2022 Migration Patterns",
+      "description": "US & Canada Interstate and Cross-Border 2022 Migration Patterns",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/791435034a9a6bc43ae30eb211d3b96223434aa3b6feebf138f2380aba290cf6_CleanShot_2023_01_13_at_10.17.16_2x.png)\n\n​\n\n## **Resources**\nArticle: [Interstate and Cross-Border 2022 Migration Patterns](https://www.atlasvanlines.com/resources/migration-patterns)\nData Source: Atlas Van Lines",
+      "tags": [
+        "makeover monday",
+        "commerce",
+        "migration",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w10",
+      "title": "2021/W10: IOC Hits New Record with 47.7% Women",
+      "description": "International Women's Day: IOC Hits New Record with 47.7% Women",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://media.data.world/pKRffSQgT5OqhygaftDE_image.png)\n\n​\n\n## **About This Dataset**\nSOURCE: [International Women's Day: ](https://swimswam.com/ioc-hits-new-record-with-47-7-women/)[IOC Hits New Record with 47.7% Women](https://swimswam.com/ioc-hits-new-record-with-47-7-women/)\nDATA SOURCE: [International Olympic Committee](https://stillmedab.olympic.org/media/Document%20Library/OlympicOrg/Factsheets-Reference-Documents/Women-in-the-Olympic-Movement/Factsheet-Women-in-the-Olympic-Movement.pdf#_ga=2.150741558.1281153798.1612817630-235483746.1612817630)",
+      "tags": [
+        "makeover monday",
+        "women",
+        "female",
+        "gender",
+        "gender inequality",
+        "gender equality",
+        "olympics",
+        "ioc",
+        "sports",
+        "sport",
+        "competition",
+        "participation",
+        "international womens day"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
