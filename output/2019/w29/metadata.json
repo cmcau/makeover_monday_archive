@@ -1,0 +1,131 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w29",
+  "title": "2019/W29: Share of Americans Not Having Sex",
+  "description": "The share of Americans not having sex has reached a record high",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/OntaCUBdQkuspoAphzgv\\_MM.png](https://media.data.world/OntaCUBdQkuspoAphzgv_MM.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Washington Post](https://www.washingtonpost.com/business/2019/03/29/share-americans-not-having-sex-has-reached-record-high/)\nDATA SOURCE: [General Social Survey](https://gssdataexplorer.norc.org/variables/5057/vshow)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "c55bbe62-9a17-48eb-b518-47025f774d0f",
+  "tags": [
+    "makeover monday",
+    "sex",
+    "washington post",
+    "time series",
+    "year",
+    "line chart",
+    "frequency"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Americans Sex Frequency.xlsx",
+      "sizeInBytes": 9963,
+      "created": "2019-07-11T17:16:48.007Z",
+      "updated": "2019-07-11T17:16:48.007Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-07-11T17:16:38.245Z",
+  "updated": "2019-07-14T11:37:05.034Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 19
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w24",
+      "title": "2019/W24: Same-sex couples and sexual relations",
+      "description": "Is it wrong for same-sex couples to have sexual relations?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original.png](https://media.data.world/cseAE3pFSLayNDmskj0k_Original.png)\n\n# **About this Dataset**\nSOURCE: [GSS Data Explorer](https://gssdataexplorer.norc.org/trends/Gender%20&%20Marriage?measure=homosex)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n\n",
+      "tags": [
+        "pride month",
+        "lgbti",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w31",
+      "title": "2019/W31: STD Infection Rates in America",
+      "description": "How have rates changed by disease, year, state, gender, and age?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/YcRQEE4TSrS75v74BQDX\\_Screenshot%202019-07-26%20at%2011.24.04%20am.png](https://media.data.world/YcRQEE4TSrS75v74BQDX_Screenshot%202019-07-26%20at%2011.24.04%20am.png)\n\n​\n\n### **About this Dataset**\nORIGINAL VIZ: [Tableau Public](https://public.tableau.com/profile/andy.kriebel#!/vizhome/STDs1996-2008/STDInfectionRates)\nCREATED BY: [Andy Kriebel | @VizWizBI](https://twitter.com/VizWizBI)\nDATA SOURCE: [CDC](https://wonder.cdc.gov/controller/datarequest/D128)\n\n​\n\n### **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "population",
+        "time series",
+        "year",
+        "usa",
+        "united states",
+        "std",
+        "sex",
+        "disease",
+        "gender",
+        "age",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w6",
+      "title": "2020/W6: How much of your life the US has been at war",
+      "description": "How much of your life the US has been at war",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4A5YOKSYL5C4TNCAO6CPQDQL4U.png&w=1440)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Nearly a quarter of Americans have never experienced the U.S. in a time of peace](https://www.washingtonpost.com/politics/2020/01/08/nearly-quarter-americans-have-never-experienced-us-time-peace/)\nDATA SOURCE: [Washington Post](https://www.washingtonpost.com/politics/2020/01/08/nearly-quarter-americans-have-never-experienced-us-time-peace/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "usa",
+        "washington post",
+        "pie charts"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w23",
+      "title": "2019/W23: Sleepless in America?",
+      "description": "The American Time Use Survey tracks how much Americans sleep by gender and age.",
+      "summary": "# **Original Visualization**\n![https://www.bls.gov/tus/charts/chart16.jpg](https://www.bls.gov/tus/charts/chart16.jpg)\n\n# **About this Dataset**\nIMAGE SOURCE: [American Time Use Survey](https://www.bls.gov/tus/charts/sleep.htm)\nDATA SOURCE: [American Time Use Survey](https://www.bls.gov/tus/database.htm)\n\n#### **ADDITIONAL RESOURCES**\n\n1. [The Connection between Sleep and Autoimmune Disease](https://www.nutritionaltherapyconference.com/wp-content/uploads/2016/04/NTA2016-Conference-Talk.pdf) - Sarah Ballantyne, PhD\n2. [National Sleep Foundation](https://www.sleepfoundation.org/)\n3. [Drowsy Driving](https://www.nhtsa.gov/risky-driving/drowsy-driving) - National Highway Traffic Safety Adminstration\n4. [Acute Sleep Deprivation and Risk of Motor Vehicle Crash Involvement](https://aaafoundation.org/acute-sleep-deprivation-risk-motor-vehicle-crash-involvement/) - AAA Foundation for Traffic Safety\n5. [Richard Smith: _Why We Sleep_ (Matthew Walker) book review](https://blogs.bmj.com/bmj/2018/06/20/richard-smith-why-we-sleep-one-of-those-rare-books-that-changes-your-worldview-and-should-change-society-and-medicine/) - the bmj opinion\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "sleep",
+        "america",
+        "united states",
+        "american time use survey",
+        "atus",
+        "gender",
+        "age",
+        "sex",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
