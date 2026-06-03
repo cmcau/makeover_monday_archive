@@ -1,0 +1,106 @@
+{
+  "owner": "makeovermonday",
+  "id": "coverage-of-the-hpv-vaccine",
+  "title": "2025/ Week 2 Coverage of the HPV Vaccine",
+  "description": "Proportion of the target who received the final dose of (HPV) vaccine (%)",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-682c4268932041de92733b7a51fcce07.png)\n\n​\n\nDatasource / Article : [HPV vaccination: How the world can eliminate cervical cancer - Our World in Data](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)",
+  "version": "7176c91c-5",
+  "tags": [
+    "makeover monday",
+    "hpv vaccine"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "coverage of the HPV vaccine.csv",
+      "sizeInBytes": 24668,
+      "created": "2025-01-05T23:19:23.596399531Z",
+      "updated": "2025-01-05T23:19:23.596399531Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-01-05T23:04:28.313415127Z",
+  "updated": "2025-01-05T23:20:30.336346598Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "meat-production-by-livestock-type",
+      "title": "2025 / Week 35 Meat Production by Livestock Type",
+      "description": "Global meat production by livestock type",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-f893942214d7454ea941573510dd5cac.png)\n\n​\n\n​\n\nDatasource + Article: [Meat and Dairy Production - Our World in Data](https://ourworldindata.org/meat-production)",
+      "tags": [
+        "meat",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "global-energy-consumption",
+      "title": "Global Energy Consumption",
+      "description": "How much energy does the world consume?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-3692b68c387b47b9a17e79ab31fbde45.png)\n\n​\n\nArticle and Datasource : [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)",
+      "tags": [
+        "energy",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "a-century-of-global-deaths-from-disasters",
+      "title": "Death from Natural Disasters",
+      "description": "How many people die from disasters, and how are these impacts changing over time?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\\*To view the exact chart on the article page, change the \"Disaster Type\" selection in the dropdown\n\n![](https://mediauploads-US.data.world/00000-datainformant-ba4be6f078ac4c7989f2c9b107fd02ad.png)\n\n\n![](https://mediauploads-US.data.world/00000-datainformant-cd544bc4ebfb404d809fa874d0c85fb1.png)\n\n​\n\nLink to article :[Natural Disasters - Our World in Data](https://ourworldindata.org/natural-disasters)\n\nSource: [Natural Disasters - Our World in Data](https://ourworldindata.org/natural-disasters)\n\nNotes on data: Decadal figures are measured as the annual average over the subsequent ten-year period. This means figures for ‘1900’ represent the average from1900 to 1909; ‘1910’ is the average from 1910 to 1919 etc. Data includes disasters recorded up to April 2024.",
+      "tags": [
+        "makeover monday",
+        "disaster"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w20-the-religious-composition-of-the-worlds-migrants",
+      "title": "2025/W20 : The Religious Composition of the World’s Migrants",
+      "description": "A breakdown of global migration patterns by religious affiliation",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-e2b09fbf79bc4c64acfb14d3d8e3e11a.png)\n\n​\n\nDatasource: https://www.pewresearch.org/dataset/dataset-religious-composition-of-the-worlds-migrants-1990-2020/\n\nArticle: [How Immigrants Are Shaping the Religious Landscape | Pew Research Center](https://www.pewresearch.org/religion/2024/08/19/the-religious-composition-of-the-worlds-migrants/)",
+      "tags": [
+        "makeover monday",
+        "religion",
+        "migration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-11-electric-car-sales",
+      "title": "2025/ week 11 Electric car sales",
+      "description": "Trends in electric cars",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-63e6dae2c7cd4395bf0953cc24ebb2cd.png)\n\n​\n\nDatasource: [Global EV Data Explorer – Data Tools - IEA](https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer)\n\nArticle: [Trends in electric cars – Global EV Outlook 2024 – Analysis - IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars)\n\nShow less",
+      "tags": [
+        "makeover monday",
+        "cars",
+        "ev"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
