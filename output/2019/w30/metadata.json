@@ -1,0 +1,112 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w30",
+  "title": "2019/W30: Arsenal FC's 2018/19 season",
+  "description": "Player statistics for Arsenal's 2018/19 season",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Arsenal original.png](https://media.data.world/1txCTsxJQoqHKHGesBDF_Arsenal%20original.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Transfermarkt](https://www.transfermarkt.co.uk/arsenal-fc/leistungsdaten/verein/11/reldata/GB1%262018)\nDATA SOURCE: [Premier League Stat Center](https://www.premierleague.com/stats/top/players/goals)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "ea129bf0-77da-427b-9efe-6f72a0848d41",
+  "tags": [
+    "arsenal fc",
+    "football",
+    "soccer",
+    "player statistics",
+    "table"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Arsenal Player Stats 2018-19.xlsx",
+      "sizeInBytes": 26356,
+      "created": "2019-07-22T12:56:35.322Z",
+      "updated": "2019-07-22T12:56:35.322Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-07-21T04:44:24.386Z",
+  "updated": "2019-07-22T12:56:35.323Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w15-messi-vs-ronaldo-stats",
+      "title": "2020/W15: Messi Vs Ronaldo Stats",
+      "description": "Messi Vs Ronaldo Stats",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![​](https://soccerment.com/wp-content/uploads/2017/09/Messi_CRonaldo_GoalsPerMatch.png) \n\n# **About this Dataset**\nSOURCE ARTICLE: [Soccerment](https://soccerment.com/2018-topscorer-preview-spanish-la-liga/) \nDATA SOURCE: [www.transfermarkt.com](http://www.transfermarkt.com) \n\n# **Objectives**\n\\* What works and what doesn't work with this chart? \n\\* How can you make it better?\n\\* I've provided more data than you need to replicate the original chart. What additional insights can you uncover and present to give a more thorough analysis of these two players?",
+      "tags": [
+        "football",
+        "proper",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w51-arsenals-worst-ever-premier-league-start",
+      "title": "2020/W51: Arsenal's worst ever Premier League start",
+      "description": "Arsenal's worst ever Premier League start",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://preview.redd.it/aq40jxgcpy261.png?width=960&crop=smart&auto=webp&s=aea7f303b80d4f4144040409e883fb1206557bbb](https://preview.redd.it/aq40jxgcpy261.png?width=960&crop=smart&auto=webp&s=aea7f303b80d4f4144040409e883fb1206557bbb)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Original viz was created on Tenner App, but I can't find it so here's a Reddit link](https://www.reddit.com/r/soccer/comments/k5vya1/this_is_arsenals_worst_ever_start_to_a_premier/)\nDATA SOURCES: [11v11.com](https://www.11v11.com/)\n\n# **Objectives**\n\\* Data from 11v11.com is up to the 18th December each year from 1992/93 to 2020/21 so does not exactly mirror the original as it includes more games\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "football",
+        "sport",
+        "arsenal",
+        "bad"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w22-arsenal-2526-champions",
+      "title": "2026/W22 Arsenal 25/26 Champions",
+      "description": "Player level stats for matches in the Premier League 25/26 season",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-ad6f3c82d8e341d38f7db5c15642f91e.png)\n\nData Source: [FBref](https://fbref.com/en/squads/18bb7c10/Arsenal-Stats)\n\nArticle: [Arsenal](https://www.arsenal.com/news/arsenal-analysed-how-we-won-premier-league)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w48",
+      "title": "2019/W48: 2018 Squirrel Census Fur Color Map",
+      "description": "2018 Squirrel Census Fur Color Map",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![week 48 original.png](https://media.data.world/vaUElB6SjiUzSard7J1y_week%2048%20original.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [2018 Squirrel Census Fur Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)\nDATA SOURCE: [NYC Open Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "new york",
+        "central park",
+        "squirrel",
+        "squirrel map"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w21-premier-league-predictions-vs-reality",
+      "title": "2018/W21: Premier League Predictions vs. Reality",
+      "description": "Premier League Predictions vs. Reality",
+      "summary": "# **Original Visualization**\n![EPL Predictions.jpeg](https://media.data.world/X1YPBAa0RgKwXosQljwW_EPL%20Predictions.jpeg)\n\n# **About this Dataset**\nSOURCE: [The Guardian](https://amp.theguardian.com/football/2018/may/15/premier-league-2017-18-season-predictions-versus-reality)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "soccer",
+        "football",
+        "premier league",
+        "epl",
+        "prediction",
+        "table"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
