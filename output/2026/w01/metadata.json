@@ -1,0 +1,86 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w2-tallest-rollercoasters",
+  "title": "2026/W1 Tallest Rollercoasters",
+  "description": "A listing of the tallest drop for rollercoasters around the world.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-2c161378eb934b8eb82a03427e8fae7f.png)\n\nArticle: https://www.tripsavvy.com/tallest-roller-coasters-in-the-world-3226411",
+  "version": "7515850e-6",
+  "tags": [
+    "makeoveronday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MM 2026 wk 2.xlsx",
+      "sizeInBytes": 5373,
+      "created": "2026-01-05T14:40:11.401505016Z",
+      "updated": "2026-01-05T14:40:11.401505016Z",
+      "createdBy": "mhuff04",
+      "updatedBy": "mhuff04"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-01-05T14:39:23.455219496Z",
+  "updated": "2026-01-05T17:51:20.020654841Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w14",
+      "title": "2026/W14",
+      "description": "Oil production data over time.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: https://ourworldindata.org/grapher/oil-production-by-country\n\n![](https://mediauploads-US.data.world/00000-mhuff04-078394a409cc456a8fec7f77edcd1fc2.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w13-ai-workslop",
+      "title": "2026/W13 AI Workslop",
+      "description": "Data sourced from a survey about how frequently US desk workers send low quality AI generated work slop to colleagues",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-44fbd982bcec4ae4a1736c75c01035e6.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w15-tech-hiring",
+      "title": "2026/W15 Tech Hiring",
+      "description": "The latest hiring updates from big tech companies",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: trueup.io\n\n![](https://mediauploads-US.data.world/00000-mhuff04-be05bdd72b4745b2a986fd48ea13e2e8.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w10-mario-game-sales",
+      "title": "2026/W10 Mario Game Sales",
+      "description": "A history of all major Mario game sales by Nintendo",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization (sample)**\n![](https://mediauploads-US.data.world/00000-mhuff04-54a7462b66664e13b29a3215781c3b42.png)\n\n​\n\nSource: [Fandom](https://vgsales.fandom.com/wiki/Mario#cite_note-vc-27)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w6-global-big-mac-index",
+      "title": "2026/W6 Global Big Mac Index",
+      "description": "The Big Mac Index showcases pricing differences across countries to demonstrate purchasing-power parity across nations.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-47f024f9568a4f88a4c33b8adbfcba2c.png)\n\nData Source: The Economist (https://www.economist.com/interactive/big-mac-index)\n\nData Description: https://github.com/TheEconomist/big-mac-data?tab=readme-ov-file",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
