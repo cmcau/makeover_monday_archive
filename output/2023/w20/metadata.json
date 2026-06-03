@@ -1,0 +1,121 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w20",
+  "title": "2023/W20: Global Media Freedom",
+  "description": "How free is the press around the World?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/27b33d7681320cf2a3647f8f6406acd75a1868c09df2dc8deab39399b67ad720_CleanShot_2023_05_15_at_8.48.09_2x.png)\n\n​\n\n# Resources\nOriginal Article: [The Guardian](https://www.theguardian.com/media/2023/may/03/media-freedom-in-dire-state-in-record-number-of-countries-report-finds?CMP=Share_iOSApp_Other)\nDatasource: [Reporters Without Borders](https://rsf.org/en/index?year=2023)",
+  "version": "281f8402-4",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Press Freedom Index.xlsx",
+      "sizeInBytes": 82858,
+      "created": "2023-05-15T08:18:41.646116469Z",
+      "updated": "2023-05-15T08:18:41.646116469Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-05-15T07:46:17.804280730Z",
+  "updated": "2023-05-15T08:28:23.060908008Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w30",
+      "title": "2023/W30: Daily sea ice extent",
+      "description": "Daily sea ice extent",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/09dfa7c1a6fa6b044605409a3799481fbc2b78af60f2dee144a13d30f9c636db_CleanShot_2023_07_24_at_3.18.31_2x.png)\n\n​\n\n# Resources\nArticle: [Daily Sea Ice Extent](https://www.theguardian.com/environment/datablog/2023/jul/20/the-climate-crisis-in-four-charts-extreme-weather-heatwaves?CMP=Share_iOSApp_Other)\nData Source: [National Snow & Ice Data Center](https://nsidc.org/data/seaice_index/data-and-image-archive)\n\n​",
+      "tags": [
+        "makeover monday",
+        "climate change",
+        "sea ice",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w51",
+      "title": "2022/W51: Religious Affiliation in the UK - 2011 vs. 2021",
+      "description": "Religious Affiliation in the UK - 2011 vs. 2021",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/d4a96fee7404fbdba09c7f5b229ef20a31b52a653ec50830b49f29ecd6c571f9_CleanShot_2022_12_16_at_10.59.22_2x.png)\n\n​\n\n# Resources\n[UK religions](https://www.theguardian.com/uk-news/2022/nov/29/census-2021-in-charts-christianity-now-minority-religion-in-england-and-wales?CMP=Share_iOSApp_Other)\nData Source: [UK Census](https://census.gov.uk/) (England only)",
+      "tags": [
+        "makeover monday",
+        "religion",
+        "united kingdom",
+        "uk",
+        "census"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w40",
+      "title": "2022/W40: Income Inequality",
+      "description": "Income inequality by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/6f572e4d68cbb5434bb85c518107371f670c795165a53882ccc588376e933f27_CleanShot_2022_09_28_at_12.13.36.png)\n\n​\n\n# Resources\nOriginal Article: [Truss to push ahead with low-tax economy despite calls for caution](https://www.theguardian.com/politics/2022/sep/04/liz-truss-energy-prices-action-plan?CMP=Share_iOSApp_Other)\nData Source: [OECD](https://data.oecd.org/inequality/income-inequality.htm)",
+      "tags": [
+        "makeover monday",
+        "income",
+        "inequality",
+        "country",
+        "region",
+        "class",
+        "rich",
+        "poor",
+        "wealth",
+        "money"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w39",
+      "title": "2023/W39: Street Level Temperatures in NYC",
+      "description": "Street level temperature on a subset of city blocks in neighborhoods with highest heat mortality risk",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/db46e506da8c5b980e51d78ffda4c3f68bf0d778155c02fc8972ad14b9480f9b_CleanShot_2023_09_22_at_7.42.16_2x.png)\n\n## Resources\nThe Guardian: [Street Level Temperatures in NYC](https://www.theguardian.com/us-news/2022/sep/07/new-york-heat-deaths-map-inequality)\nData Source: [NYC Open Data](https://data.cityofnewyork.us/dataset/Hyperlocal-Temperature-Monitoring/qdq3-9eqn)",
+      "tags": [
+        "new york city",
+        "open data",
+        "temperature",
+        "heat",
+        "street"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w2",
+      "title": "2019/W2: Press Freedom's Dark Horizon",
+      "description": "How free is press around the world?",
+      "summary": "# **Original Visualization**\n![image.png](https://media.data.world/KAmTgZxtR8axjhZmRae5_image.png)\n\n# **About this Dataset**\nARTICLE: [Freedom House](https://freedomhouse.org/report/freedom-press/freedom-press-2017)\n\nDATA SOURCE: [Freedom House](https://freedomhouse.org/sites/default/files/FOTP1980-FOTP2017_Public-Data.xlsx)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\nUnder the edit window, click on *Preview* to see what your post will look like. You can also edit your post later on (instead of posting a new comment)",
+      "tags": [
+        "makeover monday",
+        "press",
+        "freedom",
+        "liberty",
+        "survey",
+        "freedom house",
+        "rating",
+        "score"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
