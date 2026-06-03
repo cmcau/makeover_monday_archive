@@ -1,0 +1,100 @@
+{
+  "owner": "makeovermonday",
+  "id": "corruption",
+  "title": "2025/W32 Corruption",
+  "description": "Corruption Perceptions Index, 2012 to 2024",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-12762221cbb7466cad9b9fa3704b57e0.png)\n\n​\n\n# **About this Dataset**\n\\* SOURCE: [Corruption - Our World in Data](https://ourworldindata.org/corruption)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart? \\* How can you make it better? \\* Share your remakes on Linkedin and/or Twitter!\n\nRemember to tag Irene Diomi, Harry Beardon, and Chimdi Nwosu.",
+  "version": "f65c48b5-6",
+  "tags": [
+    "corruption",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Corruption Perception Index.xlsx",
+      "sizeInBytes": 66290,
+      "created": "2025-08-04T09:01:06.713621480Z",
+      "updated": "2025-08-04T09:01:06.713621480Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-08-04T08:56:33.359183413Z",
+  "updated": "2025-08-11T01:55:57.356324573Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-best-performing-marvel-movie",
+      "title": "Which is The Best Performing Marvel Movie ?",
+      "description": "The Best Performing Marvel Movie",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image.png](https://mediauploads-US.data.world/00000-datainformant-2a4b29592abc473885f569de014d903d.png)\n\n# **About this Dataset**\n\\* SOURCE: [Information is Beautiful](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* Share your remakes on Linkedin and/or Twitter!\n\nRemember to tag Irene Diomi, Harry Beardon, and Chimdi Nwosu.",
+      "tags": [
+        "marvel",
+        "movies",
+        "makeovermonday",
+        "datavisualization"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "financial-markets-historical-performance",
+      "title": "Financial Markets Historical Performance",
+      "description": "Performance of the S&P 500 compared with other indices",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-43cef320a69145a5a6b6da4e4a28d6e8.png)\n\n# **About this Dataset**\nSOURCE: [FTSE 100 vs MSCI China vs Nasdaq-100 vs NYSE Arca Gold BUGS vs S&P 500: historical performance from 2008 to 2024 (curvo.eu)](https://curvo.eu/backtest/en/compare-indexes/euro-stoxx-50-vs-ftse-100-vs-msci-china-vs-nasdaq-100-vs-nyse-arca-gold-bugs-vs-sp-500?currency=usd)\n\n\\*Prices shown in dollars\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Share your remakes on Linkedin and/or Twitter!",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-4-world-happiness-report-2024",
+      "title": "2025/ week 5 World Happiness Report 2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-460999bb6c154d24ab96d44c38727598.png)\n\n# **About this Dataset**\n**ARTICLE:** [Happiness of the younger, the older, and those in between | The World Happiness Report](https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)\n**DATA SOURCE:** [World Happiness Report Data Dashboard | The World Happiness Report](https://worldhappiness.report/data/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* Post your alternative on Linkedin/X/Discussions Page",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w17-2024-eiu-democracy-index",
+      "title": "2026/W17 2024 EIU Democracy Index",
+      "description": "2024 Democracy Index and sub-indicators from the Economist Intelligence Unit.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-b9cdba3cc054479bba117d6f51cc2519.png)\n\nData Source: [OurWorldInData](https://ourworldindata.org/grapher/democracy-index-eiu)\n\nArticle: [The Economist](https://www.eiu.com/n/campaigns/democracy-index-2024/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-14-the-best-migration-destinations-in-2025",
+      "title": "2025/ week 14 The Best Migration Destinations in 2025",
+      "description": "2025’s Best Countries to Live and Work Based on the Henley Opportunity Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-97ecd8dc81ec432eb4ee36a0f474b681.png)\n\n​\n\nDatasource: [The Henley Opportunity Index 2025 | Henley & Partners](https://www.henleyglobal.com/publications/henley-opportunity-index)\n\nArticle: [Ranked: 2025's Best Countries to Live and Work](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette)\n\nShow less",
+      "tags": [
+        "work",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
