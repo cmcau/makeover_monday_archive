@@ -1,0 +1,62 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w29",
+  "title": "2021/W29: UK COVID-19 Mortality Rate by Ethnicity",
+  "description": "Most minority ethnicities have a higher COVID-19 mortality rate",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/X4uw21IRZOyBEtmW3sFA_Screenshot%202021-07-18%20at%202.52.59%20pm.png)\n\n​\n\n# Resources\nOriginal Viz: [Most minority ethnicities have a higher COVID-19 mortality rate](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)\nData Source: [Information is Beautiful](https://docs.google.com/spreadsheets/d/1g_YxmDfQx7aOU2DKzNZo9b-NTk62Bju6X3z6OuCa6gw/edit#gid=2004630296) via UK Office for National Statistics",
+  "version": "70b70ef6-70a1-4653-adfd-e8d34bf11418",
+  "tags": [
+    "makeover monday",
+    "covid",
+    "uk",
+    "ethnicity",
+    "minorities",
+    "race",
+    "gender"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "COVID Morality Rate by Ethnicity.xlsx",
+      "sizeInBytes": 11420,
+      "created": "2021-07-18T14:09:56.156Z",
+      "updated": "2021-07-18T14:09:56.156Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-07-18T14:08:29.500Z",
+  "updated": "2021-07-18T14:15:44.895Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w28",
+      "title": "2021/W28: UK COVID Vaccination Coverage by Age & Ethnicity",
+      "description": "UK COVID Vaccination Coverage by Age & Ethnicity",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/ht8BguUUQXOedB9YSvq5_image.png)\n\n​\n\n# Resources\nArticle: [UK Vaccine Coverage by Age and Ethnicity](https://reports.opensafely.org/reports/vaccine-coverage/)\nData Source: [OpenSAFELY](https://reports.opensafely.org/reports/vaccine-coverage/)",
+      "tags": [
+        "makeover monday",
+        "age",
+        "ethnicity",
+        "race",
+        "uk",
+        "united kingdom",
+        "covid",
+        "coverage",
+        "vaccine"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
