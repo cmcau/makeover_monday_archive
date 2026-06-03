@@ -1,0 +1,144 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w42-total-number-of-women-the-house-of-representatives",
+  "title": "2018/W42: Total Number of Women the House of Representatives",
+  "description": "Total Number of Women the House of Representatives 1917-2018",
+  "summary": "# **Original Visualization**\n![Party Differences - Mobile.png](https://media.data.world/2n5r0y8zQaK3AbMyPZpp_Party%20Differences%20-%20Mobile.png)\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [Stephen Pelkofer](https://public.tableau.com/profile/stephen.pelkofer#!/vizhome/WomenRepresentationintheHouseHistory/PartyDifferences-Mobile) | [Tweet](https://twitter.com/Spelk24/status/1049054474411675658)\n\nSOURCE: [Congressional Research Service](https://fas.org/sgp/crs/misc/RL30261.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "8ed2b422-9a83-468e-8ef5-a34852c1e1c9",
+  "tags": [
+    "us politics",
+    "house of representatives",
+    "line chart",
+    "stepped lines",
+    "gender equality",
+    "female representation"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Party Differences - Mobile.png",
+      "sizeInBytes": 36394,
+      "created": "2018-10-13T17:32:50.099Z",
+      "updated": "2018-10-13T17:32:50.099Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Women in the House of Representatives.xlsx",
+      "sizeInBytes": 12172,
+      "created": "2018-10-13T18:32:25.550Z",
+      "updated": "2018-10-13T18:32:25.550Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-10-13T17:30:27.571Z",
+  "updated": "2018-10-14T05:54:56.176Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 9
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w10",
+      "title": "2020/W10: #Viz5 - Violence Against Women & Girls",
+      "description": "Violence Against Women & Girls - perceptions in African, Asian and South American countries",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Violence against women.png](https://media.data.world/pt90ZIC6SsK3K8sAgRBp_Violence%20against%20women.png)\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [International day for the elimination of violence against women](https://public.tableau.com/profile/operation.fistula6589#!/vizhome/Internationaldayfortheeliminationofviolenceagainstwomen/Violenceagainstwomen)\nBACKGROUND INFORMATION AND DATA DICTIONARY: See PDF files\nPLEASE TAG [OPFISTULA](https://twitter.com/opfistula) IN YOUR TWEETS\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "violence against women",
+        "sdg"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w52",
+      "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+      "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+      "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "christmas",
+        "spending",
+        "consumption",
+        "us spending",
+        "us household spending",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w22",
+      "title": "2020/W22: Safe Houses for Girls and Women At Risk of FGM",
+      "description": "Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Dashboard for Makeover.png](https://media.data.world/UN1oZyK9RzmnxvJ1bCub_Dashboard%20for%20Makeover.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM](https://hopeforgirlsandwomen.com/about-fgm-in-tanzania/)\nDATA SOURCE: [Hope for Girls and Women Tanzania](https://hopeforgirlsandwomen.com/safe-houses/)\nPLEASE READ THROUGH THE TOPIC SUMMARY PROVIDED AS PDF\n\nTag the following on Twitter: @ opfistula @ HopeForGirlsTZ @ crowd2map @ tanzdevtrust @ Rhobi15\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "viz5",
+        "gender",
+        "gender equality",
+        "gender inequality",
+        "fgm",
+        "female genital mutilation"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w31",
+      "title": "2019/W31: STD Infection Rates in America",
+      "description": "How have rates changed by disease, year, state, gender, and age?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/YcRQEE4TSrS75v74BQDX\\_Screenshot%202019-07-26%20at%2011.24.04%20am.png](https://media.data.world/YcRQEE4TSrS75v74BQDX_Screenshot%202019-07-26%20at%2011.24.04%20am.png)\n\n​\n\n### **About this Dataset**\nORIGINAL VIZ: [Tableau Public](https://public.tableau.com/profile/andy.kriebel#!/vizhome/STDs1996-2008/STDInfectionRates)\nCREATED BY: [Andy Kriebel | @VizWizBI](https://twitter.com/VizWizBI)\nDATA SOURCE: [CDC](https://wonder.cdc.gov/controller/datarequest/D128)\n\n​\n\n### **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "population",
+        "time series",
+        "year",
+        "usa",
+        "united states",
+        "std",
+        "sex",
+        "disease",
+        "gender",
+        "age",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w11-growth-in-irish-whiskey-sales",
+      "title": "2018/W11: Growth in Irish Whiskey Sales",
+      "description": "St. Patrick's Day Special - Growth in Irish Whiskey Sales",
+      "summary": "# **Original Visualization**\n![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUqXAfGoXTfU/v1/-1x-1.png)\n\n# **About this Dataset**\nSOURCE: [Board Bia](https://twitter.com/Bordbia) via [The IWSR](https://twitter.com/TheIWSR)\n\nWhen you tweet your viz, be sure to tag:\n1. [@Bordbia](https://twitter.com/Bordbia)\n2. [@TheIWSR](https://twitter.com/TheIWSR)\n3. [@GlendaloughDist](https://twitter.com/GlendaloughDist)\n4. [@InfoLabIE](https://twitter.com/infolabIE)\n5. Include #DataVizKey\n\n# **Contest**\n\nTo celebrate St. Patrick’s Day 2018, we’re providing whiskey themed data and our three favorite vizzes from the week will each receive one bottle of double barrel whiskey courtesy of [Glendalough Distillery](http://www.glendaloughdistillery.com/). We’ll pick the winners from the data.world main discussion next **Friday at 3pm GMT**. Be sure to post your vizzes there if you want to be considered.\n\n![MakeoverMonday_w_InfoLab_Twitter (2).jpg](https://media.data.world/Jm3JGaQYSByHEToeWgFd_MakeoverMonday_w_InfoLab_Twitter%20(2).jpg)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "whisky",
+        "whiskey",
+        "ireland",
+        "irish",
+        "st patricks day",
+        "bordbia",
+        "the iwsr",
+        "irish food board",
+        "time series",
+        "volume",
+        "drinking",
+        "liquor",
+        "alcohol"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
