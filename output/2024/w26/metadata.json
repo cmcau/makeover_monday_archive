@@ -1,0 +1,88 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024-week-26-uefa-european-championship",
+  "title": "2024/ week 26 UEFA European Championship",
+  "description": "UEFA European Championship Statistics Excited to share some interesting statistics from the UEFA European Championship,",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nSource : Statista, Players https://www.statista.com/topics/11847/uefa-euro-2024/#statisticChapter\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-925065c622d44e4a9bc0b6fd0bd6ee7d.png)\n\n",
+  "version": "1bb2ec38-4",
+  "tags": [
+    "football"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "UEFA_European_Championship_Stats.xlsx",
+      "sizeInBytes": 8794,
+      "created": "2024-06-22T23:58:17.454708228Z",
+      "updated": "2024-06-22T23:58:17.454708228Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-06-22T23:55:43.870554694Z",
+  "updated": "2024-06-23T00:00:15.300551495Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 5,
+    "columnCount": 17
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-w48-christmasgiftsdesirabilityusuk2024",
+      "title": "2024/ w48 Christmas_Gifts_Desirability_US_UK_2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nChristmas: https://www.statista.com/statistics/1084794/christmas-gifts-desired-by-uk-consumers/\n\n![](https://mediauploads-US.data.world/00000-idiomind-a0017270bb5c4af5918620582c5891e0.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-050bbb79ae1e409fba750394c46356f3.png)\n\n",
+      "tags": [
+        "christmas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-30-streaming-hits-40-of-us-tv-usage-for-the-fi",
+      "title": "2024/ Week 30 Streaming Hits 40% of U.S. TV Usage for the Fi",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle:  [https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/](https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/)\nsource : nielsen\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-38b895be259540e984cdcaa8ebd6bdd5.png)\n\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-25f482997a5d490f8654a298403c69aa.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w29-open-era-wimbledon-championships",
+      "title": "2024/W29 Open Era Wimbledon Championships",
+      "description": "Open Era (1968 Onwards) Wimbledon Championships & Prize Money (£)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualizations**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-c14bdfc9b5d04d71afa851cdc1aca160.png)\n\n\n![](https://mediauploads-US.data.world/00000-beardon-674816ed5ca54fc086f894b72484891e.png)\n\n​\n\nDatasource : [Wimbledon (Prize Money)](https://www.wimbledon.com/en_GB/about_wimbledon/prize_money_and_finance.html), [Wimbledon (Champions)](https://www.wimbledon.com/en_GB/draws_archive/champions/gentlemenssingles.html)\n\nArticle : [Flourish](https://flourish.studio/blog/visualizing-wimbledon-2022/)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025week-37",
+      "title": "2025/week 37 AI job trends",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource Kaggle : https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030?\nThis is a synthetic dataset generated using realistic modeling, public job data patterns (U.S. BLS, OECD, McKinsey, WEF reports), and AI simulation to reflect plausible scenarios from 2024 to 2030. Ideal for educational, research, and AI project purposes.\n\n![](https://mediauploads-US.data.world/00000-idiomind-61b963bb119746f691dce1755f0641c9.png)\n\nm/datasets/sahilislam007/ai-impact-on-job-market-20242030?",
+      "tags": [
+        "ai"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-18-global-500-brands-by-sector",
+      "title": "2024/ Week 18 Global 500 brands by sector",
+      "description": "Global 500 2023 The annual report on the world's most valuable and strongest brands",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nLink to Article : https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf\n\nSource: Brand Finance\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-b5275d57063440de8e6bd68163e4bcc8.png)\n\n",
+      "tags": [],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
