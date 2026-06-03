@@ -1,0 +1,128 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w49",
+  "title": "2018/W49: Women Constructors in the Shortz Era",
+  "description": "How many women have constructed crossword puzzles in the Shortz Era",
+  "summary": "# **Original Visualization**\n![supporting image or chart](https://www.xwordinfo.com/images/Women2017.png)\n\n### **About this Dataset**\nSOURCE: [XWord Info](https://www.xwordinfo.com/Women)\n\n### **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "3bf432f8-9d38-419d-8c03-b6c2b7efab73",
+  "tags": [
+    "makeover monday",
+    "crossword puzzle",
+    "new york times",
+    "xword info",
+    "gender",
+    "female",
+    "women"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Women Constructors in the Shortz Era.csv",
+      "sizeInBytes": 2657,
+      "created": "2018-12-01T19:58:50.151Z",
+      "updated": "2018-12-01T19:58:50.151Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-12-01T19:58:27.526Z",
+  "updated": "2018-12-02T13:43:55.287Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w46",
+      "title": "2018/W46: Diversity in Tech",
+      "description": "Diversity in Tech. Employee breakdown of key technology companies.",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://infobeautiful4.s3.amazonaws.com/2015/05/1276_Diversity-In-Tech.png)\n\n# **About this Dataset**\nSOURCE: [David McCandless](https://informationisbeautiful.net/visualizations/diversity-in-tech/)\n\nDATA: [company & press reports](http://bit.ly/KIB_DiversityTech)\n- numbers are % of total workforce\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "tech sector",
+        "diversity",
+        "silicon valley",
+        "makeover monday",
+        "goverment",
+        "information is beautiful",
+        "david mccandless",
+        "gender",
+        "race"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w33-anthony-bourdains-travels",
+      "title": "2018/W33: Anthony Bourdain’s Travels",
+      "description": "Anthony Bourdain’s Travels",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://pbs.twimg.com/media/DfXwFO1V4AAn1CM.jpg)\n\n# **About this Dataset**\n* IMAGE SOURCE: [Christine Zhang (Twitter)](https://twitter.com/christinezhang/status/1005974583206449152)\n* DATA SOURCE: [Christine Zhang (Github)](https://t.co/vS7TIWUcQa)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "anthony bourdain",
+        "travel",
+        "makeover monday",
+        "television",
+        "reality tv",
+        "tv",
+        "christine zhang"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-uks-favorite-chocolate-bar",
+      "title": "2018/W13: What is the UK's favorite chocolate bar?",
+      "description": "What is the UK's favorite chocolate bar?",
+      "summary": "The Easter Bunny is coming this week, so let's have a great debate! What is the UK's favorite chocolate? \n\n# **Original Visualization**\n![Image](https://media.data.world/VKLPxYYFRyUeeoCc6Jgj_Screen%20Shot%202018-03-25%20at%2010.32.12%20am.png)\n\n# **About this Dataset**\nSOURCE: [CDA](https://www.cda.eu/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chocolate",
+        "united kingdom",
+        "uk"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
