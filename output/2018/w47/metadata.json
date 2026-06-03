@@ -1,0 +1,141 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w47",
+  "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+  "description": "How many hours do Americans need to work to pay their mortgage?",
+  "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+  "version": "ce733909-2f16-4f6e-8f35-27b5b6c4e050",
+  "tags": [
+    "makeover monday",
+    "america",
+    "united states",
+    "usa",
+    "mortgage",
+    "howmuch"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Hours to Pay Mortgage.xlsx",
+      "sizeInBytes": 16207,
+      "created": "2018-11-17T19:31:33.924Z",
+      "updated": "2018-11-17T19:31:33.924Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "hours5-1-059e.png",
+      "sizeInBytes": 200559,
+      "created": "2018-11-17T19:33:25.044Z",
+      "updated": "2018-11-17T19:33:25.044Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-11-17T19:29:04.135Z",
+  "updated": "2018-11-18T10:47:56.932Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 9
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w37-paying-the-president",
+      "title": "2018/W37: Paying the President",
+      "description": "Spending at Trump properties by ProPublica - Collaboration with #WorkoutWednesday",
+      "summary": "# **Original Visualization**\n![](https://view.dwcontent.com/file_view/makeovermonday/2018w37-paying-the-president/Screen%20Shot%202018-09-08%20at%2010.14.48%20am.png?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OnZpendpeiIsImlzcyI6ImFnZW50OnZpendpejo6MDkwZjJhODItYThkMS00YzQ1LWFjY2QtZmU2ZjIwYzZmZGRlIiwiaWF0IjoxNTM2Mzk4MzU0LCJyb2xlIjpbInVzZXIiLCJ1c2VyX2FwaV9hZG1pbiIsInVzZXJfYXBpX3JlYWQiLCJ1c2VyX2FwaV93cml0ZSJdLCJnZW5lcmFsLXB1cnBvc2UiOmZhbHNlLCJ1cmwiOiJmYTQ4OTEyZTVmYjJlNjZkYTVhYWU5OWYxNTk1YzIzNjBmZjllOTQ2In0.rpaG4qKeBbA67lKLEyl3ANqTEAhkomoQTvNGs7M2KnS8RriYnmQY1aPoxqiF1qOEHMGwNM2gUdgL2nkGN1GWuA)\nORIGINAL ARTICLE: [ProPublica](https://projects.propublica.org/paying-the-president/)\n\n# **About this Dataset**\nDATA SOURCE: [ProPublica](https://www.propublica.org/datastore/dataset/spending-at-trump-properties)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "workout wednesday",
+        "propublica",
+        "donald trump",
+        "america",
+        "united states",
+        "president",
+        "spending",
+        "campaign",
+        "election",
+        "taxpayer"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-47-snapchat-is-tops-with-american-teens",
+      "title": "2017/W47: Snapchat is Tops with American Teens",
+      "description": "Snapchat is Tops with American Teens",
+      "summary": "# Original Visualization\n![supporting image or chart](http://static6.businessinsider.com/image/59e52afb1f848906058b618c-1200/cotd101602.png)\n\n# About this Dataset\nSOURCE: [Piper Jaffray](http://www.piperjaffray.com/3col.aspx?id=4610)\n\n# Objectives\nWhat works and what doesn't work with this chart? How can you make it better? Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "apps",
+        "teens",
+        "america",
+        "united states",
+        "snapchat",
+        "instagram",
+        "facebook",
+        "twitter",
+        "trends",
+        "business insider"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w40-five-year-cancer-survival-rates-in-america",
+      "title": "2018/W41: Five Year Cancer Survival Rates in America",
+      "description": "Five Year Cancer Survival Rates in America",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://d33wubrfki0l68.cloudfront.net/fe62b7afdbade311b976b5407272bcc613ccb585/9403b/wp-content/uploads/2018/03/five-year-cancer-survival-rates-usa-v2-01-768x563.png)\n\n# **About this Dataset**\nSOURCE: [Our World in Data](https://ourworldindata.org/cancer#are-death-rates-from-cancer-rising)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "cancer",
+        "america",
+        "usa",
+        "united states",
+        "survival",
+        "rate",
+        "data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w14-world-wine-production",
+      "title": "2018/W14: World Wine Production",
+      "description": "World Wine Production",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-04-01 at 4.15.25 pm.png](https://media.data.world/i3Xmig5qTaabFqbfOE09_Screen%20Shot%202018-04-01%20at%204.15.25%20pm.png)\n\n# **About this Dataset**\nSOURCE: [International Organisation of Vine and Wine](http://www.oiv.int/public/medias/5287/oiv-noteconjmars2017-en.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "wine data",
+        "world wine production",
+        "data visualization",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w8-where-does-your-medicine-come-from",
+      "title": "2018/W8: Where does your medicine come from?",
+      "description": "Where does your medicine come from?",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://cdn.howmuch.net/articles/66-1-231f.jpg)\n\n# **About this Dataset**\nSOURCE: [TradeMap](https://www.trademap.org/Country_SelProduct_TS.aspx?nvpm=1|||||3004|||4|1|1|2|2|1|2|1|1)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "analytics",
+        "data visualization",
+        "medicine",
+        "pharmaceuticals"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
