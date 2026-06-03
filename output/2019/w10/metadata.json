@@ -1,0 +1,221 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w10",
+  "title": "2019/W10: World Development Indicators - Health and Equality",
+  "description": "World Development Indicators - Health and Equality",
+  "summary": "# **Original Visualization**\n![week 10 original.png](https://media.data.world/zxwo7nzlTb6WeQOksITK_week%2010%20original.png)\n\n[Interactive Visualization](https://datawrapper.dwcdn.net/nU5Gj/1/)\n\n# **About this Dataset**\nDATA SOURCE: [The World Bank](https://datacatalog.worldbank.org/dataset/world-development-indicators)\nCOLLABORATION WITH: Operation Fistula (please tag **@opfistula** on Twitter)\nDATA DICTIONARY and BACKGROUND INFORMATION: please see pdf in the attachments section\n\n# **Style Guidelines**\nYou are welcome to use the below guidelines provided by Operation Fistula when designing your work:\n- Font: Avenir\n- Colors:\n     - Orange (R - 203 | G - 97 | B - 97)\n     - Dark Grey (R - 26| G - 25 | B - 25)\n     - Light Orange (R - 250| G - 234 | B - 219)\n- Logo Files: Please see attachments\n- Picture Files: Please see attachments. you **MUST** include picture credit to www.opfistula.org\n\n\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "f41fc277-ca52-4075-a653-5fa7227800f8",
+  "tags": [
+    "international womens day",
+    "equality",
+    "womens rights",
+    "womens health",
+    "maternal health",
+    "iwd",
+    "world bank data",
+    "operation fistula"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "IMG_2473.jpg",
+      "sizeInBytes": 967491,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "IMG_2982.jpg",
+      "sizeInBytes": 829890,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "IMG_3034.jpg",
+      "sizeInBytes": 1015735,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "IMG_4742.jpg",
+      "sizeInBytes": 2786945,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "IMG_6807.jpg",
+      "sizeInBytes": 1506817,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "IMG_7083.jpg",
+      "sizeInBytes": 1428744,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "IMG_8304.jpg",
+      "sizeInBytes": 647562,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "IMG_9409.jpg",
+      "sizeInBytes": 1464248,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Operation Fistula - Makeover Monday International Women's Day Documentation (1).pdf",
+      "sizeInBytes": 58351,
+      "created": "2019-03-07T07:02:55.836Z",
+      "updated": "2019-03-07T07:02:55.836Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Operation Fistula Logo Black.png",
+      "sizeInBytes": 7714,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Operation Fistula Logo White.png",
+      "sizeInBytes": 8602,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Use for Andapa.jpg",
+      "sizeInBytes": 312536,
+      "created": "2019-02-27T15:04:24.810Z",
+      "updated": "2019-02-27T15:04:24.810Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "World Indicators.csv",
+      "sizeInBytes": 798934,
+      "created": "2019-03-02T19:22:21.148Z",
+      "updated": "2019-03-02T19:22:21.148Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-02-23T20:32:52.652Z",
+  "updated": "2019-03-07T07:02:55.836Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 13,
+    "tableCount": 1,
+    "columnCount": 16
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w34",
+      "title": "2020/W34: Sexual and Reproductive Health and Rights (SRHR)",
+      "description": "Sexual and Reproductive Health and Rights (SRHR)",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Main Dashboard.png](https://media.data.world/boFwVig9ToOkffjnzVMC_Main%20Dashboard.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: **Dashboard and documentation provided by OpFistula** - please see attachments (CSV, PDF) below\nDATA SOURCE: [Guttmacher Institute’s report: Adding It Up: Investing in\nContraception and Maternal and Newborn Health, 2017](https://www.guttmacher.org/sites/default/files/report_pdf/adding-it-up-2017-estimation-methodology.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n**Please include #Viz5 and tag @OpFistula in your tweets**",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "reproductive health",
+        "sexual health",
+        "womens rights",
+        "womens health"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w48",
+      "title": "2020/W48: The success of Operation Fistula's Pilot Program",
+      "description": "The success of Operation Fistula's Pilot Program.",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![KICKSTART .png](https://media.data.world/glaGhFtTMqPlMwlkRhgg_KICKSTART%20.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Viz5 Info document](https://data.world/makeovermonday/2020w48/file/Info%20Pack%20-%20Visualize%20Gender%20Equality%20Data%20Set%20%2310.pdf)\nDATA SOURCE: [Operation Fistula](https://data.world/makeovermonday/2020w48/file/20201027%20pilot%20data.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\nPLEASE TAG [at]opfistula on Twitter and add the #Viz5 hashtag\n\n",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "operation fistula",
+        "obstetric fistula"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w39-visualizing-equality",
+      "title": "2018/W39: Visualizing Equality",
+      "description": "Visualizing Equality",
+      "summary": "# **Original Visualization**\n![Original](https://media.data.world/yNPbnTcCSFCXuM6SpCnO_Images_Charts_Survey.png)\n\n# **About this Dataset**\nSOURCE: [Equal Measures 2030](http://data.em2030.org/wp-content/uploads/2018/09/EM2030-2018-Global-Report.pdf)\n\nplease include the #VisualizeEquality hashtag and tag @ Equal2030 in your submissions on Twitter\n\n\n# **Webinar introduction to the dataset and Equal Measures 2030**\n[Webinar](https://www.brighttalk.com/webcast/15837/334958) | [Slides](https://data.world/makeovermonday/2018w39-visualizing-equality/file/EM2030%20collaboration%20slides.pdf)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions ",
+      "tags": [
+        "equal measures 2030",
+        "united nations",
+        "sdg",
+        "womens rights",
+        "sustainable",
+        "development goals"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "w102018-what-policymakers-know-about-women-and-girl-issues",
+      "title": "2018/W10: What Policymakers know about Women and Girl Issues",
+      "description": "What Policymakers know about Women and Girl Issues",
+      "summary": "# **Original Visualization**\n![week 10 original.png](https://media.data.world/333mFENRQKQqPJHtsG09_week%2010%20original.png)\n\n# **About this Dataset**\nSOURCE: [Equal Measures 2030](http://www.equalmeasures2030.org/products/policymaker-report)\n\nThis week's Makeover Monday challenge is a collaboration with Tableau Public and Equal Measures 2030 in celebration of International Women's Day.\n\nThe data provided shows the responses by policy makers across a number of countries when asked for their judgement of different issues relating to women in girls in their country.\n\nThe data contains a *'correct answer'* with, for example, the rate at which women participate in the labor force. \n\nThen there is a column with the *guess or estimate* by the policy makers.\nFor labor participation, a guess that is higher than the correct answer is an overestimation, i.e. people think the situation is better than it is in reality.\n\nFor early marriage rates (the percentage of women currently aged 20-24 who were married before reaching the age of 18), an estimate below the correct answer means policy makers are underestimating how frequent these early marriages are.\n\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "maternal health",
+        "policy data",
+        "survey data",
+        "iwd",
+        "united nations",
+        "sdg action campaign"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w10",
+      "title": "2020/W10: #Viz5 - Violence Against Women & Girls",
+      "description": "Violence Against Women & Girls - perceptions in African, Asian and South American countries",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Violence against women.png](https://media.data.world/pt90ZIC6SsK3K8sAgRBp_Violence%20against%20women.png)\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [International day for the elimination of violence against women](https://public.tableau.com/profile/operation.fistula6589#!/vizhome/Internationaldayfortheeliminationofviolenceagainstwomen/Violenceagainstwomen)\nBACKGROUND INFORMATION AND DATA DICTIONARY: See PDF files\nPLEASE TAG [OPFISTULA](https://twitter.com/opfistula) IN YOUR TWEETS\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "violence against women",
+        "sdg"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
