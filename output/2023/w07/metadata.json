@@ -1,0 +1,131 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w7",
+  "title": "2023/W7: Global Electric Vehicle Market Share",
+  "description": "Global Electric Vehicle Market Share",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/7b04832e429e44e5e0881e90fed985fda500eca0a2ab387e7977119308471bb5_CleanShot_2023_01_14_at_11.16.23_2x.png)\n\n​\n\n## **Resources**\n[Global Electric Vehicle Market Share](https://www.counterpointresearch.com/global-electric-vehicle-market-share/)\nData Source: [Counterpoint Research](https://www.counterpointresearch.com/global-electric-vehicle-market-share/)\n\n​",
+  "version": "ecbb53fd-4a19-48f6-8479-414eb7efccd4",
+  "tags": [
+    "makeover monday",
+    "cars",
+    "vehicles",
+    "electric",
+    "ev",
+    "market share",
+    "manufacturer"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Global Electric Vehicle Market Share.xlsx",
+      "sizeInBytes": 9138,
+      "created": "2023-01-14T22:15:44.667503822Z",
+      "updated": "2023-01-14T22:15:44.667503822Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-01-14T22:14:41.641940969Z",
+  "updated": "2023-02-12T20:33:58.390074857Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w3",
+      "title": "2023/W3: Interstate and Cross-Border 2022 Migration Patterns",
+      "description": "US & Canada Interstate and Cross-Border 2022 Migration Patterns",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/791435034a9a6bc43ae30eb211d3b96223434aa3b6feebf138f2380aba290cf6_CleanShot_2023_01_13_at_10.17.16_2x.png)\n\n​\n\n## **Resources**\nArticle: [Interstate and Cross-Border 2022 Migration Patterns](https://www.atlasvanlines.com/resources/migration-patterns)\nData Source: Atlas Van Lines",
+      "tags": [
+        "makeover monday",
+        "commerce",
+        "migration",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-11-electric-car-sales",
+      "title": "2025/ week 11 Electric car sales",
+      "description": "Trends in electric cars",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-63e6dae2c7cd4395bf0953cc24ebb2cd.png)\n\n​\n\nDatasource: [Global EV Data Explorer – Data Tools - IEA](https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer)\n\nArticle: [Trends in electric cars – Global EV Outlook 2024 – Analysis - IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars)\n\nShow less",
+      "tags": [
+        "makeover monday",
+        "cars",
+        "ev"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w4",
+      "title": "2023/W4: NHTSA Automobile Recalls",
+      "description": "National Highway Traffic Safety Administration Automobile Recalls",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/c59443fa1459c2f4f71cae92a62f1709cdf39e09eab1824894c3e0362bf9aa13_CleanShot_2023_01_14_at_10.23.28_2x.png)\n\n​\n\n## **Resources**\nSource Article: [National Highway Traffic Safety Administration Automobile Recalls](https://datahub.transportation.gov/Automobiles/NHTSA-Recalls-by-Manufacturer/mu99-t4jn)\nData Source: [National Highway Traffic Safety Administration](https://datahub.transportation.gov/Automobiles/Recalls-Data/6axg-epim)",
+      "tags": [
+        "usa",
+        "automobiles",
+        "cars",
+        "manufacturing",
+        "defect",
+        "recall",
+        "safety",
+        "nhtsa"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w5",
+      "title": "2023/W5: NYC Pizza Slices",
+      "description": "The cost of pizza slices in New York City",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5ff1b511714c125421488192110e1ec4ee7bac8e5ecacd07af8c1af5a9f4d796_CleanShot_2023_01_14_at_10.33.51_2x.png)\n\n​\n\n## **Resources**\nSource: [NYC pizza slices](https://elkue.com/nyc-slice/) (via Data Is Plural)\nData Source: [Liam Quigley](https://elkue.com/) | [Data](https://docs.google.com/spreadsheets/d/1EY3oi9ttxybG0A0Obtwey6BFu7QLqdHe02JApijgztg/edit)\n\n​",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "nyc",
+        "new york city",
+        "food",
+        "pizza",
+        "ratings",
+        "location",
+        "slice",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w6",
+      "title": "2023/W6: Small Business Applications and Loan Amounts",
+      "description": "Small Business Applications and Loan Amounts by Race/Ethnicity",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/fec139a3cdddd3a1344d97dc9e8568dc07995a0766f5d2ef43cf948f750b6d94_CleanShot_2023_01_14_at_10.43.30_2x.png)\n\n​\n\n## **Resources**\n[Small Business Applications and Loan Amounts by Race/Ethnicity](https://blackwealthdata.org/explore/business)\nData Source: [U.S. Small Business Administration](https://data.sba.gov/dataset/7-a-504-foia)",
+      "tags": [
+        "makeover monday",
+        "wealth",
+        "indicator",
+        "business",
+        "ownership",
+        "race",
+        "ethnicity",
+        "usa",
+        "small business"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
