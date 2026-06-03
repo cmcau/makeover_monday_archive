@@ -1,0 +1,137 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w49",
+  "title": "2022/W49: How Americans Perceive Demographics",
+  "description": "Americans were asked \"If you had to guess, what percentage of American adults...\"",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/e812c166422bab1e46200cc283d40a938d5886312df46f5327a949264c9582bb_CleanShot_2022_12_02_at_9.02.20_2x.png)\n\n## **Resources**\nOriginal article and data - [YouGovAmerica](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population)",
+  "version": "bae38817-14a9-4e3b-be58-8ed5a1b5cc8c",
+  "tags": [
+    "makeover monday",
+    "usa",
+    "united states",
+    "yougov",
+    "survey",
+    "proportion"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Proportion of American Adults.xlsx",
+      "sizeInBytes": 10310,
+      "created": "2022-12-02T09:01:47.640957747Z",
+      "updated": "2022-12-02T09:01:47.640957747Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-12-02T08:58:32.842507688Z",
+  "updated": "2022-12-05T09:02:23.301779810Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w20",
+      "title": "2021/W20: What animal could you beat in a fight?",
+      "description": "What animal could you beat in a fight?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/SlswHsSjQ1esxT3PbnTj_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2021/05/13/lions-and-tigers-and-bears-what-animal-would-win-f)\nDATA SOURCE: [YouGov](https://docs.cdn.yougov.com/07vgk5e81j/YouGov%20-%20Human%20vs%20animal%20fight.pdf)",
+      "tags": [
+        "makeover monday",
+        "fight",
+        "animal",
+        "human",
+        "survey",
+        "gender",
+        "male",
+        "female"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w47",
+      "title": "2022/W47: Railroad Infrastructure Quality Rankings",
+      "description": "Quality of railroad infrastructure, 1(low) - 7(high)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/7a85357d1b561bce1616915e31a951c76ee5fb70406eb66685d003709c063fac_CleanShot_2022_11_08_at_3.04.03_2x.png)\n\nNOTE: This is not the entire visualization. All countries are shown on the chart on the website.\n\n​\n\n## **Resources**\nTheGlobalEconomy - [Railroad infrastructure quality - Country rankings](https://www.theglobaleconomy.com/rankings/railroad_quality/)\nData Source: World Economic Forum",
+      "tags": [
+        "makeover monday",
+        "infrastructure",
+        "railroad",
+        "train",
+        "tracks",
+        "quality",
+        "survey",
+        "ranking",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w38",
+      "title": "2022/W38: American Business Formations",
+      "description": "American Business Formations",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/27d99fa97176ebeab70f25c4037ab751131f3e7f13ae1ca4186ee8d574950a4e_CleanShot_2022_09_13_at_2.04.18.png)\n\n​\n\n# References\nArticle: [American Business Formations](https://www.census.gov/econ/bfs/data.html)\nData Source: [US Census Bureau | Business Formation Statistics](https://www.census.gov/econ/bfs/data.html)",
+      "tags": [
+        "america",
+        "usa",
+        "makeover monday",
+        "census",
+        "bureau",
+        "business",
+        "statistics",
+        "formation"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w48",
+      "title": "2022/W48: US School Shootings K - 12",
+      "description": "School shootings in America - K-12",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/8db70325f77bc3ab3b26bcb5f1e99b77fee9465eaa9d3b8c41ff78b4bf239197_CleanShot_2022_11_24_at_2.30.58.png)\n\n​\n\n# Resources\nDatasource: **_MUST BE CITED WITH:_** Riedman, David. \"K-12 School Shooting Database\" (2022). 02.Nov.2022\n\nArticle: https://k12ssdb.org/\n\n​\n\n​",
+      "tags": [
+        "makeover monday",
+        "guns",
+        "violence",
+        "usa",
+        "united states",
+        "school"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w40",
+      "title": "2022/W40: Income Inequality",
+      "description": "Income inequality by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/6f572e4d68cbb5434bb85c518107371f670c795165a53882ccc588376e933f27_CleanShot_2022_09_28_at_12.13.36.png)\n\n​\n\n# Resources\nOriginal Article: [Truss to push ahead with low-tax economy despite calls for caution](https://www.theguardian.com/politics/2022/sep/04/liz-truss-energy-prices-action-plan?CMP=Share_iOSApp_Other)\nData Source: [OECD](https://data.oecd.org/inequality/income-inequality.htm)",
+      "tags": [
+        "makeover monday",
+        "income",
+        "inequality",
+        "country",
+        "region",
+        "class",
+        "rich",
+        "poor",
+        "wealth",
+        "money"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
