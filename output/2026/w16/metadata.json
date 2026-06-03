@@ -1,0 +1,103 @@
+{
+  "owner": "makeovermonday",
+  "id": "ai-risk-rankings",
+  "title": "2026/WK 16 AI Risk Rankings",
+  "description": "Occupations ranked by AI automation risk, wages, employment, and projected growth.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-datainformant-75411f0c9d0248b783390db262653083.png)\n\nSource: [AI Risk Rankings — Highest & Lowest Risk Jobs | AI Exposure](https://www.aiexposure.org/rankings)",
+  "version": "395e7bfa-4",
+  "tags": [
+    "ai",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "AI Jobs Risk.xlsx",
+      "sizeInBytes": 10956,
+      "created": "2026-04-20T16:24:05.474594318Z",
+      "updated": "2026-04-20T16:24:05.474594318Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-04-20T16:23:02.766392314Z",
+  "updated": "2026-04-20T16:26:24.408695935Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk-8-the-periodic-table-of-ai-startups",
+      "title": "2026/WK 8 The Periodic Table of AI Startups",
+      "description": "14 categories of AI companies founded/funded Feb 2025-Feb 2026",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-e9aab82b6a0043d68a707a82bd37fc84.png)\n\n​\n\nDatasource & Article :  [The Periodic Table of AI Startups – 14 categories of AI companies founded/funded Feb 2025-Feb 2026 - Voronoi](https://www.voronoiapp.com/investing/The-Periodic-Table-of-AI-Startups--14-categories-of-AI-companies-foundedfunded-Feb-2025-Feb-2026-7663)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025wk48-which-ai-models-hallucinate-the-most",
+      "title": "2025/WK48 Which AI Models Hallucinate the Most?",
+      "description": "A Look into which AI models have higher rates of accuracy / hallucination",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-954613b04960410c83019ac4c49d5556.png)\n\n​\n\nDatasource and Article : [Which AI Models Hallucinate the Most? - Voronoi](https://www.voronoiapp.com/technology/Which-AI-Models-Hallucinate-the-Most-7211)",
+      "tags": [
+        "makeovermonday",
+        "ai"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk2-the-biggest-housing-bubble-risks-globally",
+      "title": "2026/WK2 The Biggest Housing Bubble Risks Globally",
+      "description": "Exploring the level of housing bubble risk for major cities globally",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-f645b061f5cb4a5587ca73fb4459e8d3.png)\n\n​\n\nDatasource & Article :  [Housing Bubble Risks: Mapping the 2025 Landscape](https://www.visualcapitalist.com/sp/ter01-the-biggest-housing-bubble-risks-globally/)",
+      "tags": [
+        "housing",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "employment-and-wages-of-commercial-pilots",
+      "title": "Annual Mean Wage of Commercial Pilots",
+      "description": "Occupational Employment and Wages : 53-2012 Commercial Pilots",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-75d9288a6c6445a1961bc2b546c92db0.png)\n\n​\n\nDatasource : [Occupational Employment and Wage Statistics (bls.gov)](https://data.bls.gov/oes/#/home)\n\nArticle : [Commercial Pilots (bls.gov)](https://www.bls.gov/oes/current/oes532012.htm#(9))\n\nData Notes: \n\n(1) Estimates do not include self-employed workers.     \n(2) Annual wages have been calculated by multiplying the corresponding hourly wage by 2,080 hours.   \n(3) The relative standard error (RSE) is a measure of the reliability of a survey statistic. The smaller the relative standard error, the more precise the   estimate.   \n(9) The location quotient is the ratio of the area concentration of occupational employment to the national average concentration. A location quotient greater than one indicates the occupation has a higher share of employment than average, and a location quotient less than one indicates the occupation is less prevalent in the area than average.            \n\nSOC code:   Standard Occupational Classification code -- see   http://www.bls.gov/soc/home.htm   \nData extracted on: Mar 03, 2024",
+      "tags": [
+        "pilots",
+        "makeovermonday",
+        "wages"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "gpu-computational-performance-per-dollar",
+      "title": "2026/w21 GPU computational performance per dollar",
+      "description": "Hardware computational performance shown in floating-point operations per second (FLOP/s) per US dollar",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-04f70c75ba0042f99a526b25783187ba.png)\n\n​\n\nSource: [GPU computational performance per dollar](https://ourworldindata.org/grapher/gpu-price-performance)",
+      "tags": [
+        "makeovermonday",
+        "gpu"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
