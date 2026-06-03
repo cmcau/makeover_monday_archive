@@ -1,0 +1,112 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w42",
+  "title": "2019/W42: Ironman World Championship Medalists",
+  "description": "Ironman World Championship Medalists",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2019-10-13 at 10.22.01 am.png](https://media.data.world/kvbWgD89Rcu35neMnURf_Screen%20Shot%202019-10-13%20at%2010.22.01%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Wikipedia](https://en.wikipedia.org/wiki/Ironman_World_Championship)\nDATA SOURCE: [Wikipedia](https://en.wikipedia.org/wiki/Ironman_World_Championship)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?",
+  "version": "c779e43d-5d45-4c4c-8a26-c5fcf73d0c19",
+  "tags": [
+    "ironman",
+    "triathlon",
+    "multisport",
+    "kona hawaii",
+    "sports data",
+    "table"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Ironman World Championship Results.xlsx",
+      "sizeInBytes": 19260,
+      "created": "2019-10-13T09:20:17.073Z",
+      "updated": "2019-10-13T09:20:17.073Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-10-13T09:20:08.155Z",
+  "updated": "2019-10-13T09:27:44.497Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w52",
+      "title": "2019/W52: Estimated Christmas spending by concept",
+      "description": "Estimated Christmas spending by concept",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2019-12-22 at 11.05.37 am.png](https://media.data.world/AhSycIvRYu5GEwaxmsMD_Screen%20Shot%202019-12-22%20at%2011.05.37%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/uk/en/pages/consumer-business/articles/deloitte-christmas-survey-2019.html)\nDATA SOURCE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/consumer-business/deloitte-uk-christmas-survey-2019.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "christmas",
+        "consumer spending",
+        "uk data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w21",
+      "title": "2019/W21: When are you most likely to be killed by a bear?",
+      "description": "In which park and when, are you most likely to be killed by a bear?",
+      "summary": "**NOTE:** The data was collected, prepared, and distributed by [Ali Sanne](https://data.world/ajsanne) on [data.world](https://data.world/ajsanne/north-america-bear-killings). Please reference her in your visualizations.\n\n# ​**Original Visualization**\n![https://media.data.world/tNjcdXZAQZuepWQVOiHs\\_Screenshot%202019-05-19%20at%2011.02.36%20am.png](https://media.data.world/tNjcdXZAQZuepWQVOiHs_Screenshot%202019-05-19%20at%2011.02.36%20am.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Vox](https://www.vox.com/2016/10/6/13170344/bear-attacks-national-state-parks)\nDATA SOURCE: [Wikipedia](https://en.wikipedia.org/wiki/List_of_fatal_bear_attacks_in_North_America)\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "bear",
+        "animal",
+        "north america"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w42",
+      "title": "2020/W42: Health spending",
+      "description": "Health spending",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2020-10-18 at 2.48.13 pm.png](https://media.data.world/bflpGloGRpSN4rv23cRM_Screen%20Shot%202020-10-18%20at%202.48.13%20pm.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Health spending](https://data.oecd.org/healthres/health-spending.htm)\nDATA SOURCE: [OECD Data](https://stats.oecd.org/sdmx-json/data/DP_LIVE/.HEALTHEXP.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "healthcare",
+        "healthcare expenditure"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w14-world-wine-production",
+      "title": "2018/W14: World Wine Production",
+      "description": "World Wine Production",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-04-01 at 4.15.25 pm.png](https://media.data.world/i3Xmig5qTaabFqbfOE09_Screen%20Shot%202018-04-01%20at%204.15.25%20pm.png)\n\n# **About this Dataset**\nSOURCE: [International Organisation of Vine and Wine](http://www.oiv.int/public/medias/5287/oiv-noteconjmars2017-en.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "wine data",
+        "world wine production",
+        "data visualization",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w33",
+      "title": "2019/W33: A bird’s-eye view of clinical trials",
+      "description": "A bird’s-eye view of clinical trials",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/OVjEAs3JTKmMA2gK9s7F\\_Screenshot%202019-08-10%20at%2010.47.09%20am.png](https://media.data.world/OVjEAs3JTKmMA2gK9s7F_Screenshot%202019-08-10%20at%2010.47.09%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [A bird’s-eye view of clinical trials](https://www.statnews.com/2019/07/18/clinical-trials-birds-eye-view-drug-development/)\nDATA SOURCE/ORIGINAL VIZ: [Aero Data Lab](https://www.aerodatalab.org/birds-eye-view-of-research-landscape)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "pharmaceuticals",
+        "drugs",
+        "clinical trials",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
