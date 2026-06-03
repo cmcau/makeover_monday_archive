@@ -1,0 +1,35 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w3-women-conductors-on-broadway",
+  "title": "2026/W3 Women+ Conductors on Broadway",
+  "description": "Representation of female and nonbinary conductors, music directors, and music supervisors in Broadway.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-f46d99ed03ce482aafef6022e3d20329.png)\n\nData Source: [Sariva Goetz](https://docs.google.com/spreadsheets/d/1yTUUKoOhpSiizZNHDZYoPMZL0Jdk7PSw/edit?gid=87507842#gid=87507842)\n\nArticle: [Maestra](https://maestramusic.org/resources/timelines/timeline-of-broadway-conductors-and-mds/)\nWomen+ Conduct on Broadway Data Visualization Contest: [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeDsKbCsCmyzg30W7rUC3wmXOYVSEZiR1jTKGanNLjE8U9o_Q/viewform)\nWomen+ Conduct on Broadway Data Visualization Contest: [Livestream](https://www.youtube.com/live/ZDTnKAenlno)",
+  "version": "ddd70373-4",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Conductor Timeline Data_Contest.xlsx",
+      "sizeInBytes": 152016,
+      "created": "2026-01-19T09:06:10.946876604Z",
+      "updated": "2026-01-19T09:06:10.946876604Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-01-19T09:05:18.953605400Z",
+  "updated": "2026-01-19T09:13:55.066451345Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 3,
+    "columnCount": 27
+  },
+  "similarResources": [],
+  "isProject": false
+}
