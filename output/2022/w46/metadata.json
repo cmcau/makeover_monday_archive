@@ -1,0 +1,45 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w46",
+  "title": "2022/W46: Cocaine & Heroin Prices (1990-2020)",
+  "description": "Historical wholesale & retail prices for the USA and Western Europe",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3b20bc94a1014598530cf57b2b892fa51bdfdb0c5875e643292fbef628db2e8c_CleanShot_2022_11_08_at_2.47.10_2x.png)\n\n## **References**\nThe Economist: [How much does cocaine cost around the world?](https://www.economist.com/graphic-detail/2022/10/25/how-much-does-cocaine-cost-around-the-world)\nData Source: UNODC [Price time series for cocaine and heroin, Western Europe and the United States](https://dataunodc.un.org/dp-drug-prices-Europe-USA)",
+  "version": "8de7a2f0-c6ff-4582-a2c0-8fa2e47cf5a6",
+  "tags": [
+    "makeover monday",
+    "drugs",
+    "cocaine",
+    "heroin",
+    "time series",
+    "country",
+    "europe",
+    "united states",
+    "usa",
+    "wholesale",
+    "retail"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Cocaine and Heroin Prices.xlsx",
+      "sizeInBytes": 46733,
+      "created": "2022-11-08T14:46:39.785919574Z",
+      "updated": "2022-11-08T14:46:39.785919574Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-11-08T14:44:24.103929098Z",
+  "updated": "2022-11-13T18:47:11.043691292Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [],
+  "isProject": false
+}
