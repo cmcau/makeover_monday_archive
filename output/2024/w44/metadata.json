@@ -1,0 +1,94 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w44-halloween",
+  "title": "2024/w44: Halloween",
+  "description": "halloween",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\ndata from NRF\n\nhttps://nrf.com/research-insights/holiday-data-and-trends/halloween/halloween-data-center\n\nhttps://nrf.com/research-insights/holiday-data-and-trends/halloween\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-8c9a3ba4d9cb476db6bbdbb8e9a6f852.png)\n\n",
+  "version": "545a7c7e-7",
+  "tags": [],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Halloween 2024.xlsx",
+      "sizeInBytes": 9867,
+      "created": "2024-10-27T18:51:41.935793110Z",
+      "updated": "2024-10-27T18:51:41.935793110Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-10-27T18:48:53.980748846Z",
+  "updated": "2024-10-28T06:58:49.187324295Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 6,
+    "columnCount": 16
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "st-patrick-day-spending-by-person",
+      "title": "St. Patrick Day : Spending by Person",
+      "description": "NRF has been conducting its annual St. Patrick’s Day survey for more than a decade to see how consumers will spend for a",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n**_Source: NRF's 2024 Annual St. Patrick's Day Spending Survey conducted by Prosper Insights & Analytics_**\n\n![](https://mediauploads-US.data.world/00000-idiomind-2c959aed8c904faab6d1c8482b523b13.png)\n\n\n[https://nrf.com/research-insights/holiday-data-and-trends/st-patricks-day/st-patricks-day-data-center](https://nrf.com/research-insights/holiday-data-and-trends/st-patricks-day/st-patricks-day-data-center)\n\n",
+      "tags": [
+        "st patrick",
+        "celebration"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-30-streaming-hits-40-of-us-tv-usage-for-the-fi",
+      "title": "2024/ Week 30 Streaming Hits 40% of U.S. TV Usage for the Fi",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle:  [https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/](https://www.nielsen.com/insights/2023/sports-gave-broadcast-channels-a-second-straight-month-of-viewing-gains-in-september/)\nsource : nielsen\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-38b895be259540e984cdcaa8ebd6bdd5.png)\n\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-25f482997a5d490f8654a298403c69aa.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w36-countries-with-the-most-holidays-2024",
+      "title": "2024/W36 : Countries with the Most Holidays 2024",
+      "description": "Countries with the Most Holidays 2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata from https://worldpopulationreview.com/country-rankings/countries-with-the-most-holidays \n\n\"Most every culture and country in the world celebrates holidays. Holidays take many forms. Some are near-global public holidays such as [New Year's Eve](https://worldpopulationreview.com/country-rankings/which-country-celebrates-new-year-first), and some are celebrated by only a few countries, such as [Cinco de Mayo](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-cinco-de-mayo) and [St. Patrick's Day](https://worldpopulationreview.com/country-rankings/how-many-countries-celebrate-st-patricks-day). Some are strictly religious, such as [Ramadan](https://worldpopulationreview.com/country-rankings/which-countries-celebrate-ramadan), some are strictly secular, such as [Thanksgiving](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-thanksgiving), and some have both spiritual and secular elements, such as the fall and winter holidays ([Halloween](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-halloween), [Dia de los Muertos](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-day-of-the-dead), [Christmas](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-christmas), Hanukkah, [Krampus](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-krampus), and related holidays). But which country celebrates the most holidays of all?\"\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-58e80f6111a449b3bce0d81cfdae684a.png)\n\n",
+      "tags": [
+        "countries",
+        "bank",
+        "holidays"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-w48-christmasgiftsdesirabilityusuk2024",
+      "title": "2024/ w48 Christmas_Gifts_Desirability_US_UK_2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nChristmas: https://www.statista.com/statistics/1084794/christmas-gifts-desired-by-uk-consumers/\n\n![](https://mediauploads-US.data.world/00000-idiomind-a0017270bb5c4af5918620582c5891e0.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-050bbb79ae1e409fba750394c46356f3.png)\n\n",
+      "tags": [
+        "christmas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-7-most-popular-valentines-candy-by-state",
+      "title": "2025/ week 7 Most Popular Valentine's Candy by State",
+      "description": "Valentine's Candy",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-09d7604f022b48479df3b0be07996e68.webp)\n\ndata from https://www.candystore.com/blogs/holidays/valentines-candy-popular-states",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
