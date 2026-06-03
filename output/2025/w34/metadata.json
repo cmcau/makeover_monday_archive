@@ -1,0 +1,99 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025-week-34-unemployment-rate",
+  "title": "2025/ week 34 Unemployment Rate",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: ONS UK [https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms)?\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-9ec3852f438d41e18a84bd86f1ae0903.png)\n\n",
+  "version": "f895f773-5",
+  "tags": [
+    "unemployement"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "series-180825 (1).csv",
+      "sizeInBytes": 15617,
+      "created": "2025-08-18T17:30:06.653124974Z",
+      "updated": "2025-08-18T17:30:06.653124974Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-08-18T17:26:12.689884845Z",
+  "updated": "2025-08-18T17:30:06.654164575Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-15-uk-unemployment-rate",
+      "title": "2024/W15 UK Unemployment rate",
+      "description": "UK unemployment has fallen to the lowest levels since the mid-1970s",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nArticle : [Guardian](https://www.theguardian.com/uk-news/2024/mar/02/conservatives-economic-record-budget-deficit-gdp-tax-tory-budget?utm%5C_term=65e2ce75a55372f1c9bb099f713159bd&utm%5C_campaign=GuardianTodayUK&utm%5C_source=esp&utm%5C_medium=Email&CMP=GTUK%5C_email)\n\nData: [ONS](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-ac6cccc3e84840ff8f6ed59dc5231cae.png)\n\n",
+      "tags": [
+        "unemployment uk"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w12-uk-unemployment-estimates",
+      "title": "2026/W12 London Unemployment Estimates",
+      "description": "Labour Force Survey (LFS) estimates for unemployment in London - Not Seasonally Adjusted",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-9c2e35c21e354fe5904c4b81f4697faf.png)\n\nData Source: [ONS](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/regionalunemploymentbyagex02)\n\nArticle: [BBC](https://www.bbc.co.uk/news/articles/cm2rmjnlm94o) & [London Datastore](https://data.london.gov.uk/blog/unemployment-in-key-charts-young-londoners-hit-hardest-by-labour-market-slowdown/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-13-work-productivity",
+      "title": "2025/ week 13  Work Productivity",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata : https://www.activtrak.com/resources/benchmarks/productivity-benchmarks-cross-industry/\n\nSource: Activtrak\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-50bc4b8645be45b3a68ee133cfc16ba0.png)\n\n",
+      "tags": [
+        "productivity",
+        "work",
+        "industry"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-w48-christmasgiftsdesirabilityusuk2024",
+      "title": "2024/ w48 Christmas_Gifts_Desirability_US_UK_2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nChristmas: https://www.statista.com/statistics/1084794/christmas-gifts-desired-by-uk-consumers/\n\n![](https://mediauploads-US.data.world/00000-idiomind-a0017270bb5c4af5918620582c5891e0.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-050bbb79ae1e409fba750394c46356f3.png)\n\n",
+      "tags": [
+        "christmas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-3-current-and-preferred-work-arrangements",
+      "title": "2025/ week 3  Current and Preferred Work Arrangements",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nData source: https://www.datavisualizationsociety.org/\n\n![](https://mediauploads-US.data.world/00000-idiomind-4955803e0f27485686bc93f89896b458.png)\n\n",
+      "tags": [
+        "work",
+        "work arragement",
+        "remote"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
