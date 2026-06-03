@@ -1,0 +1,130 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w8",
+  "title": "2023/W8: The Cheapest Ways to Get Your Protein",
+  "description": "The Cheapest Ways to Get Your Protein",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3db73ff8f29a47292ba311c8b22a01128824a50ed28c88e06d079697861be225_image.png)\n\n​\n\n## **Resources**\nArticle/Data Source: [LifeHacker](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)\n\nVisualization: [The Bodybuilding Dietitians](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)",
+  "version": "7888611d-dcc8-4b24-8330-e7d409d4f94a",
+  "tags": [
+    "makeover monday",
+    "food",
+    "protein",
+    "cost"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Protein Costs.xlsx",
+      "sizeInBytes": 6246,
+      "created": "2023-02-19T18:06:52.977364114Z",
+      "updated": "2023-02-19T18:06:52.977364114Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-02-19T18:06:36.721952620Z",
+  "updated": "2023-02-19T18:14:04.416108854Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w5-the-cheapest-countries-to-study-in-europe-in-2023",
+      "title": "2024/W5: The Cheapest Countries to Study in Europe in 2023",
+      "description": "Yearly costs to study in select European countries (£)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/uploaded%2F00000-4a0584625f624b8d8589391bd9c813a1.png)\n\n​\n\n​\n\nDatasource : [Finder 2023](https://www.finder.com/uk/cheapest-countries-to-study-europe)\nArticle : [The Cheapest Countries to Study in Europe in 2023](https://www.finder.com/uk/cheapest-countries-to-study-europe)",
+      "tags": [
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w50",
+      "title": "2022/W50: Which country gets the most paid vacation days?",
+      "description": "Which country gets the most paid vacation days?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/170e5d01ea1443c1452df70e9f36774a517f8c0cbb3f133c91b4124d2fddf89d_image.png)\n\n​\n\n## Resources\nData Source: [Resume.io](https://resume.io/blog/which-country-gets-the-most-paid-vacation-days)\nData collected and prepared by: [Yamil Medina](https://twitter.com/VIZMIXER) (please tag him)",
+      "tags": [
+        "makeover monday",
+        "vacation",
+        "holiday",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w16",
+      "title": "2023/W16: Retirement Ages Around the World",
+      "description": "At what age to people retire around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/f8d8119d5a5a6b7732d8ee917cecb9589616f4d44e23704b4ccfce3ca9d0a73f_image.png)\n\n​\n\n# Resources\nOriginal Article - [Statista](https://www.statista.com/chart/29570/european-average-effective-labor-market-exit-ages/)\nData Source - [OECD](https://stats.oecd.org/Index.aspx?QueryId=111940)\n\n​",
+      "tags": [
+        "makeover monday",
+        "age",
+        "oecd",
+        "retire",
+        "retirement",
+        "labour",
+        "labor",
+        "labor statistics",
+        "country",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w26",
+      "title": "2021/W26: How Popular Is Your Birthday?",
+      "description": "How popular is your birthday?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/yFDOaIorTUuNKthTGay9_Births.png)\n\n​\n\n# Resources\nOriginal Article: [How Common is Your Birthday?](http://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/)\nData Source: U.S. National Center for Health Statistics ([1994-2003](https://github.com/fivethirtyeight/data/blob/master/births/US_births_1994-2003_CDC_NCHS.csv)); U.S. Social Security Administration ([2004-2014](https://github.com/fivethirtyeight/data/blob/master/births/US_births_2000-2014_SSA.csv)) — via [FiveThirthyEight](https://github.com/fivethirtyeight/data/births)",
+      "tags": [
+        "makeover monday",
+        "five thirty eight",
+        "birth",
+        "usa",
+        "united states",
+        "cdc",
+        "social security",
+        "ssa",
+        "birthday",
+        "date",
+        "year",
+        "month",
+        "weekday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w18",
+      "title": "2023/W18: Federal minimum wage by State",
+      "description": "How many people earned the Federal minimum wage or less in each State?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/e49272041e4cbf38eeba06ef9d7066174b8a5496997773b9984e819bd677060f_image.png)\n\n​\n\n# Resources\nChart Source/Article: [Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nData source: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2021/home.htm)",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "united states",
+        "earning",
+        "wages",
+        "minimum wage",
+        "state"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
