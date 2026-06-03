@@ -1,0 +1,95 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w23-lgbt-identification-in-us",
+  "title": "2024/W23 LGBT Identification in U.S",
+  "description": "LGBT % Share of Adult U.S Population by Generation",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-04c0a7b755bb4c6392167219ce7b9877.jpeg)\n\n​\n\nDatasource : [Gallup](https://news.gallup.com/poll/470708/lgbt-identification-steady.aspx)\n\nArticle : [Statista](https://www.statista.com/chart/18228/share-of-americans-identifying-as-lgbt/)",
+  "version": "8f7c0754-5",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MM W23 LGBT Identification in U.S.xlsx",
+      "sizeInBytes": 5223,
+      "created": "2024-06-02T15:58:09.295076939Z",
+      "updated": "2024-06-02T15:58:09.295076939Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-06-02T15:55:54.105498602Z",
+  "updated": "2024-06-02T16:01:35.484948141Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "one-in-four-americans-say-its-wrong-to-eat-an-octopus",
+      "title": "One in Four Americans Say It's Wrong To Eat an Octopus",
+      "description": "Share of U.S. Adults that say it is wrong to eat certain animals",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-05d7bfb3a49046aca57dccf883f2cf1c.jpeg)\n\n​\n\nARTICLE: [https://www.statista.com/chart/30299/us-survey-on-ethics-of-eating-animals/](https://www.statista.com/chart/30299/us-survey-on-ethics-of-eating-animals/)\n\n#\n#\n​",
+      "tags": [],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w21-metacritic-best-games-of-all-time",
+      "title": "2025/W21 Metacritic Best Games of All Time",
+      "description": "All games with a 90+ metascore (critic reviews) on Metacritic",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-59c00425eae94d5781efdb407cecfdad.png)\n\nDatasource: [Metacritic](https://www.metacritic.com/browse/game/)\n\nArticle: [Metacritic](https://www.metacritic.com/browse/game/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w20-us-made-gun-exports-2005-2022",
+      "title": "2024/W20 US-Made Gun Exports 2005-2022",
+      "description": "Cumulative volume of US semiautomatic firearm exports, 2005–2022",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-c7bb995e7d1d40abbd50b7381601d6d7.png)\n\n​\n\nDatasource : [United States Census Bureau](https://www.census.gov/foreign-trade/data/index.html)\n\nArticle : [Bloomberg](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "paris-2024-medal-cout",
+      "title": "2024/W35 Paris 2024 Medal Count",
+      "description": "Paris 2024 Olympic medal count by country, sport & sporting event",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-367ed83c71394f1fb94123556a946b57.png)\n\n​\n\nDatasource: [Olympics](https://olympics.com/en/paris-2024/medals)\n\nArticle: [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w47-global-slavery-index",
+      "title": "2024/W49 Global Slavery Index",
+      "description": "Global Slavery Index 2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-9a76055d6111450eb3341f8c530cbcd3.png)\n\n​\n\nDatasource: [Walk Free](https://www.walkfree.org/global-slavery-index/downloads/)\n\nArticle: [Walk Free](https://www.walkfree.org/global-slavery-index/#:~:text=An%20estimated%2050%20million%20people,10%20million%20people%20since%202016.)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
