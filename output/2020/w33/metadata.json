@@ -1,0 +1,117 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w33-scotland-the-state-of-the-digital",
+  "title": "2020/W33: Scotland - The state of the Digital Nation",
+  "description": "Scotland - The state of the Digital Nation",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://companyconnecting.com/sites/default/files/Company-Connecting-Pg-1%20%281%29.jpg](https://companyconnecting.com/sites/default/files/Company-Connecting-Pg-1%20%281%29.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Stats, Graphs and Interesting Facts](https://companyconnecting.com/news/stats-graphs-and-interesting-facts)\nDATA SOURCE: [Company Connecting](https://companyconnecting.com/news/stats-graphs-and-interesting-facts)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+  "version": "bebff55d-0dcf-4b95-aba4-8dee60643c6c",
+  "tags": [
+    "scotland",
+    "digital"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Week33.xlsx",
+      "sizeInBytes": 8996,
+      "created": "2020-08-14T18:28:10.855Z",
+      "updated": "2020-08-14T18:28:10.855Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-08-14T18:18:55.347Z",
+  "updated": "2020-08-15T06:45:01.135Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w45-dedicated-video-game-sales-units",
+      "title": "2020/W45: Dedicated Video Game Sales Units",
+      "description": "Dedicated Video Games Sales Units",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/11/graph.jpg](https://learningtableaublog.files.wordpress.com/2020/11/graph.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Nintendo Investor Relations](https://www.nintendo.co.jp/ir/en/finance/hard_soft/number.html)\nDATA SOURCE: [Data downloaded from source article. Original source is Euroland.com](https://www.euroland.com)\n\n# **Objectives**\n\\\\\\* What works and what doesn't work with this chart?\n\\\\\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "video games",
+        "sales"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w20",
+      "title": "2020/W20: Visualizing Auto Insurance Rate by State in 2020",
+      "description": "Visualizing Auto Insurance Rate by State in 2020",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://cdn.howmuch.net/articles/Car-Insurance-Rates-in-2020---2500px---72dpi-7203.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visualizing Auto Insurance Rate by State in 2020](https://howmuch.net/articles/car-insurance-rates-in-2020)\nDATA SOURCE: [Average car insurance rates by state](https://www.valuepenguin.com/average-cost-of-insurance)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "insurance",
+        "us data",
+        "car insurance"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w8",
+      "title": "W8/2019: Which States Produce the Most Wind Energy",
+      "description": "Which States Produce the Most Wind Energy",
+      "summary": "# **Original Visualization**\n![Original](https://cdn.howmuch.net/articles/wind-power-in-the-united-states-2018-2cf9.jpg)\n\n# **About this Dataset**\nARTICLE: [Howmuch.net](https://howmuch.net/articles/wind-power-in-the-united-states-2018)\n\nSOURCE: [American Wind Energy Association via ChooseEnergy.com](https://www.chooseenergy.com/news/article/best-worst-ranked-states-wind-power/)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "wind energy",
+        "renewable energy",
+        "us wind energy",
+        "ranking"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w5",
+      "title": "2019/W5: Digital Economy and Society Index (DESI)",
+      "description": "DESI is a composite index that summarises relevant indicators on Europe’s digital performance.",
+      "summary": "\n# **Original Visualization**\n![original](https://ec.europa.eu/digital-single-market/sites/digital-agenda/files/desi2018_correction.png)\n\n# **About this Dataset**\nSOURCE: [European Commission](https://ec.europa.eu/digital-single-market/en/desi)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "europe",
+        "desi",
+        "society",
+        "index",
+        "economy",
+        "digital",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w47",
+      "title": "2019/W47: Smartphone Ownership Among Youth Is on the Rise",
+      "description": "Smartphone Ownership Among Youth Is on the Rise",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://morningbrew-oslo.s3.us-west-2.amazonaws.com/1572378011.jpg](https://morningbrew-oslo.s3.us-west-2.amazonaws.com/1572378011.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Morning Brew](https://www.morningbrew.com/daily/stories/2019/10/29/smartphone-ownership-among-youth-rise)\nDATA SOURCE: [Common Sense (page  27)](https://www.commonsensemedia.org/sites/default/files/uploads/research/2019-census-8-to-18-full-report-updated.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "youth",
+        "teen",
+        "tween",
+        "smartphone",
+        "mobile devices",
+        "survey",
+        "census",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
