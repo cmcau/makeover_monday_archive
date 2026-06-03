@@ -1,0 +1,121 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w13",
+  "title": "2023/W13: The Gender Pay Gap in US World Cup Bonuses",
+  "description": "The Gender Pay Gap in US World Cup Bonuses",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/b336e4ced55fe660dd589e6687f449bf42de1a94663714c6b0c8c2b18d8db35c_CleanShot_2023_03_26_at_11.45.41_2x.png)\n\n# Resources\nData Source: The Guardian (from US soccer)",
+  "version": "c1f9c32c-324f-488b-8e1c-2304b7432b91",
+  "tags": [
+    "soccer",
+    "football",
+    "gender",
+    "pay gap",
+    "equity",
+    "united states",
+    "world cup",
+    "pay"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US World Cup Pay.xlsx",
+      "sizeInBytes": 9084,
+      "created": "2023-03-26T10:44:43.159438968Z",
+      "updated": "2023-03-26T10:44:43.159438968Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-03-26T10:44:27.481256451Z",
+  "updated": "2023-03-26T10:47:53.845026407Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w20",
+      "title": "2023/W20: Global Media Freedom",
+      "description": "How free is the press around the World?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/27b33d7681320cf2a3647f8f6406acd75a1868c09df2dc8deab39399b67ad720_CleanShot_2023_05_15_at_8.48.09_2x.png)\n\n​\n\n# Resources\nOriginal Article: [The Guardian](https://www.theguardian.com/media/2023/may/03/media-freedom-in-dire-state-in-record-number-of-countries-report-finds?CMP=Share_iOSApp_Other)\nDatasource: [Reporters Without Borders](https://rsf.org/en/index?year=2023)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w39",
+      "title": "2023/W39: Street Level Temperatures in NYC",
+      "description": "Street level temperature on a subset of city blocks in neighborhoods with highest heat mortality risk",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/db46e506da8c5b980e51d78ffda4c3f68bf0d778155c02fc8972ad14b9480f9b_CleanShot_2023_09_22_at_7.42.16_2x.png)\n\n## Resources\nThe Guardian: [Street Level Temperatures in NYC](https://www.theguardian.com/us-news/2022/sep/07/new-york-heat-deaths-map-inequality)\nData Source: [NYC Open Data](https://data.cityofnewyork.us/dataset/Hyperlocal-Temperature-Monitoring/qdq3-9eqn)",
+      "tags": [
+        "new york city",
+        "open data",
+        "temperature",
+        "heat",
+        "street"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w40",
+      "title": "2023/W40: Scary Dreams in America",
+      "description": "What does Google Trends tell us about scary dreams in America?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/d5448209097a520c05acc852bbd1de1f9d50c6483cf9055afd2261d5f26eb03e_CleanShot_2023_10_01_at_1.22.51_2x.png)\n\n​\n\n## Resources\nData Source: [Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB)",
+      "tags": [
+        "united states",
+        "dreams",
+        "makeover monday",
+        "america",
+        "google trends"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w12",
+      "title": "2023/W12: US Wind Turbines",
+      "description": "Locations of wind turbines in the US, wind project information, and turbine technical specifications",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5632aae2a4df6f1a7b70015f1cddc2a371d4384d84305c1674d67664a8f94f02_CleanShot_2023_02_22_at_12.05.18_2x.png)\n\n​\n\n## **Resources**\nVisualization: [U.S. Wind Turbines](https://eerscmap.usgs.gov/uswtdb/viewer/#3/37.25/-96.25)\nData Source: [U.S. Wind Turbine Database](https://eerscmap.usgs.gov/uswtdb/data/) | [Metadata](https://eerscmap.usgs.gov/uswtdb/api-doc/#keyValue) | [About](https://eerscmap.usgs.gov/uswtdb/)",
+      "tags": [
+        "makeover monday",
+        "science",
+        "wind energy",
+        "turbine",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w23-uk-gender-pay-gap",
+      "title": "2018/W23: U.K. Gender Pay Gap",
+      "description": "U.K. Gender Pay Gap",
+      "summary": "# **Original Visualization**\n![6268-HMRC-Gender-Pay-Gap-_HMRC__v3_MB_20171205-4.gif](https://media.data.world/UfLDYT9CR2sL14SFGosl_6268-HMRC-Gender-Pay-Gap-_HMRC__v3_MB_20171205-4.gif)\n\n# **About this Dataset**\nSOURCE: [GOV.UK](https://www.gov.uk/government/publications/hmrc-and-voa-gender-pay-gap-report-and-data-2017/hm-revenue-and-customs-gender-pay-gap-report-2017)\n\nPlease use the #genderpaygap hashtag when you post on Twitter. Also tag @govuk @voagovuk and @aislingroberts.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n# **Notes & Explanations**\n## Difference in hourly rate\nThe mean hourly rate is the average hourly wage across the entire organization so the mean gender pay gap is a measure of the difference between women’s mean hourly wage and men’s mean hourly wage.\n\nFor example, if the mean is positive, then women are paid less than men by the percentage listed.\n\nThe median hourly rate is calculated by ranking all employees from the highest paid to the lowest paid, and taking the hourly wage of the person in the middle; so the median gender pay gap is the difference between women’s median hourly wage (the middle paid woman) and men’s median hourly wage (the middle paid man).\n\nFor example, if the median is positive, then women are paid less than men by the percentage listed.\n\n## Proportion of women in each pay quartile\nPay quartiles are calculated by splitting all employees in an organisation into four even groups according to their level of pay. Looking at the proportion of women in each quartile gives an indication of women's representation at different levels of the organisation.\n\n![Screen Shot 2018-06-02 at 9.07.42 pm.png](https://media.data.world/B6RCWCCmQCK9bJRuKCBQ_Screen%20Shot%202018-06-02%20at%209.07.42%20pm.png)\n\n## Company Lookup\nFind any company at https://gender-pay-gap.service.gov.uk/. \n\n## Example\nAs an example, consider [Red Band Chemical Company](https://gender-pay-gap.service.gov.uk/viewing/employer-details?e=zfHBmPVe7y86yXwqcStdLg%21%21).\n\nDifference in hourly rate\nWomen’s mean hourly rate is 2.3% lower than men’s\nIn other words when comparing mean hourly rates, women earn 98p for every £1 that men earn.\n\nWomen’s median hourly rate is 2.7% higher than men’s\nIn other words when comparing median hourly rates, women earn £1.03 for every £1 that men earn.\n\nProportion of women in each pay quartile\n\nWho received bonus pay\n66.7% of women\n15.6% of men\nDifference in bonus pay\nWomen’s mean bonus pay is 15% lower than men’s\nWomen’s median bonus pay is 37.5% lower than men’s\n\n",
+      "tags": [
+        "united kingdom",
+        "gender",
+        "pay",
+        "gap",
+        "companies",
+        "makeover monday",
+        "hmrc",
+        "valuation office agency",
+        "voa"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
