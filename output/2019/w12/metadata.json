@@ -1,0 +1,100 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w12",
+  "title": "2019/W12: How do we really feel about women leaders?",
+  "description": "How do we really feel about women leaders?",
+  "summary": "\n**Original Visualization**\n\n![​](https://assets.weforum.org/editor/Dz-I3eiR_kuVmyk3AqzU45N0dG1crcJocm6YqpCHttw.png) \n\n\n\n**About this Dataset**\n\nSOURCE ARTICLE: [World Economic Forum](https://www.weforum.org/agenda/2018/12/women-reykjavik-index-leadership) \n\nDATA SOURCE: [The Reykjavik Index for Leadership](https://www2.kantar.com/l/208642/2018-11-23/823bj/208642/80069/The_Reykjavik_Index_for_Leadership_Report_DIGITAL.pdf) \n\n\n\n**Objectives**\n\n\n\n\\* What works and what doesn't work with this chart? \n\n\\* How can you make it better? \n\n\n",
+  "version": "8bd16ed6-18cc-4972-b067-fce466f3aa49",
+  "tags": [
+    "reykjavik index",
+    "world economic forum",
+    "equality",
+    "equal opportunities"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Reykjavik Index.xlsx",
+      "sizeInBytes": 9887,
+      "created": "2019-03-16T14:36:10.602Z",
+      "updated": "2019-03-16T14:36:10.602Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-03-16T14:35:55.016Z",
+  "updated": "2019-03-17T09:44:58.131Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w22-the-worlds-most-expensive-prime-property",
+      "title": "2018/W22: The World's Most Expensive Prime Property",
+      "description": "The world's most expensive prime property",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://assets.weforum.org/editor/uX4EB2egK_UruZm2vfPH86YDbapgsHa4uL34QLayhnc.png)\n\n# **About this Dataset**\nSOURCE: [WeForum](https://www.weforum.org/agenda/2018/04/chart-of-the-day-the-worlds-most-expensive-prime-property)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "real estate",
+        "global cities",
+        "treemap"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w30",
+      "title": "2020/W30: Women in Power",
+      "description": "Women in Power - gender inequality in the context of political appointments and parliamentary representation",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![FEMALE POLITICAL REPRESENTATION WORLDWIDE.png](https://media.data.world/rt73DP8dRAC5ojNEp96L_FEMALE%20POLITICAL%20REPRESENTATION%20WORLDWIDE.png)\nVisualization provided by OperationFistula.org\n\n# **About this Dataset**\nSOURCE ARTICLE: [Proportion of seats held by women in national parliaments](https://data.worldbank.org/indicator/SG.GEN.PARL.ZS)\nDATA SOURCE: [World Bank](http://api.worldbank.org/v2/en/indicator/SG.GEN.PARL.ZS?downloadformat=excel)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "viz5",
+        "gender inequality",
+        "gender equality",
+        "women in power",
+        "world bank"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w44-everybody-poops",
+      "title": "2018/W44: Everybody poops",
+      "description": "Everybody poops – but one in ten women won’t do it at work or while out and about",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2017-12-07/Wash%20hands%20v2-01.png)\n\n# **About this Dataset**\nSOURCE: [Article](https://yougov.co.uk/news/2018/09/18/one-six-male-workers-say-they-dont-always-wash-the/) \n\nDATA FROM: [YouGov](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/yifb4ww12p/YouGov%20washing%20hands.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "yougov"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w3",
+      "title": "2019/W3: How many people earned the Federal minimum wage?",
+      "description": "According to the Bureau of Labor Statistics, how many people earned the Federal minimum wage or less in each State?",
+      "summary": "# **Original Visualization**\n![5bb3904393032c18c75259b4-1136-852.png](https://media.data.world/Q36ZvvbuS5CiLSOpKI76_5bb3904393032c18c75259b4-1136-852.png)\n\n# **About this Dataset**\nARTICLE: [Business Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nSOURCE: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2017/home.htm)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? ",
+      "tags": [
+        "makeover monday",
+        "united states",
+        "usa",
+        "wages",
+        "minimum wage",
+        "bls",
+        "labor statistics",
+        "bureau",
+        "state"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
