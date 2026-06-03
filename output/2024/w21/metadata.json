@@ -1,0 +1,34 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w20-french-people-are-losing-confidence-in-the-paris",
+  "title": "2024/W21: French people are losing confidence in the Paris",
+  "description": "French people are losing confidence in the Paris Olympics",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nFrench people are losing confidence in the Paris Olympics\n\nArticle : https://blog.datawrapper.de/public-confidence-paris-olympics/\n\nSource: [Harris Interactive for Paris 2024](https://harris-interactive.fr/opinion_polls/barometre-du-rapport-des-francais-aux-jeux-olympiques-et-paralympiques-de-paris-2024-vague-5/)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-2eb2cca38684496ab8fd3c6b4edb6eb4.png)\n\n",
+  "version": "7397f67d-6",
+  "tags": [],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "data-xvtBu.csv",
+      "sizeInBytes": 561,
+      "created": "2024-05-19T19:18:38.946292892Z",
+      "updated": "2024-05-19T19:18:38.946292892Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-05-19T19:16:29.200641340Z",
+  "updated": "2024-05-20T10:29:56.738207792Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [],
+  "isProject": false
+}
