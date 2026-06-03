@@ -1,0 +1,71 @@
+{
+  "owner": "makeovermonday",
+  "id": "w102018-what-policymakers-know-about-women-and-girl-issues",
+  "title": "2018/W10: What Policymakers know about Women and Girl Issues",
+  "description": "What Policymakers know about Women and Girl Issues",
+  "summary": "# **Original Visualization**\n![week 10 original.png](https://media.data.world/333mFENRQKQqPJHtsG09_week%2010%20original.png)\n\n# **About this Dataset**\nSOURCE: [Equal Measures 2030](http://www.equalmeasures2030.org/products/policymaker-report)\n\nThis week's Makeover Monday challenge is a collaboration with Tableau Public and Equal Measures 2030 in celebration of International Women's Day.\n\nThe data provided shows the responses by policy makers across a number of countries when asked for their judgement of different issues relating to women in girls in their country.\n\nThe data contains a *'correct answer'* with, for example, the rate at which women participate in the labor force. \n\nThen there is a column with the *guess or estimate* by the policy makers.\nFor labor participation, a guess that is higher than the correct answer is an overestimation, i.e. people think the situation is better than it is in reality.\n\nFor early marriage rates (the percentage of women currently aged 20-24 who were married before reaching the age of 18), an estimate below the correct answer means policy makers are underestimating how frequent these early marriages are.\n\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "913d23d7-534d-46ba-869e-502cfb8ededd",
+  "tags": [
+    "maternal health",
+    "policy data",
+    "survey data",
+    "iwd",
+    "united nations",
+    "sdg action campaign"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "EM2030 COLOURS.pdf",
+      "sizeInBytes": 8462,
+      "created": "2018-03-01T19:32:37.389Z",
+      "updated": "2018-03-01T19:32:37.389Z",
+      "description": "Color scheme used by Equal Measures 2030 campaign",
+      "labels": [
+        "documentation"
+      ],
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Equal Measures Survey Data Pivoted.xlsx",
+      "sizeInBytes": 86388,
+      "created": "2018-03-04T13:35:11.854Z",
+      "updated": "2018-03-04T13:35:11.854Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Equal Measures Survey Data.xlsx",
+      "sizeInBytes": 74887,
+      "created": "2018-03-02T05:08:37.433Z",
+      "updated": "2018-03-02T05:08:37.433Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Typography EM2030 Web.jpg",
+      "sizeInBytes": 197782,
+      "created": "2018-03-01T19:32:37.389Z",
+      "updated": "2018-03-01T19:32:37.389Z",
+      "description": "Typography used by Equal Measures 2030, which you can apply to your visualizations",
+      "labels": [
+        "documentation"
+      ],
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-02-28T16:32:59.680Z",
+  "updated": "2018-03-04T13:35:15.559Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 4,
+    "tableCount": 2,
+    "columnCount": 24
+  },
+  "similarResources": [],
+  "isProject": false
+}
