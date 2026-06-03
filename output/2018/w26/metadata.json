@@ -1,0 +1,139 @@
+{
+  "owner": "makeovermonday",
+  "id": "london-cycle-hire-usage",
+  "title": "2018/W26: London Cycle Hire Usage",
+  "description": "London Cycle Hire Usage",
+  "summary": "![Screen Shot 2018-06-21 at 12.19.45 pm.png](https://media.data.world/OSkqtJC1TPapfFJMtaGp_Screen%20Shot%202018-06-21%20at%2012.19.45%20pm.png)\n\n# **About this Dataset**\n* DATA SOURCE: [Transport for London](http://cycling.data.tfl.gov.uk/)\n* DESIGNER: [Sophie Sparks](https://twitter.com/sophie_sparkes)\n* INTERACTIVE VERSION: [Tableau Public](https://public.tableau.com/en-us/s/gallery/boris-bikes-daily-usage)\n\n# **NOTES**\n1. To connect to Exasol data source (50M+ records from 2012-2018) use the Tableau Data Source [here](https://fileshare.theinformationlab.co.uk/index.php/s/8xVZze3BZnjl1oh).\n2. Details for connecting to Exasol can be found in [this blog post](http://www.makeovermonday.co.uk/big-data/).\n3. If you have trouble downloading the CSV from data.world, you can download it [here](https://fileshare.theinformationlab.co.uk/index.php/s/lJwnY5V2I8Frali) instead. \n4. The CSV only contains data for 2017.\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "23664e97-ed81-4c0d-a49f-148b37aee665",
+  "tags": [
+    "makeover monday",
+    "cycling",
+    "london",
+    "boris bikes",
+    "santander",
+    "cycle hire",
+    "bike hire",
+    "rental",
+    "transportation",
+    "transport for london",
+    "tfl"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "TFL Cycle Hire 2017.csv",
+      "sizeInBytes": 1783659701,
+      "created": "2018-06-22T09:17:34.390Z",
+      "updated": "2018-06-22T09:17:52.517Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-06-21T11:16:07.577Z",
+  "updated": "2018-06-24T10:49:28.499Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 18
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w51",
+      "title": "2018/W51: London Bus Safety Performance",
+      "description": "Transport for London produces quarterly reports that provide analysis of incidents on the London bus network",
+      "summary": "# **Original Visualization**\n![Screenshot 2018-12-15 at 9.24.20 pm.png](https://media.data.world/opVvgdS7uA0NapMACtQq_Screenshot%202018-12-15%20at%209.24.20%20pm.png)\n\n# **About this Dataset**\nDATA SOURCE: [Transport for London](https://tfl.gov.uk/corporate/publications-and-reports/bus-safety-data)\n\nDASHBOARD: [London Buses Safety Dashboard – Q2](https://tfl.gov.uk/cdn/static/cms/documents/q2-18-london-bus-safety-dashboard.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "bus",
+        "transportation",
+        "transport for london",
+        "safety",
+        "perfomance",
+        "kpi",
+        "incidents",
+        "accidents",
+        "injuries",
+        "collisions"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-51-temperature-anomalies-1900-2016",
+      "title": "2017/W51: Temperature Anomalies (1900-2016)",
+      "description": "Temperature Anomalies (1900-2016)",
+      "summary": "# Original Visualization\n@(https://twitter.com/anttilip/status/892318734244884480)\n\n# About this Dataset\nSOURCE: [Ken Black](https://3danim8.wordpress.com/2017/06/12/global-climate-data-set-1-daily-temperatures/) via NOAA\n\n# Objectives\nWhat works and what doesn't work with this chart? How can you make it better? Post your alternative on the discussions page.\n\n# Notes\n1. Tableau extract is aggregated to the monthly level for each station\n2. The TDS is a live Exasol connection to all 176 million records.\n3. For the live connection you will need a login which you can create via this registration. \n4. If you previously registered, your login will still work.",
+      "tags": [
+        "makeover monday",
+        "global temperature",
+        "weather"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w40",
+      "title": "2019/W40: London Population Predictions",
+      "description": "London Population Predictions",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![London Population](https://media.data.world/Iz4UmqNeRlmouvVKnBXx_Screen%20Shot%202019-09-28%20at%207.23.28%20pm.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Population of London (click on 'Communities')](https://data.london.gov.uk)\nDATA SOURCE: [London Datastore](https://data.london.gov.uk/download/projections/fcda413b-2b3a-44cd-a692-242bc45ffe24/central_trend_2017_base.xlsx)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?",
+      "tags": [
+        "london",
+        "population",
+        "london population",
+        "uk data",
+        "open data",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "tc-europe-2018-how-long-are-patients-in-an-nhs-ae",
+      "title": "TC Europe 2018: How long are patients in an NHS A&E?",
+      "description": "Percentage of Patients Spending 4 Hours or Less in A&E by Provider",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-07-03 at 8.15.52 am.png](https://media.data.world/c7BSjH3XQE7fjk6iFg7Q_Screen%20Shot%202018-07-03%20at%208.15.52%20am.png)\n\n# **About this Dataset**\nSOURCE: [NHS](https://files.digital.nhs.uk/pdf/m/4/acci-emer-atte-eng-2016-17-rep.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "england",
+        "united kingdom",
+        "nhs",
+        "health",
+        "healthcare",
+        "accident",
+        "emergency",
+        "wait time"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w32",
+      "title": "2019/W32: Britain is rapidly phasing out coal",
+      "description": "Britain is rapidly phasing out coal",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/MZv1UvTuRf2sakpA9jJM\\_Screenshot%202019-08-03%20at%207.53.06%20am.png](https://media.data.world/MZv1UvTuRf2sakpA9jJM_Screenshot%202019-08-03%20at%207.53.06%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/environment/ng-interactive/2019/may/25/the-power-switch-tracking-britains-record-coal-free-run)\nDATA SOURCE: [Gridwatch](https://www.gridwatch.templar.co.uk/download.php)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "uk",
+        "united kingdom",
+        "coal",
+        "renewable energy",
+        "supply",
+        "demand",
+        "time series",
+        "guardian",
+        "environment"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
