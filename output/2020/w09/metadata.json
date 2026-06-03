@@ -1,0 +1,116 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w9",
+  "title": "2020/W9: Sleep Hours Needed Vs. Averaged",
+  "description": "Sleep Hours Needed Vs. Averaged",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://savvysleeper.org/wp-content/uploads/2019/05/costing-kids-sleep-asset2.png](https://savvysleeper.org/wp-content/uploads/2019/05/costing-kids-sleep-asset2.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Costing Kids Sleep](https://savvysleeper.org/costing-kids-sleep/)\nDATA SOURCE: [Costing Kids Sleep](https://savvysleeper.org/costing-kids-sleep/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* What can Tableau users do with the new viz transitions feature in version 2020.1?",
+  "version": "3050d93c-6a69-46d1-ad4d-0f559c5ede2a",
+  "tags": [
+    "makeovermonday",
+    "sleep",
+    "vizanimations",
+    "viztransitions"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Week9MM.xlsx",
+      "sizeInBytes": 9070,
+      "created": "2020-02-29T20:29:46.788Z",
+      "updated": "2020-02-29T20:29:46.788Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-02-29T20:28:34.876Z",
+  "updated": "2020-03-01T08:25:21.837Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w44",
+      "title": "2019/W44: World Cities Ranked by Annual Sunshine Hours",
+      "description": "World Cities Ranked by Annual Average Sunshine Hours",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![world-cities-ranked-by-annual-sunshine-hours-10.png](https://media.data.world/gTpBzwNRtmjaoq8ySCvi_world-cities-ranked-by-annual-sunshine-hours-10.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [World Cities Ranked by Average Annual Sunshine Hours](https://www.visualcapitalist.com/wp-content/uploads/2019/10/world-cities-by-hours-annual-sunshine.html)\nDATA SOURCE: [Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? ",
+      "tags": [
+        "sunshine",
+        "wikipedia",
+        "world cities",
+        "sunshine hours"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w15-messi-vs-ronaldo-stats",
+      "title": "2020/W15: Messi Vs Ronaldo Stats",
+      "description": "Messi Vs Ronaldo Stats",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![​](https://soccerment.com/wp-content/uploads/2017/09/Messi_CRonaldo_GoalsPerMatch.png) \n\n# **About this Dataset**\nSOURCE ARTICLE: [Soccerment](https://soccerment.com/2018-topscorer-preview-spanish-la-liga/) \nDATA SOURCE: [www.transfermarkt.com](http://www.transfermarkt.com) \n\n# **Objectives**\n\\* What works and what doesn't work with this chart? \n\\* How can you make it better?\n\\* I've provided more data than you need to replicate the original chart. What additional insights can you uncover and present to give a more thorough analysis of these two players?",
+      "tags": [
+        "football",
+        "proper",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w23",
+      "title": "2019/W23: Sleepless in America?",
+      "description": "The American Time Use Survey tracks how much Americans sleep by gender and age.",
+      "summary": "# **Original Visualization**\n![https://www.bls.gov/tus/charts/chart16.jpg](https://www.bls.gov/tus/charts/chart16.jpg)\n\n# **About this Dataset**\nIMAGE SOURCE: [American Time Use Survey](https://www.bls.gov/tus/charts/sleep.htm)\nDATA SOURCE: [American Time Use Survey](https://www.bls.gov/tus/database.htm)\n\n#### **ADDITIONAL RESOURCES**\n\n1. [The Connection between Sleep and Autoimmune Disease](https://www.nutritionaltherapyconference.com/wp-content/uploads/2016/04/NTA2016-Conference-Talk.pdf) - Sarah Ballantyne, PhD\n2. [National Sleep Foundation](https://www.sleepfoundation.org/)\n3. [Drowsy Driving](https://www.nhtsa.gov/risky-driving/drowsy-driving) - National Highway Traffic Safety Adminstration\n4. [Acute Sleep Deprivation and Risk of Motor Vehicle Crash Involvement](https://aaafoundation.org/acute-sleep-deprivation-risk-motor-vehicle-crash-involvement/) - AAA Foundation for Traffic Safety\n5. [Richard Smith: _Why We Sleep_ (Matthew Walker) book review](https://blogs.bmj.com/bmj/2018/06/20/richard-smith-why-we-sleep-one-of-those-rare-books-that-changes-your-worldview-and-should-change-society-and-medicine/) - the bmj opinion\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "sleep",
+        "america",
+        "united states",
+        "american time use survey",
+        "atus",
+        "gender",
+        "age",
+        "sex",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w21-visualizing-40-years-of-music-industry-sales",
+      "title": "2020/W21: Visualizing 40 Years of Music Industry Sales",
+      "description": "Visualizing 40 Years of Music Industry Sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/music-industry-sales/)\nDATA SOURCE: [RIAA](https://www.riaa.com/u-s-sales-database/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "music"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w24",
+      "title": "2020/W24: The rise of soccer",
+      "description": "The rise of soccer: Percentage of high school female athletes playing each sport",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://fivethirtyeight.com/wp-content/uploads/2015/07/morris-datalab-wsoccer-1.png?w=575)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Why is the US so good at women's soccer?](https://fivethirtyeight.com/features/why-is-the-u-s-so-good-at-womens-soccer/)\nDATA SOURCE: [NFHS](https://members.nfhs.org/participation_statistics)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "sport",
+        "soccer",
+        "us sport"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
