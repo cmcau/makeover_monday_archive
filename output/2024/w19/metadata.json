@@ -1,0 +1,104 @@
+{
+  "owner": "makeovermonday",
+  "id": "global-energy-consumption",
+  "title": "Global Energy Consumption",
+  "description": "How much energy does the world consume?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-3692b68c387b47b9a17e79ab31fbde45.png)\n\n​\n\nArticle and Datasource : [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)",
+  "version": "586ae987-4",
+  "tags": [
+    "energy",
+    "makeovermonday",
+    "tableau"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "global-energy-substitution - 5.5.csv",
+      "sizeInBytes": 7564,
+      "created": "2024-05-05T19:12:45.293848308Z",
+      "updated": "2024-05-05T19:12:45.293848308Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-05-05T19:11:27.080014563Z",
+  "updated": "2024-05-05T19:19:54.739322385Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 13
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "us-home-affordability",
+      "title": "US Home Affordability",
+      "description": "Metro-level summary: Annual income needed to afford a home, August 2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\nUS Version\n\n![](https://mediauploads-US.data.world/00000-datainformant-4c38d4dd894340f5852ac31388ffd2ee.png)\n\n​\n\nCanadian Version\n\n![](https://mediauploads-US.data.world/00000-datainformant-3dc07a1e6be543ff9221bbd3e0476537.png)\n\n​\n\nUS Article and Datasource : [A Homebuyer Needs to Earn $115,000 to Afford the Typical U.S. Home, More Than Ever Before (redfin.com)](https://www.redfin.com/news/homebuyer-income-afford-home-record-high/)\n\nCanadian Article and Datasource: [You won't believe how much income you now need to afford a home in Canada](https://www.newmarkettoday.ca/village-life/you-wont-believe-how-much-income-you-now-need-to-afford-a-home-in-canada-6654848)",
+      "tags": [
+        "home",
+        "tableau",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "meat-production-by-livestock-type",
+      "title": "2025 / Week 35 Meat Production by Livestock Type",
+      "description": "Global meat production by livestock type",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-f893942214d7454ea941573510dd5cac.png)\n\n​\n\n​\n\nDatasource + Article: [Meat and Dairy Production - Our World in Data](https://ourworldindata.org/meat-production)",
+      "tags": [
+        "meat",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "coverage-of-the-hpv-vaccine",
+      "title": "2025/ Week 2 Coverage of the HPV Vaccine",
+      "description": "Proportion of the target who received the final dose of (HPV) vaccine (%)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-682c4268932041de92733b7a51fcce07.png)\n\n​\n\nDatasource / Article : [HPV vaccination: How the world can eliminate cervical cancer - Our World in Data](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)",
+      "tags": [
+        "makeover monday",
+        "hpv vaccine"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w12-precipitation-anomalies",
+      "title": "2025/W12 Precipitation Anomalies",
+      "description": "The difference in a specific year's total precipitation — rain and snow — from the 1991–2020 average, measured in mm.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a2a069a6bf8e4533af0319830e0fc1bc.png)\n\nDatasource: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)\n\nArticle: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-14-the-best-migration-destinations-in-2025",
+      "title": "2025/ week 14 The Best Migration Destinations in 2025",
+      "description": "2025’s Best Countries to Live and Work Based on the Henley Opportunity Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-97ecd8dc81ec432eb4ee36a0f474b681.png)\n\n​\n\nDatasource: [The Henley Opportunity Index 2025 | Henley & Partners](https://www.henleyglobal.com/publications/henley-opportunity-index)\n\nArticle: [Ranked: 2025's Best Countries to Live and Work](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette)\n\nShow less",
+      "tags": [
+        "work",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
