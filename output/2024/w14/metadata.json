@@ -1,0 +1,33 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w14-public-awareness-around-antibiotic-resistance",
+  "title": "2024/W14 Public Awareness Around Antibiotic Resistance",
+  "description": "Awareness of whether viral infections can be cured using antibiotics",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-8a08e359b3ec4bae80cf00806a9b5925.webp)\n\n​\n\nDatasource : [KFF Health Tracking Poll](https://www.kff.org/report-section/data-note-public-awareness-around-antibiotic-resistance-methodology/)\n\nArticle : [KFF - Public Awareness Around Antiobiotic Resistance](https://www.kff.org/other/issue-brief/data-note-public-awareness-antibiotic-resistance/)",
+  "version": "4f9d5129-4",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "awareness_of_whether_viral_infection_cured_by_antibiotics.xlsx",
+      "sizeInBytes": 5242,
+      "created": "2024-03-31T22:54:46.957012091Z",
+      "updated": "2024-03-31T22:54:46.957012091Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-03-31T22:49:00.033127989Z",
+  "updated": "2024-03-31T22:55:25.610825272Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [],
+  "isProject": false
+}
