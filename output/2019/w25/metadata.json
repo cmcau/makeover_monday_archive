@@ -1,0 +1,160 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w25",
+  "title": "2019/W25: Berlin Airbnb Ratings",
+  "description": "Where can you find an Airbnb that meets you needs?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/aS9YZ8ERvi0PxXQc9OTM\\_Screenshot%202019-06-16%20at%204.39.09%20pm.png](https://media.data.world/aS9YZ8ERvi0PxXQc9OTM_Screenshot%202019-06-16%20at%204.39.09%20pm.png)\n\n​\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [Inside Airbnb](http://insideairbnb.com/berlin/?neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false)\nDATA SOURCE: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)\n\n**NOTES:**\n\n\n1. Data is available as CSV, Excel, or Tableau Hyper format.\n2. A Geojson file of Berlin neighborhoods has also been included.\n​\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "1ea7ad51-1b87-4427-ab58-f821aaa03402",
+  "tags": [
+    "makeover monday",
+    "berlin",
+    "germany",
+    "airbnb",
+    "ratings"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Airbnb Berlin.csv",
+      "sizeInBytes": 250917892,
+      "created": "2019-06-16T20:31:30.820Z",
+      "updated": "2019-06-16T20:31:30.820Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Airbnb Berlin.hyper",
+      "sizeInBytes": 104005632,
+      "created": "2019-06-16T20:31:30.820Z",
+      "updated": "2019-06-16T20:31:30.820Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Airbnb Berlin.xlsx",
+      "sizeInBytes": 133817418,
+      "created": "2019-06-16T20:31:30.820Z",
+      "updated": "2019-06-16T20:31:30.820Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "neighbourhoods.geojson",
+      "sizeInBytes": 751619,
+      "created": "2019-06-16T20:31:30.820Z",
+      "updated": "2019-06-16T20:31:30.820Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-06-16T20:26:37.114Z",
+  "updated": "2019-06-17T11:49:40.465Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 4,
+    "tableCount": 2,
+    "columnCount": 50
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w17",
+      "title": "2019/W17: Stephen Curry's Stadium Popcorn Rankings",
+      "description": "Which NBA stadium has Stephen Curry's favorite popcorn?",
+      "summary": "# **Original Visualization**\n![https://media.data.world/6IuF6gR9S8KeJDBotSCe\\_Screenshot%202019-04-20%20at%202.32.24%20pm.png](https://media.data.world/6IuF6gR9S8KeJDBotSCe_Screenshot%202019-04-20%20at%202.32.24%20pm.png)\n\n# **About this Dataset**\nSOURCE: [New York Times](https://www.nytimes.com/interactive/2019/04/12/sports/basketball/stephen-curry-warriors-popcorn.html)\nDATA SOURCE: [Stephen Curry](https://twitter.com/StephenCurry30)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "basketball",
+        "nba",
+        "stephen curry",
+        "popcorn",
+        "stadium",
+        "ranking"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w37",
+      "title": "2019/W37: James Patterson Book Checkouts in Seattle",
+      "description": "Seattle Public Library monthly checkouts of books written by James Patterson",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/25OkZFQ4a5dNOUmKwqLg\\_Screenshot%202019-09-07%20at%207.00.26%20pm.png](https://media.data.world/25OkZFQ4a5dNOUmKwqLg_Screenshot%202019-09-07%20at%207.00.26%20pm.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Making Visible the Invisible: DataVis at the Seattle Public Library](http://helper.ipam.ucla.edu/publications/caws1/caws1_13603.pdf)\nDATA SOURCE: [Seattle Open Data](https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6/data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "seattle",
+        "washington",
+        "usa",
+        "united states",
+        "books",
+        "library",
+        "publisher",
+        "subject",
+        "title",
+        "usage"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w7",
+      "title": "2019/W7: President Trump's \"Executive Time\"",
+      "description": "President Donald Trump's Private Schedules, Nov. 7, 2018 to Feb. 2, 2019",
+      "summary": "# **Original Visualization**\n![Screenshot 2019-02-03 at 10.12.03 pm.png](https://media.data.world/96p9UuCVSQOiewu0Ttlx_Screenshot%202019-02-03%20at%2010.12.03%20pm.png)\n\n# **About this Dataset**\nSOURCE: [Axios](https://www.axios.com/donald-trump-private-schedules-leak-executive-time-34e67fbb-3af6-48df-aefb-52e02c334255.html)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "makeover monday",
+        "donald trump",
+        "schedule",
+        "president",
+        "axios",
+        "calendar"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w31",
+      "title": "2019/W31: STD Infection Rates in America",
+      "description": "How have rates changed by disease, year, state, gender, and age?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/YcRQEE4TSrS75v74BQDX\\_Screenshot%202019-07-26%20at%2011.24.04%20am.png](https://media.data.world/YcRQEE4TSrS75v74BQDX_Screenshot%202019-07-26%20at%2011.24.04%20am.png)\n\n​\n\n### **About this Dataset**\nORIGINAL VIZ: [Tableau Public](https://public.tableau.com/profile/andy.kriebel#!/vizhome/STDs1996-2008/STDInfectionRates)\nCREATED BY: [Andy Kriebel | @VizWizBI](https://twitter.com/VizWizBI)\nDATA SOURCE: [CDC](https://wonder.cdc.gov/controller/datarequest/D128)\n\n​\n\n### **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "population",
+        "time series",
+        "year",
+        "usa",
+        "united states",
+        "std",
+        "sex",
+        "disease",
+        "gender",
+        "age",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w41",
+      "title": "2019/W41: Donations Accepted By Political Parties in the UK",
+      "description": "Donations Accepted By Political Parties in Great Britain and Northern Ireland",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/4AFEjWMtToasFloOQeD2\\_Screenshot%202019-10-06%20at%2012.27.27%20pm.png](https://media.data.world/4AFEjWMtToasFloOQeD2_Screenshot%202019-10-06%20at%2012.27.27%20pm.png)\n\n​\n\n# **About this Dataset**\nSOURCE: [The Electoral Commission](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/financial-reporting/donations-and-loans/view-donations-and-loans/donations-accepted)\nDATA SOURCE: [The Electoral Commission](http://search.electoralcommission.org.uk/?currentPage=1&rows=10&sort=AcceptedDate&order=desc&tab=1&et=pp&et=ppm&et=tp&et=perpar&et=rd&isIrishSourceYes=true&isIrishSourceNo=true&prePoll=false&postPoll=true&register=gb&register=ni&register=none&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "donations",
+        "politics",
+        "united kingdom",
+        "great britain",
+        "northern ireland"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
