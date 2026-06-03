@@ -1,0 +1,45 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w16",
+  "title": "2021/W16: Monthly Air Passengers in America",
+  "description": "Monthly Air Passengers in America - 2000-2020",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/QClSMWRkSsWVyNYm3GRt_image.png)\n\n​\n\n# About This Dataset\nOriginal Visualization: [US Air Travel Falls Due to Covid Epidemic](https://www.cnbc.com/2021/01/27/us-air-travel-falls-to-lowest-since-july-as-covid-infections-travel-restrictions-hinder-recovery.html)\nData Source: [Bureau of Transportation Statistics](https://www.transtats.bts.gov/DL_SelectFields.asp?gnoyr_VQ=FMF)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "b0034efc-c990-414a-a7b9-728ee71d3220",
+  "tags": [
+    "makeover monday",
+    "wdi",
+    "world bank",
+    "air transport",
+    "transportation",
+    "passengers",
+    "time series",
+    "united states",
+    "usa",
+    "airlines",
+    "airports"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US Monthly Air Passengers.csv",
+      "sizeInBytes": 866361212,
+      "created": "2021-04-18T14:19:35.508Z",
+      "updated": "2021-04-18T14:19:35.508Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-04-18T12:05:16.582Z",
+  "updated": "2021-04-18T14:41:39.173Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 18
+  },
+  "similarResources": [],
+  "isProject": false
+}
