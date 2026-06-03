@@ -1,0 +1,137 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w19",
+  "title": "2019/W19: Major League Baseball Most Cost Effective Batters",
+  "description": "Data only includes players with salary data",
+  "summary": "# **Original Visualization**\n![https://thumbnails-visually.netdna-ssl.com/MLBHittingStats2013\\_57e4bee0f2257\\_w1500.jpg](https://thumbnails-visually.netdna-ssl.com/MLBHittingStats2013_57e4bee0f2257_w1500.jpg)\n\n# **About this Dataset**\nOriginal Source: [visual.ly](https://visual.ly/community/infographic/sports/mlb-hitting-stats-2013)\nData Source: [Lahman’s Baseball Database](http://www.seanlahman.com/baseball-archive/statistics)\nCommonly Baseball Used Stats: [Baseball Reference](https://www.baseball-reference.com/bullpen/Baseball_statistics)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "50c45316-f2f0-4ac3-8596-6630b0c61071",
+  "tags": [
+    "makeover monday",
+    "baseball",
+    "mlb",
+    "major league baseball",
+    "lahman",
+    "baseball reference",
+    "stats",
+    "statistics",
+    "sports"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MLB Stats.csv",
+      "sizeInBytes": 3633982,
+      "created": "2019-05-05T06:56:30.511Z",
+      "updated": "2019-05-05T06:56:30.511Z",
+      "description": "Contains only players with salary information",
+      "labels": [],
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-04-29T13:28:16.517Z",
+  "updated": "2019-05-05T11:11:31.570Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 28
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-48-the-world-as-100-people",
+      "title": "2017/W48: The World as 100 People",
+      "description": "The World as 100 People",
+      "summary": "# Original Visualization\n![supporting image or chart](https://thumbnails-visually.netdna-ssl.com/TheWorldas100People_519247ce0980d_w1500.png)\n\n# About this Dataset\nSOURCE: [Jack Hagley](https://visual.ly/community/infographic/geography/world-100-people?utm_source=visually_embed)\n\n# Objectives\nWhat works and what doesn't work with this chart? How can you make it better? Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "world population",
+        "100people",
+        "dataviz community"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w43",
+      "title": "2022/W43: Major League Baseball Pitch Types",
+      "description": "Why Some MLB Pitchers Are Abandoning The Fastball",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/101665b8060394f52660267c2a1d59a5135c7f91360debe633d28c024fdc36b9_CleanShot_2022_10_21_at_11.23.11_2x.png)\n\n​\n\n## Resources\nArticle: [Why Some MLB Pitchers Are Abandoning The Fastball](https://fivethirtyeight.com/features/why-some-mlb-pitchers-are-abandoning-the-fastball/)\nSource: [FiveThirtyEight](https://fivethirtyeight.com/features/why-some-mlb-pitchers-are-abandoning-the-fastball/)\nData Source: [FanGraphs](https://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=c,13,31,75,77,79,81,83,85,87,89&season=2022&month=0&season1=2002&ind=0&team=0,ss&rost=0&age=0&filter=&players=0&startdate=&enddate=)\nGlossary: [FanGraphs](https://library.fangraphs.com/pitching/complete-list-pitching/)",
+      "tags": [
+        "makeover monday",
+        "baseball",
+        "mlb",
+        "fangraphs",
+        "stats",
+        "fastball",
+        "changeup",
+        "slider",
+        "curveball",
+        "knuckleball",
+        "splitter",
+        "cutter",
+        "split finger",
+        "pitch",
+        "pitching"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-6-baseball-demographics-1947-2016",
+      "title": "2018/W6: Baseball Demographics (1947-2016)",
+      "description": "Baseball Demographics (1947-2016)",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://sabr.org/sites/default/files/MLB-Demographics-Armour-Levitt-Figure1.png)\n\n# **About this Dataset**\nSOURCE: [Society for American Baseball Research](https://sabr.org/bioproj/topic/baseball-demographics-1947-2012)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "black history month",
+        "diversity",
+        "baseball"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w35",
+      "title": "2019/W35: PCs to Become the Smallest Gaming Platform in 2018",
+      "description": "PCs to Become the Smallest Gaming Platform in 2018",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://infographic.statista.com/normal/chartoftheday\\_13789\\_worldwide\\_video\\_game\\_revenue\\_forecast\\_n.jpg](https://infographic.statista.com/normal/chartoftheday_13789_worldwide_video_game_revenue_forecast_n.jpg)\n\n# **About this Dataset**\nDATA SOURCE: [Statista](https://www.statista.com/chart/13789/worldwide-video-game-revenue-forecast/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "gaming",
+        "mobile",
+        "pc",
+        "console",
+        "games",
+        "video games"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
