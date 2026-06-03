@@ -1,0 +1,137 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w52",
+  "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+  "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+  "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "622fb97a-0566-4a86-a364-d16add1447c8",
+  "tags": [
+    "christmas",
+    "spending",
+    "consumption",
+    "us spending",
+    "us household spending",
+    "line chart"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Christmas spending.xlsx",
+      "sizeInBytes": 9027,
+      "created": "2018-12-21T15:11:27.566Z",
+      "updated": "2018-12-21T15:11:27.566Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "original.png",
+      "sizeInBytes": 57459,
+      "created": "2018-12-21T15:13:19.380Z",
+      "updated": "2018-12-21T15:13:19.380Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-12-21T15:10:53.807Z",
+  "updated": "2018-12-23T12:57:36.091Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-52-christmas-trees-sold-in-the-us",
+      "title": "2017/W52: Christmas trees sold in the US",
+      "description": "Christmas trees sold in the US",
+      "summary": "# Original Visualization\n![original.png](https://media.data.world/FxLUQJfwSpGTDhHW9cdC_original.png)\n\n# About this Dataset\nSOURCE: [Statista](https://www.statista.com/statistics/209249/purchase-figures-for-real-and-fake-christmas-trees-in-the-us/)\n\n\n# Objectives\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "christmas",
+        "us data",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w52",
+      "title": "2019/W52: Estimated Christmas spending by concept",
+      "description": "Estimated Christmas spending by concept",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2019-12-22 at 11.05.37 am.png](https://media.data.world/AhSycIvRYu5GEwaxmsMD_Screen%20Shot%202019-12-22%20at%2011.05.37%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/uk/en/pages/consumer-business/articles/deloitte-christmas-survey-2019.html)\nDATA SOURCE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/consumer-business/deloitte-uk-christmas-survey-2019.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "christmas",
+        "consumer spending",
+        "uk data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-1-u-s-per-capita-consumption-of-poultry-livestock",
+      "title": "2018/W1: U.S. Per Capita Consumption of Poultry & Livestock",
+      "description": "U.S. Per Capita Consumption of Poultry and Livestock",
+      "summary": "# **Original Visualization**\n![US per capita consumption of poultry and livestock](https://www.theatlas.com/i/atlas_SkwA7QzL.png)\n\nSOURCE: [The Atlas](https://www.theatlas.com/charts/SkwA7QzL)\n\n# **About this Dataset**\nSOURCE: [National Chicken Council](http://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chicken",
+        "pork",
+        "beef",
+        "poultry",
+        "consumption",
+        "per capita",
+        "united states",
+        "usa",
+        "us",
+        "national chicken council"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w42-total-number-of-women-the-house-of-representatives",
+      "title": "2018/W42: Total Number of Women the House of Representatives",
+      "description": "Total Number of Women the House of Representatives 1917-2018",
+      "summary": "# **Original Visualization**\n![Party Differences - Mobile.png](https://media.data.world/2n5r0y8zQaK3AbMyPZpp_Party%20Differences%20-%20Mobile.png)\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [Stephen Pelkofer](https://public.tableau.com/profile/stephen.pelkofer#!/vizhome/WomenRepresentationintheHouseHistory/PartyDifferences-Mobile) | [Tweet](https://twitter.com/Spelk24/status/1049054474411675658)\n\nSOURCE: [Congressional Research Service](https://fas.org/sgp/crs/misc/RL30261.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "us politics",
+        "house of representatives",
+        "line chart",
+        "stepped lines",
+        "gender equality",
+        "female representation"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w37-paying-the-president",
+      "title": "2018/W37: Paying the President",
+      "description": "Spending at Trump properties by ProPublica - Collaboration with #WorkoutWednesday",
+      "summary": "# **Original Visualization**\n![](https://view.dwcontent.com/file_view/makeovermonday/2018w37-paying-the-president/Screen%20Shot%202018-09-08%20at%2010.14.48%20am.png?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OnZpendpeiIsImlzcyI6ImFnZW50OnZpendpejo6MDkwZjJhODItYThkMS00YzQ1LWFjY2QtZmU2ZjIwYzZmZGRlIiwiaWF0IjoxNTM2Mzk4MzU0LCJyb2xlIjpbInVzZXIiLCJ1c2VyX2FwaV9hZG1pbiIsInVzZXJfYXBpX3JlYWQiLCJ1c2VyX2FwaV93cml0ZSJdLCJnZW5lcmFsLXB1cnBvc2UiOmZhbHNlLCJ1cmwiOiJmYTQ4OTEyZTVmYjJlNjZkYTVhYWU5OWYxNTk1YzIzNjBmZjllOTQ2In0.rpaG4qKeBbA67lKLEyl3ANqTEAhkomoQTvNGs7M2KnS8RriYnmQY1aPoxqiF1qOEHMGwNM2gUdgL2nkGN1GWuA)\nORIGINAL ARTICLE: [ProPublica](https://projects.propublica.org/paying-the-president/)\n\n# **About this Dataset**\nDATA SOURCE: [ProPublica](https://www.propublica.org/datastore/dataset/spending-at-trump-properties)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "workout wednesday",
+        "propublica",
+        "donald trump",
+        "america",
+        "united states",
+        "president",
+        "spending",
+        "campaign",
+        "election",
+        "taxpayer"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
