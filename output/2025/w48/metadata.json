@@ -1,0 +1,102 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025wk48-which-ai-models-hallucinate-the-most",
+  "title": "2025/WK48 Which AI Models Hallucinate the Most?",
+  "description": "A Look into which AI models have higher rates of accuracy / hallucination",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-954613b04960410c83019ac4c49d5556.png)\n\n​\n\nDatasource and Article : [Which AI Models Hallucinate the Most? - Voronoi](https://www.voronoiapp.com/technology/Which-AI-Models-Hallucinate-the-Most-7211)",
+  "version": "4c585748-18",
+  "tags": [
+    "makeovermonday",
+    "ai"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "AI Model Hallucination Scores__.xlsx",
+      "sizeInBytes": 9905,
+      "created": "2025-12-09T16:25:53.392538872Z",
+      "updated": "2025-12-09T16:25:53.392538872Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-12-08T03:46:48.545093025Z",
+  "updated": "2025-12-09T16:25:53.392748934Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk-8-the-periodic-table-of-ai-startups",
+      "title": "2026/WK 8 The Periodic Table of AI Startups",
+      "description": "14 categories of AI companies founded/funded Feb 2025-Feb 2026",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-e9aab82b6a0043d68a707a82bd37fc84.png)\n\n​\n\nDatasource & Article :  [The Periodic Table of AI Startups – 14 categories of AI companies founded/funded Feb 2025-Feb 2026 - Voronoi](https://www.voronoiapp.com/investing/The-Periodic-Table-of-AI-Startups--14-categories-of-AI-companies-foundedfunded-Feb-2025-Feb-2026-7663)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "ai-risk-rankings",
+      "title": "2026/WK 16 AI Risk Rankings",
+      "description": "Occupations ranked by AI automation risk, wages, employment, and projected growth.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-datainformant-75411f0c9d0248b783390db262653083.png)\n\nSource: [AI Risk Rankings — Highest & Lowest Risk Jobs | AI Exposure](https://www.aiexposure.org/rankings)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "the-worlds-most-innovative-companies-2024",
+      "title": "The World's Most Innovative Companies - 2018",
+      "description": "Forbes list and ranking of the most innovative companies.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-b5619d25e70c4594be9acec16ecc574a.png)\n\n​\n\nDatasource + Article : [https://www.forbes.com/innovative-companies/list/](https://www.forbes.com/innovative-companies/list/)\n\n\\*Note : this dataset was originally posted as a 2024 dataset but was later corrected as we found out it was from 2018.",
+      "tags": [
+        "innovation",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "life-expectancy-by-country-in-2025",
+      "title": "2025/W26 Life Expectancy by Country in 2025",
+      "description": "How Long People Live, by Country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-1fbb4b99e69049daa27b90994a38fe56.png)\n\n​\n\nDatasource : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\nArticle : [Mapped: Life Expectancy by Country in 2025](https://www.visualcapitalist.com/mapped-life-expectancy-by-country-in-2025/)\n\n​",
+      "tags": [
+        "makeovermonday",
+        "life expectancy"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "schools-out-and-the-tvs-on",
+      "title": "2025/WK46 School’s out and the TV’s on",
+      "description": "What kids in the U.S. watched in June 2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-644c7897f28c433d96b3c987c61f4fb3.png)\n\n​\n\nDatasource and Article : [School’s out and the TV’s on: What kids in the U.S. watched in June | Nielsen](https://www.nielsen.com/insights/2025/what-us-kids-watched-tv-streaming-summer-june/)\n\n​",
+      "tags": [
+        "watch",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
