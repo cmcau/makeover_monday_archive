@@ -1,0 +1,133 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w35",
+  "title": "2023/W35: Food Inflation Rates in the UK",
+  "description": "Food Inflation Rates in the UK",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/e16c8a020c91d51b02ad9487e6a1a798b4f285c73011112a72e2bf4091d7c0da_CleanShot_2023_08_28_at_8.35.43.png)\n\n## Resources\n[Food Inflation Rates in the UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)\nData Source: Office for Natonal Statistics",
+  "version": "949af3bf-4",
+  "tags": [
+    "food",
+    "uk",
+    "united kingdom",
+    "inflation",
+    "makeover monday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "food inflation uk.xlsx",
+      "sizeInBytes": 100416,
+      "created": "2023-08-28T07:41:05.805735299Z",
+      "updated": "2023-08-28T07:41:05.805735299Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-08-28T07:38:26.815388354Z",
+  "updated": "2023-08-28T07:41:05.805912546Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w37",
+      "title": "2023/W37: Average UK house price for first time buyers",
+      "description": "Average UK house price for first time buyers from 1992 to 2023 compared against buyer income and money boorrowed",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/96c036d5dee7f5f595e8d382492d36dd10153549c1f17e8a7a8184f1cea0b194_CleanShot_2023_09_04_at_10.05.05_2x.png)\n\n​\n\n## **Resources**\nVisualization: [Average UK house price for first time buyers](https://www.linkedin.com/feed/update/urn:li:activity:7103318335701803008/?utm_source=share&utm_medium=member_desktop)\nData Source: [ONS](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindexmonthlyquarterlytables1to19)",
+      "tags": [
+        "makeover monday",
+        "uk",
+        "united kingdom",
+        "house prices",
+        "first time buyers",
+        "income",
+        "borrowing",
+        "debt",
+        "trend",
+        "price index",
+        "ons"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w42",
+      "title": "2022/W42: FDA Food Inspections",
+      "description": "FDA Food Inspections",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3d6a70a94fa1dd57de4cc78f96e109985b04957169ed0483c7b1e4239b8d41e1_CleanShot_2022_10_11_at_3.26.04.png)\n\n​\n\n## **Resources**\nVisualization: [FDA Inspections](https://datadashboard.fda.gov/ora/cd/inspections.htm)\nData Source: U.S. Food & Drug Administration (via Data Is Plural)",
+      "tags": [
+        "makeover monday",
+        "food",
+        "fda",
+        "agriculture",
+        "restaurant",
+        "inspection",
+        "location"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w51",
+      "title": "2022/W51: Religious Affiliation in the UK - 2011 vs. 2021",
+      "description": "Religious Affiliation in the UK - 2011 vs. 2021",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/d4a96fee7404fbdba09c7f5b229ef20a31b52a653ec50830b49f29ecd6c571f9_CleanShot_2022_12_16_at_10.59.22_2x.png)\n\n​\n\n# Resources\n[UK religions](https://www.theguardian.com/uk-news/2022/nov/29/census-2021-in-charts-christianity-now-minority-religion-in-england-and-wales?CMP=Share_iOSApp_Other)\nData Source: [UK Census](https://census.gov.uk/) (England only)",
+      "tags": [
+        "makeover monday",
+        "religion",
+        "united kingdom",
+        "uk",
+        "census"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w25",
+      "title": "2023/W25: Divorces in England & Wales",
+      "description": "Annual divorce numbers and rates, by duration of marriage, sex and to whom granted and reason.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/ae8a7e6b480f50e5fc251a444985827c54f01ff764042b78bb434e09b1871233_CleanShot_2023_06_17_at_1.34.25_2x.png)\n\n​\n\n# Resources\n[Divorces in England & Wales](http://divorces%20in%20england%20and%20wales/)\nData Source: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales)",
+      "tags": [
+        "makeover monday",
+        "divorce",
+        "marriage",
+        "england",
+        "wales",
+        "rate",
+        "duration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w17",
+      "title": "2023/W17: Biggest Tomato & Potato Producers",
+      "description": "Production of tomatoes and potatoes by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/41586fdcbc9dfb4fd9b6f967fab26fb395d1daad423a6a9e908103fc8e1a8b3e_CleanShot_2023_04_18_at_3.43.17_2x.png)\n\n​\n\n# Resources\nOriginal viz - [Sjoerd Tilmans via LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/)\n\nData Source: [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)",
+      "tags": [
+        "makeover monday",
+        "potato",
+        "tomato",
+        "production",
+        "crops",
+        "yield",
+        "harvest",
+        "country"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
