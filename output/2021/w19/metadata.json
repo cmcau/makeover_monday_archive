@@ -1,0 +1,136 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w19",
+  "title": "2021/W19: What Does 1GB of Mobile Data Cost by Country?",
+  "description": "What Does 1GB of Mobile Data Cost in Every Country?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/ziDtA7B9QyCypYZySfEn_image.png)\n\n​\n\n# **About this Dataset**\n**Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n**Data Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "1db408e8-102a-49ec-8c73-9d30b6679358",
+  "tags": [
+    "makeover monday",
+    "data",
+    "country",
+    "location",
+    "mobile",
+    "phone",
+    "cost",
+    "price"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Cost of 1GB of Data.xlsx",
+      "sizeInBytes": 13396,
+      "created": "2021-05-07T06:32:45.094Z",
+      "updated": "2021-05-07T06:32:45.094Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-05-07T06:26:23.106Z",
+  "updated": "2021-05-09T12:10:55.527Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w5",
+      "title": "2021/W5: Renewables Overtake Fossil Fuels in Europe",
+      "description": "Renewables Overtake Fossil Fuels in Europe",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/QavAWlYjQf6TqHDlr0V1\\_image.png](https://media.data.world/QavAWlYjQf6TqHDlr0V1_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Ember](https://ember-climate.org/project/eu-power-sector-2020/)\nDATA SOURCE: [Ember](https://ember-climate.org/project/eu-power-sector-2020/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "europe",
+        "eu",
+        "energy",
+        "renewable energy",
+        "fossil fuels",
+        "ember"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w16",
+      "title": "2021/W16: Monthly Air Passengers in America",
+      "description": "Monthly Air Passengers in America - 2000-2020",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/QClSMWRkSsWVyNYm3GRt_image.png)\n\n​\n\n# About This Dataset\nOriginal Visualization: [US Air Travel Falls Due to Covid Epidemic](https://www.cnbc.com/2021/01/27/us-air-travel-falls-to-lowest-since-july-as-covid-infections-travel-restrictions-hinder-recovery.html)\nData Source: [Bureau of Transportation Statistics](https://www.transtats.bts.gov/DL_SelectFields.asp?gnoyr_VQ=FMF)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "wdi",
+        "world bank",
+        "air transport",
+        "transportation",
+        "passengers",
+        "time series",
+        "united states",
+        "usa",
+        "airlines",
+        "airports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w15",
+      "title": "2021/W15: Fouls Called By NBA Referees",
+      "description": "Fouls Called By NBA Referees",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/TOpCdBubS1Ch9Seg19eq_download.png)\n\n​\n\n# About This Dataset\nOriginal Visualization: [Twitter](https://twitter.com/owenlhjphillips/status/1336681714366689280)\nData Source: [The Unofficial NBA Ref Ball Database](https://llewellynjean.shinyapps.io/NBARefDatabase/)\nCredit: [@owenphillips](https://twitter.com/owenlhjphillips)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "basketball",
+        "nba",
+        "referee",
+        "fouls",
+        "penalty",
+        "sports",
+        "sport"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-uks-favorite-chocolate-bar",
+      "title": "2018/W13: What is the UK's favorite chocolate bar?",
+      "description": "What is the UK's favorite chocolate bar?",
+      "summary": "The Easter Bunny is coming this week, so let's have a great debate! What is the UK's favorite chocolate? \n\n# **Original Visualization**\n![Image](https://media.data.world/VKLPxYYFRyUeeoCc6Jgj_Screen%20Shot%202018-03-25%20at%2010.32.12%20am.png)\n\n# **About this Dataset**\nSOURCE: [CDA](https://www.cda.eu/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chocolate",
+        "united kingdom",
+        "uk"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
