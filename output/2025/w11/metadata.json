@@ -1,0 +1,110 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025-week-11-electric-car-sales",
+  "title": "2025/ week 11 Electric car sales",
+  "description": "Trends in electric cars",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-63e6dae2c7cd4395bf0953cc24ebb2cd.png)\n\n​\n\nDatasource: [Global EV Data Explorer – Data Tools - IEA](https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer)\n\nArticle: [Trends in electric cars – Global EV Outlook 2024 – Analysis - IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars)\n\nShow less",
+  "version": "9edf96c0-4",
+  "tags": [
+    "makeover monday",
+    "cars",
+    "ev"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "IEA-EV-dataEV salesHistoricalCars.csv",
+      "sizeInBytes": 239251,
+      "created": "2025-03-10T16:34:40.001976295Z",
+      "updated": "2025-03-10T16:34:40.001976295Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-03-10T16:31:27.134758122Z",
+  "updated": "2025-03-10T16:35:11.334428800Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "coverage-of-the-hpv-vaccine",
+      "title": "2025/ Week 2 Coverage of the HPV Vaccine",
+      "description": "Proportion of the target who received the final dose of (HPV) vaccine (%)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-682c4268932041de92733b7a51fcce07.png)\n\n​\n\nDatasource / Article : [HPV vaccination: How the world can eliminate cervical cancer - Our World in Data](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)",
+      "tags": [
+        "makeover monday",
+        "hpv vaccine"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "8-fastest-cars-in-the-world-as-of-2026",
+      "title": "2026/Wk11 8 Fastest Cars In The World | As Of 2026",
+      "description": "Which are the fastest cars in 2026?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original**\n![](https://mediauploads-US.data.world/00000-datainformant-a4aaf9cfa77f46f18de6c908523e6cd8.png)\n\n​\n\nArticle: [8 Fastest Cars In The World | As Of 2026 - RankRed](https://www.rankred.com/fastest-cars-in-the-world/)\nData: RankRed/Chimdi (Compiled from article, enriched with google)",
+      "tags": [
+        "cars",
+        "speed",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w7",
+      "title": "2023/W7: Global Electric Vehicle Market Share",
+      "description": "Global Electric Vehicle Market Share",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/7b04832e429e44e5e0881e90fed985fda500eca0a2ab387e7977119308471bb5_CleanShot_2023_01_14_at_11.16.23_2x.png)\n\n​\n\n## **Resources**\n[Global Electric Vehicle Market Share](https://www.counterpointresearch.com/global-electric-vehicle-market-share/)\nData Source: [Counterpoint Research](https://www.counterpointresearch.com/global-electric-vehicle-market-share/)\n\n​",
+      "tags": [
+        "makeover monday",
+        "cars",
+        "vehicles",
+        "electric",
+        "ev",
+        "market share",
+        "manufacturer"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w20-the-religious-composition-of-the-worlds-migrants",
+      "title": "2025/W20 : The Religious Composition of the World’s Migrants",
+      "description": "A breakdown of global migration patterns by religious affiliation",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-e2b09fbf79bc4c64acfb14d3d8e3e11a.png)\n\n​\n\nDatasource: https://www.pewresearch.org/dataset/dataset-religious-composition-of-the-worlds-migrants-1990-2020/\n\nArticle: [How Immigrants Are Shaping the Religious Landscape | Pew Research Center](https://www.pewresearch.org/religion/2024/08/19/the-religious-composition-of-the-worlds-migrants/)",
+      "tags": [
+        "makeover monday",
+        "religion",
+        "migration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "the-most-reliable-car-brands",
+      "title": "The Most Reliable Car Brands",
+      "description": "A list of the most reliable car brands in the US",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n**Original Visualization**\n\n\n![](https://mediauploads-US.data.world/00000-datainformant-e90cd5a11d3545879f53b6634bfeee88.jpg)\n\n​\n\nSOURCE  & ARTICLE : [Ranked: The Most Reliable Car Brands in the U.S. (visualcapitalist.com)](https://www.visualcapitalist.com/ranked-the-most-reliable-car-brands-in-the-u-s/)",
+      "tags": [
+        "cars",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
