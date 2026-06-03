@@ -1,0 +1,112 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w13",
+  "title": "2021/W13: UK Exports to EU have plunged since Brexit",
+  "description": "Exports to EU plunge by 40% in first month since Brexit",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![](https://media.data.world/EwMFcBAcR42cTBlVUPHY_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/business/2021/mar/12/exports-to-eu-plunge-in-first-month-since-brexit-uk-economy)\n\nDATA SOURCE: [ONS - UK trade goods and services publication table 14](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/uktradegoodsandservicespublicationtables) (expressed as £ million)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "65040a5f-70f4-4477-ad9f-fdb6843e949e",
+  "tags": [
+    "makeover monday",
+    "brexit",
+    "economy",
+    "uk",
+    "united kingdom",
+    "europe",
+    "eu",
+    "exports",
+    "imports",
+    "goods"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "UK Exports to the EU.xlsx",
+      "sizeInBytes": 117669,
+      "created": "2021-03-26T13:12:45.160Z",
+      "updated": "2021-03-26T13:12:45.160Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-03-26T13:06:46.938Z",
+  "updated": "2021-03-31T14:46:04.778Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w32",
+      "title": "2019/W32: Britain is rapidly phasing out coal",
+      "description": "Britain is rapidly phasing out coal",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/MZv1UvTuRf2sakpA9jJM\\_Screenshot%202019-08-03%20at%207.53.06%20am.png](https://media.data.world/MZv1UvTuRf2sakpA9jJM_Screenshot%202019-08-03%20at%207.53.06%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/environment/ng-interactive/2019/may/25/the-power-switch-tracking-britains-record-coal-free-run)\nDATA SOURCE: [Gridwatch](https://www.gridwatch.templar.co.uk/download.php)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "uk",
+        "united kingdom",
+        "coal",
+        "renewable energy",
+        "supply",
+        "demand",
+        "time series",
+        "guardian",
+        "environment"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w28",
+      "title": "2019/W28: International protection in the EU+: 2018 overview",
+      "description": "International protection in the EU+: 2018 overview",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original.png](https://media.data.world/aR543tHS3Wz9eZ6oLtaH_Original.png)\n\nPlease note: The data only covers the first two bar charts below the map. The rest of the dashboard has been included for context but data has not been provided.\n\n# **About this Dataset**\nSOURCE ARTICLE: [European Asylum Support Office](https://www.easo.europa.eu/asylum-trends-annual-report-2018)\nDATA SOURCE: EUROSTAT, from 2009 to 2018 [Summary applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asyappctza&lang=en)\n[Decisions on applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asydcfsta&lang=en)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "asylum",
+        "refugee",
+        "refugee crisis",
+        "europe",
+        "eu",
+        "migration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-uks-favorite-chocolate-bar",
+      "title": "2018/W13: What is the UK's favorite chocolate bar?",
+      "description": "What is the UK's favorite chocolate bar?",
+      "summary": "The Easter Bunny is coming this week, so let's have a great debate! What is the UK's favorite chocolate? \n\n# **Original Visualization**\n![Image](https://media.data.world/VKLPxYYFRyUeeoCc6Jgj_Screen%20Shot%202018-03-25%20at%2010.32.12%20am.png)\n\n# **About this Dataset**\nSOURCE: [CDA](https://www.cda.eu/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chocolate",
+        "united kingdom",
+        "uk"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w43-apparel-exports-to-us",
+      "title": "2020/W43: Apparel Exports to US",
+      "description": "Apparel Exports to US",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-24-at-11.35.13.png](https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-24-at-11.35.13.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [workersrights.org](https://www.workersrights.org/wp-content/uploads/2020/10/Unpaid-Billions_October-6-2020.pdf)\nDATA SOURCE: [Data manually lifted from source article. Original source is Otexa](https://otexa.trade.gov/msrpoint.htm)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "trade",
+        "data",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
