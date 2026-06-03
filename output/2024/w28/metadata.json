@@ -1,0 +1,117 @@
+{
+  "owner": "makeovermonday",
+  "id": "the-rise-and-rise-of-llms",
+  "title": "The Rise and Rise of LLMs",
+  "description": "The Rise and Rise of A.I.   Large Language Models (LLMs)& their associated bots like ChatGPT",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-ac45d6b3309f46eb80209fbf8faefb5d.png)\n\n​\n\nLink to original :  [The Rise of Generative AI Large Language Models (LLMs) like ChatGPT — Information is Beautiful](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)\n\nSource : [https://geni.us/IIB-LLMdata](https://geni.us/IIB-LLMdata)",
+  "version": "53fa4890-5",
+  "tags": [
+    "bots",
+    "chatgpt",
+    "llms",
+    "makeover monday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Information is Beautiful - The Rise of AI-Based Large Language Models (LLMs).xlsx",
+      "sizeInBytes": 33100,
+      "created": "2024-07-07T21:33:05.780983259Z",
+      "updated": "2024-07-07T21:33:05.780983259Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-07-07T21:27:13.705153386Z",
+  "updated": "2024-07-07T21:33:37.580032200Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "per-second-vibrations-cycles-waves-rate-frequency",
+      "title": "2025/ Week 8 Per Second – Vibrations , Cycles , Waves etc.",
+      "description": "Breakdown of different dimensions across seconds",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-datainformant-5c975034e8904a4285288fd08d8f616f.png)\n\n​\n\nData [Information is Beautiful](https://informationisbeautiful.net/2024/per-second-vibrations-cycles-waves-rate-frequency/)",
+      "tags": [
+        "makeover monday",
+        "seconds"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w11",
+      "title": "2021/W11: What is the World's Biggest Cash Crop?",
+      "description": "From 1961-2019, which crops per region were most harvested, produced the most yield, and produced the most quantity?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/](https://infobeautiful4.s3.amazonaws.com/2014/11/2552_IIB_Cash-Crops.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Information Is Beautiful](https://www.informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/)\nDATA SOURCE: [FAOSTAT](http://www.fao.org/faostat/en/#data/QC)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "faostat",
+        "stats",
+        "crops",
+        "yield",
+        "production",
+        "quantity",
+        "food",
+        "grains",
+        "world",
+        "region"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-best-performing-marvel-movie",
+      "title": "Which is The Best Performing Marvel Movie ?",
+      "description": "The Best Performing Marvel Movie",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image.png](https://mediauploads-US.data.world/00000-datainformant-2a4b29592abc473885f569de014d903d.png)\n\n# **About this Dataset**\n\\* SOURCE: [Information is Beautiful](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* Share your remakes on Linkedin and/or Twitter!\n\nRemember to tag Irene Diomi, Harry Beardon, and Chimdi Nwosu.",
+      "tags": [
+        "marvel",
+        "movies",
+        "makeovermonday",
+        "datavisualization"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025wk48-which-ai-models-hallucinate-the-most",
+      "title": "2025/WK48 Which AI Models Hallucinate the Most?",
+      "description": "A Look into which AI models have higher rates of accuracy / hallucination",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-954613b04960410c83019ac4c49d5556.png)\n\n​\n\nDatasource and Article : [Which AI Models Hallucinate the Most? - Voronoi](https://www.voronoiapp.com/technology/Which-AI-Models-Hallucinate-the-Most-7211)",
+      "tags": [
+        "makeovermonday",
+        "ai"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "a-century-of-global-deaths-from-disasters",
+      "title": "Death from Natural Disasters",
+      "description": "How many people die from disasters, and how are these impacts changing over time?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\\*To view the exact chart on the article page, change the \"Disaster Type\" selection in the dropdown\n\n![](https://mediauploads-US.data.world/00000-datainformant-ba4be6f078ac4c7989f2c9b107fd02ad.png)\n\n\n![](https://mediauploads-US.data.world/00000-datainformant-cd544bc4ebfb404d809fa874d0c85fb1.png)\n\n​\n\nLink to article :[Natural Disasters - Our World in Data](https://ourworldindata.org/natural-disasters)\n\nSource: [Natural Disasters - Our World in Data](https://ourworldindata.org/natural-disasters)\n\nNotes on data: Decadal figures are measured as the annual average over the subsequent ten-year period. This means figures for ‘1900’ represent the average from1900 to 1909; ‘1910’ is the average from 1910 to 1919 etc. Data includes disasters recorded up to April 2024.",
+      "tags": [
+        "makeover monday",
+        "disaster"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
