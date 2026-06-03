@@ -1,0 +1,140 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w14",
+  "title": "2023/W14: Hate Crime in Chicago",
+  "description": "Data about hate crimes in Chicago from the Chicago Police Department",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/e4ec553696bb0c8f328bdcd7a4c48c83d9807560792ece7b70073fcdc2f0d49d_Hate_Crime_in_Chicago.png)\n\n​\n\nData Source: Chicago Police Department\n\nCollaboration with [Zach Bowders](https://twitter.com/ZachBowders)",
+  "version": "7230c451-0534-4ed1-8476-1803ff848ea4",
+  "tags": [
+    "makeover monday",
+    "crime",
+    "chicago",
+    "spatial",
+    "time",
+    "hate crime",
+    "police"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Boundaries - Police Beats.zip",
+      "sizeInBytes": 733647,
+      "created": "2023-04-02T19:43:48.935409763Z",
+      "updated": "2023-04-02T19:43:48.935409763Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Boundaries - Police Districts.zip",
+      "sizeInBytes": 308512,
+      "created": "2023-04-02T19:43:48.935440814Z",
+      "updated": "2023-04-02T19:43:48.935440814Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Hate Crime in Chicago.xlsx",
+      "sizeInBytes": 87082,
+      "created": "2023-04-02T19:43:28.267562822Z",
+      "updated": "2023-04-02T19:43:28.267562822Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-04-02T19:43:11.089424592Z",
+  "updated": "2023-04-02T19:46:21.690265269Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 3,
+    "tableCount": 1,
+    "columnCount": 15
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w49-london-crimes-by-income-deprivation-decile",
+      "title": "2025/W49 London crimes by income deprivation decile",
+      "description": "Crimes recorded by neighbourhood income deprivation decile in London (2024)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-fd6d04e68e4c45d68379f7ef8c803c43.png)\n\n​\n\nDatasources: [DataPoliceUK](https://data.police.uk/docs/method/crime-street/), [Department for Levelling Up, Housing and Communities](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025)\n\nArticle: [Trust for London](https://trustforlondon.org.uk/data/topics/community/?tab=crime-and-income-deprivation)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w25",
+      "title": "2021/W25: Stop & Search by Ethnicity in England & Wales",
+      "description": "Stop & Search Rates by Ethnicity in England & Wales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/kF7gjpyvThKVIxmVWUXN_image.png)\n\n​\n\n# Resources\nOriginal Visualization: [Stop & Search - gov.uk](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest#by-ethnicity-over-time)\nData Source: [gov.uk](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest#download-the-data)",
+      "tags": [
+        "makeover monday",
+        "ethnicity",
+        "race",
+        "area",
+        "location",
+        "england",
+        "united kingdom",
+        "uk",
+        "crime",
+        "wales",
+        "rate",
+        "population",
+        "per capita"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w26",
+      "title": "2023/W26: Most Pressured to Drink with Workmates",
+      "description": "Which professions in the UK are most likely to feel pressure to drink with workmates?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/06f5cf28ab1b51de68efdcd63119345addc2bc842bdfc365b76ea82c6435b09a_image.jpeg)\n\n# Resources\nOriginal Viz & Data Source: [OnYearNoBeer](https://twitter.com/oynbuk/status/1133642515385655296)\n\n​",
+      "tags": [
+        "makeover monday",
+        "drinking",
+        "alcohol",
+        "work",
+        "workmates",
+        "profession",
+        "uk",
+        "united kingdom"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w19",
+      "title": "2023/W19: Makeover Monday Metadata Analysis",
+      "description": "The properties of Makeover Monday data sets",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/974c9b662ffc5f64d283a755303cae3327eb4120a6c443b728ba52cf9c23c3c1_MM_Dataset_Analysis.png)\n\n​\n\n# Resources\nOriginal Viz: [Makeover Monday Metadata Analysis](https://public.tableau.com/app/profile/alexander.taylor.jackson/viz/MakeoverMondayDataAnalysis/MakeoverMondayDataAnalysis)\nData Source: [Alex Taylor-Jackson](https://www.linkedin.com/in/alexander-taylor-jackson-b4ab36140/)",
+      "tags": [
+        "makeover monday",
+        "metadata"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w15",
+      "title": "2023/W15: The DougScore",
+      "description": "Which cars are the best cars ever driven by Doug Demuro?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/e3dbaed9ad92cf0c157d98680073648c70b38975a060d90fa76dfd8541be080b_CleanShot_2023_04_10_at_10.22.19.png)\n\n# Resources\n[The DougScore](http://www.dougdemuro.com/dougscore) - READ THIS!\n\nData Source - The DougScore by Doug Demuro",
+      "tags": [
+        "makeover monday",
+        "cars",
+        "automobiles",
+        "dougscore",
+        "ratings"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
