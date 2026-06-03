@@ -1,0 +1,132 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w9",
+  "title": "2023/W9: High Street Coffee Caffeine Content",
+  "description": "How much caffeine is in coffee drinks at popular UK chains?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5c4da6bcb26df6ed0b4466cbdfd288e913d66c9640939f46f6197ed079c868ae_image.png)\n\n​\n\n## **Resources**\nData Source: [Which?](https://www.which.co.uk/)",
+  "version": "381c5b95-5124-4ca1-9854-a52535c3ef78",
+  "tags": [
+    "makeover monday",
+    "coffee",
+    "caffeine",
+    "ratio",
+    "drink",
+    "food",
+    "beverage"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Coffee Caffeine Content.xlsx",
+      "sizeInBytes": 9288,
+      "created": "2023-02-22T11:30:11.606123588Z",
+      "updated": "2023-02-22T11:30:11.606123588Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-02-22T11:12:51.435484082Z",
+  "updated": "2023-02-26T09:55:22.944672056Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w34",
+      "title": "2023/W34: Most Popular Drinks for Dates",
+      "description": "Most Popular Drinks for Dates",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/72052c2485df11ecf1edbf39e75f4f0f8b665e779297e9ac9d67e9404215be3b_image.png)\n\n# Resources\nChart: [Drinking & Dating](https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics)\nData Source: Zoosk",
+      "tags": [
+        "makeover monday",
+        "drinking",
+        "dates",
+        "dating",
+        "men",
+        "women",
+        "gender"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w35",
+      "title": "2023/W35: Food Inflation Rates in the UK",
+      "description": "Food Inflation Rates in the UK",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/e16c8a020c91d51b02ad9487e6a1a798b4f285c73011112a72e2bf4091d7c0da_CleanShot_2023_08_28_at_8.35.43.png)\n\n## Resources\n[Food Inflation Rates in the UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)\nData Source: Office for Natonal Statistics",
+      "tags": [
+        "food",
+        "uk",
+        "united kingdom",
+        "inflation",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w8",
+      "title": "2023/W8: The Cheapest Ways to Get Your Protein",
+      "description": "The Cheapest Ways to Get Your Protein",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3db73ff8f29a47292ba311c8b22a01128824a50ed28c88e06d079697861be225_image.png)\n\n​\n\n## **Resources**\nArticle/Data Source: [LifeHacker](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)\n\nVisualization: [The Bodybuilding Dietitians](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)",
+      "tags": [
+        "makeover monday",
+        "food",
+        "protein",
+        "cost"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w26",
+      "title": "2023/W26: Most Pressured to Drink with Workmates",
+      "description": "Which professions in the UK are most likely to feel pressure to drink with workmates?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/06f5cf28ab1b51de68efdcd63119345addc2bc842bdfc365b76ea82c6435b09a_image.jpeg)\n\n# Resources\nOriginal Viz & Data Source: [OnYearNoBeer](https://twitter.com/oynbuk/status/1133642515385655296)\n\n​",
+      "tags": [
+        "makeover monday",
+        "drinking",
+        "alcohol",
+        "work",
+        "workmates",
+        "profession",
+        "uk",
+        "united kingdom"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w18",
+      "title": "2021/W18: CEO-to-Worker Compensation Ratio",
+      "description": "CEOs make 320 times as much as typical workers at the top 350 U.S. firms ranked by sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/NFW3n2ozQbuAohObtu29\\_image.png](https://media.data.world/NFW3n2ozQbuAohObtu29_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Economic Policy Institute](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)\nDATA SOURCE: [Economic Policy Institute | Figure B](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "money",
+        "pay",
+        "ceo",
+        "compensation",
+        "business",
+        "ratio",
+        "pay ration",
+        "america",
+        "usa",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
