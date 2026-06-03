@@ -1,0 +1,98 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w11-vacant-household-rates-in-the-united-states",
+  "title": "2024/W11 Vacant Household Rates in the United States",
+  "description": "Number of occupied and vacant households by US Metropolitan Statistical Area",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-24ff66476b45492abcaf587823ef5a33.jpg)\n\n​\n\nDatasource : [United States Census Bureau](https://data.census.gov/table/ACSDT1Y2022.B25002?t=Housing:Housing%20Units:Vacancy&g=010XX00US$31000M1&tp=true)\n\nArticle : [LendingTree](https://www.lendingtree.com/home/mortgage/vacant-homes-metros-study/)",
+  "version": "e084f5e3-4",
+  "tags": [
+    "makeovermonday",
+    "housing"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "housing_vacancies_by_us_msa.csv",
+      "sizeInBytes": 45299,
+      "created": "2024-03-10T17:50:43.328362800Z",
+      "updated": "2024-03-10T17:50:43.328362800Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-03-10T17:50:23.759387937Z",
+  "updated": "2024-03-10T17:59:41.159587206Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w20-us-made-gun-exports-2005-2022",
+      "title": "2024/W20 US-Made Gun Exports 2005-2022",
+      "description": "Cumulative volume of US semiautomatic firearm exports, 2005–2022",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-c7bb995e7d1d40abbd50b7381601d6d7.png)\n\n​\n\nDatasource : [United States Census Bureau](https://www.census.gov/foreign-trade/data/index.html)\n\nArticle : [Bloomberg](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "generative-ai-search-trends-in-the-united-states",
+      "title": "2024/W8 Generative AI Search Trends in the United States",
+      "description": "US percentage of searches breakdown for the search terms ‘Midjourney’, ‘Stable Diffusion’ & ‘DALL-E’ since January 2022.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-40c8b1b880a94ec196ebd0418f2c43d6.png)\n\nDatasource : [Google Trends](https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng)\n\nArticle : [Google Trends](https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w23-lgbt-identification-in-us",
+      "title": "2024/W23 LGBT Identification in U.S",
+      "description": "LGBT % Share of Adult U.S Population by Generation",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-04c0a7b755bb4c6392167219ce7b9877.jpeg)\n\n​\n\nDatasource : [Gallup](https://news.gallup.com/poll/470708/lgbt-identification-steady.aspx)\n\nArticle : [Statista](https://www.statista.com/chart/18228/share-of-americans-identifying-as-lgbt/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w45-terrorism-and-political-violence-in-the-usa",
+      "title": "2025/W45 Terrorism and Political Violence in the USA",
+      "description": "Terrorist Attacks and Plots in the United States by Perpetrator Orientation, 1994–2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-62974e0766a147a9b13584023f573923.png)\n\nDatasource: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us#h2-appendix-what-is-excluded-)\n\nArticle: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w32-2024-paris-olympics-venue-locations",
+      "title": "2024/W32 2024 Paris Olympics Venue Locations",
+      "description": "Geographical locations of Paris Olympics venues and number of events held at them.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-b3a423e96641410cbf85730402633c7d.png)\n\n​\n\nDatasource: [Paris 2024](https://data.paris2024.org/pages/accueil/?flg=en-gb)\n\nArticle: [Paris 2024](https://olympics.com/en/paris-2024/venues)",
+      "tags": [
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
