@@ -1,0 +1,58 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w4",
+  "title": "2023/W4: NHTSA Automobile Recalls",
+  "description": "National Highway Traffic Safety Administration Automobile Recalls",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/c59443fa1459c2f4f71cae92a62f1709cdf39e09eab1824894c3e0362bf9aa13_CleanShot_2023_01_14_at_10.23.28_2x.png)\n\n​\n\n## **Resources**\nSource Article: [National Highway Traffic Safety Administration Automobile Recalls](https://datahub.transportation.gov/Automobiles/NHTSA-Recalls-by-Manufacturer/mu99-t4jn)\nData Source: [National Highway Traffic Safety Administration](https://datahub.transportation.gov/Automobiles/Recalls-Data/6axg-epim)",
+  "version": "c92d5ed3-2334-4cee-b514-0fca399044a8",
+  "tags": [
+    "usa",
+    "automobiles",
+    "cars",
+    "manufacturing",
+    "defect",
+    "recall",
+    "safety",
+    "nhtsa"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Recalls_Data.csv",
+      "sizeInBytes": 20729978,
+      "created": "2023-01-14T21:25:23.430059017Z",
+      "updated": "2023-01-14T21:25:23.430059017Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-01-14T21:24:13.278643059Z",
+  "updated": "2023-01-22T07:32:38.521848619Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 12
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w21",
+      "title": "2023/W21: FDA Product Recalls",
+      "description": "FDA Product Recalls",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/861788a273889fc8c6e503cb28c701688e0f4dc9658546c4d040d5cd856b216f_CleanShot_2023_05_18_at_12.20.47_2x.png)\n\n# Resources\n[FDA Product Recalls](https://datadashboard.fda.gov/ora/cd/recalls.htm)\nData Source: [US Food & Drug Administration](https://datadashboard.fda.gov/ora/cd/recalls.htm)",
+      "tags": [
+        "makeover monday",
+        "fda",
+        "products",
+        "recall"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
