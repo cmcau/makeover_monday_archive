@@ -1,0 +1,98 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w33-access-to-electricity-of-population",
+  "title": "2025/W33 Access to Electricity (% of Population)",
+  "description": "% of population who have access to electricity.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-cfc0a4ebe4c645eeaa81d710095f42ad.png)\n\nDatasource: [World Bank Group](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=map)\n\nArticle: [World Bank Group](https://blogs.worldbank.org/en/voices/How-to-close-Africa-energy-access-gap)",
+  "version": "c070cc73-5",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Access to Electricity.csv",
+      "sizeInBytes": 76719,
+      "created": "2025-08-11T07:52:58.259324040Z",
+      "updated": "2025-08-11T07:52:58.259324040Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-08-11T07:49:04.322336852Z",
+  "updated": "2025-08-11T07:54:47.039291871Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 69
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w9-world-population-estimates-projections",
+      "title": "2025/W9 World Population Estimates & Projections",
+      "description": "Population estimates and projections until 2050 by region & country.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-b6f04f1a8d2c493b854f4b911a987e8f.png)\n\nDatasource: [World Bank Group](https://datacatalog.worldbank.org/search/dataset/0037655/Population-Estimates-and-Projections)\n\nArticle: [World Bank Group](https://data.worldbank.org/indicator/SP.POP.GROW?name_desc=false)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "individuals-using-the-internet-of-population",
+      "title": "Individuals using the Internet (% of population)",
+      "description": "This is the proportion of people that use the internet across the world.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-6840b94695034be49e3d5391fbdd9e45.png)\n\n​\n\nDatasource: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)\n\nArticle: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)",
+      "tags": [
+        "makeovermonday",
+        "internet"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w7-living-planet-index",
+      "title": "2026/W7 Living Planet Index",
+      "description": "A measure of the state of the world's biological diversity based on population trends of vertebrate species.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-0e31e736307a42048c449fb2017bfc42.png)\n\nData Source: [ZSL & WWF](https://www.livingplanetindex.org/latest_results)\n\nArticle: [WWF](https://livingplanet.panda.org/en-GB/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w27-spiritual-religious-beliefs",
+      "title": "2025/W27 Spiritual & Religious Beliefs",
+      "description": "% of adults who have spiritual and religious beliefs. Surveyed across 2023 & 2024.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-910cae67cb1d4300982ec3cb738e6b19.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "meat-production-by-livestock-type",
+      "title": "2025 / Week 35 Meat Production by Livestock Type",
+      "description": "Global meat production by livestock type",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-f893942214d7454ea941573510dd5cac.png)\n\n​\n\n​\n\nDatasource + Article: [Meat and Dairy Production - Our World in Data](https://ourworldindata.org/meat-production)",
+      "tags": [
+        "meat",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
