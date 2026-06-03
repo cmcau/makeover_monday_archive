@@ -1,0 +1,126 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w26",
+  "title": "2023/W26: Most Pressured to Drink with Workmates",
+  "description": "Which professions in the UK are most likely to feel pressure to drink with workmates?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/06f5cf28ab1b51de68efdcd63119345addc2bc842bdfc365b76ea82c6435b09a_image.jpeg)\n\n# Resources\nOriginal Viz & Data Source: [OnYearNoBeer](https://twitter.com/oynbuk/status/1133642515385655296)\n\n​",
+  "version": "0d13e209-5",
+  "tags": [
+    "makeover monday",
+    "drinking",
+    "alcohol",
+    "work",
+    "workmates",
+    "profession",
+    "uk",
+    "united kingdom"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Pressure to Drink.xlsx",
+      "sizeInBytes": 5012,
+      "created": "2023-06-25T17:15:13.236172201Z",
+      "updated": "2023-06-25T17:15:13.236172201Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-06-25T17:05:15.866595951Z",
+  "updated": "2023-06-26T07:23:15.647574987Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w34",
+      "title": "2023/W34: Most Popular Drinks for Dates",
+      "description": "Most Popular Drinks for Dates",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/72052c2485df11ecf1edbf39e75f4f0f8b665e779297e9ac9d67e9404215be3b_image.png)\n\n# Resources\nChart: [Drinking & Dating](https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics)\nData Source: Zoosk",
+      "tags": [
+        "makeover monday",
+        "drinking",
+        "dates",
+        "dating",
+        "men",
+        "women",
+        "gender"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w50",
+      "title": "2022/W50: Which country gets the most paid vacation days?",
+      "description": "Which country gets the most paid vacation days?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/170e5d01ea1443c1452df70e9f36774a517f8c0cbb3f133c91b4124d2fddf89d_image.png)\n\n​\n\n## Resources\nData Source: [Resume.io](https://resume.io/blog/which-country-gets-the-most-paid-vacation-days)\nData collected and prepared by: [Yamil Medina](https://twitter.com/VIZMIXER) (please tag him)",
+      "tags": [
+        "makeover monday",
+        "vacation",
+        "holiday",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w11",
+      "title": "2023/W11: The Height of Women's Basketball Teams",
+      "description": "How tall are women basketball players on each NCAA team?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/8da48063aef8b5cb6b9577cd9d8b8398dc0eda078e8c57e303c4e917c2fe99d9_image.png)\n\n​\n\n## **Resources**\nOriginal Article: [Scholarship Stats](https://scholarshipstats.com/ncaa1basketball) | [Tweet](https://twitter.com/derekwillis/status/1600946516272861185)\nData Source: [Derek Willis](https://merrill.umd.edu/directory/derek-willis) via [Sports Data Analysis & Visualization class \n@merrillcollege](https://app.testudo.umd.edu/soc/202208/JOUR/JOUR479X) • Data on [github](https://github.com/Sports-Roster-Data/womens-college-basketball)\nCourtesy: Data is Plural",
+      "tags": [
+        "makeover monday",
+        "sports",
+        "basketball",
+        "women",
+        "female",
+        "height",
+        "ncaa"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w35",
+      "title": "2023/W35: Food Inflation Rates in the UK",
+      "description": "Food Inflation Rates in the UK",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/e16c8a020c91d51b02ad9487e6a1a798b4f285c73011112a72e2bf4091d7c0da_CleanShot_2023_08_28_at_8.35.43.png)\n\n## Resources\n[Food Inflation Rates in the UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)\nData Source: Office for Natonal Statistics",
+      "tags": [
+        "food",
+        "uk",
+        "united kingdom",
+        "inflation",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w51",
+      "title": "2022/W51: Religious Affiliation in the UK - 2011 vs. 2021",
+      "description": "Religious Affiliation in the UK - 2011 vs. 2021",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/d4a96fee7404fbdba09c7f5b229ef20a31b52a653ec50830b49f29ecd6c571f9_CleanShot_2022_12_16_at_10.59.22_2x.png)\n\n​\n\n# Resources\n[UK religions](https://www.theguardian.com/uk-news/2022/nov/29/census-2021-in-charts-christianity-now-minority-religion-in-england-and-wales?CMP=Share_iOSApp_Other)\nData Source: [UK Census](https://census.gov.uk/) (England only)",
+      "tags": [
+        "makeover monday",
+        "religion",
+        "united kingdom",
+        "uk",
+        "census"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
