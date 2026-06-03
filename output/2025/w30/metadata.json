@@ -1,0 +1,94 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w30-london-underground-average-monthly-temperatures",
+  "title": "2025/W30 London Underground Average Monthly Temperatures",
+  "description": "London Underground Average Monthly Temperatures (°C) 2013-2024",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-11485fd39bcc40c7911336374c95e8eb.png)\n\nDatasource: [TFL](https://data.london.gov.uk/dataset/london-underground-average-monthly-temperatures/)\nArticle: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739705/london-underground-hottest-line.html)",
+  "version": "e35b455b-4",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "lu-average-monthly-temperatures 2013-2024.csv",
+      "sizeInBytes": 8890,
+      "created": "2025-07-21T08:24:29.217927499Z",
+      "updated": "2025-07-21T08:24:29.217927499Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-07-21T08:24:23.476158873Z",
+  "updated": "2025-07-21T08:27:23.982164031Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 10
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w52-how-does-our-spending-change-in-december",
+      "title": "2024/W52 How Does Our Spending Change in December?",
+      "description": "December Average Percent Increase By Commodity Category",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-fc030a4dbf4b4cedb692493b5aa0ac5f.png)\n\nDatasource: [ONS and Bank Calculations](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas)\n\nArticle: [Bank of England](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w12-precipitation-anomalies",
+      "title": "2025/W12 Precipitation Anomalies",
+      "description": "The difference in a specific year's total precipitation — rain and snow — from the 1991–2020 average, measured in mm.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a2a069a6bf8e4533af0319830e0fc1bc.png)\n\nDatasource: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)\n\nArticle: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w24-world-crude-steel-production",
+      "title": "2025/W24 World Crude Steel Production",
+      "description": "Major steel-producing countries 2023 and 2024. Measured in million tonnes for crude steel production.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a61be337b34d4b1397feb09a29190414.png)\n\nDatasource: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)\n\nArticle: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w49-london-crimes-by-income-deprivation-decile",
+      "title": "2025/W49 London crimes by income deprivation decile",
+      "description": "Crimes recorded by neighbourhood income deprivation decile in London (2024)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-fd6d04e68e4c45d68379f7ef8c803c43.png)\n\n​\n\nDatasources: [DataPoliceUK](https://data.police.uk/docs/method/crime-street/), [Department for Levelling Up, Housing and Communities](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025)\n\nArticle: [Trust for London](https://trustforlondon.org.uk/data/topics/community/?tab=crime-and-income-deprivation)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "paris-2024-medal-cout",
+      "title": "2024/W35 Paris 2024 Medal Count",
+      "description": "Paris 2024 Olympic medal count by country, sport & sporting event",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-367ed83c71394f1fb94123556a946b57.png)\n\n​\n\nDatasource: [Olympics](https://olympics.com/en/paris-2024/medals)\n\nArticle: [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
