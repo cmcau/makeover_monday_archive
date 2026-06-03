@@ -1,0 +1,10 @@
+Arrangement,preference,Percentage
+Onsite,Onsite,36
+Onsite,Hybrid,36
+Onsite,Remote,27
+Hybrid,Onsite,2
+Hybrid,Hybrid,69
+Hybrid,Remote,28
+Remote,Onsite,2
+Remote,Hybrid,18
+Remote,Remote,81
