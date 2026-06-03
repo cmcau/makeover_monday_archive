@@ -1,0 +1,62 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w37",
+  "title": "2023/W37: Average UK house price for first time buyers",
+  "description": "Average UK house price for first time buyers from 1992 to 2023 compared against buyer income and money boorrowed",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/96c036d5dee7f5f595e8d382492d36dd10153549c1f17e8a7a8184f1cea0b194_CleanShot_2023_09_04_at_10.05.05_2x.png)\n\n​\n\n## **Resources**\nVisualization: [Average UK house price for first time buyers](https://www.linkedin.com/feed/update/urn:li:activity:7103318335701803008/?utm_source=share&utm_medium=member_desktop)\nData Source: [ONS](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindexmonthlyquarterlytables1to19)",
+  "version": "3be935af-6",
+  "tags": [
+    "makeover monday",
+    "uk",
+    "united kingdom",
+    "house prices",
+    "first time buyers",
+    "income",
+    "borrowing",
+    "debt",
+    "trend",
+    "price index",
+    "ons"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "First Time Home Buyers.xlsx",
+      "sizeInBytes": 308139,
+      "created": "2023-09-04T09:11:47.650422016Z",
+      "updated": "2023-09-04T09:11:47.650422016Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-09-04T09:05:44.492361433Z",
+  "updated": "2023-09-10T10:42:01.974211531Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 5,
+    "columnCount": 25
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w35",
+      "title": "2023/W35: Food Inflation Rates in the UK",
+      "description": "Food Inflation Rates in the UK",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/e16c8a020c91d51b02ad9487e6a1a798b4f285c73011112a72e2bf4091d7c0da_CleanShot_2023_08_28_at_8.35.43.png)\n\n## Resources\n[Food Inflation Rates in the UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)\nData Source: Office for Natonal Statistics",
+      "tags": [
+        "food",
+        "uk",
+        "united kingdom",
+        "inflation",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
