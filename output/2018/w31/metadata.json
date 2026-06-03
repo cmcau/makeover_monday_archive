@@ -1,0 +1,113 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w31-big-mac-index",
+  "title": "2018/W31: Big Mac Index",
+  "description": "The Economist Big Mac Index",
+  "summary": "# **Original Visualization**\n![](https://www.economist.com/sites/default/files/imagecache/1280-width/images/print-edition/20180120_FNC577_0.png)\n\n# **About this Dataset**\nSOURCE: [The Economist](https://www.economist.com/finance-and-economics/2018/01/20/our-big-mac-index-shows-fundamentals-now-matter-more-in-currency-markets)\n\nMore information about how the index is calculated, where exchange rates came from, etc. available on [github](https://github.com/TheEconomist/big-mac-data).\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "05354734-d018-4499-a2c6-d35aca323581",
+  "tags": [
+    "economist",
+    "makeover monday",
+    "economy",
+    "mcdonalds",
+    "big mac index",
+    "currency"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Big Mac Index.csv",
+      "sizeInBytes": 138536,
+      "created": "2018-07-24T09:31:58.493Z",
+      "updated": "2018-07-24T09:31:58.493Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-07-24T09:31:58.208Z",
+  "updated": "2018-07-29T15:07:41.328Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 19
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w6-global-big-mac-index",
+      "title": "2026/W6 Global Big Mac Index",
+      "description": "The Big Mac Index showcases pricing differences across countries to demonstrate purchasing-power parity across nations.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-47f024f9568a4f88a4c33b8adbfcba2c.png)\n\nData Source: The Economist (https://www.economist.com/interactive/big-mac-index)\n\nData Description: https://github.com/TheEconomist/big-mac-data?tab=readme-ov-file",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w24-tourism-density-index",
+      "title": "2018/W24: Tourism Density Index",
+      "description": "Tourism Density Index",
+      "summary": "# **Original Visualization**\n![Tourism Density Index.png](https://media.data.world/ADmIkzOTQkW25OtytPjm_Tourism%20Density%20Index.png)\n\n# **About this Dataset**\nSOURCE: [Intrepid Travel](https://intrepidgroup.bynder.com/transfer/bdd0abcac448329ed4c9057327b6ca660742e4b5ea16f18bd5a343b2c6d0d0c8)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "tourism density",
+        "tourism",
+        "travel data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w5",
+      "title": "2019/W5: Digital Economy and Society Index (DESI)",
+      "description": "DESI is a composite index that summarises relevant indicators on Europe’s digital performance.",
+      "summary": "\n# **Original Visualization**\n![original](https://ec.europa.eu/digital-single-market/sites/digital-agenda/files/desi2018_correction.png)\n\n# **About this Dataset**\nSOURCE: [European Commission](https://ec.europa.eu/digital-single-market/en/desi)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "europe",
+        "desi",
+        "society",
+        "index",
+        "economy",
+        "digital",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-5-what-the-most-profitable-companies-make-per-second",
+      "title": "2018/W5: What the Most Profitable Companies Make per Second",
+      "description": "What the Most Profitable Companies Make per Second",
+      "summary": "# **Original Visualization**\n![](https://trimydatacom.files.wordpress.com/2018/01/img_2443.jpg)\n\n# **About this Dataset**\nDATA SOURCE: [TitleMax](https://www.titlemax.com/discovery-center/money-finance/most-profitable-companies/)\n\nAUTHOR: [TitleMax](https://twitter.com/titlemax)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "profit",
+        "corporate",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w15",
+      "title": "2019/W15: Ranking States by Fiscal Condition",
+      "description": "How well can States meet short-term and long-term bills by examining their financial statements?",
+      "summary": "# **Original Visualization**\n![https://www.mercatus.org/sites/default/files/norcross-fiscal-rankings-map-mercatus-v1\\_copy\\_0.png](https://www.mercatus.org/sites/default/files/norcross-fiscal-rankings-map-mercatus-v1_copy_0.png)\n\n# **About this Dataset**\nSOURCE: [Mercatus Center](https://www.mercatus.org/statefiscalrankings)\n\nADDITIONAL INFORMATION: [2018 Report](https://www.mercatus.org/system/files/norcross-fiscal-rankings-2018-mercatus-research-v1.pdf)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "united states",
+        "fiscal",
+        "economy",
+        "debt",
+        "ranking"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
