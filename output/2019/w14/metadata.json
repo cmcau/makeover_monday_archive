@@ -1,0 +1,83 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w14",
+  "title": "2019/W14: What kind of waste appears on UK beaches?",
+  "description": "What kind of waste appears on UK beaches?",
+  "summary": "\n**Original Visualization**\n![supporting image or chart](https://ichef.bbci.co.uk/news/624/cpsprodpb/5889/production/_99156622_plastic_planet_6_640-nc.png)\n\n**About this Dataset**\nSOURCE ARTICLE: [Seven charts that explain the plastic pollution problem]( https://www.bbc.com/news/science-environment-42264788)\nDATA SOURCE: [Great British Beach Clean Report 2017]( https://www.mcsuk.org/media/GBBC_2017_Report.pdf)\n\n**Objectives**\n•\tWhat works and what doesn't work with this chart? \n•\tHow can you make it better?\n\n",
+  "version": "8381b6c5-8a9b-42a1-b242-0a278706608f",
+  "tags": [
+    "waste",
+    "plastics",
+    "pollution",
+    "uk",
+    "great britain"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Waste on UK beaches.xlsx",
+      "sizeInBytes": 9063,
+      "created": "2019-03-31T05:40:21.744Z",
+      "updated": "2019-03-31T05:40:21.744Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-03-31T05:40:05.001Z",
+  "updated": "2019-03-31T06:28:29.325Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w3-is-it-time-to-treat-sugar-like-smoking",
+      "title": "2020/W3: Is it time to treat sugar like smoking?",
+      "description": "Is it time to treat sugar like smoking?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![​](https://ichef.bbci.co.uk/news/624/cpsprodpb/D3A6/production/_107228145_teen_sugar_640-nc.png) \n\n# **About this Dataset**\nSOURCE ARTICLE: [BBC](https://www.bbc.co.uk/news/health-48499195) \nDATA SOURCE: [British Nutrition Foundation](https://www.nutrition.org.uk/nutritioninthenews/new-reports/ndnsyears7and8.html) \n\n# **Objectives**\n\n\\* What works and what doesn't work with this chart? \n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "smoking",
+        "health"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017w21-alcohol-consumption-in-britain",
+      "title": "2017/W21: Alcohol Consumption in Britain",
+      "description": "Are Britons falling out of love with booze?",
+      "summary": "# **Original Visualization**\n![](https://ichef.bbci.co.uk/news/624/cpsprodpb/13FFF/production/_95891918_graph_drink.png)\nSOURCE: [BBC](https://www.bbc.co.uk/news/health-39785742)\n\n# **About this Dataset**\nDATA SOURCE: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/adultdrinkinghabits)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "alcohol",
+        "britain",
+        "uk",
+        "united kingdom",
+        "britons",
+        "booze"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w1-what-is-americas-most-popular-sport",
+      "title": "2020/W1: What is America's most popular sport?",
+      "description": "What is America’s most popular sport?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![​](https://cdn.vox-cdn.com/thumbor/HGEQDrjFniYy3wItG7r4LQSpfMM=/0x0:595x397/1720x0/filters:focal(0x0:595x397):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3362104/Screen_Shot_2014-10-09_at_10.54.30_AM.0.0.png) \n\n# **About this Dataset**\nSOURCE ARTICLE: [40 maps and charts that explain sports in America](https://www.vox.com/2014/10/14/6951261/sports-maps-charts) \nDATA SOURCE: [Gallup](https://news.gallup.com/poll/4735/sports.aspx#1) \n\n# **Objectives**\n\n\\* What works and what doesn't work with this chart? \n\\* How can you make it better?",
+      "tags": [
+        "american sports"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
