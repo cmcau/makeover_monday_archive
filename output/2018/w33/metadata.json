@@ -1,0 +1,118 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w33-anthony-bourdains-travels",
+  "title": "2018/W33: Anthony Bourdain’s Travels",
+  "description": "Anthony Bourdain’s Travels",
+  "summary": "# **Original Visualization**\n![supporting image or chart](https://pbs.twimg.com/media/DfXwFO1V4AAn1CM.jpg)\n\n# **About this Dataset**\n* IMAGE SOURCE: [Christine Zhang (Twitter)](https://twitter.com/christinezhang/status/1005974583206449152)\n* DATA SOURCE: [Christine Zhang (Github)](https://t.co/vS7TIWUcQa)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "55f026e7-3d78-46fe-9a86-6ec97ea61065",
+  "tags": [
+    "anthony bourdain",
+    "travel",
+    "makeover monday",
+    "television",
+    "reality tv",
+    "tv",
+    "christine zhang"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Anthony Bourdain Travels.csv",
+      "sizeInBytes": 269348,
+      "created": "2018-08-11T15:10:35.046Z",
+      "updated": "2018-08-11T15:10:35.046Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-08-11T15:10:34.771Z",
+  "updated": "2018-08-12T15:10:53.865Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 21
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w36-the-nike-manufacturing-map",
+      "title": "2018/W36: The Nike Manufacturing Map",
+      "description": "The Nike Manufacturing Map",
+      "summary": "# **Original Visualization**\n![Nike Manufacturing Map](https://pbs.twimg.com/media/DmFHGEaX0AAXjNb.jpg)\n\n# **About this Dataset**\nSOURCE: [Nike](http://manufacturingmap.nikeinc.com/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n",
+      "tags": [
+        "nike",
+        "manufacturing",
+        "sporting goods",
+        "map"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w38-trains-vs-planes-whats-the-real-cost-of-travel",
+      "title": "2018/W38: Trains vs. planes: What's the real cost of travel?",
+      "description": "Trains vs. planes: What's the real cost of travel?",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://www.dw.com/image/45211293_7.png)\n\n# **About this Dataset**\nArticle: [Deutsche Welle](https://www.dw.com/en/trains-vs-planes-whats-the-real-cost-of-travel/a-45209552)\n\nData Source: [DW Data](https://github.com/dw-data/travel-cost)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "time series analysis",
+        "line charts",
+        "travel",
+        "train vs flight"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-uks-favorite-chocolate-bar",
+      "title": "2018/W13: What is the UK's favorite chocolate bar?",
+      "description": "What is the UK's favorite chocolate bar?",
+      "summary": "The Easter Bunny is coming this week, so let's have a great debate! What is the UK's favorite chocolate? \n\n# **Original Visualization**\n![Image](https://media.data.world/VKLPxYYFRyUeeoCc6Jgj_Screen%20Shot%202018-03-25%20at%2010.32.12%20am.png)\n\n# **About this Dataset**\nSOURCE: [CDA](https://www.cda.eu/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "chocolate",
+        "united kingdom",
+        "uk"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w45",
+      "title": "2018/W45: US Population Projections by Age Group, 2016-2060",
+      "description": "US Population Projections by Age Group, 2016-2060",
+      "summary": "# **Original Visualization**\n![Image](https://www.census.gov/content/census/en/library/visualizations/2018/comm/historic-first/jcr:content/map.detailitem.800.high.jpg/1520945944549.jpg)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [United States Census Bureau](https://www.census.gov/library/visualizations/2018/comm/historic-first.html)\n* SOURCE: [United States Census Bureau](https://www.census.gov/data/datasets/2017/demo/popproj/2017-popproj.html)\n* ADDITIONAL INFORMATION: [Data Fields](https://www2.census.gov/programs-surveys/popproj/technical-documentation/file-layouts/2017/np2017_d1.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "race",
+        "population",
+        "projection",
+        "united states",
+        "usa",
+        "age"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-2-looks-vs-personality",
+      "title": "2018/W2: Looks vs. Personality",
+      "description": "**Across the globe, personality is rated as more important than looks**",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2017-11-16/British%20both%20gender%20rankings-01.png)\n\n# **About this Dataset**\n**SOURCE:** [YouGov](https://yougov.co.uk/news/2017/11/29/personality-more-important-looks-across-globe/) and provided by [Matthew Smith](https://twitter.com/mattsmithetc).\n\n**NOTE:** Tag [@mattsmithetc](https://twitter.com/mattsmithetc) and [@YouGov](https://twitter.com/YouGov) on Twitter in visualisations created. \n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "looks",
+        "personality",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
