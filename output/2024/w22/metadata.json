@@ -1,0 +1,118 @@
+{
+  "owner": "makeovermonday",
+  "id": "us-home-affordability",
+  "title": "US Home Affordability",
+  "description": "Metro-level summary: Annual income needed to afford a home, August 2023",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\nUS Version\n\n![](https://mediauploads-US.data.world/00000-datainformant-4c38d4dd894340f5852ac31388ffd2ee.png)\n\n​\n\nCanadian Version\n\n![](https://mediauploads-US.data.world/00000-datainformant-3dc07a1e6be543ff9221bbd3e0476537.png)\n\n​\n\nUS Article and Datasource : [A Homebuyer Needs to Earn $115,000 to Afford the Typical U.S. Home, More Than Ever Before (redfin.com)](https://www.redfin.com/news/homebuyer-income-afford-home-record-high/)\n\nCanadian Article and Datasource: [You won't believe how much income you now need to afford a home in Canada](https://www.newmarkettoday.ca/village-life/you-wont-believe-how-much-income-you-now-need-to-afford-a-home-in-canada-6654848)",
+  "version": "6ae2a2fb-9",
+  "tags": [
+    "home",
+    "tableau",
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Home Affordability.xlsx",
+      "sizeInBytes": 13589,
+      "created": "2024-05-26T19:57:07.906122630Z",
+      "updated": "2024-05-26T19:57:07.906122630Z",
+      "description": "US Home affordability data",
+      "labels": [],
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    },
+    {
+      "name": "Home_Prices_and_Income_Requirements_Canada.xlsx",
+      "sizeInBytes": 11480,
+      "created": "2024-05-26T22:16:28.103661428Z",
+      "updated": "2024-05-26T22:16:28.103661428Z",
+      "description": "Canadian home affordability data",
+      "labels": [],
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-05-26T19:54:32.322762656Z",
+  "updated": "2024-05-26T22:21:36.467958463Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 2,
+    "columnCount": 12
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "global-energy-consumption",
+      "title": "Global Energy Consumption",
+      "description": "How much energy does the world consume?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-3692b68c387b47b9a17e79ab31fbde45.png)\n\n​\n\nArticle and Datasource : [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)",
+      "tags": [
+        "energy",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w50-cost-of-kevins-home-alone-grocery-haul-in-2025",
+      "title": "2025/W50 Cost of Kevin’s ‘Home Alone’ Grocery Haul in 2025",
+      "description": "Analyzing the cost of Kevin's grocery bill (Home Alone) if he were shopping in 2025.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-a94057527480475880bbc0308fbb71f8.png)\n\n​\n\nDatasource & Article: [GoBankingRates](https://www.gobankingrates.com/saving-money/food/how-much-kevins-home-alone-grocery-haul-would-cost-today/)",
+      "tags": [
+        "makeovermonday",
+        "retail",
+        "shopping"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-14-the-best-migration-destinations-in-2025",
+      "title": "2025/ week 14 The Best Migration Destinations in 2025",
+      "description": "2025’s Best Countries to Live and Work Based on the Henley Opportunity Index",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-97ecd8dc81ec432eb4ee36a0f474b681.png)\n\n​\n\nDatasource: [The Henley Opportunity Index 2025 | Henley & Partners](https://www.henleyglobal.com/publications/henley-opportunity-index)\n\nArticle: [Ranked: 2025's Best Countries to Live and Work](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette)\n\nShow less",
+      "tags": [
+        "work",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk2-the-biggest-housing-bubble-risks-globally",
+      "title": "2026/WK2 The Biggest Housing Bubble Risks Globally",
+      "description": "Exploring the level of housing bubble risk for major cities globally",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-f645b061f5cb4a5587ca73fb4459e8d3.png)\n\n​\n\nDatasource & Article :  [Housing Bubble Risks: Mapping the 2025 Landscape](https://www.visualcapitalist.com/sp/ter01-the-biggest-housing-bubble-risks-globally/)",
+      "tags": [
+        "housing",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025wk48-which-ai-models-hallucinate-the-most",
+      "title": "2025/WK48 Which AI Models Hallucinate the Most?",
+      "description": "A Look into which AI models have higher rates of accuracy / hallucination",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-954613b04960410c83019ac4c49d5556.png)\n\n​\n\nDatasource and Article : [Which AI Models Hallucinate the Most? - Voronoi](https://www.voronoiapp.com/technology/Which-AI-Models-Hallucinate-the-Most-7211)",
+      "tags": [
+        "makeovermonday",
+        "ai"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
