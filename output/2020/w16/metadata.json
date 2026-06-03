@@ -1,0 +1,113 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w16",
+  "title": "2020/W16: Food: Greenhouse Gas Emission across supply chain",
+  "description": "Food: Greenhouse Gas Emission across supply chain",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original Chart](https://ourworldindata.org/uploads/2020/02/Environmental-impact-of-food-by-life-cycle-stage-1536x1380.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Focus on what you eat, not whether your food is local](https://ourworldindata.org/food-choice-vs-eating-local)\nDATA SOURCE: [GHG emissions by Lifecycle stage](https://ourworldindata.org/uploads/2020/02/GHG-emissions-by-life-cycle-stage-OurWorldinData-upload.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+  "version": "eddc7274-94f2-474c-aa47-c234fa172a5a",
+  "tags": [
+    "food",
+    "climate change",
+    "greenhouse gas emissions",
+    "eat local",
+    "methane",
+    "beef"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "GHG-emissions-by-life-cycle-stage-OurWorldinData-upload.csv",
+      "sizeInBytes": 1858,
+      "created": "2020-04-18T14:12:45.678Z",
+      "updated": "2020-04-18T14:12:45.678Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-04-18T14:12:38.180Z",
+  "updated": "2020-04-25T09:06:55.876Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w50",
+      "title": "2019/W50: Ranked: Biggest Fast Food Chains in America",
+      "description": "Ranked: Biggest Fast Food Chains in America",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/revenue-fast-food-chains-1200px-1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [TitleMax](https://www.titlemax.com/discovery-center/money-finance/the-revenue-of-fast-food-chains-in-america/)\nDATA SOURCE: [Visual Capitalist](https://www.visualcapitalist.com/biggest-fast-food-chains-in-america/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "fast food",
+        "america",
+        "usa"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w50",
+      "title": "2018/W50: Land use by food type",
+      "description": "Land use by food type",
+      "summary": "# **Original Visualization**\n![land-use-per-gram-of-protein-by-food-type.png](https://media.data.world/Xl841BpwR5iZ3LYd2KUs_land-use-per-gram-of-protein-by-food-type.png)\n\n# **About this Dataset**\nSOURCE: [Our World in Data](https://ourworldindata.org/yields-and-land-use-in-agriculture#land-use-by-food-type)\n\nFULL ARTICLE: [IOP Science](http://iopscience.iop.org/article/10.1088/1748-9326/aa6cd5)\n\nDATA SOURCE: [Our World in Data](https://ourworldindata.org/700a146d-726a-489c-9fd0-94b6b481f523)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "bar chart",
+        "land usage",
+        "farming",
+        "protein inefficiencies",
+        "meat",
+        "plant based diet"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w22",
+      "title": "2019/W22: CO2 Emissions per capita",
+      "description": "CO2 Emissions per capita in metric tonnes",
+      "summary": "# **Original Visualization**\n\n![image.png](https://media.data.world/lv4WmY9SRt23LieYwE2J_image.png)\n\n\n# **About this Dataset**\nSOURCE ARTICLE: [CO2 Emissions per capita](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&locations=AU-BE-CA-CN-DK-DE-IN-MX-US&start=1960&view=chart)\nDATA SOURCE: [World Bank](http://api.worldbank.org/v2/en/indicator/EN.ATM.CO2E.PC?downloadformat=csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "climate change",
+        "global warming",
+        "world bank",
+        "co2 emissions"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w11-self-reported-life-satisfaction-vs-gdp-per-capita",
+      "title": "2020/W11: Self-reported Life Satisfaction vs GDP per capita",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![gdp-vs-happiness.png](https://media.data.world/booMJcXbQZKHymqVU3il_gdp-vs-happiness.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Our World in Data](https://ourworldindata.org/happiness-and-life-satisfaction)\nDATA SOURCE: [World Bank](https://datacatalog.worldbank.org/dataset/world-development-indicators)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n* I've added three data files. One associated with the original visualisation, one to allow you to assign countries to regions, or a .hyper file for Tableau users which joined the two sources together if you can't figure out how to do it yourselves!",
+      "tags": [
+        "makeover monday",
+        "happiness",
+        "gdp per capita"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w23-animal-free-products-consumption-in-great-britain",
+      "title": "2020/W23: Animal-free products consumption in Great Britain",
+      "description": "Animal-free products consumption in Great Britain",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-06-at-09.41.30.png](https://learningtableaublog.files.wordpress.com/2020/06/screenshot-2020-06-06-at-09.41.30.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Animal-free products consumption frequency in Great Britain 2019, by eating habits](https://www.statista.com/statistics/1065843/animal-free-products-consumption-frequency-in-great-britain-by-eating-habits/)\nDATA SOURCE: [Statista](https://www.statista.com/statistics/1065843/animal-free-products-consumption-frequency-in-great-britain-by-eating-habits/)\nNOTE THAT MINOR ALTERATIONS HAVE BEEN MADE TO SOURCE DATA TO ENSURE THAT ALL CATEGORIES ADD UP TO 100%\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "food",
+        "great britain"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
