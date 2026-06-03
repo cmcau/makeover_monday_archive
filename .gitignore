@@ -1,5 +1,21 @@
 .env
 __pycache__/
 *.pyc
+
 # Uncomment if you don't want the downloaded archive committed:
 # output/
+
+# --- Files over GitHub's 100 MB limit (kept locally, excluded from the repo) ---
+# See OVERSIZED_FILES.md for the full list and options. These remain in your
+# local output/ folder; they're simply not pushed to GitHub.
+/output/2018/w26/data/TFL Cycle Hire 2017.csv
+/output/2021/w16/data/US Monthly Air Passengers.csv
+/output/2023/w23/data/Melbourne Pedestrians.csv
+/output/2019/w11/data/philly real estate.csv
+/output/2019/w11/data/philly real estate.hyper
+/output/2019/w25/data/Airbnb Berlin.csv
+/output/2019/w25/data/Airbnb Berlin.xlsx
+/output/2023/w06/data/foia-7afy2010-fy2019-asof-220930.csv
+/output/2023/w39/data/Hyperlocal_Temperature_Monitoring.csv
+/output/2020/w12/data/Courses_Berkeley_2018-01-15.csv
+/output/2019/w25/data/Airbnb Berlin.hyper
