@@ -1,0 +1,121 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w13",
+  "title": "2019/W13: Consumer Spending by Generation",
+  "description": "How does consumer spending compare between generations?",
+  "summary": "# **Original Visualization**\n![https://s.yimg.com/ny/api/res/1.2/M5kFKivFvirBezvMxKiz0w--\\~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjUwO2g9NDg3/http://globalfinance.zenfs.com/en\\_us/Finance/US\\_AFTP\\_SILICONALLEY\\_H\\_LIVE/This\\_chart\\_reveals\\_a\\_huge-3deb40f9ed361b00a8be74a587aa6005](https://s.yimg.com/ny/api/res/1.2/M5kFKivFvirBezvMxKiz0w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjUwO2g9NDg3/http://globalfinance.zenfs.com/en_us/Finance/US_AFTP_SILICONALLEY_H_LIVE/This_chart_reveals_a_huge-3deb40f9ed361b00a8be74a587aa6005)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Yahoo! Finance](https://finance.yahoo.com/news/chart-reveals-huge-difference-millennials-201133732.html)\nDATA SOURCE: Bank of America Merrill Lynch\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "68494b09-f330-456a-9207-74a097438a6d",
+  "tags": [
+    "makeover monday",
+    "generations",
+    "spending",
+    "consumer"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Consumer Spending by Generation.csv",
+      "sizeInBytes": 984,
+      "created": "2019-03-22T09:17:29.664Z",
+      "updated": "2019-03-22T09:17:29.664Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-03-22T09:16:18.598Z",
+  "updated": "2019-03-24T11:29:31.041Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w42",
+      "title": "2020/W42: Health spending",
+      "description": "Health spending",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2020-10-18 at 2.48.13 pm.png](https://media.data.world/bflpGloGRpSN4rv23cRM_Screen%20Shot%202020-10-18%20at%202.48.13%20pm.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Health spending](https://data.oecd.org/healthres/health-spending.htm)\nDATA SOURCE: [OECD Data](https://stats.oecd.org/sdmx-json/data/DP_LIVE/.HEALTHEXP.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "healthcare",
+        "healthcare expenditure"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w23",
+      "title": "2019/W23: Sleepless in America?",
+      "description": "The American Time Use Survey tracks how much Americans sleep by gender and age.",
+      "summary": "# **Original Visualization**\n![https://www.bls.gov/tus/charts/chart16.jpg](https://www.bls.gov/tus/charts/chart16.jpg)\n\n# **About this Dataset**\nIMAGE SOURCE: [American Time Use Survey](https://www.bls.gov/tus/charts/sleep.htm)\nDATA SOURCE: [American Time Use Survey](https://www.bls.gov/tus/database.htm)\n\n#### **ADDITIONAL RESOURCES**\n\n1. [The Connection between Sleep and Autoimmune Disease](https://www.nutritionaltherapyconference.com/wp-content/uploads/2016/04/NTA2016-Conference-Talk.pdf) - Sarah Ballantyne, PhD\n2. [National Sleep Foundation](https://www.sleepfoundation.org/)\n3. [Drowsy Driving](https://www.nhtsa.gov/risky-driving/drowsy-driving) - National Highway Traffic Safety Adminstration\n4. [Acute Sleep Deprivation and Risk of Motor Vehicle Crash Involvement](https://aaafoundation.org/acute-sleep-deprivation-risk-motor-vehicle-crash-involvement/) - AAA Foundation for Traffic Safety\n5. [Richard Smith: _Why We Sleep_ (Matthew Walker) book review](https://blogs.bmj.com/bmj/2018/06/20/richard-smith-why-we-sleep-one-of-those-rare-books-that-changes-your-worldview-and-should-change-society-and-medicine/) - the bmj opinion\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "sleep",
+        "america",
+        "united states",
+        "american time use survey",
+        "atus",
+        "gender",
+        "age",
+        "sex",
+        "year",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w52",
+      "title": "2019/W52: Estimated Christmas spending by concept",
+      "description": "Estimated Christmas spending by concept",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2019-12-22 at 11.05.37 am.png](https://media.data.world/AhSycIvRYu5GEwaxmsMD_Screen%20Shot%202019-12-22%20at%2011.05.37%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/uk/en/pages/consumer-business/articles/deloitte-christmas-survey-2019.html)\nDATA SOURCE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/consumer-business/deloitte-uk-christmas-survey-2019.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "christmas",
+        "consumer spending",
+        "uk data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-51-temperature-anomalies-1900-2016",
+      "title": "2017/W51: Temperature Anomalies (1900-2016)",
+      "description": "Temperature Anomalies (1900-2016)",
+      "summary": "# Original Visualization\n@(https://twitter.com/anttilip/status/892318734244884480)\n\n# About this Dataset\nSOURCE: [Ken Black](https://3danim8.wordpress.com/2017/06/12/global-climate-data-set-1-daily-temperatures/) via NOAA\n\n# Objectives\nWhat works and what doesn't work with this chart? How can you make it better? Post your alternative on the discussions page.\n\n# Notes\n1. Tableau extract is aggregated to the monthly level for each station\n2. The TDS is a live Exasol connection to all 176 million records.\n3. For the live connection you will need a login which you can create via this registration. \n4. If you previously registered, your login will still work.",
+      "tags": [
+        "makeover monday",
+        "global temperature",
+        "weather"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
