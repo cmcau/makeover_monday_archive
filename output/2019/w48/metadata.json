@@ -1,0 +1,120 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w48",
+  "title": "2019/W48: 2018 Squirrel Census Fur Color Map",
+  "description": "2018 Squirrel Census Fur Color Map",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![week 48 original.png](https://media.data.world/vaUElB6SjiUzSard7J1y_week%2048%20original.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [2018 Squirrel Census Fur Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)\nDATA SOURCE: [NYC Open Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "07ac9d35-23b7-4808-8702-d120905e882a",
+  "tags": [
+    "new york",
+    "central park",
+    "squirrel",
+    "squirrel map"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv",
+      "sizeInBytes": 784200,
+      "created": "2019-11-20T13:13:01.225Z",
+      "updated": "2019-11-20T13:13:01.225Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-11-20T13:12:54.383Z",
+  "updated": "2019-11-24T11:56:07.390Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 36
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w30",
+      "title": "2019/W30: Arsenal FC's 2018/19 season",
+      "description": "Player statistics for Arsenal's 2018/19 season",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Arsenal original.png](https://media.data.world/1txCTsxJQoqHKHGesBDF_Arsenal%20original.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Transfermarkt](https://www.transfermarkt.co.uk/arsenal-fc/leistungsdaten/verein/11/reldata/GB1%262018)\nDATA SOURCE: [Premier League Stat Center](https://www.premierleague.com/stats/top/players/goals)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "arsenal fc",
+        "football",
+        "soccer",
+        "player statistics",
+        "table"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w10",
+      "title": "2019/W10: World Development Indicators - Health and Equality",
+      "description": "World Development Indicators - Health and Equality",
+      "summary": "# **Original Visualization**\n![week 10 original.png](https://media.data.world/zxwo7nzlTb6WeQOksITK_week%2010%20original.png)\n\n[Interactive Visualization](https://datawrapper.dwcdn.net/nU5Gj/1/)\n\n# **About this Dataset**\nDATA SOURCE: [The World Bank](https://datacatalog.worldbank.org/dataset/world-development-indicators)\nCOLLABORATION WITH: Operation Fistula (please tag **@opfistula** on Twitter)\nDATA DICTIONARY and BACKGROUND INFORMATION: please see pdf in the attachments section\n\n# **Style Guidelines**\nYou are welcome to use the below guidelines provided by Operation Fistula when designing your work:\n- Font: Avenir\n- Colors:\n     - Orange (R - 203 | G - 97 | B - 97)\n     - Dark Grey (R - 26| G - 25 | B - 25)\n     - Light Orange (R - 250| G - 234 | B - 219)\n- Logo Files: Please see attachments\n- Picture Files: Please see attachments. you **MUST** include picture credit to www.opfistula.org\n\n\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "international womens day",
+        "equality",
+        "womens rights",
+        "womens health",
+        "maternal health",
+        "iwd",
+        "world bank data",
+        "operation fistula"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w12-uk-pet-population-in-2017",
+      "title": "2018/W12: UK Pet Population in 2017",
+      "description": "UK Pet Population in 2017",
+      "summary": "# **Original Visualization**\n![week 12 original.png](https://media.data.world/N4l9vaEiRZuE2EXRk68K_week%2012%20original.png)\n\n# **About this Dataset**\nSOURCE: [Pet Food Manufacturers Association](https://www.pfma.org.uk/pet-population-2017)\n\n[Annual Report 2017, p. 14](https://www.pfma.org.uk/_assets/docs/annual-reports/PFMA-Annual-Report-2016.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "uk data",
+        "pet population",
+        "pets",
+        "cats and dogs"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w28",
+      "title": "2019/W28: International protection in the EU+: 2018 overview",
+      "description": "International protection in the EU+: 2018 overview",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Original.png](https://media.data.world/aR543tHS3Wz9eZ6oLtaH_Original.png)\n\nPlease note: The data only covers the first two bar charts below the map. The rest of the dashboard has been included for context but data has not been provided.\n\n# **About this Dataset**\nSOURCE ARTICLE: [European Asylum Support Office](https://www.easo.europa.eu/asylum-trends-annual-report-2018)\nDATA SOURCE: EUROSTAT, from 2009 to 2018 [Summary applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asyappctza&lang=en)\n[Decisions on applications](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asydcfsta&lang=en)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "asylum",
+        "refugee",
+        "refugee crisis",
+        "europe",
+        "eu",
+        "migration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w36-the-nike-manufacturing-map",
+      "title": "2018/W36: The Nike Manufacturing Map",
+      "description": "The Nike Manufacturing Map",
+      "summary": "# **Original Visualization**\n![Nike Manufacturing Map](https://pbs.twimg.com/media/DmFHGEaX0AAXjNb.jpg)\n\n# **About this Dataset**\nSOURCE: [Nike](http://manufacturingmap.nikeinc.com/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n",
+      "tags": [
+        "nike",
+        "manufacturing",
+        "sporting goods",
+        "map"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
