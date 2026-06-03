@@ -1,0 +1,115 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w28-volcano-eruptions",
+  "title": "2018/W28: Volcano Eruptions",
+  "description": "Volcano Eruptions",
+  "summary": "# **Original Visualization**\n![original visualization](https://media.data.world/1GcK19GyQWacwa4ifDaj_original.png)\n\n# **About this Dataset**\nSOURCE: [Global Volcanism Program](https://volcano.si.edu/list_volcano_holocene.cfm)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "e094b5a0-b3c0-4b48-a1d4-876db0820bdd",
+  "tags": [
+    "volcanos",
+    "volcano eruptions",
+    "geological data",
+    "geospatial data"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Volcano Eruptions.xlsx",
+      "sizeInBytes": 158786,
+      "created": "2018-07-07T06:53:31.204Z",
+      "updated": "2018-07-07T06:53:31.204Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-07-07T06:53:30.975Z",
+  "updated": "2018-07-08T10:57:45.161Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 14
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w52",
+      "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+      "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+      "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "christmas",
+        "spending",
+        "consumption",
+        "us spending",
+        "us household spending",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w14-world-wine-production",
+      "title": "2018/W14: World Wine Production",
+      "description": "World Wine Production",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-04-01 at 4.15.25 pm.png](https://media.data.world/i3Xmig5qTaabFqbfOE09_Screen%20Shot%202018-04-01%20at%204.15.25%20pm.png)\n\n# **About this Dataset**\nSOURCE: [International Organisation of Vine and Wine](http://www.oiv.int/public/medias/5287/oiv-noteconjmars2017-en.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "wine data",
+        "world wine production",
+        "data visualization",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w24-tourism-density-index",
+      "title": "2018/W24: Tourism Density Index",
+      "description": "Tourism Density Index",
+      "summary": "# **Original Visualization**\n![Tourism Density Index.png](https://media.data.world/ADmIkzOTQkW25OtytPjm_Tourism%20Density%20Index.png)\n\n# **About this Dataset**\nSOURCE: [Intrepid Travel](https://intrepidgroup.bynder.com/transfer/bdd0abcac448329ed4c9057327b6ca660742e4b5ea16f18bd5a343b2c6d0d0c8)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "tourism density",
+        "tourism",
+        "travel data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-52-christmas-trees-sold-in-the-us",
+      "title": "2017/W52: Christmas trees sold in the US",
+      "description": "Christmas trees sold in the US",
+      "summary": "# Original Visualization\n![original.png](https://media.data.world/FxLUQJfwSpGTDhHW9cdC_original.png)\n\n# About this Dataset\nSOURCE: [Statista](https://www.statista.com/statistics/209249/purchase-figures-for-real-and-fake-christmas-trees-in-the-us/)\n\n\n# Objectives\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "christmas",
+        "us data",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
