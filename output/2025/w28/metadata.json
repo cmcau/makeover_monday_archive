@@ -1,0 +1,35 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025week-28-common-misconception",
+  "title": "2025/week 28 common misconception",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-6f88397ff1334381a1b89a59a76002af.png)\n\n**Sources: **[Wikipedia](http://en.wikipedia.org/wiki/List_of_common_misconceptions,), NY Times, Straight Dope & Others.\n\n**Credits: **Concept & Design: [David Mccandless](http://www.davidmccandless.com/)  Design: [Paulo Estriga](http://headaround.com/)  Additional Design: [Fabio Bergamaschi](http://www.fabiobergamaschi.com/), Tatjana Dubovina  Research: [Miriam Quick](https://twitter.com/miriamquick), [Ella Hollowood](https://twitter.com/ejhollowood), Pearl Doughty-White, [Dr Stephanie Starling](http://www.stephaniestarling.com/)  Code: [Omid Kashan](https://omid.uk/)  Rendered with: [VizSweet](http://www.vizsweet.com/) – dataviz software.",
+  "version": "12ab523d-4",
+  "tags": [
+    "misconception",
+    "fun"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "KIB - Common MythConceptions (public) - Common Mythconceptions.csv",
+      "sizeInBytes": 61428,
+      "created": "2025-07-07T09:13:33.276013911Z",
+      "updated": "2025-07-07T09:13:33.276013911Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-07-07T08:51:17.933557Z",
+  "updated": "2025-07-07T09:13:33.276410022Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 13
+  },
+  "similarResources": [],
+  "isProject": false
+}
