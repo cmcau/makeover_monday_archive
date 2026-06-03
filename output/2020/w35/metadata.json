@@ -1,0 +1,119 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w35-indian-batsmen-v-left-arm-pace",
+  "title": "2020/W35: Indian batsmen v left-arm pace",
+  "description": "Indian batsmen v left-arm pace",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1187866\\_900x900.png&w=1140&cquality=40&format=jpg](https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1187866_900x900.png&w=1140&cquality=40&format=jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Tactics Board: How India can beat Australia](https://www.espncricinfo.com/story/_/id/26927142/how-india-beat-australia)\nDATA SOURCE: [ESPNcricinfo.com](https://www.espncricinfo.com/story/_/id/26927142/how-india-beat-australia)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+  "version": "cbbc7d11-e256-483a-bcdf-18e3f4fbf52a",
+  "tags": [
+    "makeover monday",
+    "cricket",
+    "sport"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "W35.xlsx",
+      "sizeInBytes": 8885,
+      "created": "2020-08-29T12:33:34.601Z",
+      "updated": "2020-08-29T12:33:34.601Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-08-29T12:32:40.935Z",
+  "updated": "2020-08-30T12:29:17.759Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-5-what-the-most-profitable-companies-make-per-second",
+      "title": "2018/W5: What the Most Profitable Companies Make per Second",
+      "description": "What the Most Profitable Companies Make per Second",
+      "summary": "# **Original Visualization**\n![](https://trimydatacom.files.wordpress.com/2018/01/img_2443.jpg)\n\n# **About this Dataset**\nDATA SOURCE: [TitleMax](https://www.titlemax.com/discovery-center/money-finance/most-profitable-companies/)\n\nAUTHOR: [TitleMax](https://twitter.com/titlemax)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "profit",
+        "corporate",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-47-snapchat-is-tops-with-american-teens",
+      "title": "2017/W47: Snapchat is Tops with American Teens",
+      "description": "Snapchat is Tops with American Teens",
+      "summary": "# Original Visualization\n![supporting image or chart](http://static6.businessinsider.com/image/59e52afb1f848906058b618c-1200/cotd101602.png)\n\n# About this Dataset\nSOURCE: [Piper Jaffray](http://www.piperjaffray.com/3col.aspx?id=4610)\n\n# Objectives\nWhat works and what doesn't work with this chart? How can you make it better? Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "apps",
+        "teens",
+        "america",
+        "united states",
+        "snapchat",
+        "instagram",
+        "facebook",
+        "twitter",
+        "trends",
+        "business insider"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w7-world-wealth",
+      "title": "2020/W7: World Wealth",
+      "description": "World Wealth",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n**Original Visualization**\n\n![https://cdn.howmuch.net/articles/distribution-worlds-wealth-2019-%282%29-2064.jpg](https://cdn.howmuch.net/articles/distribution-worlds-wealth-2019-%282%29-2064.jpg)\n\n**About this Dataset**\n\nSOURCE ARTICLE: [All the World’s Wealth in One Visual](https://howmuch.net/articles/distribution-worlds-wealth-2019)\nDATA SOURCE: [Credit Suisse](https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "wealth"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w21-visualizing-40-years-of-music-industry-sales",
+      "title": "2020/W21: Visualizing 40 Years of Music Industry Sales",
+      "description": "Visualizing 40 Years of Music Industry Sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/music-industry-sales/)\nDATA SOURCE: [RIAA](https://www.riaa.com/u-s-sales-database/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "music"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
