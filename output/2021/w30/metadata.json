@@ -1,0 +1,127 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w30a",
+  "title": "2021/W30: America's Racial Breakdown By State",
+  "description": "America's Racial Breakdown By State",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/xCzvj40QAO2eWbPe9xPQ_image.png)\n\n​\n\n# Resources\nOriginal viz: [Visual Capitalist](https://www.visualcapitalist.com/visualizing-u-s-population-by-race/)\n\nData Source: Kaiser Family Foundation, U.S. Census Bureau",
+  "version": "5d1ebc82-247c-467d-9cae-76dc43ebc938",
+  "tags": [
+    "makeover monday",
+    "race",
+    "ethnicity",
+    "usa",
+    "united states"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US Population by Race.xlsx",
+      "sizeInBytes": 11666,
+      "created": "2021-07-25T06:33:55.516Z",
+      "updated": "2021-07-25T06:33:55.516Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-07-25T06:31:38.442Z",
+  "updated": "2021-07-25T06:34:47.201Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w19",
+      "title": "2021/W19: What Does 1GB of Mobile Data Cost by Country?",
+      "description": "What Does 1GB of Mobile Data Cost in Every Country?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/ziDtA7B9QyCypYZySfEn_image.png)\n\n​\n\n# **About this Dataset**\n**Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n**Data Source:** [Visual Capitalist](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "data",
+        "country",
+        "location",
+        "mobile",
+        "phone",
+        "cost",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w47-why-americas-debt-doesnt-stop-growing",
+      "title": "2020/W47: Why America's debt doesn't stop growing",
+      "description": "Why America's debt doesn't stop growing",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/11/screenshot-2020-11-21-at-09.23.09.png](https://learningtableaublog.files.wordpress.com/2020/11/screenshot-2020-11-21-at-09.23.09.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/americas-debt-27-trillion-and-counting/)\nDATA SOURCES: [Federal Reserve Bank of St. Louis (GDP)](https://fred.stlouisfed.org/series/GDP) and [Federal Reserve Bank of St. Louis (Debt)](https://fred.stlouisfed.org/series/GFDEBTN)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "debt"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-3-u-s-household-income-distribution-by-state",
+      "title": "2018/W3: U.S. Household Income Distribution by State",
+      "description": "U.S. Household Income Distribution by State",
+      "summary": "# **Original Visualization**\n![Visual Capitalist](http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/11/household-income.png)\n\n# **About this Dataset**\n**SOURCE:** [Visual Capitalist](http://www.visualcapitalist.com/household-income-distribution-u-s-state/)\n\n**DATA SOURCE:** [U.S. Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "united states",
+        "income distribution",
+        "state",
+        "household",
+        "visual capitalist"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w29",
+      "title": "2021/W29: UK COVID-19 Mortality Rate by Ethnicity",
+      "description": "Most minority ethnicities have a higher COVID-19 mortality rate",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/X4uw21IRZOyBEtmW3sFA_Screenshot%202021-07-18%20at%202.52.59%20pm.png)\n\n​\n\n# Resources\nOriginal Viz: [Most minority ethnicities have a higher COVID-19 mortality rate](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)\nData Source: [Information is Beautiful](https://docs.google.com/spreadsheets/d/1g_YxmDfQx7aOU2DKzNZo9b-NTk62Bju6X3z6OuCa6gw/edit#gid=2004630296) via UK Office for National Statistics",
+      "tags": [
+        "makeover monday",
+        "covid",
+        "uk",
+        "ethnicity",
+        "minorities",
+        "race",
+        "gender"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w6",
+      "title": "2023/W6: Small Business Applications and Loan Amounts",
+      "description": "Small Business Applications and Loan Amounts by Race/Ethnicity",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/fec139a3cdddd3a1344d97dc9e8568dc07995a0766f5d2ef43cf948f750b6d94_CleanShot_2023_01_14_at_10.43.30_2x.png)\n\n​\n\n## **Resources**\n[Small Business Applications and Loan Amounts by Race/Ethnicity](https://blackwealthdata.org/explore/business)\nData Source: [U.S. Small Business Administration](https://data.sba.gov/dataset/7-a-504-foia)",
+      "tags": [
+        "makeover monday",
+        "wealth",
+        "indicator",
+        "business",
+        "ownership",
+        "race",
+        "ethnicity",
+        "usa",
+        "small business"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
