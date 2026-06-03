@@ -1,0 +1,103 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w5-gold-prices",
+  "title": "Gold Prices",
+  "description": "Monthly Gold Prices over the last 20 years from BullionVault",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-d5bb4d14f92a41ae97b7b4f12107db62.jpg)\n\n​\n\nDatasource: https://www.bullionvault.com/gold-price-chart.do",
+  "version": "72571f35-4",
+  "tags": [
+    "makeovermonday",
+    "gold"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MM2026 WK5 Gold Price.csv",
+      "sizeInBytes": 10548,
+      "created": "2026-02-02T14:57:45.817161570Z",
+      "updated": "2026-02-02T14:57:45.817161570Z",
+      "createdBy": "ojoswi",
+      "updatedBy": "ojoswi"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-02-02T14:51:20.844599932Z",
+  "updated": "2026-02-02T15:09:02.725996621Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w51-new-year-resolution-tweets-in-us",
+      "title": "2025/W51 New Year Resolution in US",
+      "description": "What were Americans’ New Year’s Resolutions for 2025?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-f2a2a086c7264f8e9a5ac27ff3d4db86.jpg)\n\n​\n\nDatasource & Article: [YouGov US 2025 New Year's Resolutions](https://today.yougov.com/society/articles/51144-what-are-americans-new-years-resolutions-for-2025)",
+      "tags": [
+        "makeovermonday",
+        "resolutions"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "gains-in-commodity-prices",
+      "title": "Gains in Commodity Prices",
+      "description": "Changes in the price of different commodities",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-60b1ca19e8ab433e841c7944db20d581.png)\n\n​\n\nDatasource : [Commodity prices post modest gains in October—Pink Sheet](https://blogs.worldbank.org/en/opendata/commodity-prices-post-modest-gains-in-october-pink-sheet)\n\n**Notes:  \n**While the visualization above shows month over month change in commodity prices from September to October, the data provides yearly data for commodities, and provides the ability to analyze year over year changes.\n\nUnits:\n\n\n* **$/bbl**: Price in US dollars per barrel. A barrel is a standard unit of measure for crude oil and other liquid fuels.\n* **$/mmbtu**: Price in US dollars per million British thermal units. A unit of energy commonly used for natural gas.\n* **$/kg**: Price in US dollars per kilogram. Frequently used for agricultural products like cocoa, coffee, and tea.\n* **$/toz**: Price in US dollars per troy ounce. A unit of weight used for precious metals like gold, silver, and platinum\n* **$/mt**: Price in US dollars per metric ton. Commonly used for bulk commodities like coal, metals, and grains.",
+      "tags": [
+        "makeovermonday",
+        "commodities",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w11-vacant-household-rates-in-the-united-states",
+      "title": "2024/W11 Vacant Household Rates in the United States",
+      "description": "Number of occupied and vacant households by US Metropolitan Statistical Area",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-24ff66476b45492abcaf587823ef5a33.jpg)\n\n​\n\nDatasource : [United States Census Bureau](https://data.census.gov/table/ACSDT1Y2022.B25002?t=Housing:Housing%20Units:Vacancy&g=010XX00US$31000M1&tp=true)\n\nArticle : [LendingTree](https://www.lendingtree.com/home/mortgage/vacant-homes-metros-study/)",
+      "tags": [
+        "makeovermonday",
+        "housing"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w23-lgbt-identification-in-us",
+      "title": "2024/W23 LGBT Identification in U.S",
+      "description": "LGBT % Share of Adult U.S Population by Generation",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-04c0a7b755bb4c6392167219ce7b9877.jpeg)\n\n​\n\nDatasource : [Gallup](https://news.gallup.com/poll/470708/lgbt-identification-steady.aspx)\n\nArticle : [Statista](https://www.statista.com/chart/18228/share-of-americans-identifying-as-lgbt/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w30-london-underground-average-monthly-temperatures",
+      "title": "2025/W30 London Underground Average Monthly Temperatures",
+      "description": "London Underground Average Monthly Temperatures (°C) 2013-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-11485fd39bcc40c7911336374c95e8eb.png)\n\nDatasource: [TFL](https://data.london.gov.uk/dataset/london-underground-average-monthly-temperatures/)\nArticle: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739705/london-underground-hottest-line.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
