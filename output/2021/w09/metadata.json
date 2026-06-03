@@ -1,0 +1,47 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w9",
+  "title": "2021/W9: Seats Held by Women in National Parliaments",
+  "description": "Seats Held by Women in National Parliaments and Governments",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![https://ec.europa.eu/eurostat/web/products-datasets/-/sdg_05_50](https://media.data.world/XB1W6MheQ3eY6i5oXzXY_SDG_05_50_LINE_2021-02-23T16_16_57Z.png)\n\n​\n\n## **About This Dataset**\n**From Eurostat:**\n\n_The indicator measures the proportion of women in national parliaments and national governments. The national parliament is the national legislative assembly and the indicator refers to both chambers (lower house and an upper house, where relevant)._\n\n_The count of members of a parliament includes the president/speaker/leader of the parliament. The national government is the executive body with authority to govern a country or a state._\n\n_Members of government include both senior ministers (having a seat in the cabinet or council of ministers, including the prime minister) and junior ministers (not having a seat in the cabinet). In some countries state-secretaries (or the national equivalent) are considered as junior ministers within the government (with no seat in the cabinet), but in other countries they are not considered as members of the government._\n\nSOURCE: [Eurostat](https://ec.europa.eu/eurostat/web/products-datasets/-/sdg_05_50)\nDATA SOURCE: [Eurostat](https://ec.europa.eu/eurostat/web/products-datasets/-/sdg_05_50)",
+  "version": "69b0f0b7-75fe-4509-ac39-f03884329e71",
+  "tags": [
+    "makeover monday",
+    "parliament",
+    "government",
+    "gender",
+    "female",
+    "male",
+    "politics",
+    "ratio",
+    "representation",
+    "country",
+    "countries",
+    "eu",
+    "europe",
+    "eurostat"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Seats Held by Women in Parliament.xlsx",
+      "sizeInBytes": 13614,
+      "created": "2021-02-23T18:02:00.628Z",
+      "updated": "2021-02-23T18:02:00.628Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-02-23T17:54:51.454Z",
+  "updated": "2021-02-28T11:37:31.839Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 18
+  },
+  "similarResources": [],
+  "isProject": false
+}
