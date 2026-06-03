@@ -1,0 +1,97 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w6-global-big-mac-index",
+  "title": "2026/W6 Global Big Mac Index",
+  "description": "The Big Mac Index showcases pricing differences across countries to demonstrate purchasing-power parity across nations.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-47f024f9568a4f88a4c33b8adbfcba2c.png)\n\nData Source: The Economist (https://www.economist.com/interactive/big-mac-index)\n\nData Description: https://github.com/TheEconomist/big-mac-data?tab=readme-ov-file",
+  "version": "ae0f846b-4",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "big-mac-full-index.csv",
+      "sizeInBytes": 282566,
+      "created": "2026-02-09T14:44:11.270909557Z",
+      "updated": "2026-02-09T14:44:11.270909557Z",
+      "createdBy": "mhuff04",
+      "updatedBy": "mhuff04"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-02-09T14:43:55.772517072Z",
+  "updated": "2026-02-09T17:50:54.035388258Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 19
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w31-big-mac-index",
+      "title": "2018/W31: Big Mac Index",
+      "description": "The Economist Big Mac Index",
+      "summary": "# **Original Visualization**\n![](https://www.economist.com/sites/default/files/imagecache/1280-width/images/print-edition/20180120_FNC577_0.png)\n\n# **About this Dataset**\nSOURCE: [The Economist](https://www.economist.com/finance-and-economics/2018/01/20/our-big-mac-index-shows-fundamentals-now-matter-more-in-currency-markets)\n\nMore information about how the index is calculated, where exchange rates came from, etc. available on [github](https://github.com/TheEconomist/big-mac-data).\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economist",
+        "makeover monday",
+        "economy",
+        "mcdonalds",
+        "big mac index",
+        "currency"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w17-2024-eiu-democracy-index",
+      "title": "2026/W17 2024 EIU Democracy Index",
+      "description": "2024 Democracy Index and sub-indicators from the Economist Intelligence Unit.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-b9cdba3cc054479bba117d6f51cc2519.png)\n\nData Source: [OurWorldInData](https://ourworldindata.org/grapher/democracy-index-eiu)\n\nArticle: [The Economist](https://www.eiu.com/n/campaigns/democracy-index-2024/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w20-uk-fuel-prices",
+      "title": "2026/w20 UK Fuel Prices",
+      "description": "UK fuel prices recorded every other week",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-e0788ca0de2846a8a4269498e8ba81fd.png)\n\n​\n\nSource: https://www.rac.co.uk/drive/advice/fuel-watch/\n\nInspired by: https://public.tableau.com/app/profile/joelreed/viz/UK-Fuel-Prices-2013-2026/TheRiseofUKFuelPrices2013-2026",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w2-tallest-rollercoasters",
+      "title": "2026/W1 Tallest Rollercoasters",
+      "description": "A listing of the tallest drop for rollercoasters around the world.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-2c161378eb934b8eb82a03427e8fae7f.png)\n\nArticle: https://www.tripsavvy.com/tallest-roller-coasters-in-the-world-3226411",
+      "tags": [
+        "makeoveronday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w47-global-slavery-index",
+      "title": "2024/W49 Global Slavery Index",
+      "description": "Global Slavery Index 2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-9a76055d6111450eb3341f8c530cbcd3.png)\n\n​\n\nDatasource: [Walk Free](https://www.walkfree.org/global-slavery-index/downloads/)\n\nArticle: [Walk Free](https://www.walkfree.org/global-slavery-index/#:~:text=An%20estimated%2050%20million%20people,10%20million%20people%20since%202016.)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
