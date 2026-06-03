@@ -1,0 +1,65 @@
+{
+  "owner": "makeovermonday",
+  "id": "a-century-of-global-deaths-from-disasters",
+  "title": "Death from Natural Disasters",
+  "description": "How many people die from disasters, and how are these impacts changing over time?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\\*To view the exact chart on the article page, change the \"Disaster Type\" selection in the dropdown\n\n![](https://mediauploads-US.data.world/00000-datainformant-ba4be6f078ac4c7989f2c9b107fd02ad.png)\n\n\n![](https://mediauploads-US.data.world/00000-datainformant-cd544bc4ebfb404d809fa874d0c85fb1.png)\n\n​\n\nLink to article :[Natural Disasters - Our World in Data](https://ourworldindata.org/natural-disasters)\n\nSource: [Natural Disasters - Our World in Data](https://ourworldindata.org/natural-disasters)\n\nNotes on data: Decadal figures are measured as the annual average over the subsequent ten-year period. This means figures for ‘1900’ represent the average from1900 to 1909; ‘1910’ is the average from 1910 to 1919 etc. Data includes disasters recorded up to April 2024.",
+  "version": "cbcddbf1-6",
+  "tags": [
+    "makeover monday",
+    "disaster"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "decadal-deaths-disasters-type.csv",
+      "sizeInBytes": 137085,
+      "created": "2024-06-16T21:48:07.120933304Z",
+      "updated": "2024-06-16T21:48:07.120933304Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-06-16T21:07:14.122311057Z",
+  "updated": "2024-06-16T21:48:07.121663267Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 14
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "coverage-of-the-hpv-vaccine",
+      "title": "2025/ Week 2 Coverage of the HPV Vaccine",
+      "description": "Proportion of the target who received the final dose of (HPV) vaccine (%)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-682c4268932041de92733b7a51fcce07.png)\n\n​\n\nDatasource / Article : [HPV vaccination: How the world can eliminate cervical cancer - Our World in Data](https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer)",
+      "tags": [
+        "makeover monday",
+        "hpv vaccine"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "global-energy-consumption",
+      "title": "Global Energy Consumption",
+      "description": "How much energy does the world consume?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-3692b68c387b47b9a17e79ab31fbde45.png)\n\n​\n\nArticle and Datasource : [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)",
+      "tags": [
+        "energy",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
