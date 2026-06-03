@@ -1,0 +1,45 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w18",
+  "title": "2021/W18: CEO-to-Worker Compensation Ratio",
+  "description": "CEOs make 320 times as much as typical workers at the top 350 U.S. firms ranked by sales",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/NFW3n2ozQbuAohObtu29\\_image.png](https://media.data.world/NFW3n2ozQbuAohObtu29_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Economic Policy Institute](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)\nDATA SOURCE: [Economic Policy Institute | Figure B](https://www.epi.org/publication/ceo-compensation-surged-14-in-2019-to-21-3-million-ceos-now-earn-320-times-as-much-as-a-typical-worker/)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "9b0de063-d22b-4dcd-9220-16fdc0d010d9",
+  "tags": [
+    "makeover monday",
+    "money",
+    "pay",
+    "ceo",
+    "compensation",
+    "business",
+    "ratio",
+    "pay ration",
+    "america",
+    "usa",
+    "united states"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "CEO-Worker Compensation Ratio.xlsx",
+      "sizeInBytes": 10438,
+      "created": "2021-03-12T09:49:33.094Z",
+      "updated": "2021-03-12T09:49:33.094Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-03-12T09:47:50.889Z",
+  "updated": "2021-05-02T08:56:25.538Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [],
+  "isProject": false
+}
