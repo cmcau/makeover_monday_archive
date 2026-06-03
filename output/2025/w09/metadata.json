@@ -1,0 +1,97 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w9-world-population-estimates-projections",
+  "title": "2025/W9 World Population Estimates & Projections",
+  "description": "Population estimates and projections until 2050 by region & country.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-b6f04f1a8d2c493b854f4b911a987e8f.png)\n\nDatasource: [World Bank Group](https://datacatalog.worldbank.org/search/dataset/0037655/Population-Estimates-and-Projections)\n\nArticle: [World Bank Group](https://data.worldbank.org/indicator/SP.POP.GROW?name_desc=false)",
+  "version": "d83c8def-4",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Population Estimates.xlsx",
+      "sizeInBytes": 45343299,
+      "created": "2025-02-23T11:30:15.679944637Z",
+      "updated": "2025-02-23T11:30:15.679944637Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-02-23T11:26:38.493573896Z",
+  "updated": "2025-02-23T11:31:54.711652373Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 3,
+    "columnCount": 119
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w33-access-to-electricity-of-population",
+      "title": "2025/W33 Access to Electricity (% of Population)",
+      "description": "% of population who have access to electricity.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-cfc0a4ebe4c645eeaa81d710095f42ad.png)\n\nDatasource: [World Bank Group](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=map)\n\nArticle: [World Bank Group](https://blogs.worldbank.org/en/voices/How-to-close-Africa-energy-access-gap)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w24-world-crude-steel-production",
+      "title": "2025/W24 World Crude Steel Production",
+      "description": "Major steel-producing countries 2023 and 2024. Measured in million tonnes for crude steel production.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a61be337b34d4b1397feb09a29190414.png)\n\nDatasource: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)\n\nArticle: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "individuals-using-the-internet-of-population",
+      "title": "Individuals using the Internet (% of population)",
+      "description": "This is the proportion of people that use the internet across the world.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-6840b94695034be49e3d5391fbdd9e45.png)\n\n​\n\nDatasource: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)\n\nArticle: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)",
+      "tags": [
+        "makeovermonday",
+        "internet"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w12-precipitation-anomalies",
+      "title": "2025/W12 Precipitation Anomalies",
+      "description": "The difference in a specific year's total precipitation — rain and snow — from the 1991–2020 average, measured in mm.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a2a069a6bf8e4533af0319830e0fc1bc.png)\n\nDatasource: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)\n\nArticle: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w46-aid-worker-security-incidents",
+      "title": "2024/W46 Aid Worker Security Incidents",
+      "description": "Aid Worker Security Incidents 1997-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-e47a4fa89fe74172b4d66b6ce36959e7.png)\n\nDatasource: [Aid Worker Security Database](https://www.aidworkersecurity.org/incidents/search)\n\nArticle: [Aid Worker Security Database](https://humanitarianoutcomes.org/sites/default/files/publications/figures_at_a_glance_2024.pdf)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
