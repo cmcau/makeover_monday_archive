@@ -1,0 +1,138 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w50",
+  "title": "2022/W50: Which country gets the most paid vacation days?",
+  "description": "Which country gets the most paid vacation days?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/170e5d01ea1443c1452df70e9f36774a517f8c0cbb3f133c91b4124d2fddf89d_image.png)\n\n​\n\n## Resources\nData Source: [Resume.io](https://resume.io/blog/which-country-gets-the-most-paid-vacation-days)\nData collected and prepared by: [Yamil Medina](https://twitter.com/VIZMIXER) (please tag him)",
+  "version": "9c2cc6ea-89b6-485d-947f-45d61d171e04",
+  "tags": [
+    "makeover monday",
+    "vacation",
+    "holiday",
+    "country"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "paid leave by country.csv",
+      "sizeInBytes": 3950,
+      "created": "2022-12-08T10:28:29.863158721Z",
+      "updated": "2022-12-08T10:28:29.863158721Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-12-08T10:25:20.362002499Z",
+  "updated": "2022-12-11T16:04:49.141996522Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w52",
+      "title": "2022/W52: Average holiday Spending by Americans",
+      "description": "Average holiday spending over time by gift recipient",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/aa8f7dd2642869b252d010b2bbb930df5937f048b3935acd440c9920e5329b76_image.png)\n\n​\n\n## **Resources**\nData Source: [Exploding Topics](https://explodingtopics.com/blog/christmas-spending-stats)",
+      "tags": [
+        "makeover monday",
+        "holiday",
+        "gifts",
+        "christmas",
+        "americans",
+        "usa",
+        "united states",
+        "spending",
+        "year",
+        "family",
+        "friends",
+        "coworkers"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w8",
+      "title": "2023/W8: The Cheapest Ways to Get Your Protein",
+      "description": "The Cheapest Ways to Get Your Protein",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3db73ff8f29a47292ba311c8b22a01128824a50ed28c88e06d079697861be225_image.png)\n\n​\n\n## **Resources**\nArticle/Data Source: [LifeHacker](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)\n\nVisualization: [The Bodybuilding Dietitians](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)",
+      "tags": [
+        "makeover monday",
+        "food",
+        "protein",
+        "cost"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w26",
+      "title": "2023/W26: Most Pressured to Drink with Workmates",
+      "description": "Which professions in the UK are most likely to feel pressure to drink with workmates?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/06f5cf28ab1b51de68efdcd63119345addc2bc842bdfc365b76ea82c6435b09a_image.jpeg)\n\n# Resources\nOriginal Viz & Data Source: [OnYearNoBeer](https://twitter.com/oynbuk/status/1133642515385655296)\n\n​",
+      "tags": [
+        "makeover monday",
+        "drinking",
+        "alcohol",
+        "work",
+        "workmates",
+        "profession",
+        "uk",
+        "united kingdom"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w24",
+      "title": "2021/W24: Which Schools Create the Most Student Loans?",
+      "description": "Which Schools Create the Most Student Loans in the U.S.?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/onSz7yzSoGXHOYSM1bga_image.png)\n\n​\n\n# Resources\nOriginal Article: [howmuch.net](https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state)\nData Source: Common Origination and Disbursement (COD) System via [howmuch.net](https://howmuch.net/sources/university-with-the-most-student-loan-originations-in-every-state)",
+      "tags": [
+        "makeover monday",
+        "school",
+        "education",
+        "university",
+        "college",
+        "loans",
+        "money",
+        "finance",
+        "debt",
+        "student",
+        "united states",
+        "usa",
+        "state",
+        "city",
+        "zip code",
+        "location"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w36-countries-with-the-most-holidays-2024",
+      "title": "2024/W36 : Countries with the Most Holidays 2024",
+      "description": "Countries with the Most Holidays 2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\ndata from https://worldpopulationreview.com/country-rankings/countries-with-the-most-holidays \n\n\"Most every culture and country in the world celebrates holidays. Holidays take many forms. Some are near-global public holidays such as [New Year's Eve](https://worldpopulationreview.com/country-rankings/which-country-celebrates-new-year-first), and some are celebrated by only a few countries, such as [Cinco de Mayo](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-cinco-de-mayo) and [St. Patrick's Day](https://worldpopulationreview.com/country-rankings/how-many-countries-celebrate-st-patricks-day). Some are strictly religious, such as [Ramadan](https://worldpopulationreview.com/country-rankings/which-countries-celebrate-ramadan), some are strictly secular, such as [Thanksgiving](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-thanksgiving), and some have both spiritual and secular elements, such as the fall and winter holidays ([Halloween](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-halloween), [Dia de los Muertos](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-day-of-the-dead), [Christmas](https://worldpopulationreview.com/country-rankings/countries-that-celebrate-christmas), Hanukkah, [Krampus](https://worldpopulationreview.com/country-rankings/what-countries-celebrate-krampus), and related holidays). But which country celebrates the most holidays of all?\"\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-58e80f6111a449b3bce0d81cfdae684a.png)\n\n",
+      "tags": [
+        "countries",
+        "bank",
+        "holidays"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
