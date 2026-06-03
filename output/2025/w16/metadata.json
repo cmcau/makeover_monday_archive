@@ -1,0 +1,90 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025-week-14-pet-ownership",
+  "title": "2025/ week 14  Pet Ownership",
+  "description": "Pet Ownership",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-6cedc425dfb947368afb4605190d6e3d.webp)\n\ndata: https://nielseniq.com/global/en/insights/report/2016/mans-best-friend-global-pet-ownership-and-feeding-trends/#:\\~:text=More%20than%20half%20of%20people,likely%20to%20own%20a%20pet.",
+  "version": "bd6b6240-4",
+  "tags": [
+    "pet"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "pet_ownership_data_updated.xlsx",
+      "sizeInBytes": 6161,
+      "created": "2025-04-14T00:01:47.055022584Z",
+      "updated": "2025-04-14T00:01:47.055022584Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-04-13T23:50:43.533625680Z",
+  "updated": "2025-04-14T00:01:47.055242600Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w22-where-in-europe-do-men-sit-dow-to-pee",
+      "title": "2025/w22  Where in Europe do men sit dow to pee?",
+      "description": "Where in Europe do men sit dow to pee?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nData source: You Gov\n\narticle:https://www.euronews.com/health/2023/05/18/sitzpinklers-where-in-europe-do-men-sit-down-or-stand-up-to-pee#:\\~:text=Source:%20YouGov,reflect%20in%20a%20quiet%20space\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-f572024d142c4031aae7ae811402505b.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-7-most-popular-valentines-candy-by-state",
+      "title": "2025/ week 7 Most Popular Valentine's Candy by State",
+      "description": "Valentine's Candy",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-09d7604f022b48479df3b0be07996e68.webp)\n\ndata from https://www.candystore.com/blogs/holidays/valentines-candy-popular-states",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-47-lazy-cats",
+      "title": "2025/ week 47   Lazy Cats",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-465a0872822846b3ac4d0ca2db899161.png)\n\nData source: Smit, M.; Corner-Thomas, R.A.; Draganova, I.; Andrews, C.J.; Thomas, D.G. How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households. Sensors 2024, 24, 2623. [https://doi.org/10.3390/s24082623](https://doi.org/10.3390/s24082623).\n\nwebsite: https://lazy-cats.netlify.app/",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-3-current-and-preferred-work-arrangements",
+      "title": "2025/ week 3  Current and Preferred Work Arrangements",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nData source: https://www.datavisualizationsociety.org/\n\n![](https://mediauploads-US.data.world/00000-idiomind-4955803e0f27485686bc93f89896b458.png)\n\n",
+      "tags": [
+        "work",
+        "work arragement",
+        "remote"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-18-global-500-brands-by-sector",
+      "title": "2024/ Week 18 Global 500 brands by sector",
+      "description": "Global 500 2023 The annual report on the world's most valuable and strongest brands",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nLink to Article : https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf\n\nSource: Brand Finance\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-b5275d57063440de8e6bd68163e4bcc8.png)\n\n",
+      "tags": [],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
