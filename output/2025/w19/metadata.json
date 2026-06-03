@@ -1,0 +1,59 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025-w19-asian-restaurants-in-the-us",
+  "title": "2025 W19: Asian Restaurants in the US",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: Pew Research Center analysis of SafeGraph data for all\nopen restaurants in the U.S. (N=787,153) as of March 23, 2023.\n\nArticle: https://www.pewresearch.org/short-reads/2023/05/23/71-of-asian-restaurants-in-the-u-s-serve-chinese-japanese-or-thai-food/\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-29e64c410aa348baadd9f43c8361a01b.png)\n\n",
+  "version": "3588d562-8",
+  "tags": [
+    "restaurant"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": " MakeoverMonday 2025 W19_ Asian Restaurants in the US.xlsx",
+      "sizeInBytes": 6416,
+      "created": "2025-05-04T21:00:09.177525733Z",
+      "updated": "2025-05-04T21:00:09.177525733Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-05-04T20:58:00.007138406Z",
+  "updated": "2025-05-04T21:03:00.925854181Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w18-trump-approval-ratings",
+      "title": "2025/W18 Trump Approval Ratings",
+      "description": "% Who ____ of the way Trump is handling his job as president",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n​\n\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4134dce1a68742e495b184bc6d52b78c.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/trump-100-days-methodology/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/evaluations-of-trump-job-approval-and-confidence-on-issues/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w27-spiritual-religious-beliefs",
+      "title": "2025/W27 Spiritual & Religious Beliefs",
+      "description": "% of adults who have spiritual and religious beliefs. Surveyed across 2023 & 2024.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-910cae67cb1d4300982ec3cb738e6b19.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
