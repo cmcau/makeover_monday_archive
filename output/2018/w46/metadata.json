@@ -1,0 +1,125 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w46",
+  "title": "2018/W46: Diversity in Tech",
+  "description": "Diversity in Tech. Employee breakdown of key technology companies.",
+  "summary": "# **Original Visualization**\n![supporting image or chart](https://infobeautiful4.s3.amazonaws.com/2015/05/1276_Diversity-In-Tech.png)\n\n# **About this Dataset**\nSOURCE: [David McCandless](https://informationisbeautiful.net/visualizations/diversity-in-tech/)\n\nDATA: [company & press reports](http://bit.ly/KIB_DiversityTech)\n- numbers are % of total workforce\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "51f74ec1-e34f-44e9-9baa-4faf286bbcf1",
+  "tags": [
+    "tech sector",
+    "diversity",
+    "silicon valley",
+    "makeover monday",
+    "goverment",
+    "information is beautiful",
+    "david mccandless",
+    "gender",
+    "race"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Employee Diversity in Tech.csv",
+      "sizeInBytes": 13787,
+      "created": "2018-11-10T18:46:33.988Z",
+      "updated": "2018-11-10T18:46:33.988Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-11-10T16:49:33.569Z",
+  "updated": "2018-11-11T12:11:55.718Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 12
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-6-baseball-demographics-1947-2016",
+      "title": "2018/W6: Baseball Demographics (1947-2016)",
+      "description": "Baseball Demographics (1947-2016)",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://sabr.org/sites/default/files/MLB-Demographics-Armour-Levitt-Figure1.png)\n\n# **About this Dataset**\nSOURCE: [Society for American Baseball Research](https://sabr.org/bioproj/topic/baseball-demographics-1947-2012)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "black history month",
+        "diversity",
+        "baseball"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w15-arctic-sea-ice-extent",
+      "title": "2018/W15: Arctic Sea Ice Extent",
+      "description": "Arctic Sea Ice Extent",
+      "summary": "# **Original Visualization**\n![Arctic Sea Ice Extent.png](https://media.data.world/kGQkaedESxureoL4oUcE_Arctic%20Sea%20Ice%20Extent.png)\n\n# **About this Dataset**\nSOURCE: [National Snow & Ice Data Center](https://nsidc.org/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "arctic",
+        "sea ice",
+        "global warming",
+        "ocean",
+        "water",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w14-world-wine-production",
+      "title": "2018/W14: World Wine Production",
+      "description": "World Wine Production",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-04-01 at 4.15.25 pm.png](https://media.data.world/i3Xmig5qTaabFqbfOE09_Screen%20Shot%202018-04-01%20at%204.15.25%20pm.png)\n\n# **About this Dataset**\nSOURCE: [International Organisation of Vine and Wine](http://www.oiv.int/public/medias/5287/oiv-noteconjmars2017-en.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "wine data",
+        "world wine production",
+        "data visualization",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w45",
+      "title": "2018/W45: US Population Projections by Age Group, 2016-2060",
+      "description": "US Population Projections by Age Group, 2016-2060",
+      "summary": "# **Original Visualization**\n![Image](https://www.census.gov/content/census/en/library/visualizations/2018/comm/historic-first/jcr:content/map.detailitem.800.high.jpg/1520945944549.jpg)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [United States Census Bureau](https://www.census.gov/library/visualizations/2018/comm/historic-first.html)\n* SOURCE: [United States Census Bureau](https://www.census.gov/data/datasets/2017/demo/popproj/2017-popproj.html)\n* ADDITIONAL INFORMATION: [Data Fields](https://www2.census.gov/programs-surveys/popproj/technical-documentation/file-layouts/2017/np2017_d1.pdf)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "race",
+        "population",
+        "projection",
+        "united states",
+        "usa",
+        "age"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
