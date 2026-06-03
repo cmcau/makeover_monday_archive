@@ -1,0 +1,94 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025-week-1-technological-change",
+  "title": "2025/ week 1 Technological change",
+  "description": "Storage",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\ndata: ourworld in data\n\nhttps://ourworldindata.org/technological-change\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-8ee90da5ba6149fbbcb466693866609f.png)\n\n",
+  "version": "d9ac71c3-4",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "historical-cost-of-computer-memory-and-storage.csv",
+      "sizeInBytes": 2797,
+      "created": "2024-12-30T12:41:26.301143902Z",
+      "updated": "2024-12-30T12:41:26.301143902Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-12-30T12:41:08.832179534Z",
+  "updated": "2024-12-30T12:42:41.882601937Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w39-literacy-rate",
+      "title": "2024/w39 Literacy rate",
+      "description": "\"Global literacy today  Of the world population older than 15 years, the majority are literate. \" Ourworldindata",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-8d7db5e23f4c4aedab96608cecf855f7.png)\n\nArticle : [https://ourworldindata.org/literacy](https://ourworldindata.org/literacy)\n\n**Data source:** World Bank (2023); Various sources (2018) – Learn more about this data",
+      "tags": [
+        "literacy rates"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-3-current-and-preferred-work-arrangements",
+      "title": "2025/ week 3  Current and Preferred Work Arrangements",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nData source: https://www.datavisualizationsociety.org/\n\n![](https://mediauploads-US.data.world/00000-idiomind-4955803e0f27485686bc93f89896b458.png)\n\n",
+      "tags": [
+        "work",
+        "work arragement",
+        "remote"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "week-44-2025-wwii-veteran-statistics",
+      "title": "week 44/ 2025 WWII Veteran Statistics",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-ec267b8a9f62466bbfef195764b30b13.png)\n\ndatasource: [https://www.nationalww2museum.org/war/wwii-veteran-statistics](https://www.nationalww2museum.org/war/wwii-veteran-statistics)",
+      "tags": [
+        "veteran"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "week-27-what-to-watch-in-2024-energy",
+      "title": "Week 27 / The history of global natural gas production",
+      "description": "The history of global natural gas production",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle: [https://visualizingenergy.org/the-history-of-global-natural-gas-produ](https://visualizingenergy.org/the-history-of-global-natural-gas-production/)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Post your alternative on the discussions page.\n​\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-28e63c3b134d4aedaceddafd5d69ab22.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-077110330bc04007ae7c7db50ab1fce5.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "meat-production-by-livestock-type",
+      "title": "2025 / Week 35 Meat Production by Livestock Type",
+      "description": "Global meat production by livestock type",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-f893942214d7454ea941573510dd5cac.png)\n\n​\n\n​\n\nDatasource + Article: [Meat and Dairy Production - Our World in Data](https://ourworldindata.org/meat-production)",
+      "tags": [
+        "meat",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
