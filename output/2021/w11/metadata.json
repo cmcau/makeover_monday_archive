@@ -1,0 +1,52 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w11",
+  "title": "2021/W11: What is the World's Biggest Cash Crop?",
+  "description": "From 1961-2019, which crops per region were most harvested, produced the most yield, and produced the most quantity?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/](https://infobeautiful4.s3.amazonaws.com/2014/11/2552_IIB_Cash-Crops.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Information Is Beautiful](https://www.informationisbeautiful.net/visualizations/what-is-the-worlds-biggest-cash-crop/)\nDATA SOURCE: [FAOSTAT](http://www.fao.org/faostat/en/#data/QC)\n\n​\n\n# **Objectives**\n\n* What works and what could be improved with this chart?\n* How can you make it better?",
+  "version": "59ef5af2-bf7d-4048-81d7-8399ffdede1b",
+  "tags": [
+    "makeover monday",
+    "faostat",
+    "stats",
+    "crops",
+    "yield",
+    "production",
+    "quantity",
+    "food",
+    "grains",
+    "world",
+    "region"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Harvested Crops Summary.csv",
+      "sizeInBytes": 1249972,
+      "created": "2021-03-15T11:14:34.047Z",
+      "updated": "2021-03-15T11:14:34.047Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Harvested Crops.csv",
+      "sizeInBytes": 16065927,
+      "created": "2021-03-12T09:54:56.316Z",
+      "updated": "2021-03-12T09:54:56.316Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-02-14T11:02:44.191Z",
+  "updated": "2021-03-15T11:14:34.048Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 2,
+    "columnCount": 15
+  },
+  "similarResources": [],
+  "isProject": false
+}
