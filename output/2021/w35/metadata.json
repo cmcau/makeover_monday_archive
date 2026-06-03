@@ -1,0 +1,43 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w35",
+  "title": "2021/W35: Estimation of global  male circumcision",
+  "description": "Estimation of country-level and global  prevalence of male circumcision",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n​\n\n![](https://mediauploads.data.world/9e23df1322888ee64f146e95209b842a3e7313119be226a77aff8f287ffd4af4_ij5bedwq52j71.png)\n\n​\n\n# Resources\nOriginal viz: [Reddit](https://www.reddit.com/r/MapPorn/comments/p9umhy/percentage_of_males_who_are_circumcised_in_each/)\nData Source & Citation:\nMorris, B.J., Wamai, R.G., Henebeng, E.B. _et al._ Estimation of country-specific and global prevalence of male circumcision. _Population Health Metrics_ **14,** 4 (2016). [https://doi.org/10.1186/s12963-016-0073-5](https://doi.org/10.1186/s12963-016-0073-5)",
+  "version": "c0be27a2-4e7a-4f18-817b-b8446b888ae2",
+  "tags": [
+    "makeover monday",
+    "male",
+    "gender",
+    "religion",
+    "culture",
+    "circumcision",
+    "global",
+    "country",
+    "estimate"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Male Circumcision.xlsx",
+      "sizeInBytes": 36568,
+      "created": "2021-08-30T08:06:27.451Z",
+      "updated": "2021-08-30T08:06:27.451Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-08-30T08:06:18.182Z",
+  "updated": "2021-08-30T08:11:51.518Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 10
+  },
+  "similarResources": [],
+  "isProject": false
+}
