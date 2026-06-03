@@ -1,0 +1,48 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024-week-15-uk-unemployment-rate",
+  "title": "2024/W15 UK Unemployment rate",
+  "description": "UK unemployment has fallen to the lowest levels since the mid-1970s",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nArticle : [Guardian](https://www.theguardian.com/uk-news/2024/mar/02/conservatives-economic-record-budget-deficit-gdp-tax-tory-budget?utm%5C_term=65e2ce75a55372f1c9bb099f713159bd&utm%5C_campaign=GuardianTodayUK&utm%5C_source=esp&utm%5C_medium=Email&CMP=GTUK%5C_email)\n\nData: [ONS](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-ac6cccc3e84840ff8f6ed59dc5231cae.png)\n\n",
+  "version": "e2eed63d-8",
+  "tags": [
+    "unemployment uk"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Unemployment rate (aged 16 and over, seasonally adjusted)_ % - Unemployment rate (aged 16 and over, seasonally adjusted)_ %.csv",
+      "sizeInBytes": 549,
+      "created": "2024-04-07T17:48:59.462968784Z",
+      "updated": "2024-04-07T17:48:59.462968784Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-04-07T17:45:34.293948426Z",
+  "updated": "2024-04-07T18:01:28.622741730Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-34-unemployment-rate",
+      "title": "2025/ week 34 Unemployment Rate",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource: ONS UK [https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms)?\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-9ec3852f438d41e18a84bd86f1ae0903.png)\n\n",
+      "tags": [
+        "unemployement"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
