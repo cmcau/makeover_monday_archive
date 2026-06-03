@@ -1,0 +1,71 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w6-world-population-2023",
+  "title": "2024/W6: World Population 2023",
+  "description": "World population data ( 2023 )",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n​\n\n​\n\n![](https://mediauploads-US.data.world/uploaded%2F00000-c15f7ea36d8d4785a0a375b4c1b9adfc.png)\n\nThis list includes both **countries** and **dependent territories**. Data based on the latest _United Nations Population Division_ estimates.\nClick on the name of the country or dependency for current estimates (live population clock), historical data, and projected figures.\n\nArticle: https://www.worldometers.info/world-population/population-by-country/\n\nSource: _July 2023-July 2024 estimates from the_ [2022 U.N. Revision](https://population.un.org/wpp/)\n\n​",
+  "version": "23a7b6d4-13",
+  "tags": [
+    "population"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Global Population 2023 - Global Population-3.csv",
+      "sizeInBytes": 17330,
+      "created": "2024-02-07T20:07:31.054844773Z",
+      "updated": "2024-02-07T20:07:31.054844773Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-02-04T18:34:08.907339209Z",
+  "updated": "2024-02-07T20:07:31.055127498Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 12
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "individuals-using-the-internet-of-population",
+      "title": "Individuals using the Internet (% of population)",
+      "description": "This is the proportion of people that use the internet across the world.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-6840b94695034be49e3d5391fbdd9e45.png)\n\n​\n\nDatasource: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)\n\nArticle: [Individuals using the Internet (% of population) | Data](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2023&start=2023&view=map&year=2023)",
+      "tags": [
+        "makeovermonday",
+        "internet"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w16-airhelp-global-airport-rankings",
+      "title": "2024/W17 AirHelp Global Airport Rankings",
+      "description": "2023 AirHelp scores for 194 of the worlds busiest airports.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4aeac604d4974dc38557f604f53aa62d.png)\n\n​\n\nDatasource : [AirHelp](https://www.airhelp.com/en-gb/blog/airhelp-score-2023-how-did-we-rank-the-airports/)\n\nArticle : [Global Airport Ranking](https://www.airhelp.com/en-gb/airhelp-score/airport-ranking/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-4-world-happiness-report-2024",
+      "title": "2025/ week 5 World Happiness Report 2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-460999bb6c154d24ab96d44c38727598.png)\n\n# **About this Dataset**\n**ARTICLE:** [Happiness of the younger, the older, and those in between | The World Happiness Report](https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)\n**DATA SOURCE:** [World Happiness Report Data Dashboard | The World Happiness Report](https://worldhappiness.report/data/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* Post your alternative on Linkedin/X/Discussions Page",
+      "tags": [],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
