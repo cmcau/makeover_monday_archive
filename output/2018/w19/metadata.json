@@ -1,0 +1,125 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w19-toughest-sport-by-skill",
+  "title": "2018/W19: Toughest Sport by Skill",
+  "description": "Toughest Sport by Skill",
+  "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+  "version": "b7e372f2-69e8-4f92-801c-112c7e4d7a3f",
+  "tags": [
+    "sports",
+    "espn",
+    "skill",
+    "makeover monday",
+    "rating",
+    "survey"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Toughest Sport by Skill.xlsx",
+      "sizeInBytes": 13109,
+      "created": "2018-05-05T20:46:30.874Z",
+      "updated": "2018-05-05T20:46:30.874Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-05-05T20:46:30.636Z",
+  "updated": "2018-05-06T07:38:24.475Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 13
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w43-what-will-a-beer-cost-you-at-every-major-league-ba",
+      "title": "2018/W43: The cost of a beer at MLB stadiums",
+      "description": "What will a beer cost you at every Major League Baseball stadium?",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-10-17 at 8.15.36 pm.png](https://media.data.world/f4ft32PQCGRBTGWezGS7_Screen%20Shot%202018-10-17%20at%208.15.36%20pm.png)\n\n# **About this Dataset**\n* ORIGINAL VISUALIZATION: [VizWiz](https://www.vizwiz.com/2014/04/makeover-monday-what-beer-will-cost-you.html)\n* SOURCE: [Team Marketing Report](https://www.teammarketing.com/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "beer",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "team marketing report",
+        "alcohol",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w7-the-winter-olympics",
+      "title": "2018/W7: The Winter Olympics",
+      "description": "Winter Olympics Medals by Year, Country, Event and Gender",
+      "summary": "# **Original Visualization**\n![The Winter Olympics.png](https://media.data.world/6BToE9TgauNf6eJC3vrw_The%20Winter%20Olympics.png)\n\nINTERACTIVE VERSION:\n [Tableau Public](https://public.tableau.com/views/TheWinterOlympics/TheWinterOlympics?:embed=y&:showVizHome=no)\n\nDESIGNED BY: [Rody Zakovich](https://twitter.com/RodyZakovich)\n\n# **About this Dataset**\nSOURCE: [Sports-Reference.com](http://Sports-Reference.com)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "winter olympics",
+        "rody zakovich",
+        "sports",
+        "demographics",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w2",
+      "title": "2019/W2: Press Freedom's Dark Horizon",
+      "description": "How free is press around the world?",
+      "summary": "# **Original Visualization**\n![image.png](https://media.data.world/KAmTgZxtR8axjhZmRae5_image.png)\n\n# **About this Dataset**\nARTICLE: [Freedom House](https://freedomhouse.org/report/freedom-press/freedom-press-2017)\n\nDATA SOURCE: [Freedom House](https://freedomhouse.org/sites/default/files/FOTP1980-FOTP2017_Public-Data.xlsx)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\nUnder the edit window, click on *Preview* to see what your post will look like. You can also edit your post later on (instead of posting a new comment)",
+      "tags": [
+        "makeover monday",
+        "press",
+        "freedom",
+        "liberty",
+        "survey",
+        "freedom house",
+        "rating",
+        "score"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w14-world-wine-production",
+      "title": "2018/W14: World Wine Production",
+      "description": "World Wine Production",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-04-01 at 4.15.25 pm.png](https://media.data.world/i3Xmig5qTaabFqbfOE09_Screen%20Shot%202018-04-01%20at%204.15.25%20pm.png)\n\n# **About this Dataset**\nSOURCE: [International Organisation of Vine and Wine](http://www.oiv.int/public/medias/5287/oiv-noteconjmars2017-en.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "wine data",
+        "world wine production",
+        "data visualization",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w1",
+      "title": "2019/W1: NHL Attendance",
+      "description": "NHL attendance continues to grow",
+      "summary": "# **Original Visualization**\n![nhl-attendance-thru-feb-9th.png](https://media.data.world/zTzWrGuNQOtMRyojL11Y_nhl-attendance-thru-feb-9th.png)\n\n# **About this Dataset**\nARTICLE: [NHL to Seattle](https://nhltoseattle.com/2013/02/10/nhl-attendance-through-feb-9th/)\n\nDATA SOURCE: [ESPN](http://www.espn.com/nhl/attendance/_/year/2018)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n",
+      "tags": [
+        "makeover monday",
+        "sports",
+        "nhl",
+        "hockey",
+        "attendance"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
