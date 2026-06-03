@@ -1,0 +1,132 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w15",
+  "title": "2019/W15: Ranking States by Fiscal Condition",
+  "description": "How well can States meet short-term and long-term bills by examining their financial statements?",
+  "summary": "# **Original Visualization**\n![https://www.mercatus.org/sites/default/files/norcross-fiscal-rankings-map-mercatus-v1\\_copy\\_0.png](https://www.mercatus.org/sites/default/files/norcross-fiscal-rankings-map-mercatus-v1_copy_0.png)\n\n# **About this Dataset**\nSOURCE: [Mercatus Center](https://www.mercatus.org/statefiscalrankings)\n\nADDITIONAL INFORMATION: [2018 Report](https://www.mercatus.org/system/files/norcross-fiscal-rankings-2018-mercatus-research-v1.pdf)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "f376c551-8d2d-435b-aab2-e0e476d68fb8",
+  "tags": [
+    "makeover monday",
+    "united states",
+    "fiscal",
+    "economy",
+    "debt",
+    "ranking"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "State Fiscal Rankings.xlsx",
+      "sizeInBytes": 305321,
+      "created": "2019-04-03T13:34:58.019Z",
+      "updated": "2019-04-03T13:34:58.019Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-04-03T13:34:47.879Z",
+  "updated": "2019-04-07T10:47:24.537Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 41
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w31-big-mac-index",
+      "title": "2018/W31: Big Mac Index",
+      "description": "The Economist Big Mac Index",
+      "summary": "# **Original Visualization**\n![](https://www.economist.com/sites/default/files/imagecache/1280-width/images/print-edition/20180120_FNC577_0.png)\n\n# **About this Dataset**\nSOURCE: [The Economist](https://www.economist.com/finance-and-economics/2018/01/20/our-big-mac-index-shows-fundamentals-now-matter-more-in-currency-markets)\n\nMore information about how the index is calculated, where exchange rates came from, etc. available on [github](https://github.com/TheEconomist/big-mac-data).\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economist",
+        "makeover monday",
+        "economy",
+        "mcdonalds",
+        "big mac index",
+        "currency"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w17",
+      "title": "2019/W17: Stephen Curry's Stadium Popcorn Rankings",
+      "description": "Which NBA stadium has Stephen Curry's favorite popcorn?",
+      "summary": "# **Original Visualization**\n![https://media.data.world/6IuF6gR9S8KeJDBotSCe\\_Screenshot%202019-04-20%20at%202.32.24%20pm.png](https://media.data.world/6IuF6gR9S8KeJDBotSCe_Screenshot%202019-04-20%20at%202.32.24%20pm.png)\n\n# **About this Dataset**\nSOURCE: [New York Times](https://www.nytimes.com/interactive/2019/04/12/sports/basketball/stephen-curry-warriors-popcorn.html)\nDATA SOURCE: [Stephen Curry](https://twitter.com/StephenCurry30)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "basketball",
+        "nba",
+        "stephen curry",
+        "popcorn",
+        "stadium",
+        "ranking"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w2",
+      "title": "2019/W2: Press Freedom's Dark Horizon",
+      "description": "How free is press around the world?",
+      "summary": "# **Original Visualization**\n![image.png](https://media.data.world/KAmTgZxtR8axjhZmRae5_image.png)\n\n# **About this Dataset**\nARTICLE: [Freedom House](https://freedomhouse.org/report/freedom-press/freedom-press-2017)\n\nDATA SOURCE: [Freedom House](https://freedomhouse.org/sites/default/files/FOTP1980-FOTP2017_Public-Data.xlsx)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\nUnder the edit window, click on *Preview* to see what your post will look like. You can also edit your post later on (instead of posting a new comment)",
+      "tags": [
+        "makeover monday",
+        "press",
+        "freedom",
+        "liberty",
+        "survey",
+        "freedom house",
+        "rating",
+        "score"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w3",
+      "title": "2019/W3: How many people earned the Federal minimum wage?",
+      "description": "According to the Bureau of Labor Statistics, how many people earned the Federal minimum wage or less in each State?",
+      "summary": "# **Original Visualization**\n![5bb3904393032c18c75259b4-1136-852.png](https://media.data.world/Q36ZvvbuS5CiLSOpKI76_5bb3904393032c18c75259b4-1136-852.png)\n\n# **About this Dataset**\nARTICLE: [Business Insider](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T)\n\nSOURCE: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2017/home.htm)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? ",
+      "tags": [
+        "makeover monday",
+        "united states",
+        "usa",
+        "wages",
+        "minimum wage",
+        "bls",
+        "labor statistics",
+        "bureau",
+        "state"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w5",
+      "title": "2019/W5: Digital Economy and Society Index (DESI)",
+      "description": "DESI is a composite index that summarises relevant indicators on Europe’s digital performance.",
+      "summary": "\n# **Original Visualization**\n![original](https://ec.europa.eu/digital-single-market/sites/digital-agenda/files/desi2018_correction.png)\n\n# **About this Dataset**\nSOURCE: [European Commission](https://ec.europa.eu/digital-single-market/en/desi)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "europe",
+        "desi",
+        "society",
+        "index",
+        "economy",
+        "digital",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
