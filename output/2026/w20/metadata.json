@@ -1,0 +1,94 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w20-uk-fuel-prices",
+  "title": "2026/w20 UK Fuel Prices",
+  "description": "UK fuel prices recorded every other week",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-e0788ca0de2846a8a4269498e8ba81fd.png)\n\n​\n\nSource: https://www.rac.co.uk/drive/advice/fuel-watch/\n\nInspired by: https://public.tableau.com/app/profile/joelreed/viz/UK-Fuel-Prices-2013-2026/TheRiseofUKFuelPrices2013-2026",
+  "version": "73a916a0-4",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "UK Fuel Prices (2013-2026).xlsx",
+      "sizeInBytes": 19125,
+      "created": "2026-05-18T13:22:49.633986698Z",
+      "updated": "2026-05-18T13:22:49.633986698Z",
+      "createdBy": "mhuff04",
+      "updatedBy": "mhuff04"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-05-18T13:22:36.702858690Z",
+  "updated": "2026-05-18T13:27:08.840023953Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w17-weekly-road-fuel-prices",
+      "title": "2020/W17: Weekly road fuel prices",
+      "description": "Weekly road fuel prices",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![​](https://www.naturallyhealthylife.co.uk/wp-content/uploads/2018/06/1529108260_120_7-simple-steps-to-save-yourself-fuel-money-at-the-petrol-pump.jpg)  \n\n# **About this Dataset**\nSOURCE ARTICLE: [RAC Foundation](https://www.racfoundation.org/data/uk-pump-prices-over-time)\nDATA SOURCE: [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/statistical-data-sets/oil-and-petroleum-products-weekly-statistics)  \n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better?\n* Take care with the data source! Choose the right tab in the source file and use Data Interpreter if using Tableau to clean things up",
+      "tags": [
+        "fuel",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w6-global-big-mac-index",
+      "title": "2026/W6 Global Big Mac Index",
+      "description": "The Big Mac Index showcases pricing differences across countries to demonstrate purchasing-power parity across nations.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-mhuff04-47f024f9568a4f88a4c33b8adbfcba2c.png)\n\nData Source: The Economist (https://www.economist.com/interactive/big-mac-index)\n\nData Description: https://github.com/TheEconomist/big-mac-data?tab=readme-ov-file",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-10-river-water-quality",
+      "title": "2025/ week 10   River Water Quality",
+      "description": "Can we use weather, river flow and water quality data to better understand the forces that impact wate",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n**Problem Statement**\n\nCan we use weather, river flow and water quality data to better understand the forces that impact water in London at Fulham Reach Boat Club, located at Hammersmith Bridge.\n\n**Future Goal**\n\nWith better understanding can we get better at predicting when water quality will be poor, this would be advantageous as we only have capacity to test once a week and the results of E.Coli testing takes a day to process.\n\ndata from [Fulham Reach Boat Club (FRBC)](https://data.world/makeovermonday/2025-week-10-river-water-quality/workspace/file?filename=_Makeover+Monday+with+Fulham+Reach+Boat+Club.docx.pdf)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-685420f6461f41b2a92442b873974ba1.png)\n\nVisualisation: [https://public.tableau.com/app/profile/fulham.reach.boat.club/viz/FRBCFreshWaterWatch\\\\\\_17116616886720/eColi](https://public.tableau.com/app/profile/fulham.reach.boat.club/viz/FRBCFreshWaterWatch%5C_17116616886720/eColi)",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "gains-in-commodity-prices",
+      "title": "Gains in Commodity Prices",
+      "description": "Changes in the price of different commodities",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-60b1ca19e8ab433e841c7944db20d581.png)\n\n​\n\nDatasource : [Commodity prices post modest gains in October—Pink Sheet](https://blogs.worldbank.org/en/opendata/commodity-prices-post-modest-gains-in-october-pink-sheet)\n\n**Notes:  \n**While the visualization above shows month over month change in commodity prices from September to October, the data provides yearly data for commodities, and provides the ability to analyze year over year changes.\n\nUnits:\n\n\n* **$/bbl**: Price in US dollars per barrel. A barrel is a standard unit of measure for crude oil and other liquid fuels.\n* **$/mmbtu**: Price in US dollars per million British thermal units. A unit of energy commonly used for natural gas.\n* **$/kg**: Price in US dollars per kilogram. Frequently used for agricultural products like cocoa, coffee, and tea.\n* **$/toz**: Price in US dollars per troy ounce. A unit of weight used for precious metals like gold, silver, and platinum\n* **$/mt**: Price in US dollars per metric ton. Commonly used for bulk commodities like coal, metals, and grains.",
+      "tags": [
+        "makeovermonday",
+        "commodities",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026wk-8-the-periodic-table-of-ai-startups",
+      "title": "2026/WK 8 The Periodic Table of AI Startups",
+      "description": "14 categories of AI companies founded/funded Feb 2025-Feb 2026",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-e9aab82b6a0043d68a707a82bd37fc84.png)\n\n​\n\nDatasource & Article :  [The Periodic Table of AI Startups – 14 categories of AI companies founded/funded Feb 2025-Feb 2026 - Voronoi](https://www.voronoiapp.com/investing/The-Periodic-Table-of-AI-Startups--14-categories-of-AI-companies-foundedfunded-Feb-2025-Feb-2026-7663)",
+      "tags": [
+        "ai",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
