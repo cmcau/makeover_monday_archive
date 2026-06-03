@@ -1,0 +1,110 @@
+{
+  "owner": "makeovermonday",
+  "id": "week-27-what-to-watch-in-2024-energy",
+  "title": "Week 27 / The history of global natural gas production",
+  "description": "The history of global natural gas production",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\narticle: [https://visualizingenergy.org/the-history-of-global-natural-gas-produ](https://visualizingenergy.org/the-history-of-global-natural-gas-production/)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Post your alternative on the discussions page.\n​\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-28e63c3b134d4aedaceddafd5d69ab22.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-077110330bc04007ae7c7db50ab1fce5.png)\n\n",
+  "version": "1d94a492-20",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "The history of global natural gas production.xlsx",
+      "sizeInBytes": 82689,
+      "created": "2024-06-30T19:05:29.241973810Z",
+      "updated": "2024-06-30T19:05:29.241973810Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-06-30T18:15:19.398447691Z",
+  "updated": "2024-06-30T19:05:29.270322731Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 105
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-4-world-happiness-report-2024",
+      "title": "2025/ week 5 World Happiness Report 2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-460999bb6c154d24ab96d44c38727598.png)\n\n# **About this Dataset**\n**ARTICLE:** [Happiness of the younger, the older, and those in between | The World Happiness Report](https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)\n**DATA SOURCE:** [World Happiness Report Data Dashboard | The World Happiness Report](https://worldhappiness.report/data/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* Post your alternative on Linkedin/X/Discussions Page",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w50",
+      "title": "2018/W50: Land use by food type",
+      "description": "Land use by food type",
+      "summary": "# **Original Visualization**\n![land-use-per-gram-of-protein-by-food-type.png](https://media.data.world/Xl841BpwR5iZ3LYd2KUs_land-use-per-gram-of-protein-by-food-type.png)\n\n# **About this Dataset**\nSOURCE: [Our World in Data](https://ourworldindata.org/yields-and-land-use-in-agriculture#land-use-by-food-type)\n\nFULL ARTICLE: [IOP Science](http://iopscience.iop.org/article/10.1088/1748-9326/aa6cd5)\n\nDATA SOURCE: [Our World in Data](https://ourworldindata.org/700a146d-726a-489c-9fd0-94b6b481f523)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "bar chart",
+        "land usage",
+        "farming",
+        "protein inefficiencies",
+        "meat",
+        "plant based diet"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w9-world-economic-freedom",
+      "title": "2018/W9: World Economic Freedom",
+      "description": "World Economic Freedom: 1970-2015",
+      "summary": "![MM9 2018.png](https://media.data.world/A8V9pbrTSZqxLUYwLg9n_MM9%202018.png)\n\n# **About this Dataset**\nSOURCE: [Fraser Institute](https://www.fraserinstitute.org/economic-freedom/dataset)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "economics",
+        "fraser institute",
+        "makeover monday",
+        "filled map"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w15-arctic-sea-ice-extent",
+      "title": "2018/W15: Arctic Sea Ice Extent",
+      "description": "Arctic Sea Ice Extent",
+      "summary": "# **Original Visualization**\n![Arctic Sea Ice Extent.png](https://media.data.world/kGQkaedESxureoL4oUcE_Arctic%20Sea%20Ice%20Extent.png)\n\n# **About this Dataset**\nSOURCE: [National Snow & Ice Data Center](https://nsidc.org/)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "makeover monday",
+        "arctic",
+        "sea ice",
+        "global warming",
+        "ocean",
+        "water",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
