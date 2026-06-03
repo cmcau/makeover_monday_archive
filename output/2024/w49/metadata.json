@@ -1,0 +1,96 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024w47-global-slavery-index",
+  "title": "2024/W49 Global Slavery Index",
+  "description": "Global Slavery Index 2023",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-9a76055d6111450eb3341f8c530cbcd3.png)\n\n​\n\nDatasource: [Walk Free](https://www.walkfree.org/global-slavery-index/downloads/)\n\nArticle: [Walk Free](https://www.walkfree.org/global-slavery-index/#:~:text=An%20estimated%2050%20million%20people,10%20million%20people%20since%202016.)",
+  "version": "8f0329a1-6",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "MM W49 - Global Slavery Index 2023.xlsx",
+      "sizeInBytes": 126195,
+      "created": "2024-12-01T17:10:49.978566666Z",
+      "updated": "2024-12-01T17:10:49.978566666Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-12-01T17:03:56.552289247Z",
+  "updated": "2024-12-01T17:11:49.760069538Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 17
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w16-airhelp-global-airport-rankings",
+      "title": "2024/W17 AirHelp Global Airport Rankings",
+      "description": "2023 AirHelp scores for 194 of the worlds busiest airports.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4aeac604d4974dc38557f604f53aa62d.png)\n\n​\n\nDatasource : [AirHelp](https://www.airhelp.com/en-gb/blog/airhelp-score-2023-how-did-we-rank-the-airports/)\n\nArticle : [Global Airport Ranking](https://www.airhelp.com/en-gb/airhelp-score/airport-ranking/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w24-world-crude-steel-production",
+      "title": "2025/W24 World Crude Steel Production",
+      "description": "Major steel-producing countries 2023 and 2024. Measured in million tonnes for crude steel production.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a61be337b34d4b1397feb09a29190414.png)\n\nDatasource: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)\n\nArticle: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w27-spiritual-religious-beliefs",
+      "title": "2025/W27 Spiritual & Religious Beliefs",
+      "description": "% of adults who have spiritual and religious beliefs. Surveyed across 2023 & 2024.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-910cae67cb1d4300982ec3cb738e6b19.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "paris-2024-medal-cout",
+      "title": "2024/W35 Paris 2024 Medal Count",
+      "description": "Paris 2024 Olympic medal count by country, sport & sporting event",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-367ed83c71394f1fb94123556a946b57.png)\n\n​\n\nDatasource: [Olympics](https://olympics.com/en/paris-2024/medals)\n\nArticle: [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w45-terrorism-and-political-violence-in-the-usa",
+      "title": "2025/W45 Terrorism and Political Violence in the USA",
+      "description": "Terrorist Attacks and Plots in the United States by Perpetrator Orientation, 1994–2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-62974e0766a147a9b13584023f573923.png)\n\nDatasource: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us#h2-appendix-what-is-excluded-)\n\nArticle: [CSIS](https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
