@@ -1,0 +1,120 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w18",
+  "title": "2019/W18: Space Station Spacewalks",
+  "description": "There have been 216 spacewalks at the International Space Station since December 1998.",
+  "summary": "# **Original Visualization**\n![supporting image or chart](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/eva_infographics_216.jpg?itok=n6TILRap)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Space Station Spacewalks](https://www.nasa.gov/mission_pages/station/spacewalks/)\nDATA SOURCE: [NASA](https://www.nasa.gov/mission_pages/station/spacewalks/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "a6d30bc6-794d-40c8-b21a-0fa5ffa2f5d7",
+  "tags": [
+    "nasa",
+    "spacewalks",
+    "bar chart"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Spacewalks.xls",
+      "sizeInBytes": 67072,
+      "created": "2019-04-28T14:07:31.198Z",
+      "updated": "2019-04-28T14:07:31.198Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-04-27T20:24:06.649Z",
+  "updated": "2019-04-28T14:07:31.199Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 0,
+    "columnCount": 0
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w48",
+      "title": "2018/W48: The cost of a night out",
+      "description": "The cost of a night out",
+      "summary": "# **Original Visualization**\n![supporting image](https://infographic.statista.com/normal/chartoftheday_14081_the_price_of_a_party_around_the_world_n.jpg)\n\n# **About this Dataset**\nARTICLE: [Thrillist](https://www.thrillist.com/news/nation/cost-of-a-night-out-cities-around-the-world#)\n\nDATA SOURCE: [Statista](https://www.statista.com/chart/14081/the-price-of-a-party-around-the-world/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "entertainment",
+        "bar chart",
+        "stacked bar chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w19",
+      "title": "2019/W19: Major League Baseball Most Cost Effective Batters",
+      "description": "Data only includes players with salary data",
+      "summary": "# **Original Visualization**\n![https://thumbnails-visually.netdna-ssl.com/MLBHittingStats2013\\_57e4bee0f2257\\_w1500.jpg](https://thumbnails-visually.netdna-ssl.com/MLBHittingStats2013_57e4bee0f2257_w1500.jpg)\n\n# **About this Dataset**\nOriginal Source: [visual.ly](https://visual.ly/community/infographic/sports/mlb-hitting-stats-2013)\nData Source: [Lahman’s Baseball Database](http://www.seanlahman.com/baseball-archive/statistics)\nCommonly Baseball Used Stats: [Baseball Reference](https://www.baseball-reference.com/bullpen/Baseball_statistics)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "baseball",
+        "mlb",
+        "major league baseball",
+        "lahman",
+        "baseball reference",
+        "stats",
+        "statistics",
+        "sports"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w26",
+      "title": "2019/W26: Alcohol Consumption by Country",
+      "description": "Alcohol Consumption by Country",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![chart (1).png](https://media.data.world/JMDbwapcRRihNV0ikOIN_chart%20(1).png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\nDATA SOURCE: [World Atlas](https://www.worldatlas.com/articles/who-drinks-the-most-alcohol-consumption-by-country.html)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n\n",
+      "tags": [
+        "alcohol",
+        "bar chart",
+        "world atlas"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w6",
+      "title": "2019/W6: How Chinese New Year Compares With Thanksgiving",
+      "description": "How Chinese New Year Compares With Thanksgiving",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://infographic.statista.com/normal/chartoftheday_3246_How_Chinese_New_Year_Compares_With_Thanksgiving_n.jpg)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/chart/3246/how-chinese-new-year-compares-with-thanksgiving/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "chinese new year",
+        "consumer spending",
+        "thanksgiving",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w47",
+      "title": "2019/W47: Smartphone Ownership Among Youth Is on the Rise",
+      "description": "Smartphone Ownership Among Youth Is on the Rise",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://morningbrew-oslo.s3.us-west-2.amazonaws.com/1572378011.jpg](https://morningbrew-oslo.s3.us-west-2.amazonaws.com/1572378011.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Morning Brew](https://www.morningbrew.com/daily/stories/2019/10/29/smartphone-ownership-among-youth-rise)\nDATA SOURCE: [Common Sense (page  27)](https://www.commonsensemedia.org/sites/default/files/uploads/research/2019-census-8-to-18-full-report-updated.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "youth",
+        "teen",
+        "tween",
+        "smartphone",
+        "mobile devices",
+        "survey",
+        "census",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
