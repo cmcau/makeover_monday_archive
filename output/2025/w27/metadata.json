@@ -1,0 +1,98 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w27-spiritual-religious-beliefs",
+  "title": "2025/W27 Spiritual & Religious Beliefs",
+  "description": "% of adults who have spiritual and religious beliefs. Surveyed across 2023 & 2024.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-910cae67cb1d4300982ec3cb738e6b19.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/religion/2025/06/25/spirituality-and-religion-us-comparison-to-other-countries/#sortable-table)",
+  "version": "95b518f9-4",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Spirituality & Religion - % of adults who.csv",
+      "sizeInBytes": 1105,
+      "created": "2025-06-30T09:15:23.350606915Z",
+      "updated": "2025-06-30T09:15:23.350606915Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-06-30T09:11:39.359606775Z",
+  "updated": "2025-06-30T09:15:23.350850318Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w18-trump-approval-ratings",
+      "title": "2025/W18 Trump Approval Ratings",
+      "description": "% Who ____ of the way Trump is handling his job as president",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n​\n\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-4134dce1a68742e495b184bc6d52b78c.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/trump-100-days-methodology/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2025/04/23/evaluations-of-trump-job-approval-and-confidence-on-issues/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w42-cultural-issues-and-the-2024-election",
+      "title": "2025/W42 Cultural Issues and the 2024 Election",
+      "description": "% of Registered Voters that say....",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-6273861f6f22475fb1d9b1bc6a13fbcb.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/pp_2024-6-5_cultural-values_00-01/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w20-the-religious-composition-of-the-worlds-migrants",
+      "title": "2025/W20 : The Religious Composition of the World’s Migrants",
+      "description": "A breakdown of global migration patterns by religious affiliation",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-datainformant-e2b09fbf79bc4c64acfb14d3d8e3e11a.png)\n\n​\n\nDatasource: https://www.pewresearch.org/dataset/dataset-religious-composition-of-the-worlds-migrants-1990-2020/\n\nArticle: [How Immigrants Are Shaping the Religious Landscape | Pew Research Center](https://www.pewresearch.org/religion/2024/08/19/the-religious-composition-of-the-worlds-migrants/)",
+      "tags": [
+        "makeover monday",
+        "religion",
+        "migration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w24-world-crude-steel-production",
+      "title": "2025/W24 World Crude Steel Production",
+      "description": "Major steel-producing countries 2023 and 2024. Measured in million tonnes for crude steel production.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a61be337b34d4b1397feb09a29190414.png)\n\nDatasource: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)\n\nArticle: [World Steel Association](https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w30-london-underground-average-monthly-temperatures",
+      "title": "2025/W30 London Underground Average Monthly Temperatures",
+      "description": "London Underground Average Monthly Temperatures (°C) 2013-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-11485fd39bcc40c7911336374c95e8eb.png)\n\nDatasource: [TFL](https://data.london.gov.uk/dataset/london-underground-average-monthly-temperatures/)\nArticle: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739705/london-underground-hottest-line.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
