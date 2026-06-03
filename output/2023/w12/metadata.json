@@ -1,0 +1,127 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w12",
+  "title": "2023/W12: US Wind Turbines",
+  "description": "Locations of wind turbines in the US, wind project information, and turbine technical specifications",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5632aae2a4df6f1a7b70015f1cddc2a371d4384d84305c1674d67664a8f94f02_CleanShot_2023_02_22_at_12.05.18_2x.png)\n\n​\n\n## **Resources**\nVisualization: [U.S. Wind Turbines](https://eerscmap.usgs.gov/uswtdb/viewer/#3/37.25/-96.25)\nData Source: [U.S. Wind Turbine Database](https://eerscmap.usgs.gov/uswtdb/data/) | [Metadata](https://eerscmap.usgs.gov/uswtdb/api-doc/#keyValue) | [About](https://eerscmap.usgs.gov/uswtdb/)",
+  "version": "25ff34c0-5534-4023-a184-4b7dc6952e23",
+  "tags": [
+    "makeover monday",
+    "science",
+    "wind energy",
+    "turbine",
+    "united states"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US Wind Turbine Database.csv",
+      "sizeInBytes": 13668971,
+      "created": "2023-02-22T12:09:33.150437476Z",
+      "updated": "2023-02-22T12:09:33.150437476Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-02-22T12:05:48.422663833Z",
+  "updated": "2023-03-20T02:38:48.984707066Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 27
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w40",
+      "title": "2023/W40: Scary Dreams in America",
+      "description": "What does Google Trends tell us about scary dreams in America?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/d5448209097a520c05acc852bbd1de1f9d50c6483cf9055afd2261d5f26eb03e_CleanShot_2023_10_01_at_1.22.51_2x.png)\n\n​\n\n## Resources\nData Source: [Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB)",
+      "tags": [
+        "united states",
+        "dreams",
+        "makeover monday",
+        "america",
+        "google trends"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w17",
+      "title": "2023/W17: Biggest Tomato & Potato Producers",
+      "description": "Production of tomatoes and potatoes by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/41586fdcbc9dfb4fd9b6f967fab26fb395d1daad423a6a9e908103fc8e1a8b3e_CleanShot_2023_04_18_at_3.43.17_2x.png)\n\n​\n\n# Resources\nOriginal viz - [Sjoerd Tilmans via LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/)\n\nData Source: [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)",
+      "tags": [
+        "makeover monday",
+        "potato",
+        "tomato",
+        "production",
+        "crops",
+        "yield",
+        "harvest",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w25",
+      "title": "2023/W25: Divorces in England & Wales",
+      "description": "Annual divorce numbers and rates, by duration of marriage, sex and to whom granted and reason.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/ae8a7e6b480f50e5fc251a444985827c54f01ff764042b78bb434e09b1871233_CleanShot_2023_06_17_at_1.34.25_2x.png)\n\n​\n\n# Resources\n[Divorces in England & Wales](http://divorces%20in%20england%20and%20wales/)\nData Source: [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales)",
+      "tags": [
+        "makeover monday",
+        "divorce",
+        "marriage",
+        "england",
+        "wales",
+        "rate",
+        "duration"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w30",
+      "title": "2023/W30: Daily sea ice extent",
+      "description": "Daily sea ice extent",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/09dfa7c1a6fa6b044605409a3799481fbc2b78af60f2dee144a13d30f9c636db_CleanShot_2023_07_24_at_3.18.31_2x.png)\n\n​\n\n# Resources\nArticle: [Daily Sea Ice Extent](https://www.theguardian.com/environment/datablog/2023/jul/20/the-climate-crisis-in-four-charts-extreme-weather-heatwaves?CMP=Share_iOSApp_Other)\nData Source: [National Snow & Ice Data Center](https://nsidc.org/data/seaice_index/data-and-image-archive)\n\n​",
+      "tags": [
+        "makeover monday",
+        "climate change",
+        "sea ice",
+        "temperature"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w13",
+      "title": "2023/W13: The Gender Pay Gap in US World Cup Bonuses",
+      "description": "The Gender Pay Gap in US World Cup Bonuses",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/b336e4ced55fe660dd589e6687f449bf42de1a94663714c6b0c8c2b18d8db35c_CleanShot_2023_03_26_at_11.45.41_2x.png)\n\n# Resources\nData Source: The Guardian (from US soccer)",
+      "tags": [
+        "soccer",
+        "football",
+        "gender",
+        "pay gap",
+        "equity",
+        "united states",
+        "world cup",
+        "pay"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
