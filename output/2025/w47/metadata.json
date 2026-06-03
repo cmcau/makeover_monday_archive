@@ -1,0 +1,89 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025-week-47-lazy-cats",
+  "title": "2025/ week 47   Lazy Cats",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-465a0872822846b3ac4d0ca2db899161.png)\n\nData source: Smit, M.; Corner-Thomas, R.A.; Draganova, I.; Andrews, C.J.; Thomas, D.G. How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households. Sensors 2024, 24, 2623. [https://doi.org/10.3390/s24082623](https://doi.org/10.3390/s24082623).\n\nwebsite: https://lazy-cats.netlify.app/",
+  "version": "81189904-3",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Weekly_Data (1).csv",
+      "sizeInBytes": 14900,
+      "created": "2025-12-01T22:10:57.715192342Z",
+      "updated": "2025-12-01T22:10:57.715192342Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-12-01T22:08:58.022647297Z",
+  "updated": "2025-12-01T22:10:57.715652847Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 34
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-26-uefa-european-championship",
+      "title": "2024/ week 26 UEFA European Championship",
+      "description": "UEFA European Championship Statistics Excited to share some interesting statistics from the UEFA European Championship,",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource : Statista, Players https://www.statista.com/topics/11847/uefa-euro-2024/#statisticChapter\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-925065c622d44e4a9bc0b6fd0bd6ee7d.png)\n\n",
+      "tags": [
+        "football"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "week-44-2025-wwii-veteran-statistics",
+      "title": "week 44/ 2025 WWII Veteran Statistics",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-ec267b8a9f62466bbfef195764b30b13.png)\n\ndatasource: [https://www.nationalww2museum.org/war/wwii-veteran-statistics](https://www.nationalww2museum.org/war/wwii-veteran-statistics)",
+      "tags": [
+        "veteran"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "week-27-what-to-watch-in-2024-energy",
+      "title": "Week 27 / The history of global natural gas production",
+      "description": "The history of global natural gas production",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\narticle: [https://visualizingenergy.org/the-history-of-global-natural-gas-produ](https://visualizingenergy.org/the-history-of-global-natural-gas-production/)\n\n**Objectives**\n\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Post your alternative on the discussions page.\n​\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-28e63c3b134d4aedaceddafd5d69ab22.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-077110330bc04007ae7c7db50ab1fce5.png)\n\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025week-37",
+      "title": "2025/week 37 AI job trends",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource Kaggle : https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030?\nThis is a synthetic dataset generated using realistic modeling, public job data patterns (U.S. BLS, OECD, McKinsey, WEF reports), and AI simulation to reflect plausible scenarios from 2024 to 2030. Ideal for educational, research, and AI project purposes.\n\n![](https://mediauploads-US.data.world/00000-idiomind-61b963bb119746f691dce1755f0641c9.png)\n\nm/datasets/sahilislam007/ai-impact-on-job-market-20242030?",
+      "tags": [
+        "ai"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-14-pet-ownership",
+      "title": "2025/ week 14  Pet Ownership",
+      "description": "Pet Ownership",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-6cedc425dfb947368afb4605190d6e3d.webp)\n\ndata: https://nielseniq.com/global/en/insights/report/2016/mans-best-friend-global-pet-ownership-and-feeding-trends/#:\\~:text=More%20than%20half%20of%20people,likely%20to%20own%20a%20pet.",
+      "tags": [
+        "pet"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
