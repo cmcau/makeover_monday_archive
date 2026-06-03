@@ -1,0 +1,42 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w4",
+  "title": "2021/W4: Indian Coal Mine Production",
+  "description": "Indian Coal Mine Locations & Production",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/1DmkisQ2OUIvOMnPg2vg\\_Screenshot%202021-01-20%20at%209.14.50%20pm.png](https://media.data.world/1DmkisQ2OUIvOMnPg2vg_Screenshot%202021-01-20%20at%209.14.50%20pm.png)\n\n​\n\n# **About this Dataset**\n**Required Citation**\nSandeep Pai and Hisham Zerriffi. A novel dataset for analysing sub-national socioeconomic developments in the Indian coal industry, IOPSciNotes, [https://doi.org/10.1088/2633-1357/abdbbb](https://doi.org/10.1088/2633-1357/abdbbb)\n\nSOURCE ARTICLE: [A novel dataset for analysing sub-national socioeconomic developments in the Indian coal industry](https://iopscience.iop.org/article/10.1088/2633-1357/abdbbb/pdf)\nDATA SOURCE: Sandeep Pai and Hisham Zerriffi via [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TDEK8O)\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+  "version": "1100e229-4831-48d3-9bb6-d9ca59e6f199",
+  "tags": [
+    "makeover monday",
+    "india",
+    "coal",
+    "mining",
+    "production",
+    "location",
+    "geographic",
+    "climate change",
+    "coal mining"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Indian Coal Mines Dataset_January 2021-1.xlsx",
+      "sizeInBytes": 92703,
+      "created": "2021-01-20T21:08:07.120Z",
+      "updated": "2021-01-20T21:08:07.120Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-01-20T21:07:58.101Z",
+  "updated": "2021-01-24T13:08:38.316Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 31
+  },
+  "similarResources": [],
+  "isProject": false
+}
