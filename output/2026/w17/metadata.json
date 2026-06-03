@@ -1,0 +1,96 @@
+{
+  "owner": "makeovermonday",
+  "id": "2026w17-2024-eiu-democracy-index",
+  "title": "2026/W17 2024 EIU Democracy Index",
+  "description": "2024 Democracy Index and sub-indicators from the Economist Intelligence Unit.",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-b9cdba3cc054479bba117d6f51cc2519.png)\n\nData Source: [OurWorldInData](https://ourworldindata.org/grapher/democracy-index-eiu)\n\nArticle: [The Economist](https://www.eiu.com/n/campaigns/democracy-index-2024/)",
+  "version": "29416cb4-5",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "2024 Democracy Index.xlsx",
+      "sizeInBytes": 188829,
+      "created": "2026-04-26T11:39:45.354860142Z",
+      "updated": "2026-04-26T11:39:45.354860142Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2026-04-26T11:37:26.706049325Z",
+  "updated": "2026-04-26T11:45:43.628977113Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 12
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w12-precipitation-anomalies",
+      "title": "2025/W12 Precipitation Anomalies",
+      "description": "The difference in a specific year's total precipitation — rain and snow — from the 1991–2020 average, measured in mm.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-a2a069a6bf8e4533af0319830e0fc1bc.png)\n\nDatasource: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)\n\nArticle: [Our World In Data](https://ourworldindata.org/grapher/global-precipitation-anomaly)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w36-drug-harms-in-the-uk",
+      "title": "2025/W36 Drug Harms in the UK",
+      "description": "Drug harms in the UK: a multicriteria decision analysis (score out of 100)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-b6e62f4cc140410ab4d3874d1449480d.png)\n\nArticle: [The Economist](https://www.economist.com/graphic-detail/2019/06/25/what-is-the-most-dangerous-drug)\n\nData: [The Lancet](https://www.thelancet.com/article/S0140-6736(10)61462-6/fulltext)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2026w7-living-planet-index",
+      "title": "2026/W7 Living Planet Index",
+      "description": "A measure of the state of the world's biological diversity based on population trends of vertebrate species.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n![](https://mediauploads-US.data.world/00000-beardon-0e31e736307a42048c449fb2017bfc42.png)\n\nData Source: [ZSL & WWF](https://www.livingplanetindex.org/latest_results)\n\nArticle: [WWF](https://livingplanet.panda.org/en-GB/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w47-global-slavery-index",
+      "title": "2024/W49 Global Slavery Index",
+      "description": "Global Slavery Index 2023",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-9a76055d6111450eb3341f8c530cbcd3.png)\n\n​\n\nDatasource: [Walk Free](https://www.walkfree.org/global-slavery-index/downloads/)\n\nArticle: [Walk Free](https://www.walkfree.org/global-slavery-index/#:~:text=An%20estimated%2050%20million%20people,10%20million%20people%20since%202016.)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "paris-2024-medal-cout",
+      "title": "2024/W35 Paris 2024 Medal Count",
+      "description": "Paris 2024 Olympic medal count by country, sport & sporting event",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-367ed83c71394f1fb94123556a946b57.png)\n\n​\n\nDatasource: [Olympics](https://olympics.com/en/paris-2024/medals)\n\nArticle: [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
