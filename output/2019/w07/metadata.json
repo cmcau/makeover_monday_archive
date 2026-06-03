@@ -1,0 +1,40 @@
+{
+  "owner": "makeovermonday",
+  "id": "mm-live-at-cimt-ag",
+  "title": "MM live at Cimt AG",
+  "description": "The German Automotive Industry. Production and Export of passenger cars & commercial vehicles from Apr 2008-Sep  2018",
+  "summary": "![Production-January-2017-en.jpg](https://media.data.world/N4j2HTwxTmWwfL6g2Ue0_Production-January-2017-en.jpg)\n\nDatenquelle: [Verband der Automobilindustrie](https://www.vda.de/en/services/facts-and-figures.html)",
+  "version": "f6e7374d-0541-45fe-9f3f-e092dc029aa9",
+  "tags": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "German car production and export.csv",
+      "sizeInBytes": 166479,
+      "created": "2019-02-12T09:00:59.946Z",
+      "updated": "2019-02-12T09:00:59.946Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "Production-January-2017-en.jpg",
+      "sizeInBytes": 1274698,
+      "created": "2019-02-12T09:01:09.047Z",
+      "updated": "2019-02-12T09:01:09.047Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-02-12T09:00:50.626Z",
+  "updated": "2019-02-12T09:09:24.500Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [],
+  "isProject": false
+}
