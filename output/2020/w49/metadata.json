@@ -1,0 +1,120 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w49-divergent-opinions-on-transatlantic-alliance",
+  "title": "2020/W49: Divergent Opinions on Transatlantic Alliance",
+  "description": "Divergent Opinions on Transatlantic Alliance",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.koerber-stiftung.de/fileadmin/\\_processed\\_/1/b/csm\\_Pulse\\_Grafiken\\_englisch\\_ohneAbbinder\\_20201109\\_4\\_relationsUSDEU\\_175d21e4da.png](https://www.koerber-stiftung.de/fileadmin/_processed_/1/b/csm_Pulse_Grafiken_englisch_ohneAbbinder_20201109_4_relationsUSDEU_175d21e4da.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Pew Research Center](https://www.pewresearch.org/global/2020/11/23/americans-and-germans-head-into-2021-with-divergent-opinions-on-transatlantic-alliance/)\nDATA SOURCES: [Koerber-Stiftung](https://www.koerber-stiftung.de/en/the-berlin-pulse)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+  "version": "d775909e-deca-44ae-9c31-b2750b0a4523",
+  "tags": [
+    "makeover monday",
+    "survey data",
+    "united states",
+    "germany",
+    "pew research"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Week49.xlsx",
+      "sizeInBytes": 9137,
+      "created": "2020-12-05T14:25:33.697Z",
+      "updated": "2020-12-05T14:25:33.697Z",
+      "createdBy": "charliehtableau",
+      "updatedBy": "charliehtableau"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-12-05T14:25:11.262Z",
+  "updated": "2020-12-06T14:48:42.823Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w25",
+      "title": "2019/W25: Berlin Airbnb Ratings",
+      "description": "Where can you find an Airbnb that meets you needs?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://media.data.world/aS9YZ8ERvi0PxXQc9OTM\\_Screenshot%202019-06-16%20at%204.39.09%20pm.png](https://media.data.world/aS9YZ8ERvi0PxXQc9OTM_Screenshot%202019-06-16%20at%204.39.09%20pm.png)\n\n​\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [Inside Airbnb](http://insideairbnb.com/berlin/?neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false)\nDATA SOURCE: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)\n\n**NOTES:**\n\n\n1. Data is available as CSV, Excel, or Tableau Hyper format.\n2. A Geojson file of Berlin neighborhoods has also been included.\n​\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "berlin",
+        "germany",
+        "airbnb",
+        "ratings"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w43-apparel-exports-to-us",
+      "title": "2020/W43: Apparel Exports to US",
+      "description": "Apparel Exports to US",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-24-at-11.35.13.png](https://learningtableaublog.files.wordpress.com/2020/10/screenshot-2020-10-24-at-11.35.13.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [workersrights.org](https://www.workersrights.org/wp-content/uploads/2020/10/Unpaid-Billions_October-6-2020.pdf)\nDATA SOURCE: [Data manually lifted from source article. Original source is Otexa](https://otexa.trade.gov/msrpoint.htm)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "trade",
+        "data",
+        "united states"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w49",
+      "title": "2019/W49: How much do unions benefit America's workers?",
+      "description": "How much does union membership benefit America's workers?",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image1](https://i.guim.co.uk/img/media/f2de0325ea886380d5f838ae745d2e0e253240d3/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=ce1c5638fc523af893de89dfddfa6ee7)\n\n![image2](https://i.guim.co.uk/img/media/3f58040e77b948a6b422d56d329b9604a71c8fa5/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=5f8a13b235df24d0318d99d006e797bc)\n\n![image3](https://i.guim.co.uk/img/media/6392b729bf33d43218c9a7c8d1e0e705d71cc737/0_0_5104_5105/master/5104.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=83375ee150afbb06353aac9da78b335b)\n\n# **About this Dataset**\nSOURCE ARTICLE: [The Guardian](https://www.theguardian.com/news/datablog/2019/nov/24/how-much-does-union-membership-benefit-americas-workers)\nDATA SOURCE: [Bureau of Labor Statistics](https://www.bls.gov/webapps/legacy/cpslutab2.htm)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "union",
+        "workers",
+        "america",
+        "united states",
+        "usa",
+        "time series",
+        "bls",
+        "labor statistics"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w21-visualizing-40-years-of-music-industry-sales",
+      "title": "2020/W21: Visualizing 40 Years of Music Industry Sales",
+      "description": "Visualizing 40 Years of Music Industry Sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/music-industry-sales/)\nDATA SOURCE: [RIAA](https://www.riaa.com/u-s-sales-database/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "music"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
