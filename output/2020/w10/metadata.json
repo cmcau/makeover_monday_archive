@@ -1,0 +1,137 @@
+{
+  "owner": "makeovermonday",
+  "id": "2020w10",
+  "title": "2020/W10: #Viz5 - Violence Against Women & Girls",
+  "description": "Violence Against Women & Girls - perceptions in African, Asian and South American countries",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Violence against women.png](https://media.data.world/pt90ZIC6SsK3K8sAgRBp_Violence%20against%20women.png)\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [International day for the elimination of violence against women](https://public.tableau.com/profile/operation.fistula6589#!/vizhome/Internationaldayfortheeliminationofviolenceagainstwomen/Violenceagainstwomen)\nBACKGROUND INFORMATION AND DATA DICTIONARY: See PDF files\nPLEASE TAG [OPFISTULA](https://twitter.com/opfistula) IN YOUR TWEETS\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+  "version": "907101a9-b3c1-4f7c-859f-2cd03c3b7e26",
+  "tags": [
+    "viz5",
+    "gender equality",
+    "violence against women",
+    "sdg"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "20200306 Data International Women's Day Viz5 Launch.csv",
+      "sizeInBytes": 1098501,
+      "created": "2020-03-06T15:30:24.688Z",
+      "updated": "2020-03-06T15:30:24.688Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "20200306 Visualize Gender Equality Data Dictionary.pdf",
+      "sizeInBytes": 55222,
+      "created": "2020-03-06T15:30:30.387Z",
+      "updated": "2020-03-06T15:30:30.387Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "20200306 Visualize Gender Equality Data Set #1.pdf",
+      "sizeInBytes": 2816490,
+      "created": "2020-03-06T15:30:30.387Z",
+      "updated": "2020-03-06T15:30:30.387Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2020-03-02T14:56:24.233Z",
+  "updated": "2020-03-08T10:24:10.128Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 3,
+    "tableCount": 1,
+    "columnCount": 8
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w18",
+      "title": "2020/W18: Viz 5 - Obstetric Fistula in Madagascar",
+      "description": "Viz 5 - Obstetric Fistula in Madagascar",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![MAIN%20DASHBOARD.png](https://media.data.world/aApQWMTvQZGOYtXGALSz_MAIN%2520DASHBOARD.png)\n\n# **About this Dataset**\nPLEASE REFER TO THE PDF ATTACHMENTS BELOW (DESCRIPTION AND DATA DICTIONARY)\nPlease tag #Viz5 and @opfistula on Twitter\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "obstetric fistula"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w22",
+      "title": "2020/W22: Safe Houses for Girls and Women At Risk of FGM",
+      "description": "Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Dashboard for Makeover.png](https://media.data.world/UN1oZyK9RzmnxvJ1bCub_Dashboard%20for%20Makeover.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM](https://hopeforgirlsandwomen.com/about-fgm-in-tanzania/)\nDATA SOURCE: [Hope for Girls and Women Tanzania](https://hopeforgirlsandwomen.com/safe-houses/)\nPLEASE READ THROUGH THE TOPIC SUMMARY PROVIDED AS PDF\n\nTag the following on Twitter: @ opfistula @ HopeForGirlsTZ @ crowd2map @ tanzdevtrust @ Rhobi15\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "viz5",
+        "gender",
+        "gender equality",
+        "gender inequality",
+        "fgm",
+        "female genital mutilation"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w34",
+      "title": "2020/W34: Sexual and Reproductive Health and Rights (SRHR)",
+      "description": "Sexual and Reproductive Health and Rights (SRHR)",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Main Dashboard.png](https://media.data.world/boFwVig9ToOkffjnzVMC_Main%20Dashboard.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: **Dashboard and documentation provided by OpFistula** - please see attachments (CSV, PDF) below\nDATA SOURCE: [Guttmacher Institute’s report: Adding It Up: Investing in\nContraception and Maternal and Newborn Health, 2017](https://www.guttmacher.org/sites/default/files/report_pdf/adding-it-up-2017-estimation-methodology.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n**Please include #Viz5 and tag @OpFistula in your tweets**",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "reproductive health",
+        "sexual health",
+        "womens rights",
+        "womens health"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w48",
+      "title": "2020/W48: The success of Operation Fistula's Pilot Program",
+      "description": "The success of Operation Fistula's Pilot Program.",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![KICKSTART .png](https://media.data.world/glaGhFtTMqPlMwlkRhgg_KICKSTART%20.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Viz5 Info document](https://data.world/makeovermonday/2020w48/file/Info%20Pack%20-%20Visualize%20Gender%20Equality%20Data%20Set%20%2310.pdf)\nDATA SOURCE: [Operation Fistula](https://data.world/makeovermonday/2020w48/file/20201027%20pilot%20data.csv)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\nPLEASE TAG [at]opfistula on Twitter and add the #Viz5 hashtag\n\n",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "operation fistula",
+        "obstetric fistula"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w42-total-number-of-women-the-house-of-representatives",
+      "title": "2018/W42: Total Number of Women the House of Representatives",
+      "description": "Total Number of Women the House of Representatives 1917-2018",
+      "summary": "# **Original Visualization**\n![Party Differences - Mobile.png](https://media.data.world/2n5r0y8zQaK3AbMyPZpp_Party%20Differences%20-%20Mobile.png)\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [Stephen Pelkofer](https://public.tableau.com/profile/stephen.pelkofer#!/vizhome/WomenRepresentationintheHouseHistory/PartyDifferences-Mobile) | [Tweet](https://twitter.com/Spelk24/status/1049054474411675658)\n\nSOURCE: [Congressional Research Service](https://fas.org/sgp/crs/misc/RL30261.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "us politics",
+        "house of representatives",
+        "line chart",
+        "stepped lines",
+        "gender equality",
+        "female representation"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
