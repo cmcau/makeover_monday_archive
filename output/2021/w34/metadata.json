@@ -1,0 +1,39 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w34",
+  "title": "2021/W34: \"Entry-level\" jobs require 3+ years of experience",
+  "description": "\"Entry-level\" jobs on LinkedIn require 3+ years of experience",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/lws3Q5PSk2RS8dCnWXHQ_image.png)\n\n​\n\n# Resources\nOriginal Article: [\"Entry-level\" jobs on LinkedIn require 3+ years of experience](https://www.linkedin.com/pulse/hirings-new-red-line-why-newcomers-cant-land-35-jobs-george-anders/)\nData Source: [LinkedIn](https://www.linkedin.com/pulse/hirings-new-red-line-why-newcomers-cant-land-35-jobs-george-anders/)",
+  "version": "4c71e237-38b9-4560-ac08-f1d63393e4fc",
+  "tags": [
+    "makeover monday",
+    "linkedin",
+    "jobs",
+    "experience",
+    "entry level"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Entry-Level LinkedIn Jobs.xlsx",
+      "sizeInBytes": 9358,
+      "created": "2021-08-20T14:26:58.303Z",
+      "updated": "2021-08-20T14:26:58.303Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-08-20T14:23:55.058Z",
+  "updated": "2021-08-22T08:02:57.024Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 2
+  },
+  "similarResources": [],
+  "isProject": false
+}
