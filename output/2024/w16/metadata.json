@@ -1,0 +1,108 @@
+{
+  "owner": "makeovermonday",
+  "id": "what-is-the-best-performing-marvel-movie",
+  "title": "Which is The Best Performing Marvel Movie ?",
+  "description": "The Best Performing Marvel Movie",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image.png](https://mediauploads-US.data.world/00000-datainformant-2a4b29592abc473885f569de014d903d.png)\n\n# **About this Dataset**\n\\* SOURCE: [Information is Beautiful](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* Share your remakes on Linkedin and/or Twitter!\n\nRemember to tag Irene Diomi, Harry Beardon, and Chimdi Nwosu.",
+  "version": "628d979d-10",
+  "tags": [
+    "marvel",
+    "movies",
+    "makeovermonday",
+    "datavisualization"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "What is The Best Performing Marvel Movie_ PUBLIC DATA.xlsx",
+      "sizeInBytes": 38727,
+      "created": "2024-04-14T17:29:32.170400640Z",
+      "updated": "2024-04-14T17:29:32.170400640Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-04-14T17:29:03.496086699Z",
+  "updated": "2024-04-14T19:57:30.826744985Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 19
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "corruption",
+      "title": "2025/W32 Corruption",
+      "description": "Corruption Perceptions Index, 2012 to 2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-12762221cbb7466cad9b9fa3704b57e0.png)\n\n​\n\n# **About this Dataset**\n\\* SOURCE: [Corruption - Our World in Data](https://ourworldindata.org/corruption)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart? \\* How can you make it better? \\* Share your remakes on Linkedin and/or Twitter!\n\nRemember to tag Irene Diomi, Harry Beardon, and Chimdi Nwosu.",
+      "tags": [
+        "corruption",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "financial-markets-historical-performance",
+      "title": "Financial Markets Historical Performance",
+      "description": "Performance of the S&P 500 compared with other indices",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-43cef320a69145a5a6b6da4e4a28d6e8.png)\n\n# **About this Dataset**\nSOURCE: [FTSE 100 vs MSCI China vs Nasdaq-100 vs NYSE Arca Gold BUGS vs S&P 500: historical performance from 2008 to 2024 (curvo.eu)](https://curvo.eu/backtest/en/compare-indexes/euro-stoxx-50-vs-ftse-100-vs-msci-china-vs-nasdaq-100-vs-nyse-arca-gold-bugs-vs-sp-500?currency=usd)\n\n\\*Prices shown in dollars\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Share your remakes on Linkedin and/or Twitter!",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025-week-4-world-happiness-report-2024",
+      "title": "2025/ week 5 World Happiness Report 2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-460999bb6c154d24ab96d44c38727598.png)\n\n# **About this Dataset**\n**ARTICLE:** [Happiness of the younger, the older, and those in between | The World Happiness Report](https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)\n**DATA SOURCE:** [World Happiness Report Data Dashboard | The World Happiness Report](https://worldhappiness.report/data/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* Post your alternative on Linkedin/X/Discussions Page",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w18",
+      "title": "2020/W18: Viz 5 - Obstetric Fistula in Madagascar",
+      "description": "Viz 5 - Obstetric Fistula in Madagascar",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![MAIN%20DASHBOARD.png](https://media.data.world/aApQWMTvQZGOYtXGALSz_MAIN%2520DASHBOARD.png)\n\n# **About this Dataset**\nPLEASE REFER TO THE PDF ATTACHMENTS BELOW (DESCRIPTION AND DATA DICTIONARY)\nPlease tag #Viz5 and @opfistula on Twitter\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "viz5",
+        "gender equality",
+        "gender inequality",
+        "obstetric fistula"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w38",
+      "title": "2019/W38: Positive Impact Events - SDG Commitments",
+      "description": "Positive Impact Events - Commitments from the Event Industry for the Sustainable Development Goals",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![original.png](https://media.data.world/GADNAjpKQW263emC28EP_original.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Positive Impact Events - Committments from the Event Industry for the Sustainable Development Goals](https://datastudio.google.com/u/0/reporting/1VZc12vP-qsKGvdghQdvCm3zb6pKe3Ztc/page/66Sr)\nDATA SOURCE: [MyWorld2030 Events Survey](https://events.myworld2030.org/)\nADDITIONAL INFORMATION: [Positive Impact Events Website](https://www.positiveimpactevents.com)\nTWITTER: Please tag [sdgaction](https://twitter.com/SDGaction) on Twitter and use the hashtag #Act4SDGs\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n\n",
+      "tags": [
+        "sdg",
+        "sdg action campaign",
+        "sustainable development",
+        "sustainbility",
+        "events industry",
+        "global goals",
+        "united nations",
+        "general assembly"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
