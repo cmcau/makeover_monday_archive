@@ -1,0 +1,95 @@
+{
+  "owner": "makeovermonday",
+  "id": "paris-2024-medal-cout",
+  "title": "2024/W35 Paris 2024 Medal Count",
+  "description": "Paris 2024 Olympic medal count by country, sport & sporting event",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-367ed83c71394f1fb94123556a946b57.png)\n\n​\n\nDatasource: [Olympics](https://olympics.com/en/paris-2024/medals)\n\nArticle: [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html)",
+  "version": "237b7e1b-6",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Paris 2024 Olympic Medal Tally.xlsx",
+      "sizeInBytes": 41207,
+      "created": "2024-08-25T17:01:49.502479135Z",
+      "updated": "2024-08-25T17:01:49.502479135Z",
+      "createdBy": "beardon",
+      "updatedBy": "beardon"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-08-25T16:57:25.645934328Z",
+  "updated": "2024-09-15T10:28:52.190614724Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w32-2024-paris-olympics-venue-locations",
+      "title": "2024/W32 2024 Paris Olympics Venue Locations",
+      "description": "Geographical locations of Paris Olympics venues and number of events held at them.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/00000-beardon-b3a423e96641410cbf85730402633c7d.png)\n\n​\n\nDatasource: [Paris 2024](https://data.paris2024.org/pages/accueil/?flg=en-gb)\n\nArticle: [Paris 2024](https://olympics.com/en/paris-2024/venues)",
+      "tags": [
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w20-french-people-are-losing-confidence-in-the-paris",
+      "title": "2024/W21: French people are losing confidence in the Paris",
+      "description": "French people are losing confidence in the Paris Olympics",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nFrench people are losing confidence in the Paris Olympics\n\nArticle : https://blog.datawrapper.de/public-confidence-paris-olympics/\n\nSource: [Harris Interactive for Paris 2024](https://harris-interactive.fr/opinion_polls/barometre-du-rapport-des-francais-aux-jeux-olympiques-et-paralympiques-de-paris-2024-vague-5/)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-2eb2cca38684496ab8fd3c6b4edb6eb4.png)\n\n",
+      "tags": [],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w46-aid-worker-security-incidents",
+      "title": "2024/W46 Aid Worker Security Incidents",
+      "description": "Aid Worker Security Incidents 1997-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-beardon-e47a4fa89fe74172b4d66b6ce36959e7.png)\n\nDatasource: [Aid Worker Security Database](https://www.aidworkersecurity.org/incidents/search)\n\nArticle: [Aid Worker Security Database](https://humanitarianoutcomes.org/sites/default/files/publications/figures_at_a_glance_2024.pdf)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w30-london-underground-average-monthly-temperatures",
+      "title": "2025/W30 London Underground Average Monthly Temperatures",
+      "description": "London Underground Average Monthly Temperatures (°C) 2013-2024",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-11485fd39bcc40c7911336374c95e8eb.png)\n\nDatasource: [TFL](https://data.london.gov.uk/dataset/london-underground-average-monthly-temperatures/)\nArticle: [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-13739705/london-underground-hottest-line.html)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w42-cultural-issues-and-the-2024-election",
+      "title": "2025/W42 Cultural Issues and the 2024 Election",
+      "description": "% of Registered Voters that say....",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-beardon-6273861f6f22475fb1d9b1bc6a13fbcb.png)\n\nDatasource: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/pp_2024-6-5_cultural-values_00-01/)\n\nArticle: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/06/cultural-issues-and-the-2024-election/)",
+      "tags": [
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
