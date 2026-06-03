@@ -1,0 +1,113 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w27-rat-sightings-in-new-york-city",
+  "title": "2018/W27: Rat Sightings in New York City",
+  "description": "Rat Sightings in New York City",
+  "summary": "# **Original Visualization**\n![](http://i.imgur.com/5jk5L8f.png)\n\nCREATED BY: [Jowanza Joseph](https://twitter.com/Jowanza)\n\nSOURCE ARTICLE: [Link](https://www.jowanza.com/blog/rat-sightings-in-new-york-city-revisited)\n\n\n# **About this Dataset**\n\nDATA SOURCE: [NYC Open Data](https://nycopendata.socrata.com/Social-Services/Rat-Sightings/3q43-55fe/data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+  "version": "414f3f11-8fd8-49b4-ae27-3309af6afb12",
+  "tags": [
+    "makeover monday",
+    "new york",
+    "rats"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Rat_Sightings.csv",
+      "sizeInBytes": 75072190,
+      "created": "2018-06-26T15:19:40.098Z",
+      "updated": "2018-06-26T15:19:40.098Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-06-26T14:15:01.695Z",
+  "updated": "2018-07-01T17:24:01.540Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 29
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w35-which-body-parts-are-we-attaching-computers-to",
+      "title": "2018/W35: Which body parts are we attaching computers to?",
+      "description": "Which body parts are we attaching computers to?",
+      "summary": "# **Original Visualization**\n![](https://cms.qz.com/wp-content/uploads/2014/02/locations-of-wearable-devices-wearables_chartbuilder.png?w=1240&strip=all&quality=75)\n\n# **About this Dataset**\n* ARTICLE: [Quartz](https://qz.com/179344/which-body-parts-are-we-attaching-computers-to/)\n* DATA SOURCE: [Figure Eight](https://www.figure-eight.com/data-for-everyone/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "body",
+        "computers",
+        "products",
+        "technology",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-2-looks-vs-personality",
+      "title": "2018/W2: Looks vs. Personality",
+      "description": "**Across the globe, personality is rated as more important than looks**",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/inlineimage/2017-11-16/British%20both%20gender%20rankings-01.png)\n\n# **About this Dataset**\n**SOURCE:** [YouGov](https://yougov.co.uk/news/2017/11/29/personality-more-important-looks-across-globe/) and provided by [Matthew Smith](https://twitter.com/mattsmithetc).\n\n**NOTE:** Tag [@mattsmithetc](https://twitter.com/mattsmithetc) and [@YouGov](https://twitter.com/YouGov) on Twitter in visualisations created. \n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "looks",
+        "personality",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w20-hours-spent-in-congestion-in-european-cities",
+      "title": "2018/W20: Hours spent in Congestion in European Cities",
+      "description": "Hours spent in Congestion in European Cities",
+      "summary": "# **Original Visualization**\n![Screen Shot 2018-05-12 at 10.18.56 pm.png](https://media.data.world/IWvgW8w9SbSoXkWKxYcv_Screen%20Shot%202018-05-12%20at%2010.18.56%20pm.png)\n\n# **About this Dataset**\nSOURCE: [EuroNews](http://www.euronews.com/2018/02/07/which-european-commuters-spend-the-most-time-in-traffic-jams-)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n",
+      "tags": [],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w22",
+      "title": "2023/W22: Dog Bites in New York",
+      "description": "Dog Bites in New York",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/906b3ab501e7e7710932e72462337f751481bc2a5f9746aa2e997b20cd41904a_image.png)\n\n​\n\n# Resources\nOriginal Article: [Dog Bites in NYC](https://studentwork.prattsi.org/infovis/visualization/dog-breeds-data-visualization/)\nData Sources:\n• Dog Bites ([NYC Open Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg) )\n• Dog Licensing ([NYC Open Data](https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp))",
+      "tags": [
+        "dog",
+        "pet",
+        "animal",
+        "bite",
+        "new york",
+        "new york city",
+        "open data",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w47",
+      "title": "2018/W47: Hours Americans Need to Work to Pay Their Mortgage",
+      "description": "How many hours do Americans need to work to pay their mortgage?",
+      "summary": "# **Original Visualization**\n![hours5-1-059e.png](https://media.data.world/LpEqvXAeRryDHeIs370d_hours5-1-059e.png)\n\n# **About this Dataset**\n**ORIGINAL ARTICLE**: [howmuch.net](https://howmuch.net/articles/hours-work-afford-home)\n\n**DATA SOURCE**: [howmuch.net](https://howmuch.net/sources/hours-work-afford-home)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n\n\n",
+      "tags": [
+        "makeover monday",
+        "america",
+        "united states",
+        "usa",
+        "mortgage",
+        "howmuch"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
