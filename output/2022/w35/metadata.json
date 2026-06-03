@@ -1,0 +1,120 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w35",
+  "title": "2022/W35: Top 10 Countries by Military Spending",
+  "description": "Top 10 Countries by Military Spending",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# Original Visualization\n​\n![](https://www.visualcapitalist.com/wp-content/uploads/2022/08/top-10-countries-military-spending.jpg)\n\n​\n\n# Resources\nOriginal Viz/Article - [Visual Capitalist](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)\nData Source/Definitions - [SIPRI Military Expenditure Database](https://milex.sipri.org/sipri)",
+  "version": "aab71099-26a6-48a3-b2fb-2d1631aa31ca",
+  "tags": [
+    "makeover monday",
+    "military",
+    "spending",
+    "country"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "SIPRI Military Expenditure Database.xlsx",
+      "sizeInBytes": 381201,
+      "created": "2022-08-23T20:27:00.753Z",
+      "updated": "2022-08-23T20:27:00.753Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-08-22T15:18:42.198Z",
+  "updated": "2022-08-29T07:44:11.558Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w21-visualizing-40-years-of-music-industry-sales",
+      "title": "2020/W21: Visualizing 40 Years of Music Industry Sales",
+      "description": "Visualizing 40 Years of Music Industry Sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/music-industry-sales/)\nDATA SOURCE: [RIAA](https://www.riaa.com/u-s-sales-database/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "music"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w40-the-us-cities-with-the-highest-economic-output",
+      "title": "2020/W40: The U.S. Counties With the Highest Economic Output",
+      "description": "The U.S. Counties With the Highest Economic Output",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://www.visualcapitalist.com/wp-content/uploads/2020/09/us-metro-areas-by-gdp.jpg](https://www.visualcapitalist.com/wp-content/uploads/2020/09/us-metro-areas-by-gdp.jpg)\n\n# **About this Dataset**\nSOURCE ARTICLE: [3D Map: The U.S. Cities With the Highest Economic Output](https://www.visualcapitalist.com/3d-map-the-u-s-cities-with-the-highest-economic-output/)\nDATA SOURCE: [BEA.gov](https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas)\n\n# **#MakeoverMonday Live TC20 Session Links**\nMORNING SESSION (5th October 2020 at 08:00 GMT): [https://www.youtube.com/watch?v=dR5mpiHs-sU](https://www.youtube.com/watch?v=dR5mpiHs-sU)\n\nAFTERNOON SESSION (5th October 2020 at 17:00 GMT): [https://www.youtube.com/watch?v=LPUksl37H70](https://www.youtube.com/watch?v=LPUksl37H70)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "economy"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w47",
+      "title": "2022/W47: Railroad Infrastructure Quality Rankings",
+      "description": "Quality of railroad infrastructure, 1(low) - 7(high)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/7a85357d1b561bce1616915e31a951c76ee5fb70406eb66685d003709c063fac_CleanShot_2022_11_08_at_3.04.03_2x.png)\n\nNOTE: This is not the entire visualization. All countries are shown on the chart on the website.\n\n​\n\n## **Resources**\nTheGlobalEconomy - [Railroad infrastructure quality - Country rankings](https://www.theglobaleconomy.com/rankings/railroad_quality/)\nData Source: World Economic Forum",
+      "tags": [
+        "makeover monday",
+        "infrastructure",
+        "railroad",
+        "train",
+        "tracks",
+        "quality",
+        "survey",
+        "ranking",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w35",
+      "title": "2021/W35: Estimation of global  male circumcision",
+      "description": "Estimation of country-level and global  prevalence of male circumcision",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n​\n\n![](https://mediauploads.data.world/9e23df1322888ee64f146e95209b842a3e7313119be226a77aff8f287ffd4af4_ij5bedwq52j71.png)\n\n​\n\n# Resources\nOriginal viz: [Reddit](https://www.reddit.com/r/MapPorn/comments/p9umhy/percentage_of_males_who_are_circumcised_in_each/)\nData Source & Citation:\nMorris, B.J., Wamai, R.G., Henebeng, E.B. _et al._ Estimation of country-specific and global prevalence of male circumcision. _Population Health Metrics_ **14,** 4 (2016). [https://doi.org/10.1186/s12963-016-0073-5](https://doi.org/10.1186/s12963-016-0073-5)",
+      "tags": [
+        "makeover monday",
+        "male",
+        "gender",
+        "religion",
+        "culture",
+        "circumcision",
+        "global",
+        "country",
+        "estimate"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w50",
+      "title": "2019/W50: Ranked: Biggest Fast Food Chains in America",
+      "description": "Ranked: Biggest Fast Food Chains in America",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/revenue-fast-food-chains-1200px-1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [TitleMax](https://www.titlemax.com/discovery-center/money-finance/the-revenue-of-fast-food-chains-in-america/)\nDATA SOURCE: [Visual Capitalist](https://www.visualcapitalist.com/biggest-fast-food-chains-in-america/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "fast food",
+        "america",
+        "usa"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
