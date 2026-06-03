@@ -1,0 +1,131 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w34-visualizing-conflict",
+  "title": "2018/W34: ACLED: Visualizing Conflict",
+  "description": "ACLED: Visualizing Conflict",
+  "summary": "# **Original Visualization**\n![Original Visualization](https://media.data.world/Y6h5quiRRUGL0UTWAq6m_original%20ACLED.png)\n\n# **About this Dataset**\nSOURCE: [ACLED](https://www.acleddata.com/dashboard/)\n\nData Source: [DATA](https://www.acleddata.com/data/)\n\nNote: Please include the hashtage #ACLEDconflictviz on Twitter\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+  "version": "1e357afe-5ff6-4046-b098-7000c005474a",
+  "tags": [
+    "acled",
+    "conflict",
+    "crisis data"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "ACLED Data Dictionary.docx",
+      "sizeInBytes": 20548,
+      "created": "2018-08-16T09:54:37.428Z",
+      "updated": "2018-08-16T09:54:37.428Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    },
+    {
+      "name": "ACLED.csv",
+      "sizeInBytes": 64956252,
+      "created": "2018-08-19T09:01:33.360Z",
+      "updated": "2018-08-19T09:01:33.360Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-08-16T09:54:37.001Z",
+  "updated": "2018-08-19T09:08:13.683Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 28
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w39-visualizing-equality",
+      "title": "2018/W39: Visualizing Equality",
+      "description": "Visualizing Equality",
+      "summary": "# **Original Visualization**\n![Original](https://media.data.world/yNPbnTcCSFCXuM6SpCnO_Images_Charts_Survey.png)\n\n# **About this Dataset**\nSOURCE: [Equal Measures 2030](http://data.em2030.org/wp-content/uploads/2018/09/EM2030-2018-Global-Report.pdf)\n\nplease include the #VisualizeEquality hashtag and tag @ Equal2030 in your submissions on Twitter\n\n\n# **Webinar introduction to the dataset and Equal Measures 2030**\n[Webinar](https://www.brighttalk.com/webcast/15837/334958) | [Slides](https://data.world/makeovermonday/2018w39-visualizing-equality/file/EM2030%20collaboration%20slides.pdf)\n\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions ",
+      "tags": [
+        "equal measures 2030",
+        "united nations",
+        "sdg",
+        "womens rights",
+        "sustainable",
+        "development goals"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w42-total-number-of-women-the-house-of-representatives",
+      "title": "2018/W42: Total Number of Women the House of Representatives",
+      "description": "Total Number of Women the House of Representatives 1917-2018",
+      "summary": "# **Original Visualization**\n![Party Differences - Mobile.png](https://media.data.world/2n5r0y8zQaK3AbMyPZpp_Party%20Differences%20-%20Mobile.png)\n\n# **About this Dataset**\nORIGINAL VISUALIZATION: [Stephen Pelkofer](https://public.tableau.com/profile/stephen.pelkofer#!/vizhome/WomenRepresentationintheHouseHistory/PartyDifferences-Mobile) | [Tweet](https://twitter.com/Spelk24/status/1049054474411675658)\n\nSOURCE: [Congressional Research Service](https://fas.org/sgp/crs/misc/RL30261.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "us politics",
+        "house of representatives",
+        "line chart",
+        "stepped lines",
+        "gender equality",
+        "female representation"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w52",
+      "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+      "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+      "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "christmas",
+        "spending",
+        "consumption",
+        "us spending",
+        "us household spending",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w33-anthony-bourdains-travels",
+      "title": "2018/W33: Anthony Bourdain’s Travels",
+      "description": "Anthony Bourdain’s Travels",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://pbs.twimg.com/media/DfXwFO1V4AAn1CM.jpg)\n\n# **About this Dataset**\n* IMAGE SOURCE: [Christine Zhang (Twitter)](https://twitter.com/christinezhang/status/1005974583206449152)\n* DATA SOURCE: [Christine Zhang (Github)](https://t.co/vS7TIWUcQa)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "anthony bourdain",
+        "travel",
+        "makeover monday",
+        "television",
+        "reality tv",
+        "tv",
+        "christine zhang"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
