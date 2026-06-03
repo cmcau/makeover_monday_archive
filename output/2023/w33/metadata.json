@@ -1,0 +1,122 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w33",
+  "title": "2023/W33: Energy Use per Person",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/a8ad0e746a57e8155eb26c82d6ba9a86effc1eebcd1c6950d2122adee14030ce_per_capita_energy_use.png)\n\n​\n\n## **Resources**\n[Energy Use per Person](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&country=IND~TWN~SWE~OWID_WRL~USA~CAN~RUS~GBR)\nData Source: [Our World in Data](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&country=IND~TWN~SWE~OWID_WRL~USA~CAN~RUS~GBR)",
+  "version": "d841b28a-8",
+  "tags": [
+    "makeover monday",
+    "energy",
+    "country",
+    "region",
+    "world bank"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "per-capita-energy-use.csv",
+      "sizeInBytes": 303831,
+      "created": "2023-08-14T08:19:58.094153035Z",
+      "updated": "2023-08-14T08:19:58.094153035Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-08-14T08:12:02.797488557Z",
+  "updated": "2023-08-14T08:22:41.479068397Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w24",
+      "title": "2023/W24: Global cereal production",
+      "description": "Change in cereal production, yield, land use and population",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/73a3814f37803509b7272ef773c0d7daf123bc2c06c3e5d628b5931ec6731569_image.png)\n\n​\n\n# Resources\nData Source: [Our World in Data](https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population)",
+      "tags": [
+        "makeover monday",
+        "population",
+        "land use",
+        "cereal",
+        "yield",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "global-energy-consumption",
+      "title": "Global Energy Consumption",
+      "description": "How much energy does the world consume?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n\n![](https://mediauploads-US.data.world/00000-datainformant-3692b68c387b47b9a17e79ab31fbde45.png)\n\n​\n\nArticle and Datasource : [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)",
+      "tags": [
+        "energy",
+        "makeovermonday",
+        "tableau"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "gpu-computational-performance-per-dollar",
+      "title": "2026/w21 GPU computational performance per dollar",
+      "description": "Hardware computational performance shown in floating-point operations per second (FLOP/s) per US dollar",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-04f70c75ba0042f99a526b25783187ba.png)\n\n​\n\nSource: [GPU computational performance per dollar](https://ourworldindata.org/grapher/gpu-price-performance)",
+      "tags": [
+        "makeovermonday",
+        "gpu"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w40",
+      "title": "2022/W40: Income Inequality",
+      "description": "Income inequality by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/6f572e4d68cbb5434bb85c518107371f670c795165a53882ccc588376e933f27_CleanShot_2022_09_28_at_12.13.36.png)\n\n​\n\n# Resources\nOriginal Article: [Truss to push ahead with low-tax economy despite calls for caution](https://www.theguardian.com/politics/2022/sep/04/liz-truss-energy-prices-action-plan?CMP=Share_iOSApp_Other)\nData Source: [OECD](https://data.oecd.org/inequality/income-inequality.htm)",
+      "tags": [
+        "makeover monday",
+        "income",
+        "inequality",
+        "country",
+        "region",
+        "class",
+        "rich",
+        "poor",
+        "wealth",
+        "money"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w17-ecological-footprint-per-capita",
+      "title": "2018/W17: Ecological Footprint per Capita",
+      "description": "Ecological Footprint per Capita",
+      "summary": "# **Overview**\nThe National Footprint Accounts (NFAs) measure the ecological resource use and resource capacity of nations from 1961 to 2014. The calculations in the National Footprint Accounts are primarily based on United Nations data sets, including those published by the Food and Agriculture Organization, United Nations Commodity Trade Statistics Database, and the UN Statistics Division, as well as the International Energy Agency. The 2018 edition of the NFA features some exciting updates from last year’s 2017 edition, including data for more countries and improved data sources and methodology. Methodology changes:\n\n1. Our conversion of carbon to CO2 increased in precision, which increased the world’s carbon footprint by approximately 1%.\n2. We implemented a new data quality scoring system. This allowed us to publish data for more countries by omitting unreliable data for some years rather than the entire country’s Ecological Footprint timeline.\n3. We used more precise data from the Global Carbon Project to calculate ocean carbon sequestration rates for 2014.\n\n## National Footprint Accounts 2018 Edition\nDataset provides Ecological Footprint per capita data for years 1961-2014 in global hectares (gha). Ecological Footprint is a measure of how much area of biologically productive land and water an individual, population, or activity requires to produce all the resources it consumes and to absorb the waste it generates, using prevailing technology and resource management practices. The Ecological Footprint is measured in global hectares. Since trade is global, an individual or country's Footprint tracks area from all over the world. Without further specification, Ecological Footprint generally refers to the Ecological Footprint of consumption (rather than only production or export). Ecological Footprint is often referred to in short form as Footprint.\n\n# **Original Visualization**\n![Ecological Footprint.png](https://media.data.world/P4Y4XtKQ1eioO2I38QGl_Ecological%20Footprint.png)\n[Interactive Version](http://data.footprintnetwork.org/#/compareCountries?cn=all&type=EFCpc&yr=2013)\n\n# **About this Dataset**\nSOURCE: [Global Footprint Network](https://data.world/footprint/nfa-2018-edition)\n\nThis data includes total and per capita national biocapacity, ecological footprint of consumption, ecological footprint of production and total area in hectares. This dataset, however, does not include any of our yield factors (national or world) nor any equivalence factors. \n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "earth day",
+        "makeover monday",
+        "environment",
+        "visualization",
+        "ecology",
+        "geographic",
+        "trends"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
