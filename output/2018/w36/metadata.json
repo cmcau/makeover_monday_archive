@@ -1,0 +1,118 @@
+{
+  "owner": "makeovermonday",
+  "id": "2018w36-the-nike-manufacturing-map",
+  "title": "2018/W36: The Nike Manufacturing Map",
+  "description": "The Nike Manufacturing Map",
+  "summary": "# **Original Visualization**\n![Nike Manufacturing Map](https://pbs.twimg.com/media/DmFHGEaX0AAXjNb.jpg)\n\n# **About this Dataset**\nSOURCE: [Nike](http://manufacturingmap.nikeinc.com/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n",
+  "version": "e1f93cf7-c83e-47a6-b741-841854cd913c",
+  "tags": [
+    "nike",
+    "manufacturing",
+    "sporting goods",
+    "map"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Nike Factory Locations.xlsx",
+      "sizeInBytes": 93912,
+      "created": "2018-09-02T07:00:54.906Z",
+      "updated": "2018-09-02T07:00:54.906Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2018-09-01T19:23:43.748Z",
+  "updated": "2018-09-02T09:43:35.303Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 21
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w33-anthony-bourdains-travels",
+      "title": "2018/W33: Anthony Bourdain’s Travels",
+      "description": "Anthony Bourdain’s Travels",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://pbs.twimg.com/media/DfXwFO1V4AAn1CM.jpg)\n\n# **About this Dataset**\n* IMAGE SOURCE: [Christine Zhang (Twitter)](https://twitter.com/christinezhang/status/1005974583206449152)\n* DATA SOURCE: [Christine Zhang (Github)](https://t.co/vS7TIWUcQa)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "anthony bourdain",
+        "travel",
+        "makeover monday",
+        "television",
+        "reality tv",
+        "tv",
+        "christine zhang"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w24-tourism-density-index",
+      "title": "2018/W24: Tourism Density Index",
+      "description": "Tourism Density Index",
+      "summary": "# **Original Visualization**\n![Tourism Density Index.png](https://media.data.world/ADmIkzOTQkW25OtytPjm_Tourism%20Density%20Index.png)\n\n# **About this Dataset**\nSOURCE: [Intrepid Travel](https://intrepidgroup.bynder.com/transfer/bdd0abcac448329ed4c9057327b6ca660742e4b5ea16f18bd5a343b2c6d0d0c8)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "tourism density",
+        "tourism",
+        "travel data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w19-toughest-sport-by-skill",
+      "title": "2018/W19: Toughest Sport by Skill",
+      "description": "Toughest Sport by Skill",
+      "summary": "# **Original Visualization**\n![MM19.png](https://media.data.world/xGFbryuRSW9zrikKD9KQ_MM19.png)\n\n# **About this Dataset**\nSOURCE: [ESPN](http://www.espn.com/espn/page2/sportSkills)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "sports",
+        "espn",
+        "skill",
+        "makeover monday",
+        "rating",
+        "survey"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w30-parental-leave-in-the-oecd",
+      "title": "2018/W30: Parental leave in the OECD",
+      "description": "Parental leave in the OECD",
+      "summary": "# **Original Visualization**\n![Original Visualization](https://media.data.world/2RWnNr4JR3OGY3X2Ppsy_Screen%20Shot%202018-07-21%20at%208.32.10%20pm.png)\n\n# **About this Dataset**\nSOURCE: [OECD](https://www.oecd.org/els/soc/PF2_1_Parental_leave_systems.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "oecd",
+        "parental leave",
+        "maternity leave"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w52",
+      "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+      "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+      "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "christmas",
+        "spending",
+        "consumption",
+        "us spending",
+        "us household spending",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
