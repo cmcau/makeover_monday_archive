@@ -1,0 +1,106 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025w51-new-year-resolution-tweets-in-us",
+  "title": "2025/W51 New Year Resolution in US",
+  "description": "What were Americans’ New Year’s Resolutions for 2025?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-f2a2a086c7264f8e9a5ac27ff3d4db86.jpg)\n\n​\n\nDatasource & Article: [YouGov US 2025 New Year's Resolutions](https://today.yougov.com/society/articles/51144-what-are-americans-new-years-resolutions-for-2025)",
+  "version": "4180986e-7",
+  "tags": [
+    "makeovermonday",
+    "resolutions"
+  ],
+  "dois": [],
+  "license": "Public Domain",
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "US New Year Resolutions.csv",
+      "sizeInBytes": 915,
+      "created": "2025-12-29T02:55:16.881101766Z",
+      "updated": "2025-12-29T02:55:16.881101766Z",
+      "createdBy": "ojoswi",
+      "updatedBy": "ojoswi"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-12-29T02:25:24.620679753Z",
+  "updated": "2025-12-29T08:32:25.327798111Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "schools-out-and-the-tvs-on",
+      "title": "2025/WK46 School’s out and the TV’s on",
+      "description": "What kids in the U.S. watched in June 2025",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-644c7897f28c433d96b3c987c61f4fb3.png)\n\n​\n\nDatasource and Article : [School’s out and the TV’s on: What kids in the U.S. watched in June | Nielsen](https://www.nielsen.com/insights/2025/what-us-kids-watched-tv-streaming-summer-june/)\n\n​",
+      "tags": [
+        "watch",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "britions-newyearsresolutions-2024",
+      "title": "2024/W3: Britons New_Years_Resolutions 2024",
+      "description": "2024 New Year Resolutions",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n​\n\n![](https://mediauploads-US.data.world/1e3a834a63ecdf92309a198225984f12fd011d025a3010fe815cc6ae289dcd29_Screenshot_2024_01_14_at_21.39.11.png)\n\n​\n\nSOURCE: [YouGov](https://ygo-assets-websites-editorial-emea.yougov.net/documents/YouGov_-_New_Years_resolutions_2024.pdf)\n\nARTICLE: [https://insideoutmastery.com/new-years-resolution-statistics/](https://insideoutmastery.com/new-years-resolution-statistics/)\n\n#\n#",
+      "tags": [
+        "makeover monday",
+        "resolution"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w50-cost-of-kevins-home-alone-grocery-haul-in-2025",
+      "title": "2025/W50 Cost of Kevin’s ‘Home Alone’ Grocery Haul in 2025",
+      "description": "Analyzing the cost of Kevin's grocery bill (Home Alone) if he were shopping in 2025.",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads-US.data.world/00000-blakefeiza-a94057527480475880bbc0308fbb71f8.png)\n\n​\n\nDatasource & Article: [GoBankingRates](https://www.gobankingrates.com/saving-money/food/how-much-kevins-home-alone-grocery-haul-would-cost-today/)",
+      "tags": [
+        "makeovermonday",
+        "retail",
+        "shopping"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "do-younger-britons-see-kidult-hobbies-as-less-childish",
+      "title": "2025/Wk 38 Do Britons see 'kidult' hobbies as childish",
+      "description": "% of people who say 'kidult' hobbies are entirely or mostly for children",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Vizualisation\n\n![](https://mediauploads-US.data.world/00000-datainformant-e248aa7e506241d0964d42f2684d9052.png)\n\n​\n\nDatasource + Article: [Which ‘kidult’ hobbies and practices do Britons think are really for children? | YouGov](https://yougov.co.uk/society/articles/52851-which-kidult-hobbies-and-practices-do-britons-think-are-really-for-children)",
+      "tags": [
+        "hobbies",
+        "makeovermonday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2025w5-gold-prices",
+      "title": "Gold Prices",
+      "description": "Monthly Gold Prices over the last 20 years from BullionVault",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-ojoswi-d5bb4d14f92a41ae97b7b4f12107db62.jpg)\n\n​\n\nDatasource: https://www.bullionvault.com/gold-price-chart.do",
+      "tags": [
+        "makeovermonday",
+        "gold"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
