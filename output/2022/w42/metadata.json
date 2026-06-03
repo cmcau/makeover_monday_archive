@@ -1,0 +1,135 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w42",
+  "title": "2022/W42: FDA Food Inspections",
+  "description": "FDA Food Inspections",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3d6a70a94fa1dd57de4cc78f96e109985b04957169ed0483c7b1e4239b8d41e1_CleanShot_2022_10_11_at_3.26.04.png)\n\n​\n\n## **Resources**\nVisualization: [FDA Inspections](https://datadashboard.fda.gov/ora/cd/inspections.htm)\nData Source: U.S. Food & Drug Administration (via Data Is Plural)",
+  "version": "99933153-59be-431a-8f85-0d1dbd0cc0fd",
+  "tags": [
+    "makeover monday",
+    "food",
+    "fda",
+    "agriculture",
+    "restaurant",
+    "inspection",
+    "location"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "FDA Inspections.xlsx",
+      "sizeInBytes": 20865799,
+      "created": "2022-10-11T14:55:19.021Z",
+      "updated": "2022-10-11T14:55:19.021Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-10-11T14:26:47.581Z",
+  "updated": "2022-10-17T07:32:32.600Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 13
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w21",
+      "title": "2023/W21: FDA Product Recalls",
+      "description": "FDA Product Recalls",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/861788a273889fc8c6e503cb28c701688e0f4dc9658546c4d040d5cd856b216f_CleanShot_2023_05_18_at_12.20.47_2x.png)\n\n# Resources\n[FDA Product Recalls](https://datadashboard.fda.gov/ora/cd/recalls.htm)\nData Source: [US Food & Drug Administration](https://datadashboard.fda.gov/ora/cd/recalls.htm)",
+      "tags": [
+        "makeover monday",
+        "fda",
+        "products",
+        "recall"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w5",
+      "title": "2023/W5: NYC Pizza Slices",
+      "description": "The cost of pizza slices in New York City",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/5ff1b511714c125421488192110e1ec4ee7bac8e5ecacd07af8c1af5a9f4d796_CleanShot_2023_01_14_at_10.33.51_2x.png)\n\n​\n\n## **Resources**\nSource: [NYC pizza slices](https://elkue.com/nyc-slice/) (via Data Is Plural)\nData Source: [Liam Quigley](https://elkue.com/) | [Data](https://docs.google.com/spreadsheets/d/1EY3oi9ttxybG0A0Obtwey6BFu7QLqdHe02JApijgztg/edit)\n\n​",
+      "tags": [
+        "makeover monday",
+        "new york",
+        "nyc",
+        "new york city",
+        "food",
+        "pizza",
+        "ratings",
+        "location",
+        "slice",
+        "price"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2023w35",
+      "title": "2023/W35: Food Inflation Rates in the UK",
+      "description": "Food Inflation Rates in the UK",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## Original Visualization\n![](https://mediauploads.data.world/e16c8a020c91d51b02ad9487e6a1a798b4f285c73011112a72e2bf4091d7c0da_CleanShot_2023_08_28_at_8.35.43.png)\n\n## Resources\n[Food Inflation Rates in the UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)\nData Source: Office for Natonal Statistics",
+      "tags": [
+        "food",
+        "uk",
+        "united kingdom",
+        "inflation",
+        "makeover monday"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w47",
+      "title": "2022/W47: Railroad Infrastructure Quality Rankings",
+      "description": "Quality of railroad infrastructure, 1(low) - 7(high)",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/7a85357d1b561bce1616915e31a951c76ee5fb70406eb66685d003709c063fac_CleanShot_2022_11_08_at_3.04.03_2x.png)\n\nNOTE: This is not the entire visualization. All countries are shown on the chart on the website.\n\n​\n\n## **Resources**\nTheGlobalEconomy - [Railroad infrastructure quality - Country rankings](https://www.theglobaleconomy.com/rankings/railroad_quality/)\nData Source: World Economic Forum",
+      "tags": [
+        "makeover monday",
+        "infrastructure",
+        "railroad",
+        "train",
+        "tracks",
+        "quality",
+        "survey",
+        "ranking",
+        "country"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w40",
+      "title": "2022/W40: Income Inequality",
+      "description": "Income inequality by country",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/6f572e4d68cbb5434bb85c518107371f670c795165a53882ccc588376e933f27_CleanShot_2022_09_28_at_12.13.36.png)\n\n​\n\n# Resources\nOriginal Article: [Truss to push ahead with low-tax economy despite calls for caution](https://www.theguardian.com/politics/2022/sep/04/liz-truss-energy-prices-action-plan?CMP=Share_iOSApp_Other)\nData Source: [OECD](https://data.oecd.org/inequality/income-inequality.htm)",
+      "tags": [
+        "makeover monday",
+        "income",
+        "inequality",
+        "country",
+        "region",
+        "class",
+        "rich",
+        "poor",
+        "wealth",
+        "money"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
