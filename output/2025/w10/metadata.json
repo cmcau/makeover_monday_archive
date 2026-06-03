@@ -1,0 +1,49 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025-week-10-river-water-quality",
+  "title": "2025/ week 10   River Water Quality",
+  "description": "Can we use weather, river flow and water quality data to better understand the forces that impact wate",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n**Problem Statement**\n\nCan we use weather, river flow and water quality data to better understand the forces that impact water in London at Fulham Reach Boat Club, located at Hammersmith Bridge.\n\n**Future Goal**\n\nWith better understanding can we get better at predicting when water quality will be poor, this would be advantageous as we only have capacity to test once a week and the results of E.Coli testing takes a day to process.\n\ndata from [Fulham Reach Boat Club (FRBC)](https://data.world/makeovermonday/2025-week-10-river-water-quality/workspace/file?filename=_Makeover+Monday+with+Fulham+Reach+Boat+Club.docx.pdf)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-685420f6461f41b2a92442b873974ba1.png)\n\nVisualisation: [https://public.tableau.com/app/profile/fulham.reach.boat.club/viz/FRBCFreshWaterWatch\\\\\\_17116616886720/eColi](https://public.tableau.com/app/profile/fulham.reach.boat.club/viz/FRBCFreshWaterWatch%5C_17116616886720/eColi)",
+  "version": "87672566-10",
+  "tags": [],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "FRBC FreshWater Watch.xlsx - Form responses 1.csv",
+      "sizeInBytes": 14498,
+      "created": "2025-03-02T15:09:36.246608837Z",
+      "updated": "2025-03-02T15:09:36.246608837Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    },
+    {
+      "name": "FRBC River Clean ups.xlsx - Form responses 1.csv",
+      "sizeInBytes": 3068,
+      "created": "2025-03-02T15:09:24.468108229Z",
+      "updated": "2025-03-02T15:09:24.468108229Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    },
+    {
+      "name": "_Makeover Monday with Fulham Reach Boat Club.docx.pdf",
+      "sizeInBytes": 310491,
+      "created": "2025-03-02T18:08:49.253586080Z",
+      "updated": "2025-03-02T18:08:49.253586080Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-03-02T15:04:36.096605066Z",
+  "updated": "2025-03-02T18:10:33.326103378Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 3,
+    "tableCount": 2,
+    "columnCount": 39
+  },
+  "similarResources": [],
+  "isProject": false
+}
