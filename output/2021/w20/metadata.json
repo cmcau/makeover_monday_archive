@@ -1,0 +1,73 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w20",
+  "title": "2021/W20: What animal could you beat in a fight?",
+  "description": "What animal could you beat in a fight?",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://media.data.world/SlswHsSjQ1esxT3PbnTj_image.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2021/05/13/lions-and-tigers-and-bears-what-animal-would-win-f)\nDATA SOURCE: [YouGov](https://docs.cdn.yougov.com/07vgk5e81j/YouGov%20-%20Human%20vs%20animal%20fight.pdf)",
+  "version": "d80a1a1b-3eab-4a8e-b741-f4dfd93747cf",
+  "tags": [
+    "makeover monday",
+    "fight",
+    "animal",
+    "human",
+    "survey",
+    "gender",
+    "male",
+    "female"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Human vs Animal Fight.xlsx",
+      "sizeInBytes": 10246,
+      "created": "2021-05-16T11:35:08.437Z",
+      "updated": "2021-05-16T11:35:08.437Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-05-16T11:19:17.871Z",
+  "updated": "2021-05-16T12:16:19.983Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 2,
+    "columnCount": 5
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w36",
+      "title": "2019/W36: Fall is favorite season for most Americans",
+      "description": "Fall is favorite season for most Americans",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](http://cdn.yougov.com/cumulus_uploads/document/lvg7zs8wn3/Weatherchart1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2013/06/10/fall-favorite-season-most-americans-33-heartland-l)\nDATA SOURCE: [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2013/06/10/fall-favorite-season-most-americans-33-heartland-l)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "fall",
+        "autumn",
+        "seasons",
+        "us data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w21",
+      "title": "2019/W21: When are you most likely to be killed by a bear?",
+      "description": "In which park and when, are you most likely to be killed by a bear?",
+      "summary": "**NOTE:** The data was collected, prepared, and distributed by [Ali Sanne](https://data.world/ajsanne) on [data.world](https://data.world/ajsanne/north-america-bear-killings). Please reference her in your visualizations.\n\n# ​**Original Visualization**\n![https://media.data.world/tNjcdXZAQZuepWQVOiHs\\_Screenshot%202019-05-19%20at%2011.02.36%20am.png](https://media.data.world/tNjcdXZAQZuepWQVOiHs_Screenshot%202019-05-19%20at%2011.02.36%20am.png)\n\n​\n\n# **About this Dataset**\nSOURCE ARTICLE: [Vox](https://www.vox.com/2016/10/6/13170344/bear-attacks-national-state-parks)\nDATA SOURCE: [Wikipedia](https://en.wikipedia.org/wiki/List_of_fatal_bear_attacks_in_North_America)\n\n​\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "bear",
+        "animal",
+        "north america"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
