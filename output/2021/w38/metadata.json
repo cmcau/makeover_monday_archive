@@ -1,0 +1,118 @@
+{
+  "owner": "makeovermonday",
+  "id": "2021w38",
+  "title": "2021/W38: Dark Web Price Index 2021",
+  "description": "Dark Web Price Index 2021",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://www.privacyaffairs.com/wp-content/uploads/2021/02/dark-web-vendor-profile.png)\n\n​\n\n# Resources\nOriginal Article: [Dark Web Price Index 2021](https://www.privacyaffairs.com/dark-web-price-index-2021/)\nData Source: [Privacy Affairs](https://www.privacyaffairs.com/dark-web-price-index-2021/)\nSuggested By: Lindsay Betzendahl | [@ZenDollData](https://twitter.com/ZenDollData)",
+  "version": "f390e64f-6443-436b-99d5-2c8cc00be0ec",
+  "tags": [
+    "makeover monday",
+    "internet",
+    "security",
+    "dark web"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Dark Web Price Index 2021.xlsx",
+      "sizeInBytes": 12982,
+      "created": "2021-09-20T09:10:20.997Z",
+      "updated": "2021-09-20T09:10:20.997Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2021-09-20T07:58:54.310Z",
+  "updated": "2021-09-20T09:10:20.997Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w22",
+      "title": "2021/W22: The Plastic Waste Makers Index",
+      "description": "Which companies produce the most plastic waste?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://media.data.world/tTKgS2tST2sohyodmEgc_PLASTIC%20WASTE%20MAKERS.png)\n\n​\n\n# Resources\nOriginal Article: [The Plastic Waste Makers Index](https://cdn.minderoo.org/content/uploads/2021/05/18065501/20210518-Plastic-Waste-Makers-Index.pdf)\nData Source: [Minderoo](https://www.minderoo.org/plastic-waste-makers-index/data/indices/producers/)",
+      "tags": [
+        "makeover monday",
+        "environment",
+        "waste",
+        "plastic"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2021w37",
+      "title": "2021/W37: The 20 Largest Solar Power Plants",
+      "description": "The 20 Largest Solar Power Plants",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://solarpower.guide/solar-energy-insights/infographics/largest-solar-plants.png)\n\n# Resources\nSource Article: [SolarPower.guide](https://solarpower.guide/solar-energy-insights/largest-solar-plants)\nData Source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations)\nSuggested By: Sean Miller | [@HipsterVizNinja](https://twitter.com/HipsterVizNinja)",
+      "tags": [
+        "makeover monday",
+        "solar",
+        "power",
+        "power plant",
+        "energy",
+        "renewable energy",
+        "country",
+        "size",
+        "megawatts"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w21-visualizing-40-years-of-music-industry-sales",
+      "title": "2020/W21: Visualizing 40 Years of Music Industry Sales",
+      "description": "Visualizing 40 Years of Music Industry Sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/music-industry-sales/)\nDATA SOURCE: [RIAA](https://www.riaa.com/u-s-sales-database/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "music"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w51",
+      "title": "2019/W51: NBA Defensive Ratings",
+      "description": "The Spurs have never been this bad at defense. Which NBA teams are the best defensively?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://fivethirtyeight.com/wp-content/uploads/2019/12/dubin-SPURS-1203-2.png?w=1150)\n\n# **About this Dataset**\nSOURCE ARTICLE: [FiveThirtyEight](https://fivethirtyeight.com/features/the-spurs-have-never-been-this-bad-at-defense/)\nDATA SOURCE: [NBA](https://stats.nba.com/teams/defense/?sort=DEF_RATING&dir=-1&Season=2019-20&SeasonType=Regular%20Season)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+      "tags": [
+        "makeover monday",
+        "nba",
+        "basketball",
+        "ratings"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w40-avocado-prices",
+      "title": "2018/W40: Avocado Prices",
+      "description": "Avocado Prices",
+      "summary": "# **Original Visualization**\n![Avocado Prices](https://onebluewindow.com/wp-content/uploads/2017/10/Avocado-Prices-400x253.jpg)\n\n# **About this Dataset**\nARTICLE: [Avocados are getting expensive](https://overridge.com/market-update/market-update-oct-17)\n\nSOURCE: [Hass Avocado Board](http://www.hassavocadoboard.com/retail/volume-and-price-data)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "avocado",
+        "us avocado market",
+        "avocado prices",
+        "line chart",
+        "fatty fruit"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
