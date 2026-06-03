@@ -1,0 +1,64 @@
+{
+  "owner": "makeovermonday",
+  "id": "2025-week-31-wages-across-europe",
+  "title": "2025/ week 31/ Wages Across Europe",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n![](https://mediauploads-US.data.world/00000-idiomind-56061c7ace7042959cd27fad5c17875e.png)\n\nArticle: https://www.datawrapper.de/blog/low-wages-europe\n\nData from https://ec.europa.eu/eurostat/databrowser/explore/all/popul?lang=en&subtheme=labour.earn.earn\\_minw&display=list&sort=category&extractionId=earn\\_mw\\_cur",
+  "version": "cf5892ed-6",
+  "tags": [
+    "wage",
+    "eu"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Wages  - Sheet1.csv",
+      "sizeInBytes": 622,
+      "created": "2025-07-21T11:21:59.163560682Z",
+      "updated": "2025-07-21T11:21:59.163560682Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2025-07-21T11:19:19.615246700Z",
+  "updated": "2025-07-21T11:23:46.002260038Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 10
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024w20-french-people-are-losing-confidence-in-the-paris",
+      "title": "2024/W21: French people are losing confidence in the Paris",
+      "description": "French people are losing confidence in the Paris Olympics",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nFrench people are losing confidence in the Paris Olympics\n\nArticle : https://blog.datawrapper.de/public-confidence-paris-olympics/\n\nSource: [Harris Interactive for Paris 2024](https://harris-interactive.fr/opinion_polls/barometre-du-rapport-des-francais-aux-jeux-olympiques-et-paralympiques-de-paris-2024-vague-5/)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-2eb2cca38684496ab8fd3c6b4edb6eb4.png)\n\n",
+      "tags": [],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w38",
+      "title": "2020/w38: Pick up a book and read!",
+      "description": "Pick up a book and read!",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![https://media.data.world/yvxBGUv9Q9GJCt6g6pAZ\\_Price%20develpment%20of%20books%20in%20the%20EU.png](https://media.data.world/yvxBGUv9Q9GJCt6g6pAZ_Price%20develpment%20of%20books%20in%20the%20EU.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Pick up a book and read!](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/EDN-20200422-1)\nDATA SOURCE: [Eurostat](https://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055106_QID_2BA8FB1D_UID_-3F171EB0&layout=TIME,C,X,0;COICOP,B,Y,0;UNIT,B,Z,0;GEO,B,Z,1;INDICATORS,C,Z,2;&zSelection=DS-055106INDICATORS,OBS_FLAG;DS-055106GEO,EU27_2020;DS-055106UNIT,I15;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=GEO_1_2_1_1&rankName4=TIME_1_0_0_0&rankName5=COICOP_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "data visualization",
+        "book prices",
+        "eurostat",
+        "line chart",
+        "time series"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
