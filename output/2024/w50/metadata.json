@@ -1,0 +1,105 @@
+{
+  "owner": "makeovermonday",
+  "id": "2024-w48-christmasgiftsdesirabilityusuk2024",
+  "title": "2024/ w48 Christmas_Gifts_Desirability_US_UK_2024",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\nChristmas: https://www.statista.com/statistics/1084794/christmas-gifts-desired-by-uk-consumers/\n\n![](https://mediauploads-US.data.world/00000-idiomind-a0017270bb5c4af5918620582c5891e0.png)\n\n\n![](https://mediauploads-US.data.world/00000-idiomind-050bbb79ae1e409fba750394c46356f3.png)\n\n",
+  "version": "db6bc1cb-4",
+  "tags": [
+    "christmas"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Christmas_Gifts_Desirability_US_UK_2024.xlsx",
+      "sizeInBytes": 6036,
+      "created": "2024-12-09T16:58:07.953731780Z",
+      "updated": "2024-12-09T16:58:07.953731780Z",
+      "createdBy": "idiomind",
+      "updatedBy": "idiomind"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-12-09T16:52:15.350165022Z",
+  "updated": "2024-12-09T16:58:07.953983030Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 3
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w52",
+      "title": "2018/W52: Average spending on Christmas gifts in the U.S.",
+      "description": "Average spending on Christmas gifts in the U.S. 1999-2018",
+      "summary": "# **Original Visualization**\n![original.png](https://media.data.world/0hEnwGmSTTe3PARUe1og_original.png)\n\n# **About this Dataset**\nSOURCE: [Statista](https://www.statista.com/statistics/246963/christmas-spending-in-the-us-during-november/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "christmas",
+        "spending",
+        "consumption",
+        "us spending",
+        "us household spending",
+        "line chart"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2017-w-52-christmas-trees-sold-in-the-us",
+      "title": "2017/W52: Christmas trees sold in the US",
+      "description": "Christmas trees sold in the US",
+      "summary": "# Original Visualization\n![original.png](https://media.data.world/FxLUQJfwSpGTDhHW9cdC_original.png)\n\n# About this Dataset\nSOURCE: [Statista](https://www.statista.com/statistics/209249/purchase-figures-for-real-and-fake-christmas-trees-in-the-us/)\n\n\n# Objectives\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "christmas",
+        "us data",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-26-uefa-european-championship",
+      "title": "2024/ week 26 UEFA European Championship",
+      "description": "UEFA European Championship Statistics Excited to share some interesting statistics from the UEFA European Championship,",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nSource : Statista, Players https://www.statista.com/topics/11847/uefa-euro-2024/#statisticChapter\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-925065c622d44e4a9bc0b6fd0bd6ee7d.png)\n\n",
+      "tags": [
+        "football"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w52",
+      "title": "2019/W52: Estimated Christmas spending by concept",
+      "description": "Estimated Christmas spending by concept",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![Screen Shot 2019-12-22 at 11.05.37 am.png](https://media.data.world/AhSycIvRYu5GEwaxmsMD_Screen%20Shot%202019-12-22%20at%2011.05.37%20am.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/uk/en/pages/consumer-business/articles/deloitte-christmas-survey-2019.html)\nDATA SOURCE: [Deloitte UK Christmas Survey 2019](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/consumer-business/deloitte-uk-christmas-survey-2019.pdf)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better?\n",
+      "tags": [
+        "christmas",
+        "consumer spending",
+        "uk data"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2024-week-15-uk-unemployment-rate",
+      "title": "2024/W15 UK Unemployment rate",
+      "description": "UK unemployment has fallen to the lowest levels since the mid-1970s",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\nArticle : [Guardian](https://www.theguardian.com/uk-news/2024/mar/02/conservatives-economic-record-budget-deficit-gdp-tax-tory-budget?utm%5C_term=65e2ce75a55372f1c9bb099f713159bd&utm%5C_campaign=GuardianTodayUK&utm%5C_source=esp&utm%5C_medium=Email&CMP=GTUK%5C_email)\n\nData: [ONS](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms)\n\n​\n\n![](https://mediauploads-US.data.world/00000-idiomind-ac6cccc3e84840ff8f6ed59dc5231cae.png)\n\n",
+      "tags": [
+        "unemployment uk"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
