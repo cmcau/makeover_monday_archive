@@ -1,0 +1,52 @@
+{
+  "owner": "makeovermonday",
+  "id": "financial-markets-historical-performance",
+  "title": "Financial Markets Historical Performance",
+  "description": "Performance of the S&P 500 compared with other indices",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![](https://mediauploads-US.data.world/00000-datainformant-43cef320a69145a5a6b6da4e4a28d6e8.png)\n\n# **About this Dataset**\nSOURCE: [FTSE 100 vs MSCI China vs Nasdaq-100 vs NYSE Arca Gold BUGS vs S&P 500: historical performance from 2008 to 2024 (curvo.eu)](https://curvo.eu/backtest/en/compare-indexes/euro-stoxx-50-vs-ftse-100-vs-msci-china-vs-nasdaq-100-vs-nyse-arca-gold-bugs-vs-sp-500?currency=usd)\n\n\\*Prices shown in dollars\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?\n* Share your remakes on Linkedin and/or Twitter!",
+  "version": "b5d2a319-7",
+  "tags": [
+    "makeovermonday"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Indexes Data.xlsx",
+      "sizeInBytes": 25445,
+      "created": "2024-09-29T22:51:20.992471995Z",
+      "updated": "2024-09-29T22:51:20.992471995Z",
+      "createdBy": "datainformant",
+      "updatedBy": "datainformant"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2024-09-29T22:50:50.752585432Z",
+  "updated": "2024-09-30T01:32:48.005175585Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 7
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "what-is-the-best-performing-marvel-movie",
+      "title": "Which is The Best Performing Marvel Movie ?",
+      "description": "The Best Performing Marvel Movie",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![image.png](https://mediauploads-US.data.world/00000-datainformant-2a4b29592abc473885f569de014d903d.png)\n\n# **About this Dataset**\n\\* SOURCE: [Information is Beautiful](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?\n\\* Share your remakes on Linkedin and/or Twitter!\n\nRemember to tag Irene Diomi, Harry Beardon, and Chimdi Nwosu.",
+      "tags": [
+        "marvel",
+        "movies",
+        "makeovermonday",
+        "datavisualization"
+      ],
+      "license": "Public Domain",
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
