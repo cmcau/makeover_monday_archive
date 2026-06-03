@@ -1,0 +1,50 @@
+{
+  "owner": "makeovermonday",
+  "id": "2023w23",
+  "title": "2023/W23: Melbourne Pedestrian Counters",
+  "description": "Tracking pedestrians in Melbourne, Australia",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Visualization\n![](https://mediauploads.data.world/ad324506dcd5fd1772282c3fc71b2df2e7569a9785d363a72cd00a880c3ba57e_CleanShot_2023_06_02_at_11.47.38_2x.png)\n\n# Resources\n[Melbourne's Pedestrian Counting System\n](http://www.pedestrian.melbourne.vic.gov.au/#date=02-01-2019&time=6)Data source: [City of Melbourne](https://melbournetestbed.opendatasoft.com/explore/dataset/pedestrian-counting-system-monthly-counts-per-hour/information/)",
+  "version": "8b22b53a-5",
+  "tags": [
+    "makeover monday",
+    "sensors",
+    "tracking",
+    "walking",
+    "pedestrians",
+    "melbourne",
+    "open data",
+    "location"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Melbourne Pedestrians.csv",
+      "sizeInBytes": 706550266,
+      "created": "2023-06-03T17:41:47.904554412Z",
+      "updated": "2023-06-03T17:41:47.904554412Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    },
+    {
+      "name": "Melbourne Pedestrians.hyper",
+      "sizeInBytes": 30867456,
+      "created": "2023-06-03T11:40:16.040656660Z",
+      "updated": "2023-06-03T11:40:16.040656660Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2023-06-03T11:32:52.549405938Z",
+  "updated": "2023-06-04T07:23:58.056531604Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 2,
+    "tableCount": 1,
+    "columnCount": 20
+  },
+  "similarResources": [],
+  "isProject": false
+}
