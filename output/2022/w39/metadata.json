@@ -1,0 +1,77 @@
+{
+  "owner": "makeovermonday",
+  "id": "2022w39",
+  "title": "2022/W39: Average Internet Speeds Across Europe",
+  "description": "Average Internet Speeds Across Europe",
+  "summary": "---\n{\"editor\":\"simple\"}\n---\n# Original Viz\n![](https://mediauploads.data.world/dc80edb76f04a27b8e2915244c62dd1ed1cc70eaaf1a53997ea6522da19edd4f_CleanShot_2022_09_20_at_3.36.30.png)\n\n​\n\n# References\nArticle: [Average Internet Speeds Across Europe](https://datavis.europeandatajournalism.eu/obct/connectivity/)\nData Source: [Speedtest](https://www.speedtest.net/) by [Ookla](https://registry.opendata.aws/speedtest-global-performance/) Global Fixed and Mobile Network Performance Maps",
+  "version": "636686a1-b9b4-45f5-96df-29ee176fe197",
+  "tags": [
+    "makeover monday",
+    "europe",
+    "internet",
+    "speed",
+    "country"
+  ],
+  "dois": [],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Average Internet Speeds Across Europe.xlsx",
+      "sizeInBytes": 30778,
+      "created": "2022-09-20T14:34:54.381Z",
+      "updated": "2022-09-20T14:34:54.381Z",
+      "createdBy": "vizwiz",
+      "updatedBy": "vizwiz"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2022-09-20T14:32:37.665Z",
+  "updated": "2022-09-25T10:23:07.102Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 6
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w46",
+      "title": "2022/W46: Cocaine & Heroin Prices (1990-2020)",
+      "description": "Historical wholesale & retail prices for the USA and Western Europe",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n![](https://mediauploads.data.world/3b20bc94a1014598530cf57b2b892fa51bdfdb0c5875e643292fbef628db2e8c_CleanShot_2022_11_08_at_2.47.10_2x.png)\n\n## **References**\nThe Economist: [How much does cocaine cost around the world?](https://www.economist.com/graphic-detail/2022/10/25/how-much-does-cocaine-cost-around-the-world)\nData Source: UNODC [Price time series for cocaine and heroin, Western Europe and the United States](https://dataunodc.un.org/dp-drug-prices-Europe-USA)",
+      "tags": [
+        "makeover monday",
+        "drugs",
+        "cocaine",
+        "heroin",
+        "time series",
+        "country",
+        "europe",
+        "united states",
+        "usa",
+        "wholesale",
+        "retail"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2022w45",
+      "title": "2022/W45: Who do we spend time with across our lifetime?",
+      "description": "Who do we spend time with across our lifetime?",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n## **Original Visualization**\n​\n\n![](https://mediauploads.data.world/4dbd972bd83e21208b2c4e0bacd96618bebefe5a3d86e0e8fd5a7e18e73dd2bd_CleanShot_2022_11_07_at_5.39.29_2x.png)\n\n​\n\n## **References**\nOriginal article - [https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)\n\nData Source - [Our World in Data](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)\n\nWatch Me Viz - [https://youtu.be/XZliCbAyBX8](https://youtu.be/XZliCbAyBX8)",
+      "tags": [
+        "makeover monday",
+        "time spent",
+        "family",
+        "friends"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
