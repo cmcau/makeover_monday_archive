@@ -1,0 +1,114 @@
+{
+  "owner": "makeovermonday",
+  "id": "2019w50",
+  "title": "2019/W50: Ranked: Biggest Fast Food Chains in America",
+  "description": "Ranked: Biggest Fast Food Chains in America",
+  "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![supporting image or chart](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/revenue-fast-food-chains-1200px-1.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [TitleMax](https://www.titlemax.com/discovery-center/money-finance/the-revenue-of-fast-food-chains-in-america/)\nDATA SOURCE: [Visual Capitalist](https://www.visualcapitalist.com/biggest-fast-food-chains-in-america/)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n\n",
+  "version": "e83936fb-a7f2-4762-9d43-e9908b9eca14",
+  "tags": [
+    "fast food",
+    "america",
+    "usa"
+  ],
+  "visibility": "OPEN",
+  "files": [
+    {
+      "name": "Top 30 US fast food chains.xlsx",
+      "sizeInBytes": 10055,
+      "created": "2019-12-08T11:39:31.926Z",
+      "updated": "2019-12-08T11:39:31.926Z",
+      "createdBy": "evamurray",
+      "updatedBy": "evamurray"
+    }
+  ],
+  "status": "LOADED",
+  "created": "2019-12-08T11:39:16.866Z",
+  "updated": "2019-12-08T14:20:42.188Z",
+  "accessLevel": "READ",
+  "versionDois": [],
+  "datasetStatistics": {
+    "fileCount": 1,
+    "tableCount": 1,
+    "columnCount": 4
+  },
+  "similarResources": [
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w21-visualizing-40-years-of-music-industry-sales",
+      "title": "2020/W21: Visualizing 40 Years of Music Industry Sales",
+      "description": "Visualizing 40 Years of Music Industry Sales",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/physical-vs-digital.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/music-industry-sales/)\nDATA SOURCE: [RIAA](https://www.riaa.com/u-s-sales-database/)\n\n# **Objectives**\n\\* What works and what doesn't work with this chart?\n\\* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "music"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018-w-3-u-s-household-income-distribution-by-state",
+      "title": "2018/W3: U.S. Household Income Distribution by State",
+      "description": "U.S. Household Income Distribution by State",
+      "summary": "# **Original Visualization**\n![Visual Capitalist](http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/11/household-income.png)\n\n# **About this Dataset**\n**SOURCE:** [Visual Capitalist](http://www.visualcapitalist.com/household-income-distribution-u-s-state/)\n\n**DATA SOURCE:** [U.S. Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.",
+      "tags": [
+        "united states",
+        "income distribution",
+        "state",
+        "household",
+        "visual capitalist"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2020w47-why-americas-debt-doesnt-stop-growing",
+      "title": "2020/W47: Why America's debt doesn't stop growing",
+      "description": "Why America's debt doesn't stop growing",
+      "summary": "---\n{\"editor\":\"simple\"}\n---\n# **Original Visualization**\n![https://learningtableaublog.files.wordpress.com/2020/11/screenshot-2020-11-21-at-09.23.09.png](https://learningtableaublog.files.wordpress.com/2020/11/screenshot-2020-11-21-at-09.23.09.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [Visual Capitalist](https://www.visualcapitalist.com/americas-debt-27-trillion-and-counting/)\nDATA SOURCES: [Federal Reserve Bank of St. Louis (GDP)](https://fred.stlouisfed.org/series/GDP) and [Federal Reserve Bank of St. Louis (Debt)](https://fred.stlouisfed.org/series/GFDEBTN)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart?\n* How can you make it better?",
+      "tags": [
+        "makeover monday",
+        "usa",
+        "debt"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2019w44",
+      "title": "2019/W44: World Cities Ranked by Annual Sunshine Hours",
+      "description": "World Cities Ranked by Annual Average Sunshine Hours",
+      "summary": "---\n{\"editor\":\"markdown\"}\n---\n# **Original Visualization**\n![world-cities-ranked-by-annual-sunshine-hours-10.png](https://media.data.world/gTpBzwNRtmjaoq8ySCvi_world-cities-ranked-by-annual-sunshine-hours-10.png)\n\n# **About this Dataset**\nSOURCE ARTICLE: [World Cities Ranked by Average Annual Sunshine Hours](https://www.visualcapitalist.com/wp-content/uploads/2019/10/world-cities-by-hours-annual-sunshine.html)\nDATA SOURCE: [Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cities_by_sunshine_duration)\n\n# **Objectives**\n\n* What works and what doesn't work with this chart? \n* How can you make it better? ",
+      "tags": [
+        "sunshine",
+        "wikipedia",
+        "world cities",
+        "sunshine hours"
+      ],
+      "visibility": "OPEN"
+    },
+    {
+      "type": "dataset",
+      "owner": "makeovermonday",
+      "id": "2018w40-five-year-cancer-survival-rates-in-america",
+      "title": "2018/W41: Five Year Cancer Survival Rates in America",
+      "description": "Five Year Cancer Survival Rates in America",
+      "summary": "# **Original Visualization**\n![supporting image or chart](https://d33wubrfki0l68.cloudfront.net/fe62b7afdbade311b976b5407272bcc613ccb585/9403b/wp-content/uploads/2018/03/five-year-cancer-survival-rates-usa-v2-01-768x563.png)\n\n# **About this Dataset**\nSOURCE: [Our World in Data](https://ourworldindata.org/cancer#are-death-rates-from-cancer-rising)\n\n# **Objectives**\n* What works and what doesn't work with this chart? \n* How can you make it better? \n* Post your alternative on the discussions page.\n\n",
+      "tags": [
+        "makeover monday",
+        "cancer",
+        "america",
+        "usa",
+        "united states",
+        "survival",
+        "rate",
+        "data"
+      ],
+      "visibility": "OPEN"
+    }
+  ],
+  "isProject": false
+}
